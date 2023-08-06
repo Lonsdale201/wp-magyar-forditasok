@@ -40,6 +40,11 @@ Nincsenek előfeltételek, és nem szükséges az angol nyelvvizsga sem. Mindenk
 - Ha túl sok jelentést kapsz a fordításodra levesszük. Ha kijavítást követően ismét túl sok report érkezik, levesszük, és megszüntetjük a jogosultságodat arra, hogy fordításokat küldj be.
 - Ha hibát jeleznek a fordításodban a legjobb tudásod szerint köteles vagy azt javítani. Ha a jövőben nem lesz rá kapacitásod, egyeztess más fordítóval, hogy ha lehetséges vegye át a fordításod.
 - Csatlakozást követően figyeld aktívan ennek a repónak az **Issue** szekcióját, hogy minél hamarabb értesülj.
+- Ne használd a cred-olvasdel.txt arra, hogy egyéb szolgáltatásaidat promózd. Csak a szükséges adatokat add meg, és ha indokolt kapcsolódó kiegészítést hozzá.
+
+### Hogyan töltsd ki fordítóként a cred-olvasdel.txt fájlt
+
+Kövesd a meglévő **cred-olvasdel** fájlokat referenciaként. Ebbe a txtben kell tárolnod néhány kapcsolódó információt a fordításról. A bővítmény neve, verziószáma (amihez készítetted a fordítást) bővítmény link, utolsó mdosítás dátuma, továbbá elérhetőség / a neved. Ezen felül további egyéb extra információt is megadhatsz ha szükségesnek érzed.
 
 
 ### Szabály a felhasználók számára
