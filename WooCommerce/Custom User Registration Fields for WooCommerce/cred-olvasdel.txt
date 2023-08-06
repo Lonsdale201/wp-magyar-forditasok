@@ -5,6 +5,9 @@ Link: https://woocommerce.com/products/custom-user-registration-fields-for-wooco
 
 Fordította: Soczó Kristóf
 
+Utoljára módosítva: 2023. 08. 06.
+Custom User Registration Fields for WooCommerce verzió: 3.1.0
+
 Elérhetőség
 Email: kristof@hellowp.io, lonsdale201@hotmail.com
 Discord: lonsdale201
