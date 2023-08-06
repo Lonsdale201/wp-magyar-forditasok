@@ -39,7 +39,7 @@ Nincsenek előfeltételek, és nem szükséges az angol nyelvvizsga sem. Mindenk
 - Elementor, és egyéb page builder kiegészítő fordításoknál a widget neveit nem feltétlen célszerű magyarosítani. Ne akarj a CTA rövidítésnek magyar megfelelőt írni, mert felesleges.
 - Ha túl sok jelentést kapsz a fordításodra levesszük. Ha kijavítást követően ismét túl sok report érkezik, levesszük, és megszüntetjük a jogosultságodat arra, hogy fordításokat küldj be.
 - Ha hibát jeleznek a fordításodban a legjobb tudásod szerint köteles vagy azt javítani. Ha a jövőben nem lesz rá kapacitásod, egyeztess más fordítóval, hogy ha lehetséges vegye át a fordításod.
-- Csatlakozást követően figyeld aktívan ennek a repónak az **Issue** szekcióját, hogy minél hamarabb értesülj.
+- Csatlakozást követően figyeld aktívan ennek a repónak az **Issue** szekcióját, hogy minél hamarabb értesülj az esetleges hibákról.
 - Ne használd a cred-olvasdel.txt arra, hogy egyéb szolgáltatásaidat promózd. Csak a szükséges adatokat add meg, és ha indokolt kapcsolódó kiegészítést hozzá.
 
 ### Hogyan töltsd ki fordítóként a cred-olvasdel.txt fájlt
