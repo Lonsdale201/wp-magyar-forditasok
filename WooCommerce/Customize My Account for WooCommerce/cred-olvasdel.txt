@@ -5,6 +5,9 @@ Link: https://woocommerce.com/products/customize-my-account-for-woocommerce/
 
 Fordította: Soczó Kristóf
 
+Utoljára módosítva: 2023. 08. 05.
+Customize My Account for WooCommerce verzió: 0.4.6
+
 Elérhetőség
 Email: kristof@hellowp.io, lonsdale201@hotmail.com
 Discord: lonsdale201
