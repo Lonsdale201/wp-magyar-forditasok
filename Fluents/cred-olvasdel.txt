@@ -7,7 +7,14 @@ https://fluentsupport.com/
 https://wpmanageninja.com/ninja-tables/connect-wp-fluent-form-with-ninjatables/
 https://fluentcrm.com/
 
+Utoljára módosítva: 
 
+- Fluent support: 2022.12.01
+- Fluent Form Ninja Tables: 2023.02.22
+- Fluent CRM: 2023.05.31
+- Fluent CAMPAIGN: 2021.11.18
+
+Verziók: ismeretlen
 
 Fordította: Ismeretlen
 
