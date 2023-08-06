@@ -68,4 +68,14 @@ Loco Translate bővítmény esetében mennyj a Loco Translate / Plugins menüpon
 
 ## Hogyan tudok fordítást feltölteni / beküldeni?
 
+Ha jártas vagy a Github használatában, akkor forkold a repómat magadhoz, majd pullold a feltöltésedet. 24 órán belül elfogadásra kerül. / feltétel saját github fiók
+Ha a Github világa ismeretlen számodra, akkor a fordításodat elküldheted nekem Emailben, vagy Discordon. Az elérhetősegeket lentebb fogod látni.
+A repómhoz kollaborációs lehetőség is van, de ehhez javasolt némi github ismeret a részedről. (nem akadály, ha nincs, de szeretnél csatlakozni, segítek) / feltétel saját github fiók
 
+*Ha a háttérben maradnál, de szeretnél fordításokat adni arra is van lehetőség, ilyenkor egyéni módon beszéljük át a menetét.*
+
+### Hol tudok információt szerezni a fordítások frissítéséről, vagy új fordításokról? 
+
+A legjobb módja ennek, ha csatlakozol Discord közösségünkhöz. Github tracker, és fordítási társalgó csatornákat biztosítunk, ha pedig új fordítást töltünk fel, egyből pigenlünk.
+
+Discord szerver elérhetőség: https://discord.com/invite/hellowp
