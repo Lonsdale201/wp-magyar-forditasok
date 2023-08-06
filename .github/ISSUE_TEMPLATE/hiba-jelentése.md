@@ -2,7 +2,7 @@
 name: Hiba jelentése
 about: Hogyan jelentsünk hibát a fordítással kapcsolatban
 title: "[AutomateWoo] - Rossz fordítás"
-labels: ''
+labels: Elírás, Hibás fordítás
 assignees: ''
 
 ---
