@@ -66,4 +66,6 @@ Loco Translate bővítmény esetében mennyj a Loco Translate / Plugins menüpon
 
 ![image](https://github.com/Lonsdale201/wp-magyar-forditasok/assets/23199033/8908d090-c9d2-46bf-96c9-9d6cdeefa82a)
 
+## Hogyan tudok fordítást feltölteni / beküldeni?
+
 
