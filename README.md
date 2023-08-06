@@ -46,3 +46,14 @@ Nincsenek előfeltételek, és nem szükséges az angol nyelvvizsga sem. Mindenk
 - Tartsd tiszteletben a fordítók munkáját. Ne mond, hogy te készítetted, ha tudod, hogy nem te voltál.
 - Ne zaklasd a fordítót. Tartsd tiszteletben a **cred-olvasdel.txt-ben** leírtakat.
 - Ha hibát találtál a legjobb ha itt Githubon az ISSUE részlegen jelented.
+
+
+
+## Hogyan tudok fordítást "telepíteni"?
+
+A fordítási fájlokat fel kell töltened. Bővítmény használata esetében a **Loco Translate** segítségével néhány kattintással megoldható. Ha nem kívánsz plugint használni hozzá, akkor manuálisan kell telepítened.
+FTP, SSH vagy egyéb módon (pl cpanel fájl kezelő) el kell tudnod érni a **wp-content** mappádat. Itt ha még nincs, hozz létre egy **languages** nevű mappát, azon belül pedig egy **plugins** mappát. Ezután nincs más dolgod mint a Plugins mappába feltölteni a megfelelő fájlokat. A fordítások minden esetben úgy vannak elnevezve, hogy azok a bővítmény, és a WordPress számára azonosítható legyen, így ezeket a fájlokat nem szabad átnevezdned letöltést követően, és akkor sem, amikor felteszed őket a szerverre!
+
+Nagyon ritka esetben a nyelv fájlokat a bővítmény megköveleti, hogy a saját mappájába telepítsd egy **languages** mappába. Ám ez nagyon kis százalékban szükséges.
+
+
