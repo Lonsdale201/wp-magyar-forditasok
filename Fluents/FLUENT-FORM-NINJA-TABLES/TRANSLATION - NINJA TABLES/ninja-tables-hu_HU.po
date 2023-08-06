@@ -1,0 +1,634 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ninja Tables 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ninja-tables\n"
+"POT-Creation-Date: 2019-07-10 10:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-06-15 08:48+0200\n"
+"Language-Team: Magyar\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3.1\n"
+"Last-Translator: \n"
+"Language: hu_HU\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2\n"
+
+#. Plugin Name of the plugin/theme
+#: admin/NinjaTablesAdmin.php:69 admin/NinjaTablesAdmin.php:80
+#: admin/NinjaTablesAdmin.php:82 includes/I18nStrings.php:6
+msgid "Ninja Tables"
+msgstr "Ninja Táblázatok"
+
+#: admin/NinjaTablesAdmin.php:81
+msgid "Table"
+msgstr "Tábla"
+
+#: admin/NinjaTablesAdmin.php:83 includes/I18nStrings.php:11
+msgid "Add Table"
+msgstr "Táblázat hozzáadása"
+
+#: admin/NinjaTablesAdmin.php:84 includes/I18nStrings.php:13
+msgid "Add New Table"
+msgstr "Új tábla hozzáadása"
+
+#: admin/NinjaTablesAdmin.php:85 includes/I18nStrings.php:16
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: admin/NinjaTablesAdmin.php:86
+msgid "Edit Table"
+msgstr "Tábla szerkesztése"
+
+#: admin/NinjaTablesAdmin.php:87
+msgid "New Table"
+msgstr "Új tábla"
+
+#: admin/NinjaTablesAdmin.php:88 admin/NinjaTablesAdmin.php:89
+msgid "View Table"
+msgstr "Táblázatnézet"
+
+#: admin/NinjaTablesAdmin.php:90
+msgid "Search Table"
+msgstr "Tábla keresése"
+
+#: admin/NinjaTablesAdmin.php:91
+msgid "No Table Found"
+msgstr "Nem található tábla"
+
+#: admin/NinjaTablesAdmin.php:92
+msgid "No Table Found in Trash"
+msgstr "Nem található tábla a kukában"
+
+#: admin/NinjaTablesAdmin.php:93
+msgid "Parent Table"
+msgstr "Szülőtáblázat"
+
+#: admin/NinjaTablesAdmin.php:120
+msgid "NinjaTables"
+msgstr "Ninja Táblázatok"
+
+#: admin/NinjaTablesAdmin.php:136 admin/NinjaTablesAdmin.php:1539
+#: includes/I18nStrings.php:10
+msgid "All Tables"
+msgstr "Összes táblázat"
+
+#: admin/NinjaTablesAdmin.php:142 includes/I18nStrings.php:8
+msgid "Tools"
+msgstr "Eszközök"
+
+#: admin/NinjaTablesAdmin.php:150
+msgid "Import a Table"
+msgstr "Táblázat importálása"
+
+#: admin/NinjaTablesAdmin.php:159
+msgid "<span style=\"color:#f39c12;\">Get Pro</span>"
+msgstr "<span style=\"color:#f39c12;\">Szerezd meg a PRO-t!</span>"
+
+#: admin/NinjaTablesAdmin.php:190 includes/I18nStrings.php:9
+msgid "Help"
+msgstr "Segítség"
+
+#: admin/NinjaTablesAdmin.php:482
+msgid "The name field is required."
+msgstr "A névmezőre szükség van."
+
+#: admin/NinjaTablesAdmin.php:494
+msgid " successfully."
+msgstr " sikeres."
+
+#: admin/NinjaTablesAdmin.php:633
+msgid "Successfully updated configuration."
+msgstr "Sikerült frissíteni a konfigurációt."
+
+#: admin/NinjaTablesAdmin.php:659
+msgid "Invalid Table to Delete"
+msgstr "Érvénytelen tábla a törléshez"
+
+#: admin/NinjaTablesAdmin.php:677
+msgid "Successfully deleted the table."
+msgstr "A tábla sikeresen törölve."
+
+#: admin/NinjaTablesAdmin.php:874
+msgid "Successfully saved the data."
+msgstr "Az adatok mentése sikerült."
+
+#: admin/NinjaTablesAdmin.php:928
+msgid "Successfully deleted data."
+msgstr "Sikerült az adatok törlése."
+
+#: admin/NinjaTablesAdmin.php:1069
+msgid "Select a Table to insert"
+msgstr "Jelölje ki a beszúrni kívánt táblázatot"
+
+#: admin/NinjaTablesAdmin.php:1070
+msgid "Insert Ninja Tables Shortcode"
+msgstr "Ninja táblázatok rövidkód beszúrása"
+
+#: admin/NinjaTablesAdmin.php:1072
+msgid "Insert Shortcode"
+msgstr "Shortcode beillesztése"
+
+#: admin/NinjaTablesAdmin.php:1093
+msgid "Select a Table"
+msgstr "Válassz egy táblázatot"
+
+#: admin/NinjaTablesAdmin.php:1204
+msgid "Successfully duplicated table."
+msgstr "Sikeresen duplikált tábla."
+
+#: admin/NinjaTablesAdmin.php:1484 admin/NinjaTablesAdmin.php:1528
+#: admin/NinjaTablesAdmin.php:1561
+msgid "Settings successfully updated"
+msgstr "A beállítások frissítése sikerült"
+
+#: includes/I18nStrings.php:7
+msgid "Home"
+msgstr "Kezdőlap"
+
+#: includes/I18nStrings.php:12
+msgid "Import Table"
+msgstr "Tábla importálása"
+
+#: includes/I18nStrings.php:14
+msgid "Title"
+msgstr "Címke"
+
+#: includes/I18nStrings.php:15
+msgid "ShortCode"
+msgstr "Rövidkód"
+
+#: includes/I18nStrings.php:17
+msgid "Preview"
+msgstr "Előnézet"
+
+#: includes/I18nStrings.php:18
+msgid "Duplicate"
+msgstr "Duplikálás"
+
+#: includes/I18nStrings.php:19
+msgid "Delete"
+msgstr "Töröl"
+
+#: includes/I18nStrings.php:20
+msgid "CSV - Comma-separated values"
+msgstr "CSV-vesszővel tagolt értékek"
+
+#: includes/I18nStrings.php:21
+msgid "JSON - JavaScript Object Notation"
+msgstr "JSON-JavaScript objektum jelölése"
+
+#: includes/I18nStrings.php:22
+msgid "JSON - Exported From Ninja Tables"
+msgstr "JSON-exportált ninja táblázatok"
+
+#: includes/I18nStrings.php:23
+msgid "Import"
+msgstr "Importálás"
+
+#: includes/I18nStrings.php:24
+msgid "Permission"
+msgstr "Jogosultság"
+
+#: includes/I18nStrings.php:25
+msgid "License"
+msgstr "Liszensz"
+
+#: includes/I18nStrings.php:26
+msgid ""
+"NinjaTables can import tables from existing data, like from a CSV or JSON "
+"file. You can also import existing tables from the other WordPress table "
+"plugins."
+msgstr ""
+"A NinjaTáblázatok képes importálni meglévő adatokat, például egy CSV vagy "
+"JSON fájlból. Sőt más WordPress bővítmény által létrehozott táblázatból is."
+
+#: includes/I18nStrings.php:27
+msgid "Select file:"
+msgstr "Válasszon fájlt:"
+
+#: includes/I18nStrings.php:28
+msgid "Import Format:"
+msgstr "Importálási formátum:"
+
+#: includes/I18nStrings.php:29
+msgid "Activate Ninja Tables Pro Add-on plugin to unlock this feature"
+msgstr ""
+"Ennek a funkciónak a használatához aktiváld a Ninja Táblázatok Pro add-on "
+"plugint"
+
+#: includes/I18nStrings.php:30
+msgid "Check all"
+msgstr "Összes kiválasztása"
+
+#: includes/I18nStrings.php:31
+msgid "Your License is Active"
+msgstr "A liszenszed aktív"
+
+#: includes/I18nStrings.php:32
+msgid "Your license is active! Enjoy Ninja Tables Pro Add On"
+msgstr "A liszenszed aktív! Élvezd a Ninja Táblázatok Pro add on előnyeit"
+
+#: includes/I18nStrings.php:33
+msgid "Deactivate License"
+msgstr "Kikapcsolás licensz"
+
+#: includes/I18nStrings.php:34
+msgid "Licensing"
+msgstr "Licenszelés"
+
+#: includes/I18nStrings.php:35
+msgid "Enter your license key"
+msgstr "Adja meg a licensz-kulcsot"
+
+#: includes/I18nStrings.php:36
+msgid "Activate Ninja Tables Pro"
+msgstr "A Ninja Táblázatok Pro aktiválása"
+
+#: includes/I18nStrings.php:37
+msgid "Plugin Documentation and Help"
+msgstr "Plugindokumentáció és Súgó"
+
+#: includes/I18nStrings.php:38
+msgid ""
+"For any type of query which was not covered in our documentation, Please "
+"submit a support ticket ticket"
+msgstr ""
+"Minden olyan típusú kérdésre, amely nem szerepel a dokumentációban, kérjük, "
+"indíts egy support ticket-et"
+
+#: includes/I18nStrings.php:39
+msgid "Documentation"
+msgstr "Dokumentáció"
+
+#: includes/I18nStrings.php:40
+msgid "Table Rows"
+msgstr "Táblázatsorok"
+
+#: includes/I18nStrings.php:41
+msgid "Table Configuration"
+msgstr "Táblázat-konfiguráció"
+
+#: includes/I18nStrings.php:42
+msgid "Table Design"
+msgstr "Táblatervező"
+
+#: includes/I18nStrings.php:43
+msgid "Custom CSS"
+msgstr "Egyéni CSS"
+
+#: includes/I18nStrings.php:44
+msgid "Import - Export"
+msgstr "Importálás és exportálás"
+
+#: includes/I18nStrings.php:45
+msgid "Select bulk action"
+msgstr "Jelölje ki a csoportos műveletet"
+
+#: includes/I18nStrings.php:46
+msgid "Bulk Actions"
+msgstr "Tömeges műveletek"
+
+#: includes/I18nStrings.php:47
+msgid "Delete Entries"
+msgstr "Bejegyzések törlése"
+
+#: includes/I18nStrings.php:48
+msgid "Apply"
+msgstr "Alkalmazás"
+
+#: includes/I18nStrings.php:49
+msgid "Add Data"
+msgstr "Adathozzáadás"
+
+#: includes/I18nStrings.php:50
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: includes/I18nStrings.php:51
+msgid "Add"
+msgstr "Hozzáad"
+
+#: includes/I18nStrings.php:52
+msgid "Upgrade Notice"
+msgstr "Frissítési értesítés"
+
+#: includes/I18nStrings.php:53
+msgid ""
+"Your Ninja Tables Pro plugin is outdated. Please upgrade to its latest "
+"version."
+msgstr "A Ninja Táblázatok Pro plugin elavult. Frissíts a legújabb verzióra."
+
+#: includes/I18nStrings.php:54
+msgid "Click here"
+msgstr "Kattintások"
+
+#: includes/I18nStrings.php:55
+msgid "to view the upgrade guide."
+msgstr "a frissítési útmutató megtekintéséhez."
+
+#: includes/I18nStrings.php:56
+msgid "Are you sure to delete this?"
+msgstr "Biztos, hogy törlöd?"
+
+#: includes/I18nStrings.php:57
+msgid "cancel"
+msgstr "mégse"
+
+#: includes/I18nStrings.php:58
+msgid "confirm"
+msgstr "megerősítés"
+
+#: includes/I18nStrings.php:59
+msgid "Initial Hidden Mobile"
+msgstr "Kezdeti rejtett mobil"
+
+#: includes/I18nStrings.php:60
+msgid "Initial Hidden Mobile and Tab"
+msgstr "Kezdeti rejtett mobil és tablet"
+
+#: includes/I18nStrings.php:61
+msgid "Initial Hidden Mobile, Tab and Regular Computers"
+msgstr "Kezdeti rejtett mobil, tablet és asztali PC"
+
+#: includes/I18nStrings.php:62
+msgid "Always show in all devices"
+msgstr "Minden eszközön mindig jelenjen meg"
+
+#: includes/I18nStrings.php:63
+msgid "Totally hidden on all devices"
+msgstr "Teljesen elrejtve minden eszközön"
+
+#: includes/I18nStrings.php:64
+msgid "Single Line Text Field"
+msgstr "Egysoros szövegmező"
+
+#: includes/I18nStrings.php:65
+msgid "Text Area"
+msgstr "Szöveges terület"
+
+#: includes/I18nStrings.php:66
+msgid "HTML Field"
+msgstr "HTML-mező"
+
+#: includes/I18nStrings.php:67
+msgid "Numeric Value"
+msgstr "Számérték"
+
+#: includes/I18nStrings.php:68
+msgid "Date Field"
+msgstr "Dátummező"
+
+#: includes/I18nStrings.php:69
+msgid "Select Field"
+msgstr "Mező kiválasztása"
+
+#: includes/I18nStrings.php:70
+msgid "Update Configuration"
+msgstr "Konfiguráció frissítése"
+
+#: includes/I18nStrings.php:71
+msgid "Available Columns"
+msgstr "Elérhető oszlopok"
+
+#: includes/I18nStrings.php:72
+msgid "Add Column"
+msgstr "Oszlop hozzáadása"
+
+#: includes/I18nStrings.php:73
+msgid "Column Name"
+msgstr "Oszlop Neve"
+
+#: includes/I18nStrings.php:74
+msgid "Column Key"
+msgstr "Oszlopkulcs"
+
+#: includes/I18nStrings.php:75
+msgid "Data Type"
+msgstr "Adattípus"
+
+#: includes/I18nStrings.php:76
+msgid "Responsive Breakpoint"
+msgstr "Reszponzív töréspont"
+
+#: includes/I18nStrings.php:77
+msgid "Update"
+msgstr "Frissítés"
+
+#: includes/I18nStrings.php:78
+msgid "Date Format"
+msgstr "Dátum formátum"
+
+#: includes/I18nStrings.php:79
+msgid "Standard"
+msgstr "Sztenderd"
+
+#: includes/I18nStrings.php:80
+msgid "Select a Format"
+msgstr "Formátum kiválasztása"
+
+#: includes/I18nStrings.php:81
+msgid "Select Items"
+msgstr "Elemek kijelölése"
+
+#: includes/I18nStrings.php:82
+msgid "Extra Classes"
+msgstr "Extra osztályok"
+
+#: includes/I18nStrings.php:83
+msgid "Max Width"
+msgstr "Max. Szélesség"
+
+#: includes/I18nStrings.php:84
+msgid "Maximum Width"
+msgstr "Maximális szélesség"
+
+#: includes/I18nStrings.php:85
+msgid "Text Align"
+msgstr "Szöveg igazítása"
+
+#: includes/I18nStrings.php:86
+msgid "Filterable"
+msgstr "Szűrhető"
+
+#: includes/I18nStrings.php:87
+msgid "Header HTML Content"
+msgstr "Fejléc HTML-tartalom"
+
+#: includes/I18nStrings.php:88
+msgid "Show Table Title"
+msgstr "Táblacím megjelenítése"
+
+#: includes/I18nStrings.php:89
+msgid "Show Table Description"
+msgstr "Táblaleírás megjelenítése"
+
+#: includes/I18nStrings.php:90
+msgid "Enable the visitor to filter or search the table."
+msgstr "Engedélyezd a látogatónak, hogy szűrjön vagy keressen a táblázatban."
+
+#: includes/I18nStrings.php:91
+msgid "Enable sorting of the table by the visitor"
+msgstr "Engedélyezd a táblázat látogató általi rendezését"
+
+#: includes/I18nStrings.php:92
+msgid "Pagination Items Per Page"
+msgstr "Laponkénti oldalszámozási elemek"
+
+#: includes/I18nStrings.php:93
+msgid "Pagination Position"
+msgstr "Lapozó pozíciója"
+
+#: includes/I18nStrings.php:94
+msgid "Row Details (Responsive drawer)"
+msgstr "Sor részletei (reszponzív fiók)"
+
+#: includes/I18nStrings.php:95
+msgid "Extra CSS Class for the table"
+msgstr "Extra CSS osztály a táblához"
+
+#: includes/I18nStrings.php:96
+msgid "Table Header Colors"
+msgstr "Táblafej színei"
+
+#: includes/I18nStrings.php:97
+msgid "Table Body Colors"
+msgstr "Táblázattörzs színei"
+
+#: includes/I18nStrings.php:98
+msgid "Footer Colors"
+msgstr "Lábléc színek"
+
+#: includes/I18nStrings.php:99
+msgid "Additional CSS"
+msgstr "További CSS"
+
+#: includes/I18nStrings.php:100
+msgid "Export Table"
+msgstr "Tábla exportálása"
+
+#: includes/I18nStrings.php:101
+msgid "Import Table Data"
+msgstr "Táblaadatok importálása"
+
+#: includes/I18nStrings.php:102
+msgid "Replace Existing Data"
+msgstr "Meglévő adatok lecserélése"
+
+#: includes/I18nStrings.php:103
+msgid "Import from CSV"
+msgstr "Importálás CSV-ből"
+
+#: includes/I18nStrings.php:104
+msgid "CSV Header Structure"
+msgstr "CSV-fejléc szerkezete"
+
+#: includes/I18nStrings.php:105
+msgid "Download Sample CSV"
+msgstr "Minta CSV letöltése"
+
+#: includes/NinjaTableImport.php:26
+msgid "No appropriate driver found for the import format."
+msgstr "Nem található megfelelő illesztőprogram az importálási formátumhoz."
+
+#: includes/NinjaTableImport.php:73
+msgid ""
+"Successfully imported. Please go to all tables and review your newly "
+"imported table."
+msgstr ""
+"Sikeresen importálva. Kérjük, menj az összes asztalhoz, és nézd át az "
+"újonnan importált táblázatot."
+
+#: includes/NinjaTableImport.php:120
+msgid "Please upload valid CSV"
+msgstr "Tölts fel egy érvényes .csv fájlt"
+
+#: includes/NinjaTableImport.php:140
+msgid "Something is wrong when parsing the csv"
+msgstr "Valami nem stimmel a CSV-fájl elemzésekor"
+
+#: includes/NinjaTableImport.php:161 includes/NinjaTableImport.php:187
+#: includes/NinjaTableImport.php:254
+msgid "Successfully added a table."
+msgstr "Sikerült hozzáadni egy táblázatot."
+
+#: includes/NinjaTableImport.php:214
+msgid "You have a faulty JSON file. Please export a new one."
+msgstr "Hibás a JSON-fájl. Légy szíves exportálj egy újat."
+
+#: includes/NinjaTableImport.php:264
+#: includes/libs/Migrations/NinjaTablesMigration.php:19
+msgid "Temporary table name"
+msgstr "Ideiglenes táblanév"
+
+#: includes/NinjaTableImport.php:265
+#: includes/libs/Migrations/NinjaTablesMigration.php:22
+msgid "Temporary table description"
+msgstr "Ideiglenes táblaleírás"
+
+#: includes/NinjaTableImport.php:290
+msgid "CSV File is not valid"
+msgstr "Érvénytelen CSV-fájl"
+
+#: includes/NinjaTableImport.php:301
+msgid "Please set table configuration first"
+msgstr "Először állítsd be a tábla konfigurációját"
+
+#: includes/NinjaTableImport.php:319
+msgid "Please use the provided CSV header structure. "
+msgstr "Használd a megadott CSV-fejlécszerkezetet. "
+
+#: includes/NinjaTableImport.php:353
+msgid "Successfully uploaded data."
+msgstr "Sikeresen feltöltötted az adatokat."
+
+#: public/dataProviders/FluentFormProvider.php:66
+msgid "The title field is required."
+msgstr "A címmezőre szükség van."
+
+#: public/dataProviders/FluentFormProvider.php:73
+msgid "No fields were selected."
+msgstr "Nem volt kijelölve mező."
+
+#: includes/libs/Migrations/NinjaTablesSupsysticTableMigration.php:24
+msgid "No Table Found with the selected table"
+msgstr "Nem található tábla a kijelölt táblázathoz"
+
+#: includes/libs/Migrations/NinjaTablesUltimateTableMigration.php:21
+msgid "No Ultimate Table Found with the selected table"
+msgstr "Nincs végső tábla a kijelölt táblázathoz"
+
+#: includes/libs/TableDrivers/NinjaFooTable.php:61
+#: includes/libs/TableDrivers/NinjaFooTable.php:302
+msgid "Search in"
+msgstr "Keresés"
+
+#: includes/libs/TableDrivers/NinjaFooTable.php:62
+#: includes/libs/TableDrivers/NinjaFooTable.php:304
+msgid "Search"
+msgstr "Keresés"
+
+#: includes/libs/TableDrivers/NinjaFooTable.php:63
+#: includes/libs/TableDrivers/NinjaFooTable.php:306
+msgid "No Result Found"
+msgstr "Nincs találat"
+
+#. Description of the plugin
+msgid ""
+"The Easiest & Fastest Responsive Table Plugin on WordPress. Multiple "
+"templates, drag-&-drop live table builder, multiple color scheme, and styles."
+msgstr ""
+"A legegyszerűbb, leggyorsabb reszponzív táblázat plugin a WordPresshez. Sok "
+"sablon, drag & drop élő táblázat építő, színsémák és stílusok."
+
+#. URI of the plugin
+msgid "https://wpmanageninja.com/downloads/ninja-tables-pro-add-on/"
+msgstr "https://wpmanageninja.com/downloads/ninja-tables-pro-add-on/"
+
+#. Author of the plugin
+msgid "WPManageNinja LLC"
+msgstr "WPManageNinja Kft."
+
+#. Author URI of the plugin
+msgid "https://wpmanageninja.com/"
+msgstr "https://wpmanageninja.com/"

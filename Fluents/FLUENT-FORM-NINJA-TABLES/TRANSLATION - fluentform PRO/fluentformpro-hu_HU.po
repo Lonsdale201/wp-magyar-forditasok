@@ -1,0 +1,5311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FluentForm Pro Add On Pack\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-17 16:09+0000\n"
+"PO-Revision-Date: 2023-02-08 18:02+0100\n"
+"Last-Translator: \n"
+"Language-Team: Magyar\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2\n"
+
+#: src/classes/Inventory/InventorySettingsManager.php:62
+#: src/classes/Inventory/InventorySettingsManager.php:220
+#, php-format
+msgid " - %s available"
+msgstr " - %s elérhető"
+
+#: src/Integrations/Telegram/Bootstrap.php:108
+msgid " api key has been verified and successfully set"
+msgstr " az api kulcs ellenőrzése és sikeres beállítása"
+
+#: src/Integrations/Telegram/Bootstrap.php:50
+msgid " Bot Token"
+msgstr " Bot Token"
+
+#: src/Integrations/Telegram/Bootstrap.php:42
+msgid " integration is complete"
+msgstr " integráció befejeződött"
+
+#: src/Integrations/Telegram/Bootstrap.php:43
+msgid " integration is not complete"
+msgstr " integráció nem fejeződött be"
+
+#: src/Integrations/Salesforce/Bootstrap.php:432
+msgid " is a list field."
+msgstr " egy listamező."
+
+#: src/Integrations/Salesforce/Bootstrap.php:391
+#: src/Integrations/Salesforce/Bootstrap.php:403
+msgid " is a required field."
+msgstr " kötelező mező."
+
+#: src/Integrations/Salesforce/Bootstrap.php:449
+msgid " is a required field. Date format must be YYYY/MM/DD 00:00:00 format."
+msgstr ""
+" kötelező mező. A dátumformátumnak ÉÉÉÉÉ/MM/NN 00:00:00 formátumúnak kell "
+"lennie."
+
+#: src/Integrations/Salesforce/Bootstrap.php:415
+msgid " is a required list field."
+msgstr " kötelező listamező."
+
+#: src/Integrations/Amocrm/Bootstrap.php:685
+msgid " is a string type of field."
+msgstr " egy string típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:68
+#: src/Integrations/ZohoCRM/Bootstrap.php:304
+#: src/Integrations/Amocrm/Bootstrap.php:90
+#: src/Integrations/Mailjet/Bootstrap.php:68
+#: src/Integrations/ClickSend/Bootstrap.php:653
+#: src/Integrations/Mailster/Bootstrap.php:49
+#: src/Integrations/OnePageCrm/Bootstrap.php:69
+#: src/Integrations/Salesforce/Bootstrap.php:345
+#: src/Integrations/Airtable/Bootstrap.php:80
+msgid " is required"
+msgstr " szükséges"
+
+#: src/Integrations/Pipedrive/Bootstrap.php:540
+msgid " is required."
+msgstr " szükséges."
+
+#: src/Integrations/Telegram/Bootstrap.php:40
+msgid " Settings"
+msgstr " Beállítások"
+
+#: src/Integrations/Amocrm/Bootstrap.php:665
+#: src/Integrations/Amocrm/Bootstrap.php:666
+msgid " Type"
+msgstr " Típus"
+
+#: src/Integrations/Insightly/Bootstrap.php:1090
+msgid " type field."
+msgstr " típus mező."
+
+#: src/Integrations/Amocrm/Bootstrap.php:668
+#: src/Integrations/Amocrm/Bootstrap.php:711
+#: src/Integrations/OnePageCrm/Bootstrap.php:808
+#: src/Integrations/OnePageCrm/Bootstrap.php:828
+#: src/Integrations/OnePageCrm/Bootstrap.php:840
+msgid " type of field."
+msgstr " a mező típusa."
+
+#: src/Integrations/Salesflare/Bootstrap.php:88
+#, php-format
+msgid "%s API Key"
+msgstr "%s API kulcs"
+
+#: src/Integrations/Salesflare/Bootstrap.php:34
+#, php-format
+msgid "%s Integration"
+msgstr "%s Integráció"
+
+#: src/Integrations/Salesflare/Bootstrap.php:69
+#, php-format
+msgid "%s Integration Settings"
+msgstr "%s Integrációs beállítások"
+
+#: src/Integrations/Salesflare/Bootstrap.php:42
+#, php-format
+msgid "%s is not configured yet! Please configure the addon first."
+msgstr "%s még nincs konfigurálva! Kérjük, először konfigurálja a bővítményt."
+
+#: src/Payments/PaymentHelper.php:837
+msgid ", for {bill_times} installments"
+msgstr ", {bill_times} részletre"
+
+#: src/Payments/Components/Subscription.php:224
+msgid "--Select Plan--"
+msgstr "--Válassza ki a tervet--"
+
+#: src/Components/RepeaterField.php:205
+msgid "...."
+msgstr "...."
+
+#: src/Components/NetPromoterScore.php:56
+msgid "0"
+msgstr "0"
+
+#: src/Components/NetPromoterScore.php:57
+msgid "1"
+msgstr "1"
+
+#: src/Components/NetPromoterScore.php:66
+msgid "10"
+msgstr "10"
+
+#: src/Components/NetPromoterScore.php:58
+msgid "2"
+msgstr "2"
+
+#: src/Components/NetPromoterScore.php:59
+msgid "3"
+msgstr "3"
+
+#: src/Components/NetPromoterScore.php:60
+msgid "4"
+msgstr "4"
+
+#: src/Components/NetPromoterScore.php:61
+msgid "5"
+msgstr "5"
+
+#: src/Components/NetPromoterScore.php:62
+msgid "6"
+msgstr "6"
+
+#: src/Components/NetPromoterScore.php:63
+msgid "7"
+msgstr "7"
+
+#: src/Components/NetPromoterScore.php:64
+msgid "8"
+msgstr "8"
+
+#: src/Components/NetPromoterScore.php:65
+msgid "9"
+msgstr "9"
+
+#: src/Integrations/GoogleSheet/Bootstrap.php:53
+msgid "Access Code"
+msgstr "Hozzáférési kód"
+
+#: src/Integrations/IContact/Bootstrap.php:56
+msgid "Account Email Address"
+msgstr "Fiók-mail cím"
+
+#: src/Integrations/IContact/Bootstrap.php:68
+msgid "Account ID"
+msgstr "Fiók azonosító"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:55
+msgid "Account SID"
+msgstr "Fiók biztonsági azonosítója (SID)"
+
+#: src/Integrations/ZohoCRM/Bootstrap.php:74
+msgid "Account URL"
+msgstr "Fiók webcím"
+
+#: src/views/receipt/transactions_table.php:11
+msgid "Action"
+msgstr "Művelet"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:721
+msgid "Action Date"
+msgstr "Művelet dátuma"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:723
+msgid ""
+"Action Date is date type field. Due date for the action (status must be one "
+"of Date, Date Time or Queued with date)"
+msgstr ""
+"A Művelet dátuma dátum típusú mező. A művelet esedékességének dátuma (a "
+"státusznak a Dátum, Dátum Időpont vagy Készenlétben dátummal kell lennie)"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:713
+msgid "Action Details"
+msgstr "Művelet részletei"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:715
+msgid "Action Details is string type field."
+msgstr "A művelet részletei string típusú mező."
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:696
+msgid "Action Status"
+msgstr "Művelet státusz"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:698
+msgid "Action Status is a select type field."
+msgstr "A Művelet állapota egy select típusú mező."
+
+#: src/views/receipt/user_subscription_payments.php:8
+msgid "Actions"
+msgstr "Műveletek"
+
+#: src/Payments/PaymentHelper.php:940
+msgid "active"
+msgstr "aktív"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:55
+msgid "ActiveCampaign API Key"
+msgstr "ActiveCampaign API-kulcs"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:39
+msgid "ActiveCampaign API Settings"
+msgstr "ActiveCampaign API-beállítások"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:49
+msgid "ActiveCampaign API URL"
+msgstr "ActiveCampaign API-URL"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:40
+msgid ""
+"ActiveCampaign is an integrated email marketing, marketing automation, and "
+"small business CRM. Save time while growing your business with sales "
+"automation. Use Fluent Forms to collect customer information and "
+"automatically add it to your ActiveCampaign list. If you don't have an "
+"ActiveCampaign account, you can <a href=\"https://www.activecampaign.com/\" "
+"target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+"Az ActiveCampaign egy integrált e-mail marketing, marketing automatizálás és "
+"kisvállalati CRM. Takarítson meg időt, miközben az értékesítés "
+"automatizálásával növelheti vállalkozását. Használja a Fluent Forms "
+"űrlapokat az ügyféladatok gyűjtéséhez és automatikus hozzáadásához az "
+"ActiveCampaign listájához. Ha még nincs ActiveCampaign fiókja, <a "
+"href=\"https://www.activecampaign.com/\" target=\"_blank\">itt regisztrálhat."
+"</a>"
+
+#: src/Integrations/Insightly/Bootstrap.php:572
+msgid "Actual Close Date"
+msgstr "Tényleges zárási dátum"
+
+#: src/Integrations/Insightly/Bootstrap.php:574
+msgid "Actual Close Date is a date type field on y-m-d."
+msgstr "A tényleges zárás dátuma egy dátum típusú mező y-m-d."
+
+#: src/Integrations/Amocrm/Bootstrap.php:493
+msgid "Add elements to the list"
+msgstr "Elemek hozzáadása a listához"
+
+#: src/Integrations/Amocrm/Bootstrap.php:495
+msgid "Add elements to the list is a bool type field."
+msgstr "Az elemek hozzáadása a listához egy bool típusú mező."
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:463
+msgid "Address is a string type field."
+msgstr "A cím egy string típusú mező."
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:503
+msgid "Address Type is a string type field."
+msgstr "A cím típusa egy karakterlánc típusú mező."
+
+#: src/Integrations/IContact/Bootstrap.php:251
+msgid "Address: City"
+msgstr "Cím: Város"
+
+#: src/Integrations/IContact/Bootstrap.php:243
+msgid "Address: Line 1"
+msgstr "Cím első sora"
+
+#: src/Integrations/IContact/Bootstrap.php:247
+msgid "Address: Line 2"
+msgstr "Cím második sora"
+
+#: src/Integrations/IContact/Bootstrap.php:259
+msgid "Address: Postal Code"
+msgstr "Cím: irányítószám"
+
+#: src/Integrations/IContact/Bootstrap.php:255
+msgid "Address: State"
+msgstr "Cím: megye"
+
+#: src/Integrations/Airtable/Bootstrap.php:133
+#: src/Integrations/Airtable/Bootstrap.php:135
+msgid "Airtable API Key"
+msgstr "Airtable API kulcs"
+
+#: src/Integrations/Airtable/Bootstrap.php:139
+#: src/Integrations/Airtable/Bootstrap.php:141
+msgid "Airtable Base ID"
+msgstr "Airtable Base  azonosítója"
+
+#: src/Integrations/Airtable/Bootstrap.php:230
+msgid ""
+"Airtable is not configured yet! Please configure your Airtable api first"
+msgstr ""
+"Az Airtable még nincs konfigurálva! Kérjük, először konfigurálja az Airtable "
+"api-t"
+
+#: src/Integrations/Airtable/Bootstrap.php:124
+msgid "Airtable Settings"
+msgstr "Airtable beállítások"
+
+#: src/Integrations/Airtable/Bootstrap.php:145
+#: src/Integrations/Airtable/Bootstrap.php:147
+msgid "Airtable Table ID"
+msgstr "Airtable Tábla azonosítója"
+
+#: src/Integrations/CleverReach/Bootstrap.php:268
+msgid ""
+"Allow  CleverReach integration conditionally based on your submission values"
+msgstr ""
+"Engedélyezze a CleverReach integráció feltételesen a beküldési értékek "
+"alapján"
+
+#: src/Integrations/Discord/Bootstrap.php:111
+msgid "Allow Discord integration conditionally based on your submission values"
+msgstr ""
+"Engedélyezze a Discord integrációt feltételesen a beküldési értékek alapján"
+
+#: src/Integrations/Insightly/Bootstrap.php:283
+#: src/Integrations/Amocrm/Bootstrap.php:303
+#: src/Integrations/Mailjet/Bootstrap.php:284
+#: src/Integrations/Mailster/Bootstrap.php:184
+#: src/Integrations/OnePageCrm/Bootstrap.php:285
+#: src/Integrations/Salesforce/Bootstrap.php:304
+#: src/Integrations/Airtable/Bootstrap.php:317
+msgid "Allow this integration conditionally based on your submission values"
+msgstr ""
+"Engedélyezze ezt az integrációt feltételesen a beküldési értékek alapján"
+
+#: src/Components/Post/Components/FeaturedImage.php:66
+msgid "Allowed image types does not match"
+msgstr "Az engedélyezett képtípusok nem egyeznek"
+
+#: src/Integrations/Amocrm/Bootstrap.php:144
+#: src/Integrations/Amocrm/Bootstrap.php:146
+msgid "Amocrm Integration ID"
+msgstr "Amocrm integrációs azonosító"
+
+#: src/Integrations/Amocrm/Bootstrap.php:150
+msgid "Amocrm Integration Secret Key"
+msgstr "Amocrm integrációs titkos kulcs"
+
+#: src/Integrations/Amocrm/Bootstrap.php:231
+msgid "Amocrm is not configured yet! Please configure your Amocrm api first"
+msgstr ""
+"Az Amocrm még nincs konfigurálva! Kérjük, először konfigurálja az Amocrm api-"
+"t"
+
+#: src/Integrations/Amocrm/Bootstrap.php:152
+msgid "Amocrm Secret Key"
+msgstr "Amocrm titkos kulcs"
+
+#: src/Integrations/Amocrm/Bootstrap.php:272
+msgid "Amocrm Services"
+msgstr "Amocrm szolgáltatások"
+
+#: src/Integrations/Amocrm/Bootstrap.php:135
+msgid "Amocrm Settings"
+msgstr "Amocrm beállítások"
+
+#: src/views/receipt/user_subscription_payments.php:5
+#: src/views/receipt/transactions_table.php:7
+msgid "Amount"
+msgstr "Összeg"
+
+#: src/views/receipt/payment_info_list.php:3
+msgid "Amount:"
+msgstr "Összeg:"
+
+#: src/Integrations/ClickSend/Bootstrap.php:77
+msgid "API Key"
+msgstr "API kulcs"
+
+#: src/Integrations/ClickSend/Bootstrap.php:115
+msgid "API Key is required"
+msgstr "API kulcs szükséges"
+
+#: src/Integrations/IContact/Bootstrap.php:62
+msgid "API Password"
+msgstr "API jelszó"
+
+#: src/Integrations/Pipedrive/Bootstrap.php:181
+msgid "API token in required."
+msgstr "API token szükséges."
+
+#: src/Integrations/IContact/Bootstrap.php:50
+msgid "Application Key"
+msgstr "Alkalmazáskulcs"
+
+#: src/Payments/Components/Coupon.php:65
+msgid "Apply Coupon"
+msgstr "Kupon használata"
+
+#: src/Payments/TransactionShortcodes.php:353
+msgid "Are you sure you want to cancel this subscription?"
+msgstr "Biztosan törölni szeretné ezt a feliratkozást?"
+
+#: src/Integrations/Insightly/Bootstrap.php:433
+msgid "Assistant Name"
+msgstr "Asszisztens neve"
+
+#: src/Integrations/Insightly/Bootstrap.php:435
+msgid "Assistant Name is a string type field."
+msgstr "Az asszisztens neve egy string típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:441
+msgid "Assistant Phone"
+msgstr "Asszisztens telefon"
+
+#: src/Integrations/Insightly/Bootstrap.php:443
+msgid "Assistant Phone is a string type field."
+msgstr "Az Asszisztens telefonja egy karakterlánc típusú mező."
+
+#: src/Integrations/CleverReach/Bootstrap.php:250
+msgid ""
+"Associate your CleverReach merge tags to the appropriate Fluent Forms fields "
+"by selecting the appropriate form field from the list."
+msgstr ""
+"Kapcsolja a CleverReach egyesítési címkéket a megfelelő Fluent Forms "
+"mezőkhöz a megfelelő űrlapmező kiválasztásával a listából."
+
+#: src/Payments/PaymentHandler.php:426
+msgid "at"
+msgstr "ekkor"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:61
+msgid "Auth Token"
+msgstr "Hitelesítési token"
+
+#: src/Integrations/Mailjet/Bootstrap.php:365
+msgid "Author Name"
+msgstr "Szerző neve"
+
+#: src/Integrations/Mailjet/Bootstrap.php:367
+msgid "Author Name is a required string type field."
+msgstr "A Szerző neve kötelező karakterlánc típusú mező."
+
+#: src/Integrations/Automizy/Bootstrap.php:39
+msgid "Automizy API Settings"
+msgstr "Automizy API-beállítások"
+
+#: src/Integrations/Automizy/Bootstrap.php:49
+msgid "Automizy API Token"
+msgstr "Automizy API Token"
+
+#: src/Integrations/Automizy/Bootstrap.php:40
+msgid ""
+"Automizy is email marketing software. Use Fluent Forms to collect customer "
+"information and automatically add it as Automizy subscriber list. <a "
+"target=\"_blank\" rel=\"nofollow\" href=\"https://app.automizy.com/api-"
+"token\">Get API Token</a>"
+msgstr ""
+"Az Automizy egy e-mail marketing szoftver. Használja a Fluent Forms-t az "
+"ügyféladatok gyűjtéséhez és automatikus hozzáadásához az Automizy előfizetői "
+"listájához. <a target=\"_blank\" rel=\"nofollow\" href=\"https://app."
+"automizy.com/api-token\">API token beszerzése</a>"
+
+#: src/Components/PhoneField.php:133
+msgid "Available Countries"
+msgstr "Elérhető országok"
+
+#: src/Integrations/Aweber/Bootstrap.php:50
+msgid "AWeber Access Token"
+msgstr "AWeber hozzáférési Token"
+
+#: src/Integrations/Aweber/Bootstrap.php:39
+msgid "AWeber API Settings"
+msgstr "AWeber API beállítások"
+
+#: src/Integrations/Aweber/Bootstrap.php:40
+msgid ""
+"AWeber is an integrated email marketing, marketing automation, and small "
+"business CRM. Save time while growing your business with sales automation. "
+"Use Fluent Forms to collect customer information and automatically add it to "
+"your Aweber list. If you don't have an Aweber account, you can <a "
+"href=\"https://www.aweber.com/\" target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+"Az AWeber egy integrált e-mail marketing, marketing automatizálás és "
+"kisvállalati CRM. Takarítson meg időt, miközben az értékesítés "
+"automatizálásával növelheti vállalkozását. Használja a Fluent Forms-t az "
+"ügyféladatok gyűjtéséhez és automatikus hozzáadásához az Aweber listájához. "
+"Ha még nincs Aweber-fiókja, <a href=\"https://www.aweber.com/\" "
+"target=\"_blank\">itt regisztrálhat.</a>"
+
+#: src/Integrations/Insightly/Bootstrap.php:789
+msgid "Background"
+msgstr "Háttér"
+
+#: src/Integrations/Insightly/Bootstrap.php:791
+#: src/Integrations/OnePageCrm/Bootstrap.php:555
+msgid "Background is a string type field."
+msgstr "A Background egy string típusú mező."
+
+#: src/Integrations/Mailjet/Bootstrap.php:476
+msgid "BCC Email"
+msgstr "Titkos másolat e-mail"
+
+#: src/Integrations/Mailjet/Bootstrap.php:478
+msgid "BCC Email is a string type field."
+msgstr "A BCC Email egy string típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:585
+msgid "Bid Amount"
+msgstr "Ajánlati összeg"
+
+#: src/Integrations/Insightly/Bootstrap.php:587
+#: src/Integrations/Insightly/Bootstrap.php:595
+msgid "Bid Amount is a number type field."
+msgstr "Az Ajánlat összege egy szám típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:593
+msgid "Bid Type"
+msgstr "Ajánlat típusa"
+
+#: src/Payments/PaymentHandler.php:433
+msgid "Billing Address"
+msgstr "Számlázási cím"
+
+#: src/Integrations/Insightly/Bootstrap.php:829
+msgid "Billing Address City"
+msgstr "Számlázási cím Város"
+
+#: src/Integrations/Insightly/Bootstrap.php:831
+msgid "Billing Address City is a string type field."
+msgstr "A számlázási cím város egy karakterlánc típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:845
+msgid "Billing Address Country"
+msgstr "Számlázási cím Ország"
+
+#: src/Integrations/Insightly/Bootstrap.php:847
+msgid "Billing Address Country is a string type field."
+msgstr "A számlázási cím országa egy string típusú mező."
+
+#: src/Payments/PaymentMethods/Stripe/StripeProcessor.php:523
+msgid "Billing address from stripe has been logged in the submission data"
+msgstr "A számlázási cím a stripe-ról be lett jegyezve a beküldési adatokba"
+
+#: src/Integrations/Insightly/Bootstrap.php:853
+msgid "Billing Address Postcode"
+msgstr "Számlázási cím Irányítószám"
+
+#: src/Integrations/Insightly/Bootstrap.php:855
+msgid "Billing Address Postcode is a string type field."
+msgstr "A számlázási cím irányítószáma egy string típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:837
+msgid "Billing Address State"
+msgstr "Számlázási cím Állam"
+
+#: src/Integrations/Insightly/Bootstrap.php:839
+msgid "Billing Address State is a string type field."
+msgstr "A számlázási cím állapota egy string típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:821
+msgid "Billing Address Street"
+msgstr "Számlázási cím Utca"
+
+#: src/Integrations/Insightly/Bootstrap.php:823
+msgid "Billing Address Street is a string type field."
+msgstr "A Számlázási cím utca egy string típusú mező."
+
+#: src/views/receipt/customer_details.php:13
+msgid "Billing Address:"
+msgstr "Számlázási cím:"
+
+#: src/Payments/PaymentHandler.php:432
+msgid "Billing Email"
+msgstr "Számlázási email"
+
+#: src/Payments/PaymentHandler.php:431
+msgid "Billing Name"
+msgstr "Számlázási név"
+
+#: src/Payments/PaymentHelper.php:494
+msgid "Burundian Franc"
+msgstr "Burundi frank"
+
+#: src/Integrations/IContact/Bootstrap.php:271
+msgid "Business Number"
+msgstr "Cégjegyzékszám"
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:50
+msgid "Campaign Monitor API Key"
+msgstr "Kampánymonitor API kulcs"
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:40
+msgid "Campaign Monitor API Settings"
+msgstr "Kampányfigyelő API beállításai"
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:57
+msgid "Campaign Monitor Client"
+msgstr "Kampánymonitor ügyfél"
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:41
+msgid ""
+"Campaign Monitor drives results with email marketing. It shares how to gain "
+"loyal customers with personalized email campaigns and automated customer "
+"journeys. Use Fluent Forms to collect customer information and automatically "
+"add it to your Campaign Monitor list. If you don't have an Campaign Monitor "
+"account, you can <a href=\"https://www.campaignmonitor.com/\" "
+"target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+"A Campaign Monitor az e-mail marketinggel elért eredményekért felel. "
+"Megosztja, hogyan lehet személyre szabott e-mail kampányokkal és "
+"automatizált ügyfélutakkal hűséges ügyfeleket szerezni. Használja a Fluent "
+"Forms-t az ügyféladatok gyűjtéséhez és automatikus hozzáadásához a Campaign "
+"Monitor listájához. Ha még nincs Campaign Monitor fiókja, <a href=\"https://"
+"www.campaignmonitor.com/\" target=\"_blank\">itt regisztrálhat.</a>"
+
+#: src/Integrations/Mailjet/Bootstrap.php:508
+msgid "Campaign Name"
+msgstr "Kampány neve"
+
+#: src/Integrations/Mailjet/Bootstrap.php:510
+msgid "Campaign Name is a string type field."
+msgstr "A kampány neve egy string típusú mező."
+
+#: src/Payments/PaymentHandler.php:439 src/Components/ColorPicker.php:140
+#: src/views/receipt/user_subscriptions_table.php:34
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: src/Payments/PaymentHelper.php:528
+msgid "Cancelled"
+msgstr "Törölve"
+
+#: src/Payments/PaymentHelper.php:943
+msgid "cancelled"
+msgstr "lemondva"
+
+#: src/Payments/PaymentHandler.php:418
+msgid "Card Last 4"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:1234
+msgid "Category"
+msgstr "Kategória"
+
+#: src/Integrations/Insightly/Bootstrap.php:1236
+msgid "Category is a select type field."
+msgstr "A kategória egy select típusú mező."
+
+#: src/Integrations/Mailjet/Bootstrap.php:468
+msgid "CC Email"
+msgstr "Másolat e-mail"
+
+#: src/Integrations/Mailjet/Bootstrap.php:470
+msgid "CC Email is a string type field."
+msgstr "A CC Email egy string típusú mező."
+
+#: src/Payments/PaymentHelper.php:506
+msgid "Central African Cfa Franc"
+msgstr "Közép-afrikai valutaközösségi frank"
+
+#: src/Payments/PaymentHelper.php:508
+msgid "Cfp Franc"
+msgstr "Csendes-óceáni valutaközösségi frank"
+
+#: src/Integrations/Salesforce/Bootstrap.php:125
+msgid "Check if your Salesforce is a sandbox account"
+msgstr "Ellenőrizze, hogy a Salesforce fiókja sandbox fiók-e"
+
+#: src/Components/Post/EditorSettings.php:106
+msgid "Checkbox"
+msgstr "Jelölőnégyzet"
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:125
+msgid "Checkout Style Type"
+msgstr "Pénztár stílus típusa"
+
+#: src/Payments/PaymentHelper.php:495
+msgid "Chilean Peso"
+msgstr "Chilei peso"
+
+#: src/Components/ColorPicker.php:33
+msgid "Choose Color"
+msgstr "Válasszon színt"
+
+#: src/Components/Uploader.php:36
+#: src/Components/Post/Components/FeaturedImage.php:113
+msgid "Choose File"
+msgstr "Fájl kiválasztása"
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:137
+msgid ""
+"Choose Razorpay checkout brand theme color. Leave empty for Razorpay default "
+"theme."
+msgstr ""
+"Válassza ki a Razorpay pénztárgép márka téma színét. Hagyja üresen a "
+"Razorpay alapértelmezett témáját."
+
+#: src/Integrations/Insightly/Bootstrap.php:457
+#: src/Integrations/Insightly/Bootstrap.php:745
+msgid "City"
+msgstr "Város"
+
+#: src/Integrations/Insightly/Bootstrap.php:459
+#: src/Integrations/Insightly/Bootstrap.php:747
+#: src/Integrations/OnePageCrm/Bootstrap.php:471
+msgid "City is a string type field."
+msgstr "A város egy string típusú mező."
+
+#: src/Components/ColorPicker.php:139
+msgid "Clear"
+msgstr "Kiürítés"
+
+#: src/Integrations/CleverReach/Bootstrap.php:369
+msgid "CleverReach API call failed please try again !"
+msgstr "CleverReach API hívás sikertelen, kérjük, próbálja újra !"
+
+#: src/Integrations/CleverReach/Bootstrap.php:154
+msgid "CleverReach App Client Secret"
+msgstr "CleverReach App Client Secret"
+
+#: src/Integrations/CleverReach/Bootstrap.php:148
+#: src/Integrations/CleverReach/Bootstrap.php:150
+msgid "CleverReach Client ID"
+msgstr "CleverReach ügyfél azonosító"
+
+#: src/Integrations/CleverReach/Bootstrap.php:156
+msgid "CleverReach Client Secret"
+msgstr "CleverReach ügyfél titok"
+
+#: src/Integrations/CleverReach/Bootstrap.php:253
+msgid "CleverReach Field"
+msgstr "CleverReach mező"
+
+#: src/Integrations/CleverReach/Bootstrap.php:375
+msgid "CleverReach has been successfully initialed and pushed data"
+msgstr "A CleverReach sikeresen inicializálódott és adatokat küldött"
+
+#: src/Integrations/CleverReach/Bootstrap.php:202
+msgid ""
+"CleverReach is not configured yet! Please configure your CleverReach API "
+"first"
+msgstr ""
+"A CleverReach még nincs konfigurálva! Kérjük, először konfigurálja a "
+"CleverReach API-t"
+
+#: src/Integrations/CleverReach/Bootstrap.php:238
+msgid "CleverReach List"
+msgstr "CleverReach lista"
+
+#: src/Integrations/CleverReach/Bootstrap.php:139
+msgid "CleverReach Settings"
+msgstr "CleverReach beállítások"
+
+#: src/Integrations/ClickSend/Bootstrap.php:185
+msgid "ClickSend SMS Notification"
+msgstr "ClickSend SMS értesítés"
+
+#: src/Integrations/ClickSend/Bootstrap.php:190
+msgid ""
+"ClickSend SMS Notification is not configured yet! Please configure your "
+"ClickSend SMS api first"
+msgstr ""
+"A ClickSend SMS értesítés még nincs konfigurálva! Kérjük, először "
+"konfigurálja a ClickSend SMS api-t"
+
+#: src/Integrations/IContact/Bootstrap.php:74
+msgid "Client Folder ID"
+msgstr "Ügyfélmappa azonosítója"
+
+#: src/Payments/TransactionShortcodes.php:355
+msgid "Close"
+msgstr "Lezár"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:603
+msgid "Close Date"
+msgstr "Befejezés időpontja"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:605
+msgid "Close Date is a date type field."
+msgstr "A Zárási dátum egy dátum típusú mező."
+
+#: src/Integrations/Amocrm/Bootstrap.php:399
+#: src/Integrations/Amocrm/Bootstrap.php:400
+msgid "Closed at"
+msgstr "Bezárt"
+
+#: src/Integrations/Amocrm/Bootstrap.php:402
+msgid "Closed at is a Date type field in Unix Timestamp format."
+msgstr "A Closed at egy Date típusú mező Unix Timestamp formátumban."
+
+#: src/Components/RepeaterField.php:59
+msgid "Column 1"
+msgstr "Oszlop 1"
+
+#: src/Payments/PaymentHelper.php:499
+msgid "Comorian Franc"
+msgstr "Comore-szigetek Franc"
+
+#: src/Integrations/Mailjet/Bootstrap.php:406
+msgid "Company Message"
+msgstr "Vállalati üzenet"
+
+#: src/Integrations/Mailjet/Bootstrap.php:408
+msgid "Company Message is a string type field."
+msgstr ""
+
+#: src/Integrations/Amocrm/Bootstrap.php:418
+#: src/Integrations/OnePageCrm/Bootstrap.php:380
+msgid "Company Name"
+msgstr "Cégnév"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:382
+msgid "Company Name is a  string type field."
+msgstr "A Cégnév egy karakterlánc típusú mező."
+
+#: src/Integrations/Amocrm/Bootstrap.php:420
+msgid "Company name is a required string type field."
+msgstr "A cégnév egy kötelező string típusú mező."
+
+#: src/Integrations/Amocrm/Bootstrap.php:577
+msgid "Complete At"
+msgstr "Teljes a"
+
+#: src/Integrations/Amocrm/Bootstrap.php:578
+msgid "Complete at"
+msgstr "Teljes a"
+
+#: src/Integrations/Amocrm/Bootstrap.php:580
+msgid "Complete at is a Required Date type field in Unix Timestamp format."
+msgstr ""
+"A Complete at egy Kötelező dátum típusú mező Unix időbélyeg formátumban."
+
+#: src/Integrations/Insightly/Bootstrap.php:282
+#: src/Integrations/Discord/Bootstrap.php:110
+#: src/Integrations/Amocrm/Bootstrap.php:302
+#: src/Integrations/Mailjet/Bootstrap.php:283
+#: src/Integrations/CleverReach/Bootstrap.php:267
+#: src/Integrations/Mailster/Bootstrap.php:183
+#: src/Integrations/OnePageCrm/Bootstrap.php:284
+#: src/Integrations/Salesforce/Bootstrap.php:303
+#: src/Integrations/Airtable/Bootstrap.php:316
+msgid "Conditional Logics"
+msgstr "Feltételes logikák"
+
+#: src/Integrations/Insightly/Bootstrap.php:207
+#: src/Integrations/Amocrm/Bootstrap.php:229
+#: src/Integrations/Mailjet/Bootstrap.php:209
+#: src/Integrations/OnePageCrm/Bootstrap.php:216
+#: src/Integrations/Salesforce/Bootstrap.php:230
+#: src/Integrations/Airtable/Bootstrap.php:228
+msgid "Configration required!"
+msgstr "Konfiguráció szükséges!"
+
+#: src/Integrations/CleverReach/Bootstrap.php:200
+#: src/Integrations/Salesflare/Bootstrap.php:37
+#: src/Integrations/ClickSend/Bootstrap.php:188
+msgid "Configuration required!"
+msgstr "Konfiguráció szükséges!"
+
+#: src/Payments/PaymentHandler.php:440
+msgid "Confirm"
+msgstr "Megerősítés"
+
+#: src/classes/DoubleOptin.php:27
+msgid "Confirmed"
+msgstr "Megerősítve"
+
+#: src/Payments/PaymentMethods/Paystack/PaystackProcessor.php:187
+#: src/Payments/PaymentMethods/RazorPay/RazorPayProcessor.php:335
+msgid "Confirming Payment, Please wait..."
+msgstr "Fizetés megerősítése, kérjük várjon..."
+
+#: src/Payments/PaymentHandler.php:110
+msgid "Confirming payment. Please wait..."
+msgstr "A fizetés megerősítése. Kérjük várjon..."
+
+#: src/Payments/PaymentMethods/PayPal/API/IPN.php:354
+msgid "Congratulations! New Payment has been received from your subscription"
+msgstr "Gratulálunk! Új fizetés érkezett az előfizetéséből"
+
+#: src/Payments/PaymentMethods/Stripe/StripeHandler.php:139
+msgid "Connect with Stripe was not successful. Please try again!"
+msgstr "A Stripe-pal való kapcsolódás nem volt sikeres. Kérjük, próbálja újra!"
+
+#: src/Integrations/ConstantContact/Bootstrap.php:61
+msgid "Constant Contact access Key"
+msgstr "Constant Contact hozzáférési kulcs"
+
+#: src/Integrations/ConstantContact/Bootstrap.php:50
+msgid "Constant Contact API Settings"
+msgstr "Constant Contact API beállítások"
+
+#: src/Integrations/ConstantContact/Bootstrap.php:51
+msgid ""
+"Constant Contact is an integrated email marketing, marketing automation, and "
+"small business CRM. Save time while growing your business with sales "
+"automation. Use Fluent Forms to collect customer information and "
+"automatically add it to your Constant Contact list. If you don't have an "
+"Constant Contact account, you can <a href=\"https://www.constantcontact.com/"
+"\" rel=\"noopener\" target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+"A Constant Contact egy integrált e-mail marketing, marketing automatizálás "
+"és kisvállalati CRM. Takarítson meg időt, miközben az értékesítés "
+"automatizálásával növelheti vállalkozását. Használja a Fluent Forms "
+"űrlapokat az ügyféladatok gyűjtéséhez és automatikus hozzáadásához a "
+"Constant Contact listájához. Ha még nincs Constant Contact fiókja, <a "
+"href=\"https://www.constantcontact.com/\" rel=\"noopener\" "
+"target=\"_blank\">itt regisztrálhat.</a>"
+
+#: src/Integrations/Mailjet/Bootstrap.php:336
+msgid "Contact Email"
+msgstr "Kapcsolat E-mail cím"
+
+#: src/Integrations/Mailjet/Bootstrap.php:338
+msgid "Contact Email is a string type field."
+msgstr "A Contact Email egy string típusú mező."
+
+#: src/Integrations/Mailjet/Bootstrap.php:344
+#: src/Integrations/OnePageCrm/Bootstrap.php:761
+msgid "Contact Name"
+msgstr "Kapcsolat neve"
+
+#: src/Integrations/Mailjet/Bootstrap.php:346
+msgid "Contact Name is a string type field."
+msgstr "A Kapcsolattartó neve egy karakterlánc típusú mező."
+
+#: src/Integrations/Amocrm/Bootstrap.php:444
+msgid "Contacts Name"
+msgstr "Kapcsolattartó neve"
+
+#: src/Integrations/Amocrm/Bootstrap.php:446
+msgid "Contacts name is a required string type field."
+msgstr "A név egy kötelező string típusú mező."
+
+#: src/Integrations/ConvertKit/Bootstrap.php:49
+msgid "ConvertKit API Key"
+msgstr "ConvertKit API-kulcs"
+
+#: src/Integrations/ConvertKit/Bootstrap.php:55
+msgid "ConvertKit API Secret"
+msgstr "ConvertKit API titok"
+
+#: src/Integrations/ConvertKit/Bootstrap.php:40
+msgid ""
+"ConvertKit is email marketing software for creators. Use Fluent Forms to "
+"collect customer information and automatically add it as ConvertKit "
+"subscriber list."
+msgstr ""
+"A ConvertKit egy e-mail marketing szoftver az alkotók számára. Használja a "
+"Fluent Forms-t az ügyféladatok gyűjtéséhez és automatikus hozzáadásához a "
+"ConvertKit előfizetői listájához."
+
+#: src/Integrations/ConvertKit/Bootstrap.php:39
+msgid "ConvertKit Settings"
+msgstr "ConvertKit beállítások"
+
+#: src/Integrations/GoogleSheet/Bootstrap.php:44
+msgid ""
+"Copy that Google Access Code from other window and paste it here, then click "
+"on Verify Code button."
+msgstr ""
+"Másolja a Google Access-kódot egy másik ablakból, és illesse be ide, majd "
+"kattintson a Kód ellenőrzése gombra."
+
+#: src/Integrations/Salesflare/Bootstrap.php:70
+msgid ""
+"Copy the API Key from Salesflare settings API keys and paste it here, then "
+"click on Save."
+msgstr ""
+"Másolja ki az API-kulcsot a Salesflare beállításaiból API-kulcsok és "
+"illessze be ide, majd kattintson a Mentés gombra."
+
+#: src/Integrations/Mailjet/Bootstrap.php:398
+msgid "Copyright Message"
+msgstr "Szerzői jogi üzenet"
+
+#: src/Integrations/Mailjet/Bootstrap.php:400
+msgid "Copyright Message is a string type field."
+msgstr ""
+
+#: src/classes/Quiz/QuizController.php:312
+msgid "Correct answer"
+msgstr "Helyes válasz"
+
+#: src/Integrations/Insightly/Bootstrap.php:481
+#: src/Integrations/Insightly/Bootstrap.php:769
+msgid "Country"
+msgstr "Ország"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:495
+msgid "Country Code is a string type field."
+msgstr "Az országkód egy karakterlánc típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:483
+#: src/Integrations/Insightly/Bootstrap.php:771
+msgid "Country is a string type field."
+msgstr "Az ország egy string típusú mező."
+
+#: src/Payments/Components/Coupon.php:62 src/Payments/Components/Coupon.php:76
+msgid "Coupon"
+msgstr "Kupon"
+
+#: src/Payments/AjaxEndpoints.php:321
+#, fuzzy
+#| msgid "Coupon has been created successfully"
+msgid "Coupon has been saved successfully"
+msgstr "A kupon létrehozása sikeresen megtörtént"
+
+#: src/Payments/AjaxEndpoints.php:332
+msgid "Coupon has been successfully deleted"
+msgstr "A kupont sikeresen törölték"
+
+#: src/Integrations/Amocrm/Bootstrap.php:391
+#: src/Integrations/Amocrm/Bootstrap.php:392
+#: src/Integrations/Amocrm/Bootstrap.php:425
+#: src/Integrations/Amocrm/Bootstrap.php:426
+#: src/Integrations/Amocrm/Bootstrap.php:467
+#: src/Integrations/Amocrm/Bootstrap.php:468
+msgid "Created at"
+msgstr "Létrehozva"
+
+#: src/Integrations/Amocrm/Bootstrap.php:394
+#: src/Integrations/Amocrm/Bootstrap.php:428
+#: src/Integrations/Amocrm/Bootstrap.php:470
+msgid "Created at is a Date type field in Unix Timestamp format."
+msgstr ""
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:611
+msgid "Creation Date"
+msgstr "Létrehozás dátuma"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:613
+msgid "creation Date is a date type field."
+msgstr ""
+
+#: src/Payments/PaymentMethods/Stripe/StripeHandler.php:66
+msgid "Credit/Debit Card (Stripe)"
+msgstr "Hitel-/betéti kártya (Stripe)"
+
+#: src/Integrations/Mailster/Bootstrap.php:265
+msgid "Custom Fields"
+msgstr "Egyedi mezők"
+
+#: src/Payments/Components/CustomPaymentComponent.php:53
+#: src/Payments/Components/CustomPaymentComponent.php:85
+msgid "Custom Payment Amount"
+msgstr "Egyéni kifizetés összege"
+
+#: src/views/receipt/customer_details.php:3
+msgid "Customer Details"
+msgstr "Vásárló adatai"
+
+#: src/views/receipt/customer_details.php:10
+msgid "Customer Email:"
+msgstr "Ügyfél e-mail:"
+
+#: src/Integrations/Amocrm/Bootstrap.php:591
+msgid "Customer Name"
+msgstr "Ügyfél neve"
+
+#: src/Integrations/Amocrm/Bootstrap.php:593
+msgid "Customer name is a required string type field."
+msgstr "Az ügyfél neve egy kötelező string típusú mező."
+
+#: src/views/receipt/customer_details.php:7
+msgid "Customer Name:"
+msgstr "Ügyfél neve:"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:679
+#: src/views/receipt/user_subscription_payments.php:6
+#: src/views/receipt/transactions_table.php:10
+msgid "Date"
+msgstr "Dátum"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:681
+msgid "Date is a date type field."
+msgstr "A Date egy dátum típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:385
+msgid "Date Of Birth"
+msgstr "Születési Idő"
+
+#: src/Integrations/Insightly/Bootstrap.php:387
+msgid "Date Of Birth is a date type field on y-m-d."
+msgstr ""
+
+#: src/views/receipt/payment_info.php:7
+#: src/views/receipt/transaction_info.php:7
+msgid "Date:"
+msgstr "Dátum:"
+
+#: src/Payments/PaymentHelper.php:930
+msgid "day"
+msgstr "nap"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:579
+msgid "Deal Details"
+msgstr ""
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:581
+msgid "Deal details is a string type field."
+msgstr "Az üzlet részletei egy string típusú mező."
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:571
+msgid "Deal Name"
+msgstr "Üzlet neve"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:573
+msgid "Deal Name is a string type field."
+msgstr "Az Üzlet neve egy string típusú mező."
+
+#: src/Integrations/Telegram/Bootstrap.php:56
+msgid "Default Channel/Group Chat ID"
+msgstr "Alapértelmezett csatorna/csoport csevegés azonosítója"
+
+#: src/Integrations/Insightly/Bootstrap.php:1047
+#: src/Integrations/Insightly/Bootstrap.php:1048
+#: src/Integrations/Discord/Bootstrap.php:92
+msgid "Description"
+msgstr "Leírás"
+
+#: src/Integrations/Insightly/Bootstrap.php:1050
+msgid "Description is a string type field."
+msgstr ""
+
+#: src/classes/Inventory/InventorySettingsManager.php:102
+msgid "Disable"
+msgstr "Letiltás"
+
+#: src/Integrations/Salesflare/Bootstrap.php:97
+#, php-format
+msgid "Disconnect %s"
+msgstr "Kikapcsolás %s"
+
+#: src/Integrations/Airtable/Bootstrap.php:153
+msgid "Disconnect Airtable"
+msgstr "Airtable leválasztása"
+
+#: src/Integrations/Amocrm/Bootstrap.php:158
+msgid "Disconnect Amocrm"
+msgstr "Amocrm lekapcsolása"
+
+#: src/Integrations/CleverReach/Bootstrap.php:162
+msgid "Disconnect CleverReach"
+msgstr "A CleverReach lekapcsolása"
+
+#: src/Integrations/Insightly/Bootstrap.php:133
+msgid "Disconnect Insightly"
+msgstr "Insightly leválasztása"
+
+#: src/Integrations/Mailjet/Bootstrap.php:134
+msgid "Disconnect Mailjet"
+msgstr "Mailjet lekapcsolása"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:110
+msgid "Disconnect OnePageCrm"
+msgstr "OnePageCrm lekapcsolása"
+
+#: src/Integrations/Salesforce/Bootstrap.php:150
+msgid "Disconnect Salesforce"
+msgstr "A Salesforce leválasztása"
+
+#: src/Integrations/Discord/Bootstrap.php:219
+msgid "Discord feed has been successfully initialed and pushed data"
+msgstr ""
+"A Discord feed sikeresen inicializálódott és az adatok elküldése megtörtént"
+
+#: src/Integrations/Discord/Bootstrap.php:93
+msgid "Discord Message Description"
+msgstr "Discord üzenet leírása"
+
+#: src/Integrations/Discord/Bootstrap.php:105
+msgid "Discord Message Footer"
+msgstr "Discord üzenet lábléc"
+
+#: src/Payments/PaymentHandler.php:414
+msgid "Discount"
+msgstr "Kedvezmény"
+
+#: src/Payments/PaymentHandler.php:108
+#: src/views/receipt/order_items_table.php:28
+msgid "Discount:"
+msgstr "Kedvezmény:"
+
+#: src/Payments/PaymentHelper.php:496
+msgid "Djiboutian Franc"
+msgstr "Dzsibuti frank"
+
+#: src/Integrations/Drip/Bootstrap.php:57
+msgid "Drip Account ID"
+msgstr "Drip számla azonosítója"
+
+#: src/Integrations/Drip/Bootstrap.php:40
+msgid "Drip API Settings"
+msgstr "Drip API-beállítások"
+
+#: src/Integrations/Drip/Bootstrap.php:50
+msgid "Drip API Token"
+msgstr "Drip API-Token"
+
+#: src/Integrations/Drip/Bootstrap.php:41
+msgid ""
+"Drip is an ECRM and Ecommerce CRM designed for building personal and "
+"profitable relationships with your customers at scale. Use Fluent Forms to "
+"collect customer information and automatically add it to your Drip list."
+msgstr ""
+"A Drip egy ECRM és Ecommerce CRM, amelyet arra terveztek, hogy személyes és "
+"jövedelmező kapcsolatokat építsen ki ügyfeleivel. Használja a Fluent Forms-t "
+"az ügyféladatok gyűjtéséhez és automatikus hozzáadásához a Drip listához."
+
+#: src/Integrations/Insightly/Bootstrap.php:987
+msgid "Due Date"
+msgstr "Lejárati időpont"
+
+#: src/Integrations/Insightly/Bootstrap.php:988
+msgid "Due date"
+msgstr "Lejárat napja"
+
+#: src/Integrations/Insightly/Bootstrap.php:990
+msgid "Due date is a date type field on y-m-d."
+msgstr ""
+
+#: src/Payments/PaymentHandler.php:430
+msgid "Edit Transaction"
+msgstr "Tranzakció szerkesztése"
+
+#: src/classes/DraftSubmissionsManager.php:390
+msgid "Element Not Found.Please check again!"
+msgstr "Az elem nem található.Kérjük, ellenőrizze újra!"
+
+#: src/Integrations/Insightly/Bootstrap.php:324
+#: src/Integrations/Insightly/Bootstrap.php:665
+msgid "Email"
+msgstr "E-mail"
+
+#: src/Integrations/CleverReach/Bootstrap.php:258
+msgid "Email Address"
+msgstr "Email cím"
+
+#: src/Integrations/Mailjet/Bootstrap.php:500
+msgid "Email Html Part"
+msgstr "Email Html rész"
+
+#: src/Integrations/Mailjet/Bootstrap.php:502
+msgid "Email Html Part is a string type field."
+msgstr "Az Email Html Part egy string típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:326
+#: src/Integrations/Insightly/Bootstrap.php:667
+msgid "Email is a email type field."
+msgstr "Az e-mail egy e-mail típusú mező."
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:442
+msgid "Email is a select type field."
+msgstr "Az e-mail egy select típusú mező."
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:455
+msgid "Email is a string type field."
+msgstr "Az e-mail egy string típusú mező."
+
+#: src/Integrations/ConstantContact/Bootstrap.php:40
+msgid "Email is Required"
+msgstr "Email szükséges"
+
+#: src/Integrations/Mailjet/Bootstrap.php:484
+msgid "Email Subject"
+msgstr "E-mail tárgya"
+
+#: src/Integrations/Mailjet/Bootstrap.php:486
+msgid "Email Subject is a string type field."
+msgstr "Az e-mail tárgya egy karakterlánc típusú mező."
+
+#: src/classes/DraftSubmissionsManager.php:423
+#, php-format
+msgid "Email Successfully Sent to %s"
+msgstr "E-mail sikeresen elküldve a %s"
+
+#: src/Integrations/Mailjet/Bootstrap.php:492
+msgid "Email Text Part"
+msgstr "Email szöveges rész"
+
+#: src/Integrations/Mailjet/Bootstrap.php:494
+msgid "Email Text Part is a required string type field."
+msgstr "Az Email szöveges rész egy kötelező karakterlánc típusú mező."
+
+#: src/classes/Inventory/InventorySettingsManager.php:106
+msgid "Enable"
+msgstr "Engedélyezés"
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:109
+msgid "Enable RazorPay Payment Method"
+msgstr "RazorPay fizetési mód engedélyezése"
+
+#: src/Integrations/Discord/Bootstrap.php:121
+#: src/Integrations/CleverReach/Bootstrap.php:277
+msgid "Enable This feed"
+msgstr "A hírcsatorna engedélyezése"
+
+#: src/Integrations/Insightly/Bootstrap.php:291
+#: src/Integrations/Amocrm/Bootstrap.php:311
+#: src/Integrations/Mailjet/Bootstrap.php:292
+#: src/Integrations/Mailster/Bootstrap.php:192
+#: src/Integrations/OnePageCrm/Bootstrap.php:293
+#: src/Integrations/Salesforce/Bootstrap.php:312
+#: src/Integrations/Airtable/Bootstrap.php:326
+msgid "Enable this feed"
+msgstr "A hírcsatorna engedélyezése"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:720
+msgid "Enter Action Date"
+msgstr "Adja meg az akció dátumát"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:712
+msgid "Enter Action Details"
+msgstr "Adja meg az akció részleteit"
+
+#: src/Integrations/Insightly/Bootstrap.php:571
+msgid "Enter Actual Close Date"
+msgstr "Tényleges zárási dátum megadása"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:460
+#: src/Integrations/OnePageCrm/Bootstrap.php:461
+msgid "Enter Address"
+msgstr "Cím megadása"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:500
+#: src/Integrations/OnePageCrm/Bootstrap.php:501
+msgid "Enter Address Type"
+msgstr "Adja meg a cím típusát"
+
+#: src/Integrations/Insightly/Bootstrap.php:432
+msgid "Enter Assistant Name"
+msgstr "Adja meg az asszisztens nevét"
+
+#: src/Integrations/Insightly/Bootstrap.php:440
+msgid "Enter Assistant Phone"
+msgstr "Adja meg az asszisztens telefonszámát"
+
+#: src/Integrations/Mailjet/Bootstrap.php:364
+msgid "Enter Author Name"
+msgstr "Adja meg a szerző nevét"
+
+#: src/Integrations/Insightly/Bootstrap.php:788
+msgid "Enter Background"
+msgstr "Adja meg a hátteret"
+
+#: src/Integrations/Mailjet/Bootstrap.php:475
+msgid "Enter BCC Email"
+msgstr "BCC e-mail megadása"
+
+#: src/Integrations/Insightly/Bootstrap.php:584
+msgid "Enter Bid Amount"
+msgstr "Adja meg az ajánlati összeget"
+
+#: src/Integrations/Insightly/Bootstrap.php:592
+msgid "Enter Bid Type"
+msgstr "Adja meg az ajánlat típusát"
+
+#: src/Integrations/Insightly/Bootstrap.php:828
+msgid "Enter Billing Address City"
+msgstr "Számlázási cím megadása Város"
+
+#: src/Integrations/Insightly/Bootstrap.php:844
+msgid "Enter Billing Address Country"
+msgstr "Számlázási cím megadása Ország"
+
+#: src/Integrations/Insightly/Bootstrap.php:852
+msgid "Enter Billing Address Postcode"
+msgstr "Számlázási cím megadása Irányítószám"
+
+#: src/Integrations/Insightly/Bootstrap.php:836
+msgid "Enter Billing Address State"
+msgstr "Számlázási cím megadása Állam"
+
+#: src/Integrations/Insightly/Bootstrap.php:820
+msgid "Enter Billing Address Street"
+msgstr "Számlázási cím megadása Utca"
+
+#: src/Integrations/Mailjet/Bootstrap.php:507
+msgid "Enter Campaign Name"
+msgstr "Adja meg a kampány nevét"
+
+#: src/Integrations/Mailjet/Bootstrap.php:467
+msgid "Enter CC Email"
+msgstr "CC e-mail megadása"
+
+#: src/Integrations/Insightly/Bootstrap.php:456
+#: src/Integrations/Insightly/Bootstrap.php:744
+#: src/Integrations/OnePageCrm/Bootstrap.php:468
+#: src/Integrations/OnePageCrm/Bootstrap.php:469
+msgid "Enter City"
+msgstr "Adja meg a várost"
+
+#: src/Integrations/ClickSend/Bootstrap.php:76
+msgid "Enter ClickSend API Key. This can be found from ClickSend"
+msgstr "Adja meg a ClickSend API kulcsát. Ezt a ClickSend oldalon találja meg"
+
+#: src/Integrations/ClickSend/Bootstrap.php:70
+msgid "Enter ClickSend Username. This can be found from ClickSend"
+msgstr ""
+"Adja meg a ClickSend felhasználónevet. Ez a ClickSend oldalon található"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:602
+msgid "Enter Close Date"
+msgstr "Zárási dátum megadása"
+
+#: src/Integrations/Amocrm/Bootstrap.php:417
+#: src/Integrations/OnePageCrm/Bootstrap.php:379
+msgid "Enter Company Name"
+msgstr "Adja meg a vállalat nevét"
+
+#: src/Integrations/Mailjet/Bootstrap.php:335
+msgid "Enter Contact Email"
+msgstr "Adja meg a kapcsolattartó e-mail címét"
+
+#: src/Integrations/Mailjet/Bootstrap.php:343
+msgid "Enter Contact Name"
+msgstr "Adja meg a kapcsolattartó nevét"
+
+#: src/Integrations/Amocrm/Bootstrap.php:443
+msgid "Enter Contacts Name"
+msgstr "Adja meg a kapcsolatok nevét"
+
+#: src/Integrations/Mailjet/Bootstrap.php:397
+msgid "Enter Copyright Message"
+msgstr "Adja meg a szerzői jogi üzenetet"
+
+#: src/Integrations/Insightly/Bootstrap.php:480
+#: src/Integrations/Insightly/Bootstrap.php:768
+msgid "Enter Country"
+msgstr "Adja meg az országot"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:492
+#: src/Integrations/OnePageCrm/Bootstrap.php:493
+msgid "Enter Country Code"
+msgstr "Országkód megadása"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:610
+msgid "Enter Creation Date"
+msgstr "Létrehozási dátum megadása"
+
+#: src/Integrations/Amocrm/Bootstrap.php:590
+msgid "Enter Customer Name"
+msgstr "Adja meg az ügyfél nevét"
+
+#: src/Integrations/Insightly/Bootstrap.php:384
+msgid "Enter Date Of Birth"
+msgstr "Adja meg a születési dátumot"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:578
+msgid "Enter Deal Details"
+msgstr "Adja meg az üzlet részleteit"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:570
+msgid "Enter Deal Name"
+msgstr "Adja meg az üzlet nevét"
+
+#: src/Integrations/Insightly/Bootstrap.php:323
+#: src/Integrations/Insightly/Bootstrap.php:664
+#: src/Integrations/OnePageCrm/Bootstrap.php:452
+#: src/Integrations/OnePageCrm/Bootstrap.php:453
+msgid "Enter Email"
+msgstr "Email megadása"
+
+#: src/Integrations/Mailjet/Bootstrap.php:499
+msgid "Enter Email Html Part"
+msgstr "Enter Email Html rész"
+
+#: src/Integrations/Mailjet/Bootstrap.php:483
+msgid "Enter Email Subject"
+msgstr "Adja meg az e-mail tárgyát"
+
+#: src/Integrations/Mailjet/Bootstrap.php:491
+msgid "Enter Email Text Part"
+msgstr "Adja meg az e-mail szöveges részét"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:594
+msgid "Enter Expected Close Date"
+msgstr "Adja meg a várható zárási dátumot"
+
+#: src/Integrations/Amocrm/Bootstrap.php:598
+#: src/Integrations/Amocrm/Bootstrap.php:599
+msgid "Enter Expected purchase value"
+msgstr "Adja meg a várható vásárlási értéket"
+
+#: src/Integrations/Insightly/Bootstrap.php:908
+msgid "Enter Facebook"
+msgstr "Adja meg a Facebookot"
+
+#: src/Integrations/Insightly/Bootstrap.php:804
+msgid "Enter FAX"
+msgstr "FAX beírása"
+
+#: src/Integrations/Insightly/Bootstrap.php:672
+msgid "Enter Fax"
+msgstr "Fax megadása"
+
+#: src/Integrations/Insightly/Bootstrap.php:424
+msgid "Enter FAX Phone"
+msgstr "FAX telefonszám megadása"
+
+#: src/Integrations/Insightly/Bootstrap.php:339
+#: src/Integrations/Insightly/Bootstrap.php:624
+#: src/Integrations/Amocrm/Bootstrap.php:451
+#: src/Integrations/OnePageCrm/Bootstrap.php:344
+msgid "Enter First Name"
+msgstr "Adja meg a keresztnevét"
+
+#: src/Integrations/Insightly/Bootstrap.php:563
+msgid "Enter Forecast Close Date"
+msgstr "Adja meg az előrejelzés zárási dátumát"
+
+#: src/Integrations/GoogleSheet/Bootstrap.php:52
+msgid ""
+"Enter Google Access Code. Please find this by clicking 'Get Google Sheet "
+"Access Code' Button"
+msgstr ""
+"Add meg a Google hozzáférési kódot. Megtalálhatod a Google Táblázatok "
+"hozzáférési kód megszerzése gombra kattintva"
+
+#: src/Integrations/Insightly/Bootstrap.php:400
+msgid "Enter Home Phone"
+msgstr "Adja meg az otthoni telefonszámot"
+
+#: src/Integrations/Insightly/Bootstrap.php:680
+msgid "Enter Industry"
+msgstr "Adja meg az iparágat"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:648
+msgid "Enter Item Description"
+msgstr "Adja meg a tétel leírását"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:640
+msgid "Enter Item Name"
+msgstr "Írja be a tétel nevét"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:656
+msgid "Enter Item Price"
+msgstr "Adja meg a tétel árát"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:360
+msgid "Enter Job Title"
+msgstr "Adja meg a munkakör címét"
+
+#: src/Integrations/Insightly/Bootstrap.php:347
+#: src/Integrations/Insightly/Bootstrap.php:632
+#: src/Integrations/Amocrm/Bootstrap.php:459
+#: src/Integrations/OnePageCrm/Bootstrap.php:352
+msgid "Enter Last Name"
+msgstr "Add meg a vezetékneved"
+
+#: src/Integrations/Insightly/Bootstrap.php:688
+msgid "Enter Lead Description"
+msgstr ""
+
+#: src/Integrations/Amocrm/Bootstrap.php:375
+msgid "Enter Lead Name"
+msgstr "Adja meg a vezető nevét"
+
+#: src/Integrations/Insightly/Bootstrap.php:696
+msgid "Enter Lead Rating"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:900
+msgid "Enter LinkedIn"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:368
+msgid "Enter LinkedIn URL"
+msgstr "Adja meg a LinkedIn URL-címét"
+
+#: src/Integrations/Amocrm/Bootstrap.php:616
+msgid "Enter List element name"
+msgstr "Listaelem nevének megadása"
+
+#: src/Integrations/Amocrm/Bootstrap.php:485
+msgid "Enter List Name"
+msgstr "Listanév megadása"
+
+#: src/Integrations/Insightly/Bootstrap.php:704
+msgid "Enter Mobile"
+msgstr "Adja meg a mobiltelefont"
+
+#: src/Integrations/Insightly/Bootstrap.php:408
+msgid "Enter Mobile Phone"
+msgstr "Adja meg a mobiltelefont"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:670
+msgid "Enter Note Details"
+msgstr "Adja meg a jegyzet adatait"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:678
+msgid "Enter Notes Date"
+msgstr "Megjegyzések megadása Dátum"
+
+#: src/Integrations/Insightly/Bootstrap.php:728
+msgid "Enter Number Of Employees"
+msgstr "Adja meg az alkalmazottak számát"
+
+#: src/Integrations/Insightly/Bootstrap.php:656
+#: src/Integrations/Insightly/Bootstrap.php:780
+msgid "Enter Organisation Name"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:360
+msgid "Enter Organisation Title"
+msgstr "Szervezet címének megadása"
+
+#: src/Integrations/Insightly/Bootstrap.php:496
+msgid "Enter Other City"
+msgstr "Másik város megadása"
+
+#: src/Integrations/Insightly/Bootstrap.php:520
+msgid "Enter Other Country"
+msgstr "Más ország megadása"
+
+#: src/Integrations/Insightly/Bootstrap.php:416
+msgid "Enter Other Phone"
+msgstr "Másik telefonszám megadása"
+
+#: src/Integrations/Insightly/Bootstrap.php:512
+msgid "Enter Other Post Code"
+msgstr "Egyéb postai irányítószám megadása"
+
+#: src/Integrations/Insightly/Bootstrap.php:504
+msgid "Enter Other State"
+msgstr "Adja meg az egyéb államot"
+
+#: src/Integrations/Insightly/Bootstrap.php:488
+msgid "Enter Other Street Address"
+msgstr "Másik utca címének megadása"
+
+#: src/Integrations/Insightly/Bootstrap.php:392
+#: src/Integrations/Insightly/Bootstrap.php:712
+#: src/Integrations/Insightly/Bootstrap.php:796
+#: src/Integrations/OnePageCrm/Bootstrap.php:431
+#: src/Integrations/OnePageCrm/Bootstrap.php:432
+msgid "Enter Phone"
+msgstr "Adja meg a telefont"
+
+#: src/Integrations/Insightly/Bootstrap.php:472
+#: src/Integrations/Insightly/Bootstrap.php:760
+msgid "Enter Post Code"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:555
+msgid "Enter Probability Of Winning"
+msgstr "Adja meg a nyerés valószínűségét"
+
+#: src/Integrations/Insightly/Bootstrap.php:936
+msgid "Enter Project Details"
+msgstr "Adja meg a projekt adatait"
+
+#: src/Integrations/Insightly/Bootstrap.php:928
+msgid "Enter Project Name"
+msgstr "Adja meg a projekt nevét"
+
+#: src/Integrations/Mailjet/Bootstrap.php:459
+msgid "Enter Recipients Email"
+msgstr "Adja meg a címzettek e-mail címét"
+
+#: src/Integrations/Insightly/Bootstrap.php:331
+#: src/Integrations/Insightly/Bootstrap.php:616
+msgid "Enter Salutation"
+msgstr "Üdvözlés megadása"
+
+#: src/Integrations/Mailjet/Bootstrap.php:443
+msgid "Enter Sender Email"
+msgstr "Adja meg a feladó e-mail címét"
+
+#: src/Integrations/Mailjet/Bootstrap.php:451
+msgid "Enter Sender Name"
+msgstr "Adja meg a feladó nevét"
+
+#: src/Integrations/Insightly/Bootstrap.php:868
+msgid "Enter Shipping Address City"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:892
+msgid "Enter Shipping Address Country"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:884
+msgid "Enter Shipping Address Postcode"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:876
+msgid "Enter Shipping Address State"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:860
+msgid "Enter Shipping Address Street"
+msgstr ""
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:586
+msgid "Enter Stage"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:464
+#: src/Integrations/Insightly/Bootstrap.php:752
+#: src/Integrations/OnePageCrm/Bootstrap.php:476
+#: src/Integrations/OnePageCrm/Bootstrap.php:477
+msgid "Enter State"
+msgstr "Állam megadása"
+
+#: src/Integrations/Insightly/Bootstrap.php:448
+#: src/Integrations/Insightly/Bootstrap.php:736
+msgid "Enter Street Address"
+msgstr ""
+
+#: src/Integrations/Amocrm/Bootstrap.php:542
+msgid "Enter Task Details"
+msgstr "Feladat részleteinek megadása"
+
+#: src/Integrations/Amocrm/Bootstrap.php:550
+msgid "Enter Task Duration"
+msgstr "Feladat időtartamának megadása"
+
+#: src/Integrations/Amocrm/Bootstrap.php:528
+msgid "Enter Task Entity Type"
+msgstr "Feladategység típusának megadása"
+
+#: src/Integrations/Insightly/Bootstrap.php:973
+#: src/Integrations/Amocrm/Bootstrap.php:520
+msgid "Enter Task Name"
+msgstr "Feladat nevének megadása"
+
+#: src/Integrations/Amocrm/Bootstrap.php:558
+msgid "Enter Task Result Details"
+msgstr "A feladat eredményének részleteinek megadása"
+
+#: src/Integrations/Mailjet/Bootstrap.php:405
+msgid "Enter Template Description"
+msgstr ""
+
+#: src/Integrations/Mailjet/Bootstrap.php:356
+msgid "Enter Template Name"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:648
+#: src/Integrations/OnePageCrm/Bootstrap.php:331
+msgid "Enter Title"
+msgstr "Cím megadása"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:54
+msgid "Enter Twilio Account SID. This can be found from twillio"
+msgstr ""
+"Adja meg a Twilio-fiók SID azonosítóját. Ez a twillio oldalon található"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:60
+msgid "Enter Twilio API Auth Token. This can be found from twillio"
+msgstr "Adja meg a Twilio API Auth Token-t. Ez a twillio oldalon található"
+
+#: src/Integrations/Insightly/Bootstrap.php:916
+msgid "Enter Twitter"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:376
+msgid "Enter Twitter URL"
+msgstr "Twitter URL megadása"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:405
+#: src/Integrations/OnePageCrm/Bootstrap.php:406
+msgid "Enter URL"
+msgstr "URL megadása"
+
+#: src/Integrations/Insightly/Bootstrap.php:720
+#: src/Integrations/Insightly/Bootstrap.php:812
+msgid "Enter Website"
+msgstr "Weboldal megadása"
+
+#: src/Integrations/Salesflare/Bootstrap.php:82
+#, php-format
+msgid ""
+"Enter your  %s Api Key, Copy the API Code and paste it here, then click on "
+"Save button"
+msgstr ""
+"Adja meg az %s Api kulcsot, másolja ki az API kódot és illessze be ide, majd "
+"kattintson a Mentés gombra"
+
+#: src/Integrations/IContact/Bootstrap.php:67
+msgid ""
+"Enter your Account ID. It's a numeric value. You will get in the api settings"
+msgstr ""
+"Adja meg a számlaazonosítóját. Ez egy numerikus érték. Az api beállításoknál "
+"kapja meg"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:54
+msgid ""
+"Enter your ActiveCampaign API Key, if you do not have <br>Please login to "
+"your ActiveCampaign account and find the api key"
+msgstr ""
+"Add meg ActiveCampaign API-kulcsodat, ha nincsen, <br>kérjük, jelentkezz be "
+"az ActiveCampaign fiókodba, és keresd meg az API-kulcsodat"
+
+#: src/Integrations/Airtable/Bootstrap.php:134
+msgid "Enter your Airtable API Key"
+msgstr "Adja meg az Airtable API kulcsát"
+
+#: src/Integrations/Airtable/Bootstrap.php:140
+msgid "Enter your Airtable Base ID"
+msgstr ""
+
+#: src/Integrations/Airtable/Bootstrap.php:146
+msgid "Enter your Airtable Table ID"
+msgstr ""
+
+#: src/Integrations/Amocrm/Bootstrap.php:145
+msgid "Enter your Amocrm Integration ID"
+msgstr "Adja meg az Amocrm integrációs azonosítóját"
+
+#: src/Integrations/Amocrm/Bootstrap.php:151
+msgid "Enter your Amocrm Integration Secret Key"
+msgstr "Adja meg az Amocrm integrációs titkos kulcsát"
+
+#: src/Integrations/Automizy/Bootstrap.php:48
+msgid ""
+"Enter your Automizy API Key, if you do not have <br>Please login to your "
+"Automizy account and go to<br>Account -> Settings -> Api Token"
+msgstr ""
+"Adja meg az Automizy API kulcsát, ha még nem rendelkezik <br>Kérjük, "
+"jelentkezzen be az Automizy fiókjába, és menjen aAccount<br>-&gt; Settings -"
+"&gt; Api Token</br>menüpontra</br>"
+
+#: src/Integrations/Aweber/Bootstrap.php:49
+msgid ""
+"Enter your Aweber Access token, if you do not have <br>Please click on the "
+"get Access token"
+msgstr ""
+"Add meg az AWeber hozzáférési tokent, ha nincsen, <br>akkor kattints a "
+"Hozzáférési token megszerzése gombra"
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:49
+msgid ""
+"Enter your Campaign Monitor API Key, if you do not have <br>Please login to "
+"your Campaign Monitor account and find the api key"
+msgstr ""
+"Adja meg a Campaign Monitor API kulcsát, ha nincs meg <br>Kérjük, "
+"jelentkezzen be a Campaign Monitor fiókjába, és keresse meg az API kulcsot</"
+"br>"
+
+#: src/Integrations/CleverReach/Bootstrap.php:149
+msgid "Enter your CleverReach Client ID"
+msgstr "Adja meg a CleverReach ügyfél azonosítóját"
+
+#: src/Integrations/CleverReach/Bootstrap.php:155
+msgid "Enter your CleverReach Client secret"
+msgstr "Adja meg a CleverReach ügyféltitkát"
+
+#: src/Integrations/ClickSend/Bootstrap.php:64
+msgid "Enter your clicksend sender number"
+msgstr "Adja meg a clicksend feladó számát"
+
+#: src/Integrations/IContact/Bootstrap.php:73
+msgid "Enter your Client Folder ID"
+msgstr "Add meg az Ügyfélmappa AZONOSÍTÓJÁT"
+
+#: src/Integrations/ConstantContact/Bootstrap.php:60
+msgid ""
+"Enter your Constant Contact access token Key, if you do not have <br>Please "
+"click here to get yours"
+msgstr ""
+"Add meg a Constant Contact hozzáférési token kulcsot, ha nincsen, <br>akkor "
+"kattints ide a megszerzéséhez"
+
+#: src/Integrations/ConvertKit/Bootstrap.php:48
+msgid ""
+"Enter your ConvertKit API Key, if you do not have <br>Please login to your "
+"ConvertKit account and go to<br>Profile -> Account Settings -> Account Info"
+msgstr ""
+"Add meg a ConvertKit API-kulcsodat, ha nincsen<br>kérjük, jelentkezz be a "
+"ConvertKit fiókodba, és menj a <br>Profile-> Fiók beállítások-> "
+"Fiókinformációk részre"
+
+#: src/Integrations/ConvertKit/Bootstrap.php:54
+msgid ""
+"Enter your ConvertKit API Secret, if you do not have <br>Please login to "
+"your ConvertKit account and go to<br>Profile -> Account Settings -> Account "
+"Info"
+msgstr ""
+"Add meg a ConvertKit API Secret-et, ha nincs<br>kérjük, jelentkezz be "
+"ConvertKit fiókodba, és menj a <br>Profile-> Fiók beállítások-> "
+"Fiókinformációk részre"
+
+#: src/Integrations/Drip/Bootstrap.php:49
+msgid ""
+"Enter your Drip API Key, if you do not have <br>Please login to your Drip "
+"account settings -> User Info and find the api key"
+msgstr ""
+"Adja meg a Drip API-kulcsot, ha nem rendelkezik vele<br>Kérjük, jelentkezzen "
+"be a Drip fiók beállításaiba -> Felhasználói adatok és keresse meg az API "
+"kulcsot"
+
+#: src/Integrations/GetGist/Bootstrap.php:48
+msgid ""
+"Enter your GetGist API Key, if you do not have <br>Please login to your "
+"GetGist account and go to<br>Settings -> Integrations -> API key"
+msgstr ""
+"Add meg a GetGist API kulcsodat, ha nincsen, <br>kérjük jelentkezz be a "
+"GetGist fiókodba és menj a <br> Beállítások -> Integráció -> API kulcs "
+"részhez"
+
+#: src/Integrations/GetResponse/Bootstrap.php:104
+msgid ""
+"Enter your GetResponse API Key, if you do not have<br />Please login to your "
+"GetResponse account and go to<br />Integrations & API from main menu."
+msgstr ""
+"Add meg a GetResponse API kulcsodat, ha nincsen<br>kérjük jelentkezz be a "
+"GetResponse fiókodba és menj a <br/>Főmenüből az Integrációk & API részre."
+
+#: src/classes/AddressAutoComplete.php:95
+msgid "Enter your Google Map API Key"
+msgstr "Adja meg a Google Map API kulcsát"
+
+#: src/Integrations/Hubspot/Bootstrap.php:48
+msgid ""
+"Enter your Hubspot access Token, if you do not have <br>Please login to your "
+"Hubspot account and<br>Create a new private app with scope <b>contacts-lists-"
+"access</b> and copy your token"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:55
+msgid "Enter your iContact Account Email Address"
+msgstr "Add meg az iContact fiókod e-mail címét"
+
+#: src/Integrations/IContact/Bootstrap.php:61
+msgid "Enter your iContact API Password"
+msgstr "Add meg az iContact API jelszavát"
+
+#: src/Integrations/IContact/Bootstrap.php:49
+msgid "Enter your iContact Application Key"
+msgstr "Add meg a iContact alkalmazás kulcsát"
+
+#: src/Integrations/Insightly/Bootstrap.php:126
+msgid "Enter your Insightly API Key"
+msgstr "Adja meg az Insightly API kulcsát"
+
+#: src/Integrations/Insightly/Bootstrap.php:120
+msgid "Enter your Insightly API URL"
+msgstr "Adja meg az Insightly API URL-címét"
+
+#: src/Integrations/MailerLite/Bootstrap.php:47
+msgid ""
+"Enter your MailerLite API Key, if you do not have <br>Please login to your "
+"MailerLite account and go to<br>Profile -> Account Settings -> Account Info"
+msgstr ""
+"Add meg MailerLite API-kulcsodat, ha nincsen, <br>kérjük, jelentkezz be a "
+"MailerLite fiókodba és menj<br>Profile-> Fiók beállítások-> Fiókinformációk "
+"részhez"
+
+#: src/Integrations/Mailjet/Bootstrap.php:121
+msgid "Enter your Mailjet API Key"
+msgstr "Adja meg Mailjet API kulcsát"
+
+#: src/Integrations/Mailjet/Bootstrap.php:127
+msgid "Enter your Mailjet Secret Key"
+msgstr "Adja meg a Mailjet titkos kulcsát"
+
+#: src/Integrations/MooSend/Bootstrap.php:47
+msgid ""
+"Enter your MooSend API Key, if you do not have <br>Please login to your "
+"MooSend account and go to<br>Account -> Api Key"
+msgstr ""
+"Add meg a Moosend API kulcsodat, ha nincsen ilyened, akkor <br>jelentkezz be "
+"a Moosend fiókodba és menj<br> a Fiók -> API kulcs részhez"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:103
+msgid "Enter your OnePageCrm Api Key"
+msgstr "Adja meg OnePageCrm Api kulcsát"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:97
+msgid "Enter your OnePageCrm User ID"
+msgstr "Adja meg OnePageCrm felhasználói azonosítóját"
+
+#: src/Integrations/Pipedrive/Bootstrap.php:50
+msgid ""
+"Enter your Pipedrive API token, if you do not have follow-up upper "
+"instructions."
+msgstr ""
+"Adja meg a Pipedrive API tokenjét, ha nem rendelkezik a felső utasítások "
+"nyomon követésével."
+
+#: src/Integrations/Platformly/Bootstrap.php:47
+msgid ""
+"Enter your Platformly API Key, if you do not have <br>Please login to your "
+"Platformly account and find the api key"
+msgstr ""
+"Add meg a Platformly API kulcsodat, ha nincsen, <br>kérjük jelentkezz be a "
+"Platformly fiókodba és keresd meg az API kulcsot"
+
+#: src/Integrations/Salesforce/Bootstrap.php:137
+msgid "Enter your Salesforce Consumer Key"
+msgstr "Adja meg a Salesforce Consumer Key kulcsát"
+
+#: src/Integrations/Salesforce/Bootstrap.php:143
+msgid "Enter your Salesforce Consumer secret"
+msgstr "Adja meg a Salesforce Fogyasztói titkát"
+
+#: src/Integrations/Salesforce/Bootstrap.php:131
+msgid "Enter your Salesforce domain URL"
+msgstr "Adja meg a Salesforce-domain URL-címét"
+
+#: src/Integrations/SendFox/Bootstrap.php:48
+msgid ""
+"Enter your SendFox API Key, if you do not have <br>Please login to your "
+"Sendfox account and go to<br>Account -> Appi Key"
+msgstr ""
+"Add meg a SendFox API-kulcsodat, ha nincsen<br>kérjük, jelentkezz be a "
+"Sendfox fiókodba és menj <br>Fiók -> API kulcs"
+
+#: src/Integrations/Sendinblue/Bootstrap.php:47
+msgid ""
+"Enter your Sendinblue API Key, if you do not have <br>Please login to your "
+"Sendinblue account and find the api key"
+msgstr ""
+"Add meg a Sendinblue API kulcsodat, ha nincsen, <br>kérjük jelentkezz be a "
+"Sendinblue fiókodba és keresd meg az API kulcsot"
+
+#: src/Integrations/Telegram/Bootstrap.php:55
+msgid ""
+"Enter your Telegram API channel user ID, You can also use message id. Please "
+"check documentation for more details."
+msgstr ""
+"Adja meg a Telegram API-csatorna felhasználói azonosítóját, Az "
+"üzenetazonosítót is használhatja. További részletekért kérjük, ellenőrizze a "
+"dokumentációt."
+
+#: src/Integrations/Telegram/Bootstrap.php:49
+msgid "Enter your Telegram Bot Token"
+msgstr "Adja meg a Telegram Bot Tokent"
+
+#: src/Integrations/Telegram/Bootstrap.php:61
+msgid "Enter your Test Message"
+msgstr "Írja be a tesztüzenetet"
+
+#: src/Integrations/Trello/Bootstrap.php:52
+msgid ""
+"Enter your Trello access token Key, if you do not have <br>Please click here "
+"to get yours"
+msgstr ""
+"Add meg a Trello hozzáférési tokenedet. Ha nincsen, akkor <br>kattints ide a "
+"megszerzéséhez"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:48
+msgid "Enter your twillo sender number"
+msgstr "Írd be a Twillio feladó számát"
+
+#: src/Integrations/ZohoCRM/Bootstrap.php:92
+msgid ""
+"Enter your Zoho CRM  Key, if you do not have <br>Please login to your Zoho "
+"CRM account and go to <a href='https://api-console.zoho.com/'>Zoho Developer "
+"Console</a>"
+msgstr ""
+"Adja meg a Zoho CRM kulcsát, ha nem rendelkezik <br>Kérjük, jelentkezzen be "
+"a Zoho CRM fiókjába, és lépjen be a <a href='https://api-console.zoho."
+"com/'>Zoho Developer Console-ra</a></br>"
+
+#: src/Integrations/ZohoCRM/Bootstrap.php:86
+msgid ""
+"Enter your Zoho CRM Client ID, if you do not have <br>Please login to your "
+"Zoho CRM account and go to <a href='https://api-console.zoho.com/'>Zoho "
+"Developer Console</a><br>"
+msgstr ""
+"Adja meg a Zoho CRM ügyfél-azonosítóját, ha nem rendelkezik <br>Kérjük, "
+"jelentkezzen be a Zoho CRM fiókjába, és lépjen a <a href='https://api-"
+"console.zoho.com/'>Zoho Developer Console-ra</a></br> <br><br></br>"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:484
+#: src/Integrations/OnePageCrm/Bootstrap.php:485
+msgid "Enter Zip Code"
+msgstr "Irányítószám megadása"
+
+#: src/classes/EntryEditor.php:28
+msgid "Entry data successfully updated"
+msgstr "A belépési adatok sikeresen frissítve"
+
+#: src/classes/DraftSubmissionsManager.php:430
+msgid "Error Occurred while sending email"
+msgstr "Hiba lépett fel e-mail küldése közben"
+
+#: src/Integrations/Airtable/API.php:78
+msgid "Error: Please provide valid Airtable Base ID."
+msgstr ""
+
+#: src/Integrations/Mailjet/Bootstrap.php:324
+msgid "Exclude the contact"
+msgstr "A kapcsolat kizárása"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:595
+msgid "Expected Close Date"
+msgstr "Várható zárási dátum"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:597
+msgid "Expected Close Date is a date type field."
+msgstr "A Várható zárási dátum egy dátum típusú mező."
+
+#: src/Integrations/Amocrm/Bootstrap.php:601
+msgid "Expected purchase value is a required number type field."
+msgstr "A várható vásárlási érték egy kötelező szám típusú mező."
+
+#: src/Components/NetPromoterScore.php:40
+msgid "Extremely Likely"
+msgstr "Nagyon valószínű"
+
+#: src/Integrations/Insightly/Bootstrap.php:909
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/Integrations/Insightly/Bootstrap.php:911
+msgid "Facebook is a string type field."
+msgstr "A Facebook egy string típusú mező."
+
+#: src/Payments/PaymentHelper.php:525
+msgid "Failed"
+msgstr "Sikertelen"
+
+#: src/Payments/AjaxEndpoints.php:115
+msgid "Failed to save settings"
+msgstr "Nem sikerült menteni a beállításokat"
+
+#: src/Payments/PaymentHelper.php:942
+msgid "failing"
+msgstr "hibás"
+
+#: src/Integrations/Insightly/Bootstrap.php:805
+msgid "FAX"
+msgstr "Fax"
+
+#: src/Integrations/Insightly/Bootstrap.php:673
+msgid "Fax"
+msgstr "Fax"
+
+#: src/Integrations/Insightly/Bootstrap.php:807
+msgid "FAX is a string type field."
+msgstr "A FAX egy karakterlánc típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:675
+msgid "Fax is a string type field."
+msgstr "A Fax egy string típusú mező."
+
+#: src/Integrations/IContact/Bootstrap.php:267
+msgid "Fax Number"
+msgstr "Fax szám"
+
+#: src/Integrations/Insightly/Bootstrap.php:425
+msgid "FAX Phone"
+msgstr "FAX Telefon"
+
+#: src/Integrations/Insightly/Bootstrap.php:427
+msgid "FAX Phone is a string type field."
+msgstr "A FAX telefon egy karakterlánc típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:245
+#: src/Integrations/Discord/Bootstrap.php:74
+#: src/Integrations/Amocrm/Bootstrap.php:265
+#: src/Integrations/Mailjet/Bootstrap.php:246
+#: src/Integrations/CleverReach/Bootstrap.php:231
+#: src/Integrations/Mailster/Bootstrap.php:159
+#: src/Integrations/OnePageCrm/Bootstrap.php:247
+#: src/Integrations/Salesforce/Bootstrap.php:266
+#: src/Integrations/Airtable/Bootstrap.php:265
+msgid "Feed Name"
+msgstr "Hírcsatorna neve"
+
+#: src/Integrations/WebHook/Client.php:98
+msgid "Feed Name is required"
+msgstr "Hírcsatorna neve szükséges"
+
+#: src/Integrations/WebHook/Client.php:63
+msgid "Feed successfully created"
+msgstr "A hírcsatorna sikeresen létrehozva"
+
+#: src/Integrations/WebHook/Client.php:60
+msgid "Feed successfully updated"
+msgstr "A hírcsatorna sikeresen frissült"
+
+#: src/Components/RepeaterField.php:105
+msgid "Field Columns which a user will be able to repeat."
+msgstr "Mezőoszlopok, amelyeket a felhasználó megismételhet."
+
+#: src/Integrations/WebHook/Client.php:107
+msgid "Field name is required"
+msgstr "Mezőnév szükséges"
+
+#: src/Integrations/Aweber/Bootstrap.php:226
+#: src/Integrations/Drip/Bootstrap.php:213
+#: src/Integrations/Insightly/Bootstrap.php:340
+#: src/Integrations/Insightly/Bootstrap.php:625
+#: src/Integrations/Sendinblue/Bootstrap.php:192
+#: src/Integrations/Amocrm/Bootstrap.php:452
+#: src/Integrations/ActiveCampaign/Bootstrap.php:201
+#: src/Integrations/Platformly/Bootstrap.php:205
+#: src/Integrations/IContact/Bootstrap.php:231
+#: src/Integrations/OnePageCrm/Bootstrap.php:345
+msgid "First Name"
+msgstr "Keresztnév"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:347
+msgid "First Name is a required string type field."
+msgstr "A keresztnév egy kötelező karakterlánc típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:342
+#: src/Integrations/Insightly/Bootstrap.php:627
+msgid "First Name is a string type field."
+msgstr "A keresztnév egy string típusú mező."
+
+#: src/Integrations/Amocrm/Bootstrap.php:454
+msgid "First name is a string type field."
+msgstr "A keresztnév egy string típusú mező."
+
+#. Author of the plugin
+msgid "Fluent Forms"
+msgstr "WP Fluent Forms"
+
+#: libs/ff_plugin_updater/ff-fluentform-pro-update.php:42
+msgid "Fluent Forms Pro Add On"
+msgstr "Fluent Forms Pro Add On"
+
+#. Name of the plugin
+msgid "Fluent Forms Pro Add On Pack"
+msgstr "Fluent Forms Pro kiegészítő csomag"
+
+#: libs/ff_plugin_updater/ff-fluentform-pro-update.php:44
+msgid "Fluent Forms Pro License"
+msgstr "Fluent Forms Pro Liszensz"
+
+#: src/Integrations/Discord/Bootstrap.php:104
+msgid "Footer"
+msgstr "Lábléc"
+
+#: src/classes/AddressAutoComplete.php:87
+msgid "For address autocomplete feature you may setup google map API details"
+msgstr ""
+"A cím automatikus kitöltése funkcióhoz beállíthatja a google map API adatait"
+
+#: src/Integrations/Insightly/Bootstrap.php:564
+msgid "Forecast Close Date"
+msgstr "Előrejelzés Zárás dátuma"
+
+#: src/Integrations/Insightly/Bootstrap.php:566
+msgid "Forecast Close Date is a date type field on y-m-d."
+msgstr "Az előrejelzés zárónapja egy dátumtípusú mező y-m-d értéken."
+
+#: src/Integrations/CleverReach/Bootstrap.php:254
+msgid "Form Field"
+msgstr "Űrlapmező"
+
+#: src/classes/AdvancedFormValidation.php:31
+msgid "Form validation has been failed"
+msgstr "Az űrlap érvényesítése nem sikerült"
+
+#: src/Payments/PaymentHelper.php:834
+msgid ""
+"Free for {trial_days} days then {subscription_amount} for each "
+"{billing_interval}"
+msgstr ""
+"Ingyenes {trial_days} napig, majd {subscription_amount} minden egyes "
+"{billing_interval} nap után"
+
+#: src/Payments/PaymentHandler.php:417
+msgid "From Subscriptions"
+msgstr "Előfizetésekből"
+
+#: src/Payments/PaymentMethods/Stripe/API/Plan.php:32
+#: src/Payments/PaymentMethods/Stripe/API/Customer.php:37
+msgid "General Error"
+msgstr "Általános hiba"
+
+#: src/Integrations/GetGist/Bootstrap.php:49
+msgid "GetGist API Key"
+msgstr "GetGist API kulcs"
+
+#: src/Integrations/GetGist/Bootstrap.php:39
+msgid "GetGist Settings"
+msgstr "GetGist beállítások"
+
+#: src/Integrations/GetResponse/Bootstrap.php:105
+msgid "GetResponse API Key"
+msgstr "GetResponse API kulcs"
+
+#: src/Integrations/GetResponse/Bootstrap.php:95
+msgid "GetResponse API Settings"
+msgstr "GetResponse API-beállítások"
+
+#: src/Integrations/GetResponse/Bootstrap.php:96
+msgid ""
+"GetResponse is an email marketing platform. It enables you to send email "
+"newsletters, campaigns, online surveys and follow-up autoresponders. Simple, "
+"easy interface. Use Fluent Forms to collect customer information and "
+"automatically add it to your GetResponse list. If you don't have a "
+"GetResponse account, you can <a href=\"https://www.getresponse.com/\" "
+"target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+"A GetResponse egy e-mail marketing platform. Lehetővé teszi e-mail "
+"hírlevelek, kampányok, online felmérések és utólagos automatikus "
+"válaszküldések küldését. Egyszerű, könnyű kezelőfelület. Használja a Fluent "
+"Forms-t az ügyféladatok gyűjtéséhez és automatikus hozzáadásához a "
+"GetResponse listájához. Ha még nincs GetResponse-fiókja, <a href=\"https://"
+"www.getresponse.com/\" target=\"_blank\">itt regisztrálhat.</a>"
+
+#: src/classes/AddressAutoComplete.php:88
+msgid "Google Map API is set."
+msgstr "A Google Map API be van állítva."
+
+#: src/classes/AddressAutoComplete.php:96
+msgid "Google Map API Key"
+msgstr "Google Map API kulcs"
+
+#: src/classes/AddressAutoComplete.php:132
+msgid "Google Map Api key has been saved"
+msgstr "A Google Map Api kulcs el lett mentve"
+
+#: src/classes/AddressAutoComplete.php:89
+msgid "Google Map API key is not valid"
+msgstr "A Google Map API kulcsa nem érvényes"
+
+#: src/classes/AddressAutoComplete.php:86
+msgid "Google Map Integration Settings"
+msgstr "Google Térkép integráció beállításai"
+
+#: src/Integrations/GoogleSheet/Bootstrap.php:43
+msgid "Google Sheets"
+msgstr "Google táblázatok"
+
+#: src/Payments/PaymentHelper.php:497
+msgid "Guinean Franc"
+msgstr "Guineai frank"
+
+#: src/Payments/PaymentHandler.php:428
+msgid "has been refunded via"
+msgstr "visszatérítésre került a"
+
+#: src/Integrations/WebHook/Client.php:111
+msgid "Header name is required"
+msgstr "Fejlécnév szükséges"
+
+#: src/classes/Inventory/InventorySettingsManager.php:144
+msgid "Hide Choice When Stock is Out"
+msgstr "Rejtsd el a választást, ha elfogyott a készlet"
+
+#: src/classes/Inventory/InventorySettingsManager.php:153
+msgid "Hide Input When Stock is Out"
+msgstr "Bemenet elrejtése, ha a készlet elfogyott"
+
+#: src/Integrations/Insightly/Bootstrap.php:401
+msgid "Home Phone"
+msgstr "Otthoni telefon"
+
+#: src/Integrations/Insightly/Bootstrap.php:403
+msgid "Home Phone is a string type field."
+msgstr "Az otthoni telefon egy karakterlánc típusú mező."
+
+#. Author URI of the plugin
+msgid "https://wpfluentforms.com"
+msgstr "https://wpfluentforms.com"
+
+#. URI of the plugin
+msgid "https://wpfluentforms.com/"
+msgstr "https://wpfluentforms.com/"
+
+#: src/Integrations/Hubspot/Bootstrap.php:49
+msgid "Hubspot Access Token"
+msgstr "Hubspot Access Token"
+
+#: src/Integrations/Hubspot/Bootstrap.php:39
+msgid "Hubspot API Settings"
+msgstr "HubSpot API-beállítások"
+
+#: src/Integrations/Hubspot/Bootstrap.php:40
+msgid ""
+"Hubspot is a CRM software. Use Fluent Forms to collect customer information "
+"and automatically add to Hubspot. Please login to your Hubspot account and "
+"Create a new private app with scope <b>crm.schemas.contacts.read</b> and "
+"copy your token, check this <a href=\"https://wpmanageninja.com/docs/fluent-"
+"form/integrations-available-in-wp-fluent-form/hubspot-integration-with-wp-"
+"fluent-form-wordpress-plugin/\" target=\"_blank\">link</a> for details. If "
+"you have pro version also check <b>contacts-lists-access</b> scope"
+msgstr ""
+"A Hubspot egy CRM szoftver. Használja a Fluent Forms-t az ügyféladatok "
+"gyűjtéséhez és automatikus hozzáadásához a Hubspothoz. Kérjük, jelentkezzen "
+"be a Hubspot-fiókjába, és hozzon létre egy új privát alkalmazást <b>crm."
+"schemas.contacts.</b> read hatókörrel, és másolja le a tokent, a "
+"részletekért nézze meg ezt a <a href=\"https://wpmanageninja.com/docs/fluent-"
+"form/integrations-available-in-wp-fluent-form/hubspot-integration-with-wp-"
+"fluent-form-wordpress-plugin/\" target=\"_blank\">linket</a>. Ha pro "
+"verzióval rendelkezik, ellenőrizze a <b>contacts-lists-access</b> scope-t is"
+
+#: src/Integrations/IContact/Bootstrap.php:39
+msgid "iContact API Settings"
+msgstr "iContact API beállítások"
+
+#: src/Integrations/IContact/Bootstrap.php:40
+msgid ""
+"iContact is an email marketing platform to send email newsletters to your "
+"customers, manage your<br />subscriber lists, and track campaign "
+"performance. Use Fluent Forms to collect customer information<br />and "
+"automatically add it to your iContact list. If you don't have an iContact "
+"account,<br />you can <a href=\"https://www.icontact.com/\" "
+"target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+"az iContact egy e-mail marketing platform, amellyel e-mail hírleveleket "
+"küldhet ügyfeleinek, kezelheti a<br />feliratkozói listákat, és nyomon "
+"követheti a kampányok teljesítményét. A Fluent Forms segítségével gyűjtse "
+"össze az ügyfelek adatait<br />és automatikusan adja hozzá az iContact "
+"listájához. Ha még nincs iContact-fiókja, a<br />oldalon <a href=\"https://"
+"www.icontact.com/\" target=\"_blank\">itt regisztrálhat.</a>"
+
+#: src/views/receipt/transactions_table.php:6
+msgid "ID"
+msgstr "ID"
+
+#: src/Integrations/Insightly/Bootstrap.php:681
+msgid "Industry"
+msgstr "Iparág"
+
+#: src/Integrations/Insightly/Bootstrap.php:683
+msgid "Industry is a string type field."
+msgstr "Az Industry egy string típusú mező."
+
+#: src/Integrations/Discord/Bootstrap.php:98
+msgid "Input Fields"
+msgstr "Beviteli mezők"
+
+#: src/Integrations/Insightly/Bootstrap.php:125
+#: src/Integrations/Insightly/Bootstrap.php:127
+msgid "Insightly API Key"
+msgstr "Insightly API kulcs"
+
+#: src/Integrations/Insightly/Bootstrap.php:119
+#: src/Integrations/Insightly/Bootstrap.php:121
+msgid "Insightly API URL"
+msgstr "Insightly API URL"
+
+#: src/Integrations/Insightly/Bootstrap.php:209
+msgid ""
+"Insightly is not configured yet! Please configure your Insightly API first"
+msgstr ""
+"Az Insightly még nincs konfigurálva! Kérjük, először konfigurálja az "
+"Insightly API-t"
+
+#: src/Integrations/Insightly/Bootstrap.php:252
+msgid "Insightly Services"
+msgstr "Insightly szolgáltatások"
+
+#: src/Integrations/Insightly/Bootstrap.php:110
+msgid "Insightly Settings"
+msgstr "Insightly beállítások"
+
+#: src/Integrations/Pipedrive/Bootstrap.php:202
+msgid "Invalid Api Token"
+msgstr "Érvénytelen Api token"
+
+#: src/Payments/PaymentMethods/PayPal/PayPalProcessor.php:610
+msgid "Invalid Payment Transaction"
+msgstr "Érvénytelen fizetési tranzakció"
+
+#: src/Payments/Classes/PaymentReceipt.php:116
+msgid "Invalid submission. No receipt found"
+msgstr "Érvénytelen beküldés. Nem található nyugta"
+
+#: src/classes/Inventory/InventorySettingsManager.php:171
+msgid "Inventory Label"
+msgstr "Leltárcímke"
+
+#: src/classes/Inventory/InventorySettingsManager.php:117
+#: src/classes/Inventory/InventorySettingsManager.php:126
+msgid "Inventory Quantity"
+msgstr "Készlet Mennyiség"
+
+#: src/classes/Inventory/InventorySettingsManager.php:98
+msgid "Inventory Settings"
+msgstr ""
+
+#: src/Integrations/Amocrm/Bootstrap.php:694
+msgid "Is Discussable"
+msgstr "Megvitatható"
+
+#: src/Integrations/Amocrm/Bootstrap.php:696
+msgid "Is discussable is a bool type field."
+msgstr "A Is discussable egy bool típusú mező."
+
+#: src/Integrations/Amocrm/Bootstrap.php:566
+msgid "Is Task Completed"
+msgstr "Befejezett feladat"
+
+#: src/Integrations/Amocrm/Bootstrap.php:568
+msgid "Is Task Completed is a bool type field."
+msgstr "Az Is Task Completed egy bool típusú mező."
+
+#: src/Payments/PaymentHandler.php:102
+#: src/views/receipt/order_items_table.php:4
+#: src/views/receipt/subscriptions_table.php:4
+msgid "Item"
+msgstr "Tétel"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:649
+msgid "Item Description"
+msgstr "Tétel leírása"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:651
+msgid "Item Description is a string type field."
+msgstr "A tétel leírása egy karakterlánc típusú mező."
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:641
+msgid "Item Name"
+msgstr "Tétel neve"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:643
+#: src/Integrations/OnePageCrm/Bootstrap.php:673
+msgid "Item Name is a string type field."
+msgstr "Az elem neve egy string típusú mező."
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:657
+msgid "Item Price"
+msgstr "A termék ára"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:659
+msgid "Item Price is a int type field."
+msgstr "A tétel ára egy int típusú mező."
+
+#: src/Payments/Components/ItemQuantity.php:76
+msgid "Item Quantity"
+msgstr "Cikk mennyisége"
+
+#: src/classes/StepFormEntries.php:387
+msgid "Item Successfully deleted"
+msgstr "Az elem törlése sikeresen megtörtént"
+
+#: src/Payments/PaymentHelper.php:498
+msgid "Japanese Yen"
+msgstr "Japán jen"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:361
+msgid "Job Title"
+msgstr "Pozíció megnevezése"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:363
+msgid "Job Title is a string type field."
+msgstr "A Job Title egy string típusú mező."
+
+#: src/classes/SharePage/SharePage.php:38
+msgid "Landing Page"
+msgstr "Landoló oldal"
+
+#: src/Integrations/Aweber/Bootstrap.php:231
+#: src/Integrations/Drip/Bootstrap.php:218
+#: src/Integrations/Insightly/Bootstrap.php:348
+#: src/Integrations/Insightly/Bootstrap.php:633
+#: src/Integrations/Sendinblue/Bootstrap.php:197
+#: src/Integrations/Amocrm/Bootstrap.php:460
+#: src/Integrations/ActiveCampaign/Bootstrap.php:206
+#: src/Integrations/Platformly/Bootstrap.php:210
+#: src/Integrations/IContact/Bootstrap.php:235
+#: src/Integrations/OnePageCrm/Bootstrap.php:353
+msgid "Last Name"
+msgstr "Vezetéknév"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:355
+msgid "Last Name is a required string type field."
+msgstr "A vezetéknév egy kötelező karakterlánc típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:350
+#: src/Integrations/Insightly/Bootstrap.php:635
+msgid "Last Name is a string type field."
+msgstr ""
+
+#: src/Integrations/Amocrm/Bootstrap.php:462
+msgid "Last name is a string type field."
+msgstr "A vezetéknév egy string típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:689
+msgid "Lead Description"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:691
+msgid "Lead Description is a string type field."
+msgstr ""
+
+#: src/Integrations/Amocrm/Bootstrap.php:376
+msgid "Lead Name"
+msgstr "Vezető neve"
+
+#: src/Integrations/Amocrm/Bootstrap.php:378
+msgid "Lead name is a required string type field."
+msgstr "A vezető neve egy kötelező string típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:697
+msgid "Lead Rating"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:699
+msgid "Lead Rating is a number type field."
+msgstr ""
+
+#: src/Integrations/Amocrm/Bootstrap.php:383
+#: src/Integrations/Amocrm/Bootstrap.php:384
+msgid "Lead Sale"
+msgstr "Lead Sale"
+
+#: src/Integrations/Amocrm/Bootstrap.php:386
+msgid "Lead Sale is a int type field."
+msgstr "A Lead Sale egy int típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:1144
+msgid "Lead Source"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:1146
+msgid "Lead Source is a required select type field."
+msgstr ""
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:535
+msgid "Lead Source is a select type field."
+msgstr "A Lead Source egy select típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:1114
+msgid "Lead Status"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:1116
+msgid "Lead Status is a required select type field."
+msgstr ""
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:420
+msgid "License deactivated"
+msgstr "Licenc kikapcsolva"
+
+#: src/Payments/PaymentHandler.php:105
+#: src/views/receipt/order_items_table.php:7
+msgid "Line Total"
+msgstr "Tételsor összesen"
+
+#: src/Integrations/Amocrm/Bootstrap.php:506
+msgid "Link elements can to the multiple list is a bool type field."
+msgstr ""
+
+#: src/Integrations/Amocrm/Bootstrap.php:504
+msgid "Link elements to multiple list"
+msgstr "Link elemek több listához"
+
+#: src/Integrations/Insightly/Bootstrap.php:901
+msgid "LinkedIn"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:903
+msgid "LinkedIn is a string type field."
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:369
+msgid "LinkedIn URL"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:371
+msgid "LinkedIn URL is a string type field."
+msgstr ""
+
+#: src/Integrations/Amocrm/Bootstrap.php:617
+msgid "List element name"
+msgstr "Listaelem neve"
+
+#: src/Integrations/Amocrm/Bootstrap.php:619
+msgid "List element name is a required string type field."
+msgstr "A listaelem neve kötelező string típusú mező."
+
+#: src/Integrations/Amocrm/Bootstrap.php:486
+msgid "List Name"
+msgstr "Lista neve"
+
+#: src/Integrations/Amocrm/Bootstrap.php:488
+msgid "List name is a required string type field."
+msgstr "A listanév egy kötelező string típusú mező."
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:169
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:170
+msgid "Live API Key"
+msgstr "Élő API kulcs"
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:178
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:179
+msgid "Live API Secret"
+msgstr "Élő API titok"
+
+#: src/Payments/PaymentMethods/PayPal/PayPalProcessor.php:244
+msgid "Looks like you have cancelled the payment"
+msgstr "Úgy tűnik, lemondta a kifizetést"
+
+#: src/Payments/PaymentMethods/Stripe/StripeProcessor.php:305
+#: src/Payments/PaymentMethods/RazorPay/RazorPayProcessor.php:180
+msgid "Looks like you have cancelled the payment. Please try again!"
+msgstr "Úgy tűnik, lemondtad a fizetést. Próbálkozz újra!"
+
+#: src/Payments/PaymentMethods/BaseProcessor.php:572
+msgid "Looks like you have is still on pending status"
+msgstr "Úgy néz ki, mintha még mindig függőben lenne"
+
+#: src/Integrations/MailerLite/Bootstrap.php:48
+msgid "MailerLite API Key"
+msgstr "MailerLite API kulcs"
+
+#: src/Integrations/MailerLite/Bootstrap.php:38
+msgid "MailerLite Settings"
+msgstr "MailerLite beállítások"
+
+#: src/Integrations/Mailjet/Bootstrap.php:120
+#: src/Integrations/Mailjet/Bootstrap.php:122
+msgid "Mailjet API Key"
+msgstr "Mailjet API kulcs"
+
+#: src/Integrations/Mailjet/Bootstrap.php:211
+msgid "Mailjet is not configured yet! Please configure your Mailjet API first"
+msgstr ""
+"A Mailjet még nincs konfigurálva! Kérjük, először konfigurálja a Mailjet API-"
+"t"
+
+#: src/Integrations/Mailjet/Bootstrap.php:126
+#: src/Integrations/Mailjet/Bootstrap.php:128
+msgid "Mailjet Secret Key"
+msgstr "Mailjet titkos kulcs"
+
+#: src/Integrations/Mailjet/Bootstrap.php:253
+msgid "Mailjet Services"
+msgstr "Mailjet szolgáltatások"
+
+#: src/Integrations/Mailjet/Bootstrap.php:111
+msgid "Mailjet Settings"
+msgstr "Mailjet beállítások"
+
+#: src/Integrations/Mailster/Bootstrap.php:166
+msgid "Mailster Lists"
+msgstr "Mailster listák"
+
+#: src/Payments/PaymentHelper.php:501
+msgid "Malagasy Ariary"
+msgstr "Madagaszkári Ariary"
+
+#: src/Integrations/Mailster/Bootstrap.php:266
+msgid "Map Custom fields according with Fluent Forms fields."
+msgstr "Egyéni mezők hozzárendelése a Fluent Forms mezőkhöz."
+
+#: src/Integrations/CleverReach/Bootstrap.php:249
+msgid "Map Fields"
+msgstr "Térkép mezők"
+
+#: src/Integrations/Salesforce/Bootstrap.php:466
+msgid "Map fields according with Fluent Forms fields."
+msgstr "Mezők leképezése a Fluent Forms mezőkkel."
+
+#: src/Components/Post/Components/FeaturedImage.php:58
+msgid "Maximum file size limit is 1MB"
+msgstr "A maximális fájlméret-korlát 1 MB"
+
+#: src/Payments/Components/CustomPaymentComponent.php:75
+#: src/Payments/Components/ItemQuantity.php:70
+msgid "Maximum value is "
+msgstr "Maximális érték "
+
+#: src/Components/SaveProgressButton.php:116
+msgid "Message to show after saving form state."
+msgstr "Az űrlap állapotának mentése után megjelenő üzenet."
+
+#: src/Payments/Components/CustomPaymentComponent.php:71
+#: src/Payments/Components/ItemQuantity.php:66
+msgid "Minimum value is "
+msgstr "Minimumérték "
+
+#: src/Integrations/Insightly/Bootstrap.php:705
+msgid "Mobile"
+msgstr "Mobil"
+
+#: src/Integrations/Insightly/Bootstrap.php:707
+msgid "Mobile is a string type field."
+msgstr "A Mobile egy string típusú mező."
+
+#: src/Components/PhoneField.php:58
+msgid "Mobile Number"
+msgstr "Mobilszám"
+
+#: src/Integrations/Insightly/Bootstrap.php:409
+msgid "Mobile Phone"
+msgstr "Mobiltelefon"
+
+#: src/Integrations/Insightly/Bootstrap.php:411
+msgid "Mobile Phone is a string type field."
+msgstr ""
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:136
+msgid "Modal Theme Color"
+msgstr ""
+
+#: src/Payments/PaymentMethods/Mollie/MollieHandler.php:40
+msgid "Mollie"
+msgstr "Mollie"
+
+#: src/Payments/PaymentMethods/Mollie/MollieProcessor.php:189
+msgid "Mollie Error: Mollie does not support subscriptions right now!"
+msgstr "Mollie Error: Mollie jelenleg nem támogatja az előfizetéseket!"
+
+#: src/Payments/PaymentMethods/Mollie/MollieHandler.php:73
+#, fuzzy
+#| msgid "Mollie API Key is required"
+msgid "Mollie Live API Key is required"
+msgstr "Mollie API kulcs szükséges"
+
+#: src/Payments/PaymentMethods/Mollie/MollieHandler.php:69
+msgid "Mollie Test API Key is required"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:932
+msgid "month"
+msgstr "hónap"
+
+#: src/Payments/Components/Subscription.php:63
+msgid "Monthly Plan"
+msgstr "Havi csomag"
+
+#: src/Integrations/MooSend/Bootstrap.php:48
+msgid "MooSend API Key"
+msgstr "MooSend API kulcs"
+
+#: src/Integrations/MooSend/Bootstrap.php:38
+msgid "MooSend API Settings"
+msgstr "MooSend API-beállítások"
+
+#: src/Integrations/MooSend/Bootstrap.php:39
+msgid ""
+"MooSend is email marketing software. Use Fluent Forms to collect customer "
+"information and automatically add it as MooSend subscriber list."
+msgstr ""
+"A MooSend egy e-mail marketing szoftver. Használja a Fluent Forms-t az "
+"ügyféladatok gyűjtéséhez és automatikus hozzáadásához a MooSend feliratkozói "
+"listához."
+
+#: src/Components/Post/EditorSettings.php:102
+msgid "Multi-Select"
+msgstr "Több választási lehetőség"
+
+#: src/Components/NetPromoterScore.php:19
+#: src/Components/NetPromoterScore.php:38
+#: src/Components/NetPromoterScore.php:69
+msgid "Net Promoter Score"
+msgstr "Hálózati ajánló pontozás"
+
+#: src/classes/SharePage/SharePage.php:170
+msgid "No Access"
+msgstr "Nincs hozzáférés"
+
+#: src/Payments/Components/PaymentMethods.php:146
+msgid ""
+"No activated payment method found. If you are an admin please check the "
+"payment settings"
+msgstr ""
+"Nem található aktivált fizetési mód. Ha Ön rendszergazda, kérjük, "
+"ellenőrizze a fizetési beállításokat"
+
+#: src/Payments/PaymentHandler.php:107
+msgid "No payment item selected yet"
+msgstr "Még nincs kiválasztva kifizetési tétel"
+
+#: src/Payments/TransactionShortcodes.php:80
+msgid "No subscription payments found"
+msgstr "Nem találtak előfizetési kifizetéseket"
+
+#: src/Components/NetPromoterScore.php:39
+msgid "Not at all Likely"
+msgstr "Egyáltalán nem valószínű"
+
+#: src/Integrations/Airtable/Bootstrap.php:354
+msgid "Not configured."
+msgstr ""
+
+#: src/classes/Quiz/QuizScoreComponent.php:124
+msgid "Not Graded"
+msgstr "Nincsen értékelve"
+
+#: src/Payments/PaymentHandler.php:429
+msgid "Note"
+msgstr "Megjegyzés"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:671
+msgid "Note Details"
+msgstr "Megjegyzés részletei"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:49
+msgid "Number From"
+msgstr "Számtól"
+
+#: src/Integrations/Insightly/Bootstrap.php:729
+msgid "Number Of Employees"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:731
+msgid "Number Of Employees is a string type field."
+msgstr ""
+
+#: src/Payments/Classes/PaymentReceipt.php:71
+#: src/Payments/Classes/PaymentReceipt.php:173
+#: src/Payments/PaymentMethods/Offline/OfflineHandler.php:30
+#: src/Payments/PaymentMethods/Offline/OfflineHandler.php:78
+msgid "Offline"
+msgstr "Offline"
+
+#: src/Payments/PaymentMethods/Offline/OfflineHandler.php:39
+msgid "Offline Payment"
+msgstr "Offline fizetés"
+
+#: src/Payments/PaymentHelper.php:835
+msgid "One time payment of {first_interval_total}"
+msgstr "Egyszeri kifizetés {first_interval_total}"
+
+#: src/Payments/PaymentMethods/Stripe/StripeInlineProcessor.php:345
+msgid "One time Payment Successfully made via Stripe. Charge ID: "
+msgstr ""
+"Egyszeri fizetés Sikeresen teljesítve a Stripe-on keresztül. Terhelés "
+"azonosítója: "
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:102
+#: src/Integrations/OnePageCrm/Bootstrap.php:104
+msgid "OnePageCrm Api Key"
+msgstr "OnePageCrm Api kulcs"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:218
+msgid ""
+"OnePageCRM is not configured yet! Please configure your OnePageCRM api first"
+msgstr ""
+"A OnePageCRM még nincs konfigurálva! Kérjük, először konfigurálja a "
+"OnePageCRM api-t"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:254
+msgid "OnePageCRM Services"
+msgstr "OnePageCRM szolgáltatások"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:87
+msgid "OnePageCrm Settings"
+msgstr "OnePageCrm beállítások"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:96
+#: src/Integrations/OnePageCrm/Bootstrap.php:98
+msgid "OnePageCrm User ID"
+msgstr "OnePageCrm felhasználói azonosító"
+
+#: src/Integrations/Insightly/Bootstrap.php:1174
+msgid "Opportunity Category"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:1176
+msgid "Opportunity Category is a select type field."
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:540
+#: src/Integrations/Insightly/Bootstrap.php:541
+msgid "Opportunity Details"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:543
+msgid "Opportunity Details is a string type field."
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:532
+#: src/Integrations/Insightly/Bootstrap.php:533
+msgid "Opportunity Name"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:535
+msgid "Opportunity Name is a string type field."
+msgstr ""
+
+#: src/Payments/PaymentHandler.php:408
+#: src/Payments/Classes/PaymentReceipt.php:124
+msgid "Order Details"
+msgstr "Rendelési adatok"
+
+#: src/views/receipt/payment_info.php:3
+msgid "Order ID:"
+msgstr "Rendelés ID:"
+
+#: src/Integrations/Insightly/Bootstrap.php:1397
+msgid "Organisation"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:1399
+msgid "Organisation is a select type field."
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:657
+#: src/Integrations/Insightly/Bootstrap.php:781
+msgid "Organisation Name"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:659
+#: src/Integrations/Insightly/Bootstrap.php:783
+msgid "Organisation Name is a string type field."
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:361
+msgid "Organisation Title"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:363
+msgid "Organisation Title is a string type field."
+msgstr ""
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:216
+msgid "Organization Name"
+msgstr "Szervezet neve"
+
+#: src/Integrations/Insightly/Bootstrap.php:497
+msgid "Other City"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:499
+msgid "Other City is a string type field."
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:521
+msgid "Other Country"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:523
+msgid "Other Country is a string type field."
+msgstr ""
+
+#: src/Integrations/Salesforce/Bootstrap.php:465
+msgid "Other Fields"
+msgstr "Egyéb mezők"
+
+#: src/Integrations/Insightly/Bootstrap.php:417
+msgid "Other Phone"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:419
+msgid "Other Phone is a string type field."
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:513
+msgid "Other Post Code"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:515
+msgid "Other Post Code is a string type field."
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:505
+msgid "Other State"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:507
+msgid "Other State is a string type field."
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:489
+msgid "Other Street Address"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:491
+msgid "Other Street Address is a string type field."
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:1276
+msgid "Owner User"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:1278
+msgid "Owner User is a select type field."
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:522
+msgid "Paid"
+msgstr "Kifizetve"
+
+#: src/Payments/PaymentHelper.php:502
+msgid "Paraguayan Guaraní"
+msgstr "Paraguayi Guaraní"
+
+#: src/classes/StepFormEntries.php:84
+msgid "Partial Entries"
+msgstr "Részleges tételek"
+
+#: src/Payments/PaymentHelper.php:527
+msgid "Partial Refunded"
+msgstr "Részleges visszaváltás"
+
+#: src/Integrations/Discord/Bootstrap.php:82
+msgid ""
+"Paste your webhook url here. Click \"Edit Channel\" cog and create your "
+"channel webhook from integrations."
+msgstr ""
+"Illessze be ide a webhook url-jét. Kattintson a \"Csatorna szerkesztése\" "
+"gombra, és hozza létre a csatorna webhookját az integrációk közül."
+
+#: src/Payments/PaymentMethods/Stripe/Components/StripeInline.php:46
+msgid "Pay with Stripe"
+msgstr "Fizetés Stripe-pal"
+
+#: src/Payments/PaymentMethods/PayPal/PayPalProcessor.php:242
+msgid "Payment Cancelled"
+msgstr "Fizetés visszautasítva"
+
+#: src/Payments/PaymentMethods/Stripe/API/Customer.php:20
+msgid "Payment data validation failed"
+msgstr "A fizetési adatok érvényesítése sikertelen"
+
+#: src/Payments/PaymentHandler.php:416
+msgid "Payment Details"
+msgstr "Fizetési adatok"
+
+#: src/Payments/PaymentMethods/BaseProcessor.php:367
+msgid "Payment Failed"
+msgstr "Fizetési hiba"
+
+#: src/Payments/PaymentMethods/Stripe/StripeInlineProcessor.php:294
+msgid "Payment Failed! Your card may have been declined."
+msgstr "Fizetés sikertelen! Lehet, hogy a kártyáját elutasították."
+
+#: src/Payments/Components/MultiPaymentComponent.php:79
+msgid "Payment Field"
+msgstr "Kifizetési mező"
+
+#: src/Payments/PaymentMethods/PayPal/PayPalProcessor.php:234
+msgid "Payment is not marked as paid yet. "
+msgstr "A kifizetés nem volt megjelölve fizetettként. "
+
+#: src/Payments/Components/MultiPaymentComponent.php:51
+msgid "Payment Item"
+msgstr "Kifizetési tétel"
+
+#: src/Payments/PaymentHandler.php:422
+#: src/views/receipt/transactions_table.php:9
+msgid "Payment Method"
+msgstr "Fizetési módszer"
+
+#: src/views/receipt/payment_info.php:16
+#: src/views/receipt/transaction_info.php:12
+#: src/views/receipt/payment_info_list.php:7
+msgid "Payment Method:"
+msgstr "Fizetési mód:"
+
+#: src/Payments/Components/PaymentMethods.php:105
+msgid "Payment Methods"
+msgstr "Fizetési módok"
+
+#: src/Payments/PaymentMethods/Paystack/PaystackProcessor.php:186
+#: src/Payments/PaymentMethods/RazorPay/RazorPayProcessor.php:334
+msgid "Payment Modal is opening, Please complete the payment"
+msgstr "Megnyílt a fizetési felület, kérjük, töltse ki a fizetést"
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:114
+msgid "Payment Mode"
+msgstr ""
+
+#: src/Payments/AjaxEndpoints.php:58
+msgid "Payment Module successfully enabled!"
+msgstr "A fizetési modul sikeresen engedélyezve van!"
+
+#: src/Payments/PaymentHandler.php:299
+msgid "Payment Settings"
+msgstr "Fizetési beállítások"
+
+#: src/Payments/PaymentHandler.php:420
+msgid "Payment Status"
+msgstr "Fizetési állapot"
+
+#: src/Payments/PaymentMethods/Stripe/StripeInlineProcessor.php:330
+msgid "Payment status changed to paid"
+msgstr "A fizetési státusz kifizetettre változott"
+
+#: src/views/receipt/payment_info.php:34
+#: src/views/receipt/transaction_info.php:24
+#: src/views/receipt/payment_info_list.php:23
+msgid "Payment Status:"
+msgstr "Fizetés állapota:"
+
+#: src/Payments/PaymentMethods/BaseProcessor.php:365
+msgid "Payment Success"
+msgstr "Sikeres fizetés"
+
+#: src/Payments/Components/PaymentSummaryComponent.php:64
+msgid "Payment Summary"
+msgstr "Fizetési összefoglaló"
+
+#: src/Payments/PaymentHandler.php:419
+msgid "Payment Total"
+msgstr "Fizetés Összesen"
+
+#: src/Payments/PaymentMethods/BaseProcessor.php:570
+msgid "Payment was not marked as paid"
+msgstr "A kifizetés nem volt megjelölve fizetettként"
+
+#: src/Payments/TransactionShortcodes.php:351
+msgid "Payments"
+msgstr "Fizetések"
+
+#: src/Payments/PaymentMethods/PayPal/PayPalHandler.php:43
+msgid "PayPal"
+msgstr "PayPal"
+
+#: src/Payments/PaymentMethods/PayPal/PayPalHandler.php:72
+#, fuzzy
+#| msgid "PayPal Email address is required"
+msgid "PayPal Email Address is required"
+msgstr "PayPal e-mail cím szükséges"
+
+#: src/Payments/PaymentMethods/PayPal/PayPalProcessor.php:451
+msgid ""
+"PayPal Error: PayPal does not support multiple subscriptions at one request"
+msgstr "PayPal hiba: PayPal nem támogatja a több előfizetést egy kéréssel"
+
+#: src/Payments/PaymentMethods/PayPal/PayPalProcessor.php:445
+msgid ""
+"PayPal Error: PayPal does not support subscriptions payment and single "
+"amount payment at one request"
+msgstr ""
+"PayPal hiba: PayPal nem támogatja az előfizetés és az egyszeri összeg "
+"kifizetését egy kéréssel"
+
+#: src/Payments/PaymentMethods/PayPal/API/IPN.php:229
+msgid "PayPal recurring payment subscription successfully initiated"
+msgstr "PayPal ismétlődő fizetési előfizetés sikeresen elindítva"
+
+#: src/Payments/PaymentMethods/Paystack/PaystackHandler.php:37
+msgid "Paystack"
+msgstr "Paystack"
+
+#: src/Payments/PaymentHelper.php:524
+msgid "Pending"
+msgstr "Függőben"
+
+#: src/Integrations/Insightly/Bootstrap.php:393
+#: src/Integrations/Insightly/Bootstrap.php:713
+#: src/Integrations/Insightly/Bootstrap.php:797
+msgid "Phone"
+msgstr "Telefon"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:416
+msgid "Phone is a select type field."
+msgstr "A telefon egy select típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:395
+#: src/Integrations/Insightly/Bootstrap.php:715
+#: src/Integrations/Insightly/Bootstrap.php:799
+#: src/Integrations/OnePageCrm/Bootstrap.php:434
+msgid "Phone is a string type field."
+msgstr "A telefon egy string típusú mező."
+
+#: src/Integrations/Aweber/Bootstrap.php:236
+#: src/Integrations/ActiveCampaign/Bootstrap.php:211
+#: src/Integrations/Platformly/Bootstrap.php:215
+#: src/Integrations/IContact/Bootstrap.php:263
+msgid "Phone Number"
+msgstr "Telefonszám"
+
+#: src/Components/PhoneField.php:81
+msgid "Phone number is not valid"
+msgstr "Érvénytelen telefonszám"
+
+#: src/Integrations/Pipedrive/Bootstrap.php:40
+msgid "Pipedrive API Settings"
+msgstr "Pipedrive API beállítások"
+
+#: src/Integrations/Pipedrive/Bootstrap.php:51
+msgid "Pipedrive API Token"
+msgstr "Pipedrive API token"
+
+#: src/Integrations/Pipedrive/Bootstrap.php:41
+msgid ""
+"Pipedrive is a deal-driven customer relationship management CRM solution "
+"that also works as an account-management tool with the ability to assist "
+"with marketing and the entire sales process. If you don't have an Pipedrive "
+"account, you can <a href=\"https://www.pipedrive.com/en/register\"  "
+"target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+"A Pipedrive egy üzletvezérelt ügyfélkapcsolat-kezelő CRM-megoldás, amely "
+"fiókkezelő eszközként is működik, és képes segíteni a marketinget és a "
+"teljes értékesítési folyamatot. Ha még nincs Pipedrive-fiókja, <a "
+"href=\"https://www.pipedrive.com/en/register\"  target=\"_blank\">itt "
+"regisztrálhat.</a>"
+
+#: src/Integrations/Insightly/Bootstrap.php:1307
+msgid "Pipeline"
+msgstr "Pipeline"
+
+#: src/Integrations/Insightly/Bootstrap.php:1309
+msgid "Pipeline is a select type field."
+msgstr "A Pipeline egy select típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:1337
+msgid "Pipeline Stage"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:1339
+msgid "Pipeline Stage is a select type field."
+msgstr ""
+
+#: src/Integrations/Platformly/Bootstrap.php:48
+msgid "Platformly API Key"
+msgstr "Platformly API kulcs"
+
+#: src/Integrations/Platformly/Bootstrap.php:38
+msgid "Platformly API Settings"
+msgstr "Platformly API beállítások"
+
+#: src/Integrations/Platformly/Bootstrap.php:39
+msgid ""
+"Platformly is an integrated email marketing, marketing automation, and small "
+"business CRM. Save time while growing your business with sales automation. "
+"Use Fluent Forms to collect customer information and automatically add it to "
+"your Platformly list. If you don't have an Platformly account, you can <a "
+"href=\"https://www.platform.ly/\" target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+"A Platformly egy integrált e-mail marketing, marketing automatizálás és "
+"kisvállalati CRM. Takarítson meg időt, miközben az értékesítés "
+"automatizálásával növelheti vállalkozását. Használja a Fluent Forms "
+"űrlapokat az ügyfelek adatainak összegyűjtéséhez és automatikus "
+"hozzáadásához a Platformly listájához. Ha még nincs Platformly-fiókja, <a "
+"href=\"https://www.platform.ly/\" target=\"_blank\">itt regisztrálhat.</a>"
+
+#: src/Integrations/Platformly/Bootstrap.php:55
+msgid "Platformly project id"
+msgstr "Platformly projekt id"
+
+#: src/classes/DoubleOptin.php:86
+msgid "Please check your email inbox to confirm this submission"
+msgstr "Kérjük, ellenőrizze az e-mail postaládáját a beküldés megerősítéséhez"
+
+#: src/Integrations/ZohoCRM/Bootstrap.php:73
+msgid "Please Choose your Zoho CRM Account URL"
+msgstr "Kérjük, válassza ki a Zoho CRM fiók URL címét"
+
+#: src/classes/DoubleOptin.php:229
+msgid "Please confirm your form submission"
+msgstr "Kérjük, erősítse meg űrlapbenyújtását"
+
+#: src/Integrations/WebHook/Client.php:117
+msgid "Please fix the errors"
+msgstr "Javítsd ki a hibákat"
+
+#: src/Payments/PaymentHandler.php:436
+msgid ""
+"Please note that, Actual Refund needs to be handled in your Payment Service "
+"Provider."
+msgstr ""
+"Kérjük, vegye figyelembe, hogy a tényleges visszatérítést a fizetési "
+"szolgáltatójánál kell lebonyolítani."
+
+#: src/classes/DraftSubmissionsManager.php:381
+msgid "Please provide a valid email address"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:168
+#: src/Integrations/Mailjet/Bootstrap.php:170
+#: src/Integrations/Airtable/Bootstrap.php:202
+msgid "Please provide all fields to integrate"
+msgstr ""
+
+#: src/Payments/PaymentMethods/Paystack/PaystackHandler.php:74
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:74
+msgid "Please provide Live API Key"
+msgstr ""
+
+#: src/Payments/PaymentMethods/Paystack/PaystackHandler.php:78
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:78
+#, fuzzy
+#| msgid "Please provide live API key and secret"
+msgid "Please provide Live API Secret"
+msgstr "Kérjük, adja meg az élő API kulcsot és titkot"
+
+#: src/Payments/PaymentHandler.php:437
+msgid "Please Provide new refund amount only."
+msgstr "Kérjük, csak az új visszatérítési összeget adja meg."
+
+#: src/Payments/PaymentMethods/Paystack/PaystackHandler.php:66
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:66
+msgid "Please provide Test API Key"
+msgstr ""
+
+#: src/Payments/PaymentMethods/Paystack/PaystackHandler.php:70
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:70
+#, fuzzy
+#| msgid "Please provide test API key and secret"
+msgid "Please provide Test API Secret"
+msgstr "Kérjük, adja meg a teszt API kulcsot és titkot"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:48
+msgid "Please Provide your ActiveCampaign API URL"
+msgstr "Kérjük, add meg ActiveCampaign API URL-t"
+
+#: src/Integrations/ClickSend/Bootstrap.php:55
+msgid "Please Provide your ClickSend Settings here"
+msgstr "Kérjük, adja meg a ClickSend beállításait itt"
+
+#: src/Integrations/Drip/Bootstrap.php:56
+msgid ""
+"Please Provide your Drip Account ID. Go to your Drip account settings -> "
+"general info and find the Account ID"
+msgstr ""
+"Kérjük, adja meg a Drip-fiók azonosítóját. Menjen a Drip-fiók beállításaihoz "
+"-> általános információk és keresse meg a fiók azonosítóját"
+
+#: src/Integrations/Platformly/Bootstrap.php:54
+msgid "Please Provide your Platformly project id"
+msgstr "Add meg a Platformly projekt ID-dat"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:40
+msgid "Please Provide your Twilio Settings here"
+msgstr "Kérjük, adja meg a Twilio beállításait itt"
+
+#: src/Components/Post/PopulatePostForm.php:118
+msgid "Please select a Post"
+msgstr "Kérjük, válasszon egy posztot"
+
+#: src/Payments/Components/PaymentMethods.php:106
+msgid ""
+"Please Select and Configure the payment methods for this form, At least 1 "
+"method is required. If you select only one it will not show on the form for "
+"selection but will process that payment with the selected method."
+msgstr ""
+"Válassza ki és konfigurálja a fizetési módokat ehhez az űrlaphoz, legalább 1 "
+"fizetési mód szükséges. Ha csak egyet választ ki, az nem jelenik meg az "
+"űrlapon a kiválasztáshoz, hanem a kiválasztott módszerrel dolgozza fel a "
+"kifizetést."
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:116
+msgid "Please Select Client Now"
+msgstr "Kérjük, válaszd ki az ügyfelet most"
+
+#: src/Payments/Classes/PaymentEntries.php:112
+msgid "Please select entries & action first"
+msgstr "Kérjük, először válassza ki a bejegyzéseket és az akciót"
+
+#: src/classes/StepFormEntries.php:414
+msgid "Please select entries first"
+msgstr ""
+
+#: src/Payments/PaymentMethods/PayPal/PayPalHandler.php:76
+#: src/Payments/PaymentMethods/Mollie/MollieHandler.php:64
+#: src/Payments/PaymentMethods/Paystack/PaystackHandler.php:61
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:61
+msgid "Please select Payment Mode"
+msgstr "Fizetési mód kiválasztása"
+
+#: src/Components/Post/AcfHelper.php:142
+msgid ""
+"Please select repeat field. Your ACF repeat and form field columns need to "
+"be equal"
+msgstr ""
+"Válassza az ismétlő mezőt. Az ACF ismétlő és űrlapmező-oszlopoknak "
+"egyenlőnek kell lennie"
+
+#: src/classes/Quiz/QuizController.php:328
+msgid "Point"
+msgstr "Pont"
+
+#: src/Integrations/Insightly/Bootstrap.php:473
+#: src/Integrations/Insightly/Bootstrap.php:761
+msgid "Post Code"
+msgstr "Irányítószám"
+
+#: src/Integrations/Insightly/Bootstrap.php:475
+#: src/Integrations/Insightly/Bootstrap.php:763
+msgid "Post Code is a string type field."
+msgstr "Az irányítószám egy string típusú mező."
+
+#: src/Components/Post/EditorSettings.php:127
+msgid "Post Feeds"
+msgstr ""
+
+#: src/Components/PostSelectionField.php:45
+msgid "Post Selection"
+msgstr "Poszt kiválasztás"
+
+#: src/Components/PostSelectionField.php:63
+msgid "Post/CPT Selection"
+msgstr "Post/CPT kiválasztása"
+
+#: src/classes/Inventory/InventoryController.php:24
+msgid ""
+"Powerful Inventory Management. Manage resources for events booking, "
+"reservations, or for selling products and tickets!"
+msgstr ""
+"Hatékony leltárkezelés. Kezelje az erőforrásokat rendezvények "
+"lefoglalásához, foglalásokhoz vagy termékek és jegyek értékesítéséhez!"
+
+#: src/Integrations/IContact/Bootstrap.php:227
+msgid "Prefix"
+msgstr "Előtag"
+
+#: src/Payments/PaymentHandler.php:103 src/Payments/PaymentHandler.php:415
+#: src/views/receipt/order_items_table.php:6
+msgid "Price"
+msgstr "Ár"
+
+#: src/Payments/Components/Subscription.php:70
+#: src/Payments/Components/MultiPaymentComponent.php:65
+msgid "Price:"
+msgstr "Ár:"
+
+#: src/Integrations/Insightly/Bootstrap.php:1019
+#: src/Integrations/Insightly/Bootstrap.php:1020
+msgid "Priority"
+msgstr "Prioritás"
+
+#: src/Integrations/Insightly/Bootstrap.php:1022
+msgid "Priority is a select type field."
+msgstr "A prioritás egy select típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:556
+msgid "Probability Of Winning"
+msgstr "A győzelem valószínűsége"
+
+#: src/Integrations/Insightly/Bootstrap.php:558
+msgid "Probability Of Winning is a integer type field."
+msgstr "A nyerési valószínűség egy integer típusú mező."
+
+#: src/Payments/PaymentHelper.php:523
+msgid "Processing"
+msgstr "Folyamatban"
+
+#: src/Payments/PaymentHandler.php:109
+msgid "Processing payment. Please wait..."
+msgstr "Fizetés feldolgozása. Kérjük várjon..."
+
+#: src/Payments/PaymentHandler.php:409
+msgid "Product"
+msgstr "Termék"
+
+#: src/Payments/Components/ItemQuantity.php:116
+msgid "Product Field Mapping"
+msgstr "Termékmező-leképezés"
+
+#: src/Integrations/Insightly/Bootstrap.php:1012
+msgid "Progress"
+msgstr "Folyamat"
+
+#: src/Integrations/Insightly/Bootstrap.php:1011
+msgid "Progress in Percentage"
+msgstr "Fejlődés százalékban"
+
+#: src/Integrations/Insightly/Bootstrap.php:1014
+msgid "Progress is a number type field."
+msgstr "A Progress egy szám típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:1204
+msgid "Project"
+msgstr "Projekt"
+
+#: src/Integrations/Insightly/Bootstrap.php:1367
+msgid "Project Category"
+msgstr "Projekt kategória"
+
+#: src/Integrations/Insightly/Bootstrap.php:1369
+msgid "Project Category is a select type field."
+msgstr "A projektkategória egy select típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:937
+msgid "Project Details"
+msgstr "Projekt részletek"
+
+#: src/Integrations/Insightly/Bootstrap.php:939
+msgid "Project Details is a string type field."
+msgstr "A projekt részletei egy karakterlánc típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:1206
+msgid "Project is a select type field."
+msgstr "A projekt egy select típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:929
+msgid "Project Name"
+msgstr "Project Név"
+
+#: src/Integrations/Insightly/Bootstrap.php:931
+msgid "Project Name is a string type field."
+msgstr "A projekt neve egy karakterlánc típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:945
+msgid "Project Status"
+msgstr "A projekt állapota"
+
+#: src/Integrations/Insightly/Bootstrap.php:947
+msgid "Project Status is a string type field."
+msgstr "A projekt állapota egy karakterlánc típusú mező."
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:171
+msgid "Provide your live api key for your live payments"
+msgstr "Adja meg az élő api kulcsot az élő fizetésekhez"
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:180
+msgid "Provide your live api secret for your live payments"
+msgstr "Adja meg az élő api titkát az élő kifizetésekhez"
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:149
+msgid "Provide your test api key for your test payments"
+msgstr "Adja meg a teszt api kulcsot a tesztfizetésekhez"
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:158
+msgid "Provide your test api secret for your test payments"
+msgstr "Adja meg a teszt api titkát a tesztfizetésekhez"
+
+#: src/Payments/PaymentHandler.php:104 src/Payments/PaymentHandler.php:410
+msgid "Qty"
+msgstr "Mennyiség"
+
+#: src/Payments/Components/ItemQuantity.php:47
+#: src/views/receipt/order_items_table.php:5
+msgid "Quantity"
+msgstr "Mennyiség"
+
+#: src/classes/Quiz/QuizController.php:37
+msgid "Quiz"
+msgstr "Kvíz"
+
+#: src/classes/Quiz/QuizController.php:605
+msgid "Quiz Result"
+msgstr "Kvíz eredmény"
+
+#: src/classes/Quiz/QuizScoreComponent.php:43
+msgid "Quiz Score"
+msgstr "Kvíz pontszám"
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:37
+msgid "RazorPay"
+msgstr "RazorPay"
+
+#: src/Payments/PaymentMethods/Paystack/PaystackProcessor.php:128
+#: src/Payments/PaymentMethods/RazorPay/RazorPayProcessor.php:233
+msgid "RazorPay Error: RazorPay does not support subscriptions right now!"
+msgstr "RazorPay hiba: RazorPay jelenleg nem támogatja az előfizetéseket!"
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:190
+msgid "RazorPay Notifications"
+msgstr "RazorPay értesítések"
+
+#: src/Integrations/Mailjet/Bootstrap.php:460
+msgid "Recipients Email"
+msgstr "Címzettek e-mail címe"
+
+#: src/Integrations/Mailjet/Bootstrap.php:462
+msgid "Recipients Email is a required string type field."
+msgstr "A Címzettek e-mail címe kötelező karakterlánc típusú mező."
+
+#: src/Payments/PaymentHandler.php:435
+msgid "Reference ID"
+msgstr "Azonosító ID"
+
+#: src/Payments/PaymentHandler.php:425
+msgid "Refund"
+msgstr "Visszatérítés"
+
+#: src/Payments/PaymentHandler.php:438
+msgid "Refund Note"
+msgstr "Visszatérítési megjegyzés"
+
+#: src/Payments/PaymentHelper.php:526
+msgid "Refunded"
+msgstr "Visszatérített"
+
+#: src/Payments/PaymentHandler.php:424
+msgid "Refunds"
+msgstr "Visszatérítések"
+
+#: src/Payments/TransactionShortcodes.php:310
+msgid "Related Payments"
+msgstr "Kapcsolódó kifizetések"
+
+#: src/Integrations/Insightly/Bootstrap.php:1003
+msgid "Remainder Due Date"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:1004
+msgid "Remainder Due date"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:1006
+msgid "Remainder Due date is a date type field on y-m-d."
+msgstr ""
+
+#: src/Components/RepeaterField.php:72
+msgid "Repeat Field"
+msgstr "Mező ismétlése"
+
+#: src/Components/RepeaterField.php:104
+msgid "Repeat Field Columns"
+msgstr "Mezőoszlopok ismétlése"
+
+#: src/Components/RepeaterField.php:42
+msgid "Repeater Field"
+msgstr "Ismétlő mező"
+
+#: src/Integrations/WebHook/Client.php:101
+msgid "Request body is required"
+msgstr "A kérelem törzse szükséges"
+
+#: src/Integrations/WebHook/Client.php:100
+msgid "Request URL format is invalid"
+msgstr "A kérelem URL-formátuma érvénytelen"
+
+#: src/Integrations/WebHook/Client.php:99
+msgid "Request URL is required"
+msgstr "Kérés-URL szükséges"
+
+#: src/Integrations/Insightly/Bootstrap.php:1265
+msgid "Responsible User"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:1267
+msgid "Responsible User is a select type field."
+msgstr ""
+
+#: src/Components/SaveProgressButton.php:68
+#: src/Components/SaveProgressButton.php:289
+#, php-format
+msgid "Resume Form Submission : %s"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:503
+msgid "Rwandan Franc"
+msgstr "Ruandai frank"
+
+#: src/Integrations/Salesforce/Bootstrap.php:142
+msgid "Salesforce App Consumer Secret"
+msgstr "Salesforce App fogyasztói titok"
+
+#: src/Integrations/Salesforce/Bootstrap.php:136
+#: src/Integrations/Salesforce/Bootstrap.php:138
+msgid "Salesforce Consumer Key"
+msgstr "Salesforce fogyasztói kulcs"
+
+#: src/Integrations/Salesforce/Bootstrap.php:144
+msgid "Salesforce Consumer Secret"
+msgstr "Salesforce fogyasztói titok"
+
+#: src/Integrations/Salesforce/Bootstrap.php:130
+#: src/Integrations/Salesforce/Bootstrap.php:132
+msgid "Salesforce Domain URL"
+msgstr "Salesforce Domain URL cím"
+
+#: src/Integrations/Salesforce/Bootstrap.php:232
+msgid ""
+"Salesforce is not configured yet! Please configure your Salesforce api first"
+msgstr ""
+"A Salesforce még nincs konfigurálva! Kérjük, először konfigurálja a "
+"Salesforce api-t"
+
+#: src/Integrations/Salesforce/Bootstrap.php:124
+msgid "Salesforce Sandbox Account"
+msgstr ""
+
+#: src/Integrations/Salesforce/Bootstrap.php:273
+msgid "Salesforce Services"
+msgstr "Salesforce szolgáltatások"
+
+#: src/Integrations/Salesforce/Bootstrap.php:115
+msgid "Salesforce Settings"
+msgstr "Salesforce beállítások"
+
+#: src/Integrations/Insightly/Bootstrap.php:332
+#: src/Integrations/Insightly/Bootstrap.php:617
+msgid "Salutation"
+msgstr "Megszólítás"
+
+#: src/Integrations/Insightly/Bootstrap.php:334
+#: src/Integrations/Insightly/Bootstrap.php:619
+msgid "Salutation is a string type field."
+msgstr "Az üdvözlés egy string típusú mező."
+
+#: src/Integrations/Salesforce/Bootstrap.php:126
+msgid "Sandbox Account"
+msgstr "Sandbox fiók"
+
+#: src/Components/ColorPicker.php:138
+msgid "Save"
+msgstr "Mentés"
+
+#: src/classes/AddressAutoComplete.php:90
+#: src/Integrations/Aweber/Bootstrap.php:43
+#: src/Integrations/CampaignMonitor/Bootstrap.php:44
+#: src/Integrations/Automizy/Bootstrap.php:43
+#: src/Integrations/Drip/Bootstrap.php:44
+#: src/Integrations/Insightly/Bootstrap.php:114
+#: src/Integrations/Sendinblue/Bootstrap.php:42
+#: src/Integrations/ZohoCRM/Bootstrap.php:67
+#: src/Integrations/Amocrm/Bootstrap.php:139
+#: src/Integrations/Mailjet/Bootstrap.php:115
+#: src/Integrations/SendFox/Bootstrap.php:43
+#: src/Integrations/MailerLite/Bootstrap.php:42
+#: src/Integrations/ConvertKit/Bootstrap.php:43
+#: src/Integrations/CleverReach/Bootstrap.php:143
+#: src/Integrations/ActiveCampaign/Bootstrap.php:43
+#: src/Integrations/Hubspot/Bootstrap.php:43
+#: src/Integrations/GetGist/Bootstrap.php:43
+#: src/Integrations/Platformly/Bootstrap.php:42
+#: src/Integrations/MooSend/Bootstrap.php:42
+#: src/Integrations/Salesflare/Bootstrap.php:76
+#: src/Integrations/Telegram/Bootstrap.php:44
+#: src/Integrations/IContact/Bootstrap.php:43
+#: src/Integrations/SMSNotification/Bootstrap.php:43
+#: src/Integrations/GetResponse/Bootstrap.php:99
+#: src/Integrations/ClickSend/Bootstrap.php:58
+#: src/Integrations/OnePageCrm/Bootstrap.php:91
+#: src/Integrations/Salesforce/Bootstrap.php:119
+#: src/Integrations/Airtable/Bootstrap.php:128
+msgid "Save Settings"
+msgstr "Beállítások mentése"
+
+#: src/Payments/PaymentMethods/Stripe/StripeInlineProcessor.php:437
+msgid "SCA is required for this payment. Requested SCA info from customer"
+msgstr "Ehhez a kifizetéshez SCA szükséges. Az ügyféltől kért SCA-információ"
+
+#: src/Components/Post/EditorSettings.php:98
+msgid "Select"
+msgstr "Kiválasztás"
+
+#: src/Integrations/Mailjet/Bootstrap.php:427
+msgid "Select a Purpose"
+msgstr "Válasszon ki egy célt"
+
+#: src/Integrations/Mailjet/Bootstrap.php:375
+msgid "Select a Template Category"
+msgstr "Sablon kategória kiválasztása"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:695
+msgid "Select Action Status"
+msgstr "Válassza ki a művelet állapotát"
+
+#: src/Integrations/Amocrm/Bootstrap.php:273
+msgid "Select Amocrm Service"
+msgstr "Amocrm szolgáltatás kiválasztása"
+
+#: src/Components/Post/MetaboxHelper.php:117
+#: src/Components/Post/MetaboxHelper.php:137
+msgid "Select appropriate field for this mapping"
+msgstr "Válassza ki a megfelelő mezőt ehhez a leképezéshez"
+
+#: src/Integrations/Mailjet/Bootstrap.php:372
+#: src/Integrations/Mailjet/Bootstrap.php:373
+msgid "Select Categories"
+msgstr "Kategóriák választása"
+
+#: src/Integrations/Insightly/Bootstrap.php:1233
+msgid "Select Category"
+msgstr "Kategória kiválasztása"
+
+#: src/Components/Post/AcfHelper.php:114
+#: src/Components/Post/MetaboxHelper.php:121
+#: src/Components/Post/MetaboxHelper.php:125
+msgid "Select checkbox field for this mapping"
+msgstr "Jelölőnégyzet kiválasztása a leképezéshez"
+
+#: src/Integrations/CleverReach/Bootstrap.php:240
+msgid "Select CleverReach List"
+msgstr "Lista hozzárendelés kiválasztása"
+
+#: src/Components/Post/MetaboxHelper.php:141
+#: src/Components/Post/MetaboxHelper.php:145
+#: src/Components/Post/MetaboxHelper.php:149
+#: src/Components/Post/MetaboxHelper.php:153
+#: src/Components/Post/MetaboxHelper.php:161
+#: src/Components/Post/MetaboxHelper.php:165
+#: src/Components/Post/MetaboxHelper.php:169
+#: src/Components/Post/MetaboxHelper.php:173
+#: src/Components/Post/MetaboxHelper.php:177
+#: src/Components/Post/MetaboxHelper.php:181
+#: src/Components/Post/MetaboxHelper.php:185
+msgid "Select Date field for this mapping"
+msgstr "Dátum mező kiválasztása ehhez a leképezéshez"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:439
+#: src/Integrations/OnePageCrm/Bootstrap.php:440
+msgid "Select Email"
+msgstr "Válasszon e-mailt"
+
+#: src/Components/Post/MetaboxHelper.php:157
+msgid "Select File Upload field for this mapping"
+msgstr "A fájlfeltöltési mező leképezése"
+
+#: src/Components/Post/AcfHelper.php:130
+msgid "Select File upload field for this mapping"
+msgstr "A fájlfeltöltési mező leképezése"
+
+#: src/Components/Post/AcfHelper.php:134 src/Components/Post/AcfHelper.php:138
+msgid "Select Image upload field for this mapping"
+msgstr "Képfeltöltés mező kiválasztása ehhez a leképezéshez"
+
+#: src/Integrations/Insightly/Bootstrap.php:253
+msgid "Select Insightly Service"
+msgstr "Válassza ki az Insightly szolgáltatást"
+
+#: src/Integrations/Insightly/Bootstrap.php:1143
+#: src/Integrations/OnePageCrm/Bootstrap.php:532
+#: src/Integrations/OnePageCrm/Bootstrap.php:533
+msgid "Select Lead Source"
+msgstr "Válassza ki a lead forrást"
+
+#: src/Integrations/Insightly/Bootstrap.php:1113
+msgid "Select Lead Status"
+msgstr ""
+
+#: src/Integrations/Mailjet/Bootstrap.php:254
+msgid "Select Mailjet Service"
+msgstr "Válassza ki a Mailjet szolgáltatást"
+
+#: src/Integrations/Mailster/Bootstrap.php:167
+msgid "Select Mailster List"
+msgstr "Válassza ki a Mailster listát"
+
+#: src/Integrations/Insightly/Bootstrap.php:1396
+msgid "Select Ogranisation"
+msgstr "Szervezet kiválasztása"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:255
+msgid "Select OnePageCRM Service"
+msgstr "OnePageCRM szolgáltatás kiválasztása"
+
+#: src/Integrations/Insightly/Bootstrap.php:1173
+msgid "Select Opportunity Category"
+msgstr "Válassza ki a lehetőség kategóriáját"
+
+#: src/Integrations/Insightly/Bootstrap.php:1275
+msgid "Select Owner User"
+msgstr "Tulajdonos felhasználó kiválasztása"
+
+#: src/Components/ChainedSelect/ChainedSelect.php:49
+msgid "Select Parent | Select Child"
+msgstr "Szülő kiválasztása | Gyerek kiválasztása"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:413
+#: src/Integrations/OnePageCrm/Bootstrap.php:414
+msgid "Select Phone Type"
+msgstr "Telefon típusának kiválasztása"
+
+#: src/Integrations/Insightly/Bootstrap.php:1306
+msgid "Select Pipeline"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:1336
+msgid "Select Pipeline Stage"
+msgstr ""
+
+#: src/Components/Post/Components/PostUpdate.php:54
+msgid "Select Post"
+msgstr "Bejegyzés kijelölése"
+
+#: src/Integrations/Insightly/Bootstrap.php:1203
+msgid "Select Project"
+msgstr "Projekt kiválasztása"
+
+#: src/Integrations/Insightly/Bootstrap.php:1366
+msgid "Select Project Category"
+msgstr "Projekt kategória kiválasztása"
+
+#: src/Integrations/Insightly/Bootstrap.php:944
+msgid "Select Project Status"
+msgstr "Válassza ki a projekt állapotát"
+
+#: src/Integrations/Mailjet/Bootstrap.php:424
+#: src/Integrations/Mailjet/Bootstrap.php:425
+msgid "Select Purpose"
+msgstr "Cél kiválasztása"
+
+#: src/Components/Post/AcfHelper.php:118 src/Components/Post/AcfHelper.php:122
+#: src/Components/Post/MetaboxHelper.php:129
+#: src/Components/Post/MetaboxHelper.php:133
+msgid "Select radio field for this mapping"
+msgstr "Rádiómező kiválasztása ehhez a leképezéshez"
+
+#: src/Integrations/Insightly/Bootstrap.php:1264
+msgid "Select Responsible User"
+msgstr "Felelős felhasználó kiválasztása"
+
+#: src/Integrations/Salesforce/Bootstrap.php:274
+msgid "Select Salesforce Service"
+msgstr "Válassza ki a Salesforce szolgáltatást"
+
+#: src/Components/Post/AcfHelper.php:110
+#: src/Components/Post/MetaboxHelper.php:113
+msgid "Select select field for this mapping"
+msgstr "A leképezéshez jelöljön ki egy mezőt"
+
+#: src/Components/Post/AcfHelper.php:126
+msgid "Select single checkbox field for this mapping"
+msgstr "Egyetlen jelölőnégyzetmező kijelölése ehhez a leképezéshez"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:515
+#: src/Integrations/OnePageCrm/Bootstrap.php:516
+msgid "Select Status"
+msgstr "Állapot kiválasztása"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:618
+msgid "Select status of the deal"
+msgstr "Válassza ki az üzlet státuszát"
+
+#: src/Integrations/Insightly/Bootstrap.php:1426
+msgid "Select Task Category"
+msgstr ""
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:56
+msgid "Select the Campaign Monitor client that you want to connect this site"
+msgstr ""
+"Válassza ki azt a Campaign Monitor klienst, amelyhez csatlakoztatni szeretné "
+"ezt a webhelyet"
+
+#: src/Integrations/CleverReach/Bootstrap.php:241
+msgid "Select the CleverReach list you would like to add your contacts to."
+msgstr ""
+"Válassza ki a CleverReach listát, amelyhez hozzá szeretné adni a "
+"kapcsolatait."
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:119
+msgid ""
+"Select the payment mode. for testing purposes you should select Test Mode "
+"otherwise select Live mode."
+msgstr ""
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:760
+#: src/Integrations/OnePageCrm/Bootstrap.php:763
+msgid "Select the User"
+msgstr "Válassza ki a Felhasználót"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:387
+#: src/Integrations/OnePageCrm/Bootstrap.php:388
+msgid "Select URL Type"
+msgstr "URL típus kiválasztása"
+
+#: src/Payments/Components/ItemQuantity.php:117
+msgid "Select which Product this field is tied to"
+msgstr "Válassza ki, hogy melyik termékhez van kötve ez a mező"
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:130
+msgid "Select which type of checkout style you want."
+msgstr ""
+
+#: src/classes/StepFormEntries.php:427
+#: src/Payments/Classes/PaymentEntries.php:165
+msgid "Selected entries successfully deleted"
+msgstr "A kijelölt kitöltéseket sikerült törölni"
+
+#: src/Integrations/WebHook/Client.php:81
+msgid "Selected WebHook Feed is deleted"
+msgstr "A kijelölt WebHook hírcsatorna törölve"
+
+#: src/Integrations/Discord/Bootstrap.php:29
+msgid ""
+"Send notification with form data to your Discord channel when a form is "
+"submitted."
+msgstr ""
+"Értesítés küldése űrlapadatokkal a Discord-csatornádra, amikor egy űrlapot "
+"elküldenek."
+
+#: src/Integrations/Mailjet/Bootstrap.php:444
+msgid "Sender Email"
+msgstr ""
+
+#: src/Integrations/Mailjet/Bootstrap.php:446
+msgid "Sender Email is a string type field."
+msgstr ""
+
+#: src/Integrations/Mailjet/Bootstrap.php:452
+msgid "Sender Name"
+msgstr ""
+
+#: src/Integrations/Mailjet/Bootstrap.php:454
+msgid "Sender Name is a string type field."
+msgstr ""
+
+#: src/Integrations/ClickSend/Bootstrap.php:65
+msgid "Sender Number"
+msgstr "Feladó száma"
+
+#: src/Integrations/ClickSend/Bootstrap.php:123
+msgid "Sender number is required"
+msgstr "A feladó száma kötelező"
+
+#: src/Integrations/SendFox/Bootstrap.php:49
+msgid "SendFox API Key"
+msgstr "SendFox API kulcs"
+
+#: src/Integrations/SendFox/Bootstrap.php:39
+msgid "SendFox API Settings"
+msgstr "SendFox API-beállítások"
+
+#: src/Integrations/SendFox/Bootstrap.php:40
+msgid ""
+"SendFox is email marketing software. Use Fluent Forms to collect customer "
+"information and automatically add it as SendFox subscriber list."
+msgstr ""
+"A SendFox egy e-mail marketing szoftver. Használja a Fluent Forms-t az "
+"ügyféladatok gyűjtéséhez és automatikus hozzáadásához a SendFox előfizetői "
+"listájához."
+
+#: src/Integrations/Sendinblue/Bootstrap.php:38
+msgid "Sendinblue API Settings"
+msgstr "Sendinblue API beállítások"
+
+#: src/Integrations/Sendinblue/Bootstrap.php:39
+msgid ""
+"Sendinblue is an integrated email marketing, marketing automation, and small "
+"business CRM. Save time while growing your business with sales automation. "
+"Use Fluent Forms to collect customer information and automatically add it to "
+"your Sendinblue list. If you don't have an Sendinblue account, you can <a "
+"href=\"https://www.sendinblue.com//\" target=\"_blank\">sign up for one here."
+"</a>"
+msgstr ""
+"A Sendinblue egy integrált e-mail marketing, marketing automatizálás és "
+"kisvállalati CRM. Takarítson meg időt, miközben az értékesítés "
+"automatizálásával növeli vállalkozását. Használja a Fluent Forms-t az "
+"ügyféladatok gyűjtéséhez és automatikus hozzáadásához a Sendinblue "
+"listájához. Ha még nincs Sendinblue-fiókja, <a href=\"https://www.sendinblue."
+"com//\" target=\"_blank\">itt regisztrálhat.</a>"
+
+#: src/Integrations/Sendinblue/Bootstrap.php:48
+msgid "Sendinblue V3 API Key"
+msgstr "Sendinblue V3 API kulcs"
+
+#: src/Integrations/Airtable/Bootstrap.php:232
+msgid "Set Airtable API"
+msgstr ""
+
+#: src/Integrations/Amocrm/Bootstrap.php:232
+msgid "Set Amocrm API"
+msgstr "Amocrm API beállítása"
+
+#: src/Integrations/Salesflare/Bootstrap.php:45
+msgid "Set API"
+msgstr "API beállítása"
+
+#: src/Integrations/CleverReach/Bootstrap.php:204
+msgid "Set CleverReach API"
+msgstr "CleverReach API beállítása"
+
+#: src/Integrations/ClickSend/Bootstrap.php:191
+msgid "Set ClickSend SMS Notification API"
+msgstr "ClickSend SMS értesítés API beállítása"
+
+#: src/Integrations/Insightly/Bootstrap.php:211
+msgid "Set Insightly API"
+msgstr ""
+
+#: src/Integrations/Mailjet/Bootstrap.php:212
+msgid "Set Mailjet API"
+msgstr "Mailjet API beállítása"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:219
+msgid "Set OnePageCRM API"
+msgstr "OnePageCRM API beállítása"
+
+#: src/Integrations/Salesforce/Bootstrap.php:233
+msgid "Set Salesforce API"
+msgstr "Salesforce API beállítása"
+
+#: src/Payments/AjaxEndpoints.php:151
+msgid "Settings successfully saved"
+msgstr "Beállítások sikeresen mentve"
+
+#: src/Payments/AjaxEndpoints.php:125
+msgid "Settings successfully updated"
+msgstr "A beállítások frissítése sikerült"
+
+#: src/Payments/AjaxEndpoints.php:89
+msgid "Settings successfully updated!"
+msgstr "A beállítások frissítése sikerült!"
+
+#: src/Payments/PaymentHandler.php:434
+msgid "Shipping Address"
+msgstr "Szállítási cím"
+
+#: src/Integrations/Insightly/Bootstrap.php:869
+msgid "Shipping Address City"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:871
+msgid "Shipping Address City is a string type field."
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:893
+msgid "Shipping Address Country"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:895
+msgid "Shipping Address Country is a string type field."
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:885
+msgid "Shipping Address Postcode"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:887
+msgid "Shipping Address Postcode is a string type field."
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:877
+msgid "Shipping Address State"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:879
+msgid "Shipping Address State is a string type field."
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:861
+msgid "Shipping Address Street"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:863
+msgid "Shipping Address Street is a string type field."
+msgstr ""
+
+#: src/views/receipt/customer_details.php:16
+msgid "Shipping Address:"
+msgstr "Szállítási cím:"
+
+#: src/classes/Inventory/InventorySettingsManager.php:162
+msgid "Show Available Stock"
+msgstr ""
+
+#: src/Payments/PaymentHandler.php:111
+msgid "Signup Fee for"
+msgstr "Feliratkozási díj a"
+
+#: src/Integrations/ClickSend/Bootstrap.php:54
+msgid "SMS Provider Settings (ClickSend)"
+msgstr "SMS szolgáltató beállításai (ClickSend)"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:39
+msgid "SMS Provider Settings (Twilio)"
+msgstr "SMS szolgáltató beállításai (Twilio)"
+
+#: src/Payments/PaymentMethods/PayPal/PayPalProcessor.php:222
+msgid ""
+"Sometimes, PayPal payments take a few moments to mark as paid. We are trying "
+"to process your payment. Please do not close or refresh the window."
+msgstr ""
+"Néha a PayPal-fizetéseknek néhány pillanatig tart, mire kifizetettnek "
+"jelölik őket. Megpróbáljuk feldolgozni a fizetését. Kérjük, ne zárja be vagy "
+"frissítse az ablakot."
+
+#: src/classes/StepFormEntries.php:111
+msgid ""
+"Sorry! No entries found. All your entries will be shown here once you start "
+"getting form submissions"
+msgstr ""
+"Sajnáljuk, de nem találtunk kitöltött űrlapokat. Az összes űrlap kitöltés "
+"itt fog megjelenni, ha már vannak kitöltések"
+
+#: src/Payments/PaymentHandler.php:270
+msgid ""
+"Sorry! No selected payment method found. Please select a valid payment method"
+msgstr ""
+"Sajnáljuk! Nem található kijelölt fizetési mód. Válasszon érvényes fizetési "
+"módot"
+
+#: src/Payments/PaymentMethods/PayPal/PayPalProcessor.php:592
+msgid "Sorry! We couldn't mark your payment as paid. Please try again later!"
+msgstr ""
+"Bocsánat! Nem tudtuk kifizetettnek jelölni a fizetését. Kérjük, próbálja meg "
+"később újra!"
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:236
+msgid "Sorry! You do not have permission to activate this license."
+msgstr "Sajnáljuk,de nincsen engedélyed a liszensz aktiválására."
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:368
+msgid "Sorry! You do not have permission to deactivate this license."
+msgstr "Sajnáljuk,de nincsen engedélyed a liszensz deaktiválására."
+
+#: src/Payments/Classes/PaymentAction.php:147
+msgid "Sorry, multiple subscription item is not supported"
+msgstr "Sajnáljuk, a többszörös előfizetés nem támogatott"
+
+#: src/Payments/Classes/CouponController.php:69
+msgid "Sorry, you can not apply this coupon with other coupon code"
+msgstr "Sajnálom, ezt a kupont nem lehet más kuponkóddal együtt alkalmazni"
+
+#: src/classes/SharePage/SharePage.php:169
+msgid "Sorry, You do not have access to this form"
+msgstr "Sajnáljuk, nincs hozzáférése ehhez az űrlaphoz"
+
+#: src/Payments/PaymentHelper.php:500
+msgid "South Korean Won"
+msgstr "Dél-koreai won"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:587
+msgid "Stage Number"
+msgstr "Szakasz száma"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:589
+msgid "Stage Number is a int type field."
+msgstr "A Stage Number egy int típusú mező."
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:368
+msgid "Starred"
+msgstr "Megjelölt"
+
+#: src/Integrations/Mailjet/Bootstrap.php:413
+msgid "Starred Campaign"
+msgstr "Csillagos kampány"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:370
+msgid "Starred is a bool type field."
+msgstr "A Starred egy bool típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:995
+msgid "Start Date"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:996
+msgid "Start date"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:998
+msgid "Start date is a date type field on y-m-d."
+msgstr ""
+
+#: src/views/receipt/user_subscriptions_table.php:28
+msgid "Started:"
+msgstr "Elkezdett:"
+
+#: src/Integrations/Insightly/Bootstrap.php:465
+#: src/Integrations/Insightly/Bootstrap.php:753
+msgid "State"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:467
+#: src/Integrations/Insightly/Bootstrap.php:755
+#: src/Integrations/OnePageCrm/Bootstrap.php:479
+msgid "State is a string type field."
+msgstr "Az állapot egy string típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:289
+#: src/Integrations/Insightly/Bootstrap.php:1032
+#: src/Integrations/Insightly/Bootstrap.php:1033
+#: src/Integrations/Discord/Bootstrap.php:119
+#: src/Integrations/Amocrm/Bootstrap.php:309
+#: src/Integrations/Mailjet/Bootstrap.php:290
+#: src/Integrations/CleverReach/Bootstrap.php:275
+#: src/Integrations/Mailster/Bootstrap.php:190
+#: src/Integrations/OnePageCrm/Bootstrap.php:291
+#: src/Integrations/OnePageCrm/Bootstrap.php:619
+#: src/Integrations/Salesforce/Bootstrap.php:310
+#: src/Integrations/Airtable/Bootstrap.php:324
+#: src/views/receipt/subscriptions_table.php:5
+#: src/views/receipt/transactions_table.php:8
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:108
+msgid "Status"
+msgstr "Állapot"
+
+#: src/Integrations/Insightly/Bootstrap.php:1035
+#: src/Integrations/OnePageCrm/Bootstrap.php:518
+#: src/Integrations/OnePageCrm/Bootstrap.php:621
+msgid "Status is a select type field."
+msgstr "A státusz egy select típusú mező."
+
+#: src/classes/Inventory/InventorySettingsManager.php:135
+msgid "Stock Out Message"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:449
+#: src/Integrations/Insightly/Bootstrap.php:737
+msgid "Street Address"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:451
+#: src/Integrations/Insightly/Bootstrap.php:739
+msgid "Street Address is a string type field."
+msgstr ""
+
+#: src/Payments/PaymentMethods/Stripe/StripeInlineProcessor.php:226
+msgid "Stripe Error: Payment Failed! Please try again."
+msgstr "Stripe hiba: Fizetés sikertelen! Kérjük, próbálja meg újra."
+
+#: src/Payments/PaymentMethods/Stripe/StripeProcessor.php:475
+msgid "Stripe recurring subscription successfully initiated"
+msgstr "Stripe ismétlődő előfizetés sikeresen elindítva"
+
+#: src/Payments/PaymentMethods/Stripe/Components/StripeInline.php:67
+msgid "Stripe test mode activated"
+msgstr "Stripe teszt üzemmód aktiválva"
+
+#: src/Payments/PaymentMethods/Stripe/API/Customer.php:46
+msgid "Stripe token/payment_method is required"
+msgstr "Stripe token/payment_method szükséges"
+
+#: src/Payments/PaymentMethods/Stripe/StripeInlineProcessor.php:282
+msgid ""
+"Strong Customer Authentication is required. Please complete 2 factor "
+"authentication."
+msgstr ""
+"Erős ügyfél-hitelesítésre van szükség. Kérjük, töltse ki a 2 faktoros "
+"hitelesítést."
+
+#: src/classes/FormStyler.php:134
+msgid "Styles successfully updated"
+msgstr "A stílusokat sikeresen frissítettük"
+
+#: src/Payments/PaymentHandler.php:413
+#: src/views/receipt/order_items_table.php:23
+msgid "Sub-Total"
+msgstr "Részösszeg"
+
+#: src/Payments/Components/Subscription.php:84
+msgid "Subscription Field"
+msgstr "Előfizetési mező"
+
+#: src/Payments/Components/Subscription.php:49
+msgid "Subscription Item"
+msgstr "Előfizetési tétel"
+
+#: src/Payments/PaymentMethods/PayPal/API/IPN.php:239
+msgid "Subscription status changed from pending to active"
+msgstr "Az előfizetés státusza függőből aktívra változott"
+
+#: src/Payments/TransactionShortcodes.php:352
+#: src/Payments/Classes/PaymentReceipt.php:129
+msgid "Subscriptions"
+msgstr "Előfizetések"
+
+#: src/Integrations/IContact/Bootstrap.php:239
+msgid "Suffix"
+msgstr "Utótag"
+
+#: src/Integrations/Insightly/Bootstrap.php:1427
+msgid "Task Category"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:1429
+msgid "Task Category is a select type field."
+msgstr ""
+
+#: src/Integrations/Amocrm/Bootstrap.php:543
+msgid "Task Details"
+msgstr "Feladat részletei"
+
+#: src/Integrations/Amocrm/Bootstrap.php:545
+msgid "Task Details is a required string type field."
+msgstr "A Feladat részletei egy kötelező karakterlánc típusú mező."
+
+#: src/Integrations/Amocrm/Bootstrap.php:561
+msgid "Task Details is a string type field."
+msgstr "A Feladat részletei egy karakterlánc típusú mező."
+
+#: src/Integrations/Amocrm/Bootstrap.php:551
+msgid "Task Duration"
+msgstr "Feladat időtartama"
+
+#: src/Integrations/Amocrm/Bootstrap.php:553
+msgid "Task Duration is a int type field."
+msgstr "A feladat időtartama egy int típusú mező."
+
+#: src/Integrations/Amocrm/Bootstrap.php:529
+msgid "Task Entity Type"
+msgstr "Feladat Entitás típusa"
+
+#: src/Integrations/Amocrm/Bootstrap.php:531
+msgid "Task Entity Type is a select type field."
+msgstr "A Feladategység típusa egy select típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:974
+#: src/Integrations/Amocrm/Bootstrap.php:521
+msgid "Task Name"
+msgstr "Feladat neve"
+
+#: src/Integrations/Amocrm/Bootstrap.php:523
+msgid "Task name is a required string type field."
+msgstr "A feladat neve egy kötelező string típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:976
+msgid "Task Name is a string type field."
+msgstr ""
+
+#: src/Integrations/Amocrm/Bootstrap.php:559
+msgid "Task Result Details"
+msgstr "Feladat eredményének részletei"
+
+#: src/Integrations/Mailjet/Bootstrap.php:357
+msgid "Template Name"
+msgstr "Sablon neve"
+
+#: src/Integrations/Mailjet/Bootstrap.php:359
+msgid "Template name is a required string type field."
+msgstr ""
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:147
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:148
+msgid "Test API Key"
+msgstr ""
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:156
+#: src/Payments/PaymentMethods/RazorPay/RazorPayHandler.php:157
+msgid "Test API Secret"
+msgstr ""
+
+#: src/Integrations/Telegram/Bootstrap.php:62
+msgid "Test Message (optional)"
+msgstr "Tesztüzenet (nem kötelező)"
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:180
+#, php-format
+msgid "Thank you for purchasing %s!  Please enter your license key below."
+msgstr ""
+"Köszönjük, hogy %s-t vásároltál! Kérlek, add meg alább a liszenszkulcsot."
+
+#. Description of the plugin
+msgid ""
+"The Pro version of FluentForm, the most advanced, drag and drop form builder "
+"plugin for WordPress."
+msgstr ""
+"A FluentForm Pro változata a legfejlettebb, fogd és vidd űrlap építő "
+"bővítmény a WordPresshez."
+
+#: src/Payments/Classes/CouponController.php:56
+msgid "The provided coupon does not meet the requirements"
+msgstr "A kupon nem felel meg a követelményeknek"
+
+#: src/Payments/Classes/CouponController.php:24
+#: src/Payments/Classes/CouponController.php:31
+#: src/Payments/Classes/CouponController.php:44
+#: src/Payments/Classes/CouponController.php:49
+msgid "The provided coupon is not valid"
+msgstr "A kupon nem érvényes"
+
+#: src/Integrations/Insightly/Bootstrap.php:270
+#: src/Integrations/Amocrm/Bootstrap.php:290
+#: src/Integrations/Mailjet/Bootstrap.php:271
+#: src/Integrations/OnePageCrm/Bootstrap.php:272
+#: src/Integrations/Salesforce/Bootstrap.php:291
+msgid "The selected service doesn't have any field settings."
+msgstr "A kiválasztott szolgáltatásnak nincsenek mezőbeállításai."
+
+#: src/Payments/PaymentMethods/Stripe/API/ApiRequest.php:134
+#: src/Payments/PaymentMethods/Stripe/API/ApiRequest.php:176
+msgid "There was a problem connecting to the Stripe API endpoint."
+msgstr "Hiba történt a Stripe API-végponthoz való csatlakozással."
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:402
+msgid ""
+"There was an error deactivating the license, please try again or contact "
+"support."
+msgstr ""
+"Hiba történt az liszensz deaktiválásakor, próbálkozz újra, vagy fordulj az "
+"ügyfélszolgálathoz."
+
+#: src/Integrations/UserRegistration/UserRegistrationApi.php:66
+msgid "This email is already registered. Please choose another one."
+msgstr "Ez az e-mail már regisztrálva van. Kérem, válasszon másikat."
+
+#: src/Components/NetPromoterScore.php:51 src/Components/ColorPicker.php:45
+#: src/Components/RepeaterField.php:64 src/Components/PhoneField.php:77
+#: src/Components/PostSelectionField.php:57
+#: src/Components/RangeSliderField.php:55
+#: src/Payments/Components/CustomPaymentComponent.php:63
+#: src/Payments/Components/Subscription.php:78
+#: src/Payments/Components/ItemQuantity.php:58
+#: src/Payments/Components/MultiPaymentComponent.php:73
+#: src/Payments/Components/Coupon.php:70
+#: src/Components/ChainedSelect/ChainedSelect.php:69
+#: src/Components/Post/PopulatePostForm.php:39
+#: src/Components/Post/Components/PostContent.php:58
+#: src/Components/Post/Components/PostExcerpt.php:49
+#: src/Components/Post/Components/DynamicTaxonomies.php:52
+#: src/Components/Post/Components/PostUpdate.php:66
+#: src/Components/Post/Components/FeaturedImage.php:53
+#: src/Components/Post/Components/PostTitle.php:46
+msgid "This field is required"
+msgstr "A mező kitöltése kötelező"
+
+#: src/Payments/Components/CustomPaymentComponent.php:67
+#: src/Payments/Components/ItemQuantity.php:62
+msgid "This field must contain numeric value"
+msgstr "Ennek a mezőnek számértéket kell tartalmaznia"
+
+#: src/classes/Inventory/InventorySettingsManager.php:56
+#: src/classes/Inventory/InventorySettingsManager.php:199
+msgid "This Item is Stock Out"
+msgstr ""
+
+#: src/classes/Inventory/InventorySettingsManager.php:172
+msgid "This Label will be appended to the field’s label or field’s Options"
+msgstr ""
+
+#: src/Integrations/UserRegistration/UserRegistrationApi.php:78
+msgid "This username is already registered. Please choose another one."
+msgstr "Ez a felhasználónév már regisztrálva van. Kérem, válasszon másikat."
+
+#: src/Integrations/Insightly/Bootstrap.php:649
+#: src/Integrations/OnePageCrm/Bootstrap.php:332
+msgid "Title"
+msgstr "Cím"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:334
+msgid "Title is a select type field."
+msgstr "A cím egy select típusú mező."
+
+#: src/Integrations/Insightly/Bootstrap.php:651
+msgid "Title is a string type field."
+msgstr ""
+
+#: src/Payments/PaymentHandler.php:106 src/Payments/PaymentHandler.php:412
+#: src/views/receipt/order_items_table.php:35
+msgid "Total"
+msgstr "Összesen"
+
+#: src/views/receipt/payment_info.php:11
+msgid "Total:"
+msgstr "Összesen:"
+
+#: src/Payments/PaymentHandler.php:423
+msgid "Transaction"
+msgstr "Tranzakció"
+
+#: src/views/receipt/transaction_info.php:3
+msgid "Transaction #"
+msgstr "Tranzakció#"
+
+#: src/Payments/PaymentHandler.php:421
+msgid "Transaction ID"
+msgstr "Tranzakció-azonosító"
+
+#: src/Integrations/Trello/Bootstrap.php:53
+msgid "Trello access Key"
+msgstr "Trello hozzáférési kulcs"
+
+#: src/Integrations/Trello/Bootstrap.php:42
+msgid "Trello API Settings"
+msgstr "Trello API beállítások"
+
+#: src/Integrations/Trello/Bootstrap.php:43
+msgid ""
+"Trello is an integrated email marketing, marketing automation, and small "
+"business CRM. Save time while growing your business with sales automation. "
+"Use Fluent Forms to collect customer information and automatically add it to "
+"your Trello list. If you don't have an Trello account, you can <a "
+"href=\"https://www.trello.com/\" target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+"A Trello egy integrált e-mail marketing, marketing automatizálás és "
+"kisvállalati CRM. Takarítson meg időt, miközben az értékesítés "
+"automatizálásával növelheti vállalkozását. Használja a Fluent Forms-t az "
+"ügyféladatok gyűjtéséhez és automatikus hozzáadásához a Trello listájához. "
+"Ha még nincs Trello fiókja, <a href=\"https://www.trello.com/\" "
+"target=\"_blank\">itt regisztrálhat.</a>"
+
+#: src/Payments/PaymentHelper.php:941
+msgid "trialling"
+msgstr "a  kipróbálása"
+
+#: src/Integrations/Insightly/Bootstrap.php:917
+msgid "Twitter"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:919
+msgid "Twitter is a string type field."
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:377
+msgid "Twitter URL"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:379
+msgid "Twitter URL is a string type field."
+msgstr ""
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:429
+msgid "Unable to deactivate license, please try again or contact support."
+msgstr ""
+"Nem lehet deaktiválni a liszenszet, próbáld meg később vagy lépj kapcsolatba "
+"a supporttal."
+
+#: src/classes/DoubleOptin.php:26
+msgid "Unconfirmed"
+msgstr "Nincs jóváhagyva"
+
+#: src/Payments/PaymentHandler.php:411
+msgid "Unit Price"
+msgstr "Egységár"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:390
+msgid "URL is a select type field."
+msgstr "Az URL egy select típusú mező."
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:408
+msgid "URL is a string type field."
+msgstr "Az URL egy string típusú mező."
+
+#: src/Components/SaveProgressButton.php:148
+#, php-format
+msgid "Use %s placeholder to get the email resume link."
+msgstr ""
+
+#: src/Components/SaveProgressButton.php:137
+#, php-format
+msgid "Use %s placeholder to get the Form Name."
+msgstr ""
+
+#: src/Integrations/ClickSend/Bootstrap.php:71
+msgid "Username"
+msgstr "Felhasználónév"
+
+#: src/Integrations/ClickSend/Bootstrap.php:130
+msgid "Username number is required"
+msgstr "Felhasználónév szám szükséges"
+
+#: src/Integrations/Insightly/Bootstrap.php:74
+#: src/Integrations/ZohoCRM/Bootstrap.php:310
+#: src/Integrations/Discord/Bootstrap.php:153
+#: src/Integrations/Amocrm/Bootstrap.php:96
+#: src/Integrations/Mailjet/Bootstrap.php:74
+#: src/Integrations/Pipedrive/Bootstrap.php:551
+#: src/Integrations/ClickSend/Bootstrap.php:659
+#: src/Integrations/Mailster/Bootstrap.php:54
+#: src/Integrations/OnePageCrm/Bootstrap.php:75
+#: src/Integrations/Salesforce/Bootstrap.php:351
+#: src/Integrations/Airtable/Bootstrap.php:86
+msgid "Validation Failed"
+msgstr "Érvényesítés sikertelen"
+
+#: src/Payments/PaymentHelper.php:505
+msgid "Vanuatu Vatu"
+msgstr "Vanuatui vatu"
+
+#: src/Integrations/GoogleSheet/Bootstrap.php:47
+msgid "Verify Code"
+msgstr "Kód ellenőrzése"
+
+#: src/Integrations/ConstantContact/Bootstrap.php:54
+msgid "Verify Constant Contact "
+msgstr "Constant Contact ellenőrzése "
+
+#: src/Integrations/Pipedrive/Bootstrap.php:44
+msgid "Verify Pipedrive API Token"
+msgstr "Pipedrive API token ellenőrzése"
+
+#: src/Integrations/Trello/Bootstrap.php:46
+msgid "Verify Trello "
+msgstr "Trello ellenőrzése "
+
+#: src/Payments/PaymentMethods/Stripe/StripeInlineProcessor.php:169
+msgid "Verifying your card details. Please wait..."
+msgstr "Kártyaadatok ellenőrzése. Kérjük várjon..."
+
+#: src/Payments/PaymentHelper.php:504
+msgid "Vietnamese Dong"
+msgstr "Vietnámi dong"
+
+#: src/Payments/PaymentHandler.php:427
+#: src/Payments/TransactionShortcodes.php:347
+msgid "View"
+msgstr "Megtekintés"
+
+#: src/views/receipt/user_subscriptions_table.php:31
+msgid "View Payments"
+msgstr "Fizetések megtekintése"
+
+#: src/Integrations/Discord/Bootstrap.php:87
+msgid "Webhook"
+msgstr "Webhook"
+
+#: src/Integrations/Discord/Bootstrap.php:81
+msgid "Webhook Url"
+msgstr "Webhook Url"
+
+#: src/Integrations/Insightly/Bootstrap.php:721
+#: src/Integrations/Insightly/Bootstrap.php:813
+msgid "Website"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:723
+#: src/Integrations/Insightly/Bootstrap.php:815
+msgid "Website is a string type field."
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:931
+msgid "week"
+msgstr "hét"
+
+#: src/Payments/PaymentHelper.php:507
+msgid "West African Cfa Franc"
+msgstr "Nyugat-afrikai valutaközösségi frank"
+
+#: src/Integrations/Mailjet/Bootstrap.php:415
+msgid "Whether the campaign is marked as Starred or not."
+msgstr ""
+
+#: src/Integrations/Mailjet/Bootstrap.php:326
+msgid "Whether the contact is added to the exclusion list for campaigns or not"
+msgstr ""
+
+#: src/Payments/TransactionShortcodes.php:185
+msgid "will be billed until cancelled"
+msgstr "lemondásig számlázásra kerül"
+
+#: src/Payments/TransactionShortcodes.php:183
+#, php-format
+msgid "Will be cancelled after %d payments"
+msgstr "%d kifizetés után törlésre kerül"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:552
+#: src/Integrations/OnePageCrm/Bootstrap.php:553
+msgid "Write Background"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:933
+msgid "year"
+msgstr "év"
+
+#: src/Payments/TransactionShortcodes.php:354
+msgid "Yes, cancel this subscription"
+msgstr "Igen, törölje ezt az előfizetést"
+
+#: src/Integrations/Amocrm/Bootstrap.php:212
+#: src/Integrations/CleverReach/Bootstrap.php:124
+msgid "You are redirect to authenticate"
+msgstr ""
+
+#: src/Integrations/Salesforce/Bootstrap.php:214
+msgid "You are redirecting Salesforce to authenticate"
+msgstr "A Salesforce-t átirányítja a hitelesítéshez"
+
+#: src/Payments/PaymentMethods/Mollie/MollieProcessor.php:132
+msgid ""
+"You are redirecting to Mollie.com to complete the purchase. Please wait "
+"while you are redirecting...."
+msgstr ""
+"A vásárlás befejezéséhez a Mollie.com oldalra irányítjuk át. Kérjük, várjon "
+"az átirányítás alatt...."
+
+#: src/Payments/PaymentMethods/PayPal/PayPalProcessor.php:152
+msgid ""
+"You are redirecting to PayPal.com to complete the purchase. Please wait "
+"while you are redirecting...."
+msgstr ""
+"A vásárlás befejezéséhez átirányítjuk a paypal.com oldalra. Várjon, amíg "
+"átirányítjuk...."
+
+#: src/Payments/PaymentMethods/RazorPay/RazorPayProcessor.php:131
+msgid ""
+"You are redirecting to razorpay.com to complete the purchase. Please wait "
+"while you are redirecting...."
+msgstr ""
+"A vásárlás befejezéséhez a razorpay.com oldalra irányítjuk át. Kérjük, "
+"várjon az átirányítás alatt...."
+
+#: src/Payments/PaymentMethods/Stripe/StripeProcessor.php:194
+msgid ""
+"You are redirecting to stripe.com to complete the purchase. Please wait "
+"while you are redirecting...."
+msgstr ""
+"A vásárlás befejezéséhez átirányítjuk a stripe.com oldalra. Várjon, amíg "
+"átirányítjuk...."
+
+#: src/Components/Post/Components/FeaturedImage.php:62
+msgid "You can upload maximum 1 image"
+msgstr "Legfeljebb 1 képet tölthet fel"
+
+#: src/Integrations/Salesflare/Bootstrap.php:94
+#, php-format
+msgid "Your %s API integration is up and running"
+msgstr "Az Ön %s API-integrációja már működik"
+
+#: src/Integrations/Salesflare/Bootstrap.php:75
+#, php-format
+msgid "Your %s API Key is not valid"
+msgstr "Az Ön %s API kulcsa nem érvényes"
+
+#: src/Integrations/Salesflare/Bootstrap.php:74
+#, php-format
+msgid "Your %s API Key is valid"
+msgstr "Az Ön %s API kulcsa érvényes"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:42
+msgid "Your ActiveCampaign configuration is invalid"
+msgstr "Az ActiveCampaign konfigurációja érvénytelen"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:41
+msgid "Your ActiveCampaign configuration is valid"
+msgstr "Az ActiveCampaign konfiguráció érvényes"
+
+#: src/Integrations/Airtable/Bootstrap.php:152
+msgid "Your Airtable API integration is up and running"
+msgstr ""
+
+#: src/Integrations/Airtable/Bootstrap.php:217
+msgid "Your Airtable API key has been verified and successfully set"
+msgstr ""
+
+#: src/Integrations/Airtable/Bootstrap.php:127
+msgid "Your Airtable API Key is not valid"
+msgstr ""
+
+#: src/Integrations/Airtable/Bootstrap.php:126
+msgid "Your Airtable API Key is valid"
+msgstr ""
+
+#: src/Integrations/Amocrm/Bootstrap.php:157
+msgid "Your Amocrm API integration is up and running"
+msgstr "Az Ön Amocrm API integrációja működik és működik"
+
+#: src/Integrations/Amocrm/Bootstrap.php:138
+msgid "Your Amocrm Secret Key is not valid"
+msgstr "Az Ön Amocrm titkos kulcsa nem érvényes"
+
+#: src/Integrations/Amocrm/Bootstrap.php:137
+msgid "Your Amocrm Secret Key is valid"
+msgstr "Az Ön Amocrm titkos kulcsa érvényes"
+
+#: src/Integrations/IContact/Bootstrap.php:145
+msgid "Your API key settings has been verified and updated. All good!"
+msgstr "Az API-kulcs beállításait ellenőrizte és frissítette. Minden rendben!"
+
+#: src/Integrations/IContact/Bootstrap.php:119
+msgid "Your API settings has been updated and discarted"
+msgstr "Az API-beállítások frissítve és elvetettük őket"
+
+#: src/Integrations/Automizy/Bootstrap.php:122
+msgid "Your Automizy api key has been verified and successfully set"
+msgstr "A MailerLite API-kulcsodat ellenőriztük, és sikeresen be van állítva"
+
+#: src/Integrations/Automizy/Bootstrap.php:42
+msgid "Your Automizy API Key is not valid"
+msgstr "Az Automizy API-kulcs érvénytelen"
+
+#: src/Integrations/Automizy/Bootstrap.php:41
+msgid "Your Automizy API Key is valid"
+msgstr "Az Automizy API-kulcs érvényes"
+
+#: src/Integrations/Aweber/Bootstrap.php:42
+msgid "Your Aweber configuration is invalid"
+msgstr "Az AWeber konfigurációd nem érvényes"
+
+#: src/Integrations/Aweber/Bootstrap.php:41
+msgid "Your Aweber configuration is valid"
+msgstr "Az AWeber konfigurációd érvényes"
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:43
+msgid "Your Campaign Monitor configuration is invalid"
+msgstr "A Campaign Monitor konfigurációja érvénytelen"
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:42
+msgid "Your Campaign Monitor configuration is valid"
+msgstr "A Campaign Monitor konfigurációja érvényes"
+
+#: src/Integrations/CleverReach/Bootstrap.php:161
+msgid "Your CleverReach API integration is up and running"
+msgstr "A CleverReach API integrációja működik és működik"
+
+#: src/Integrations/CleverReach/Bootstrap.php:142
+msgid "Your CleverReach API Key is not valid"
+msgstr "A ConvertKit API-kulcsa nem érvényes"
+
+#: src/Integrations/CleverReach/Bootstrap.php:141
+msgid "Your CleverReach API Key is valid"
+msgstr "Az Ön CleverReach API kulcsa érvényes"
+
+#: src/Integrations/ClickSend/Bootstrap.php:177
+msgid "Your ClickSend API Key has been verified and successfully set"
+msgstr "A ClickSend API kulcsát ellenőriztük és sikeresen beállítottuk"
+
+#: src/Integrations/ClickSend/Bootstrap.php:57
+msgid "Your ClickSend API Key is not valid"
+msgstr "A ClickSend API kulcsa nem érvényes"
+
+#: src/Integrations/ClickSend/Bootstrap.php:56
+msgid "Your ClickSend API Key is valid"
+msgstr "Az Ön ClickSend API kulcsa érvényes"
+
+#: src/Integrations/ConstantContact/Bootstrap.php:53
+msgid "Your Constant Contact configuration is invalid"
+msgstr "A Constant Contact konfigurációd nem érvényes"
+
+#: src/Integrations/ConstantContact/Bootstrap.php:52
+msgid "Your Constant Contact configuration is valid"
+msgstr "A Constant Contact konfigurációd érvényes"
+
+#: src/Integrations/ConvertKit/Bootstrap.php:134
+msgid "Your ConvertKit api key has been verified and successfully set"
+msgstr "A ConvertKit API-kulcsodat leellenőriztük, és sikeresen be van állítva"
+
+#: src/Integrations/ConvertKit/Bootstrap.php:42
+msgid "Your ConvertKit API Key is not valid"
+msgstr "A ConvertKit API-kulcsa nem érvényes"
+
+#: src/Integrations/ConvertKit/Bootstrap.php:41
+msgid "Your ConvertKit API Key is valid"
+msgstr "A ConvertKit API-kulcs érvényes"
+
+#: src/Integrations/Drip/Bootstrap.php:43
+msgid "Your Drip configuration is invalid"
+msgstr "A Drip konfigurációja érvénytelen"
+
+#: src/Integrations/Drip/Bootstrap.php:42
+msgid "Your Drip configuration is valid"
+msgstr "A Drip konfiguráció érvényes"
+
+#: src/Integrations/Insightly/Bootstrap.php:247
+#: src/Integrations/Discord/Bootstrap.php:76
+#: src/Integrations/Amocrm/Bootstrap.php:267
+#: src/Integrations/Mailjet/Bootstrap.php:248
+#: src/Integrations/CleverReach/Bootstrap.php:233
+#: src/Integrations/Mailster/Bootstrap.php:161
+#: src/Integrations/OnePageCrm/Bootstrap.php:249
+#: src/Integrations/Salesforce/Bootstrap.php:268
+#: src/Integrations/Airtable/Bootstrap.php:267
+msgid "Your Feed Name"
+msgstr "A hírcsatornád neve"
+
+#: src/Integrations/GetGist/Bootstrap.php:124
+msgid "Your GetGist api key has been verified and successfully set"
+msgstr "A GetGist API kulcsodat sikeresen ellenőriztük és beállítottuk"
+
+#: src/Integrations/GetGist/Bootstrap.php:42
+msgid "Your GetGist API Key is not valid"
+msgstr "A GetGist API kulcsod nem érvényes"
+
+#: src/Integrations/GetGist/Bootstrap.php:41
+msgid "Your GetGist API Key is valid"
+msgstr "A GetGist API kulcsod érvényes"
+
+#: src/Integrations/GetResponse/Bootstrap.php:98
+msgid "Your GetResponse configuration is invalid"
+msgstr "A GetResponse konfiguráció érvénytelen"
+
+#: src/Integrations/GetResponse/Bootstrap.php:97
+msgid "Your GetResponse configuration is valid"
+msgstr "A GetResponse konfiguráció érvényes"
+
+#: src/Integrations/GoogleSheet/Bootstrap.php:46
+msgid "Your Google Access Code is not valid"
+msgstr "A Google hozzáférési kódod nem érvényes"
+
+#: src/Integrations/GoogleSheet/Bootstrap.php:45
+msgid "Your Google Access Code is valid"
+msgstr "A Google hozzáférési kódod érvényes"
+
+#: src/Integrations/GoogleSheet/Bootstrap.php:127
+msgid "Your Google Sheet api key has been verified and successfully set"
+msgstr "A Google Sheet api kulcs ellenőrzése és sikeres beállítása"
+
+#: src/Integrations/Hubspot/Bootstrap.php:132
+#, fuzzy
+#| msgid "Your HubSport api key has been verified and successfully set"
+msgid "Your HubSport API  has been verified and successfully set"
+msgstr "A HubSport api kulcs ellenőrzése és sikeres beállítása megtörtént"
+
+#: src/Integrations/Hubspot/Bootstrap.php:42
+#, fuzzy
+#| msgid "Your Hubspot API Key is not valid"
+msgid "Your Hubspot access token is not valid"
+msgstr "A HubSpot API-kulcsod nem érvényes"
+
+#: src/Integrations/Hubspot/Bootstrap.php:41
+msgid "Your Hubspot access token is valid"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:42
+msgid "Your iContact configuration is invalid"
+msgstr "Az iContact-konfigurációd érvénytelen"
+
+#: src/Integrations/IContact/Bootstrap.php:41
+msgid "Your iContact configuration is valid"
+msgstr "Az iContact beállításod érvényes"
+
+#: src/Integrations/Insightly/Bootstrap.php:132
+msgid "Your Insightly API integration is up and running"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:196
+msgid "Your Insightly API key has been verified and successfully set"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:113
+msgid "Your Insightly Integration Key is not valid"
+msgstr ""
+
+#: src/Integrations/Insightly/Bootstrap.php:112
+msgid "Your Insightly Integration Key is valid"
+msgstr ""
+
+#: src/Integrations/MailerLite/Bootstrap.php:122
+msgid "Your MailerLite api key has been verified and successfully set"
+msgstr "A MailerLite api kulcs ellenőrzése és sikeres beállítása"
+
+#: src/Integrations/MailerLite/Bootstrap.php:41
+msgid "Your MailerLite API Key is not valid"
+msgstr "A MailerLite API-kulcs nem érvényes"
+
+#: src/Integrations/MailerLite/Bootstrap.php:40
+msgid "Your MailerLite API Key is valid"
+msgstr "A MailerLite API-kulcs érvényes"
+
+#: src/Integrations/Mailjet/Bootstrap.php:133
+msgid "Your Mailjet API integration is up and running"
+msgstr ""
+
+#: src/Integrations/Mailjet/Bootstrap.php:198
+msgid "Your Mailjet API key has been verified and successfully set"
+msgstr ""
+
+#: src/Integrations/Mailjet/Bootstrap.php:114
+msgid "Your Mailjet Integration Key is not valid"
+msgstr ""
+
+#: src/Integrations/Mailjet/Bootstrap.php:113
+msgid "Your Mailjet Integration Key is valid"
+msgstr ""
+
+#: src/Integrations/MooSend/Bootstrap.php:117
+msgid "Your MooSend api key has been verified and successfully set"
+msgstr "A MooSend api kulcs ellenőrzése és sikeres beállítása"
+
+#: src/Integrations/MooSend/Bootstrap.php:41
+msgid "Your MooSend API Key is not valid"
+msgstr "A MooSend API-kulcs nem érvényes"
+
+#: src/Integrations/MooSend/Bootstrap.php:40
+msgid "Your MooSend API Key is valid"
+msgstr "A MooSend API kulcsod érvényes"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:109
+msgid "Your OnePageCrm API integration is up and running"
+msgstr "A OnePageCrm API integrációja működik és működik"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:205
+msgid "Your OnePageCRM api key has been verified and successfully set"
+msgstr "A OnePageCRM api kulcsát ellenőriztük és sikeresen beállítottuk"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:90
+msgid "Your OnePageCrm API Key is not valid"
+msgstr "A OnePageCrm API kulcsa nem érvényes"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:89
+msgid "Your OnePageCrm API Key is valid"
+msgstr "Az Ön OnePageCrm API kulcsa érvényes"
+
+#: src/Integrations/Pipedrive/Bootstrap.php:43
+msgid "Your Pipedrive API token is invalid"
+msgstr "A Pipedrive API tokenje érvénytelen"
+
+#: src/Integrations/Pipedrive/Bootstrap.php:42
+msgid "Your Pipedrive API token is valid"
+msgstr "A Pipedrive API tokenje érvényes"
+
+#: src/Integrations/Platformly/Bootstrap.php:41
+msgid "Your Platformly configuration is invalid"
+msgstr "A Platformly konfigurációd nem érvényes"
+
+#: src/Integrations/Platformly/Bootstrap.php:40
+msgid "Your Platformly configuration is valid"
+msgstr "A Platformly konfigurációd érvényes"
+
+#: src/Components/SaveProgressButton.php:67
+#: src/Components/SaveProgressButton.php:286
+msgid ""
+"Your progress has been successfully saved. Resume anytime using the link "
+"below."
+msgstr ""
+
+#: src/Integrations/Salesforce/Bootstrap.php:149
+msgid "Your Salesforce API integration is up and running"
+msgstr "A Salesforce API integrációja működik"
+
+#: src/Integrations/Salesforce/Bootstrap.php:118
+msgid "Your Salesforce API Key is not valid"
+msgstr "A Salesforce API kulcsa nem érvényes"
+
+#: src/Integrations/Salesforce/Bootstrap.php:117
+msgid "Your Salesforce API Key is valid"
+msgstr "A Salesforce API kulcsa érvényes"
+
+#: src/Integrations/SendFox/Bootstrap.php:122
+msgid "Your SendFox api key has been verified and successfully set"
+msgstr "A SendFox api kulcs ellenőrzése és sikeres beállítása megtörtént"
+
+#: src/Integrations/SendFox/Bootstrap.php:42
+msgid "Your SendFox API Key is not valid"
+msgstr "A SendFox API-kulcs nem érvényes"
+
+#: src/Integrations/SendFox/Bootstrap.php:41
+msgid "Your SendFox API Key is valid"
+msgstr "A SendFox API kulcs érvényes"
+
+#: src/Integrations/Sendinblue/Bootstrap.php:41
+msgid "Your Sendinblue configuration is invalid"
+msgstr "A Sendinblue konfigurációd nem érvényes"
+
+#: src/Integrations/Sendinblue/Bootstrap.php:40
+msgid "Your Sendinblue configuration is valid"
+msgstr "A Sendinblue konfigurációd érvényes"
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:113
+#: src/Integrations/Automizy/Bootstrap.php:92
+#: src/Integrations/Amocrm/Bootstrap.php:198
+#: src/Integrations/SendFox/Bootstrap.php:92
+#: src/Integrations/MailerLite/Bootstrap.php:87
+#: src/Integrations/GoogleSheet/Bootstrap.php:98
+#: src/Integrations/ConvertKit/Bootstrap.php:96
+#: src/Integrations/CleverReach/Bootstrap.php:94
+#: src/Integrations/GetGist/Bootstrap.php:88
+#: src/Integrations/ConstantContact/Bootstrap.php:104
+#: src/Integrations/MooSend/Bootstrap.php:87
+#: src/Integrations/Telegram/Bootstrap.php:103
+#: src/Integrations/SMSNotification/Bootstrap.php:105
+#: src/Integrations/OnePageCrm/Bootstrap.php:173
+#: src/Integrations/Salesforce/Bootstrap.php:194
+msgid "Your settings has been updated"
+msgstr "A beállítások frissültek"
+
+#: src/classes/AddressAutoComplete.php:121
+#: src/Integrations/CampaignMonitor/Bootstrap.php:102
+#: src/Integrations/Hubspot/Bootstrap.php:89
+#: src/Integrations/Platformly/Bootstrap.php:98
+#: src/Integrations/Salesflare/Bootstrap.php:115
+msgid "Your settings has been updated and discarded"
+msgstr "A beállítások frissültek és elvetettük őket"
+
+#: src/Integrations/Aweber/Bootstrap.php:97
+#: src/Integrations/Trello/Bootstrap.php:125
+#: src/Integrations/Drip/Bootstrap.php:100
+#: src/Integrations/Sendinblue/Bootstrap.php:89
+#: src/Integrations/ActiveCampaign/Bootstrap.php:96
+#: src/Integrations/GetResponse/Bootstrap.php:56
+msgid "Your settings has been updated and discarted"
+msgstr "A beállításaidat frissítettük és elvetettük őket"
+
+#: src/Integrations/Aweber/Bootstrap.php:118
+#: src/Integrations/Trello/Bootstrap.php:140
+#: src/Integrations/Drip/Bootstrap.php:116
+#: src/Integrations/Sendinblue/Bootstrap.php:104
+#: src/Integrations/ActiveCampaign/Bootstrap.php:111
+#: src/Integrations/Pipedrive/Bootstrap.php:199
+#: src/Integrations/ConstantContact/Bootstrap.php:121
+#: src/Integrations/Platformly/Bootstrap.php:113
+#: src/Integrations/Salesflare/Bootstrap.php:137
+#: src/Integrations/GetResponse/Bootstrap.php:76
+msgid "Your settings has been updated!"
+msgstr "A beállítások frissítve!"
+
+#: src/Payments/TransactionShortcodes.php:434
+msgid "Your subscription has been cancelled. Refreshing the page..."
+msgstr "Az Ön előfizetése törlésre került. Az oldal frissítése..."
+
+#: src/Integrations/Trello/Bootstrap.php:45
+msgid "Your Trello configuration is invalid"
+msgstr "A Trello konfigurációd nem érvényes"
+
+#: src/Integrations/Trello/Bootstrap.php:44
+msgid "Your Trello configuration is valid"
+msgstr "A Trello konfigurációd érvényes"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:153
+msgid "Your Twilio api key has been verified and successfully set"
+msgstr "A Twilio api kulcsodat ellenőriztük és sikeresen beállítottuk"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:42
+msgid "Your Twilio API Key is not valid"
+msgstr "Az Ön Twilio API kulcsa nem érvényes"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:41
+msgid "Your Twilio API Key is valid"
+msgstr "Az Ön Twilio API kulcsa érvényes"
+
+#: src/Integrations/ZohoCRM/Bootstrap.php:66
+msgid "Your Zoho CRM API Key is not valid"
+msgstr "A Zoho CRM API kulcsa nem érvényes"
+
+#: src/Integrations/ZohoCRM/Bootstrap.php:65
+msgid "Your Zoho CRM API Key is valid"
+msgstr "A Zoho CRM API kulcsa érvényes"
+
+#: src/Integrations/OnePageCrm/Bootstrap.php:487
+msgid "Zip Code is a string type field."
+msgstr "Az irányítószám egy string típusú mező."
+
+#: src/Integrations/ZohoCRM/Bootstrap.php:87
+msgid "Zoho CRM Client ID"
+msgstr "Zoho CRM ügyfél azonosító"
+
+#: src/Integrations/ZohoCRM/Bootstrap.php:93
+msgid "Zoho CRM Client Secret"
+msgstr "Zoho CRM ügyfél titok"
+
+#: src/Integrations/ZohoCRM/Bootstrap.php:63
+msgid "Zoho CRM Settings"
+msgstr "Zoho CRM beállítások"
+
+#: src/Payments/PaymentHelper.php:833
+msgid ""
+"{first_interval_total} for first {billing_interval} then "
+"{subscription_amount} for each {billing_interval}"
+msgstr ""
+"{first_interval_total} az első {billing_interval}, majd "
+"{subscription_amount} minden egyes {billing_interval} esetében"
+
+#: src/Payments/PaymentHelper.php:836
+msgid "{subscription_amount} for each {billing_interval}"
+msgstr "{subscription_amount} minden {billing_interval}"

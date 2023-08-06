@@ -1,0 +1,2342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FluentCRM Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-04 21:27+0000\n"
+"PO-Revision-Date: 2021-11-18 19:57+0100\n"
+"Last-Translator: \n"
+"Language-Team: Magyar\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Domain: fluentcampaign-pro\n"
+
+#: app/Http/Controllers/CampaignsProController.php:37
+#, php-format
+msgid "%d Emails has been scheduled to resend"
+msgstr "%d e-mailek újra be van ütemezve"
+
+#: app/Services/Integrations/LearnDash/LearnDashCoursePurchased.php:21
+msgid "[LearnDash] Check if the contact enroll a course"
+msgstr ""
+"[LearnDash] Annak ellenőrzése, hogy a partner beiratkozott-e egy tanfolyamra"
+
+#: app/Services/Integrations/LearnDash/LearnDashCoursePurchased.php:34
+msgid "[LearnDash] Check if the contact enroll or completed a course"
+msgstr ""
+"[LearnDash] Annak ellenőrzése, hogy a partner elvégzett-e egy tanfolyamot"
+
+#: app/Services/Integrations/LearnDash/LearnDashIsInGroup.php:21
+#: app/Services/Integrations/LearnDash/LearnDashIsInGroup.php:34
+msgid "[LearnDash] Check if the contact is in a group"
+msgstr "[LearnDash] Annak ellenőrzése, hogy a partner csoporton belül van-e"
+
+#: app/Services/Integrations/LifterLms/LifterCoursePurchased.php:35
+msgid "[LifterLMS] Check if the contact enroll or completed a course"
+msgstr ""
+"[LifterLMS] Annak ellenőrzése, hogy a kapcsolattartó beiratkozott-e vagy "
+"elvégezte-e a tanfolyamot"
+
+#: app/Services/Integrations/PMPro/PMProIsInMembership.php:21
+#: app/Services/Integrations/PMPro/PMProIsInMembership.php:34
+msgid "[PMPro] Check if the contact is in a Membership Level"
+msgstr "[PMPro] Annak ellenőrzése, hogy a partner tagsági szinten van-e"
+
+#: app/Services/Integrations/RCP/RCPIsInMembership.php:21
+#: app/Services/Integrations/RCP/RCPIsInMembership.php:34
+msgid "[RCP] Check if the contact is in a Membership Level"
+msgstr "[RCP] Annak ellenőrzése, hogy a partner tagsági szinten van-e"
+
+#: app/Services/Integrations/TutorLms/TutorCoursePurchased.php:21
+msgid "[TutorLMS] Check if the contact enroll a course"
+msgstr ""
+"[TutorLMS] Annak ellenőrzése, hogy a partner beiratkozott-e egy tanfolyamra"
+
+#: app/Services/Integrations/TutorLms/TutorCoursePurchased.php:34
+msgid "[TutorLMS] Check if the contact enrolled a course"
+msgstr ""
+"[TutorLMS] Annak ellenőrzése, hogy a partner beiratkozott-e egy tanfolyamra"
+
+#: app/Services/Integrations/WishlistMember/WishlishIsInLevel.php:21
+#: app/Services/Integrations/WishlistMember/WishlishIsInLevel.php:34
+msgid "[WishList Member] Check if the contact is in a Membership Level"
+msgstr ""
+"[WishList Member] Annak ellenőrzése, hogy a partner tagsági szinten van-e"
+
+#: app/Services/Integrations/RCP/RCPMembershipTrigger.php:24
+#: app/Services/Integrations/RCP/RCPMembershipTrigger.php:39
+#: app/Services/Integrations/WishlistMember/WishlistMembershipTrigger.php:24
+#: app/Services/Integrations/WishlistMember/WishlistMembershipTrigger.php:39
+#: app/Services/Integrations/MemberPress/MembershipTrigger.php:24
+#: app/Services/Integrations/MemberPress/MembershipTrigger.php:39
+msgid "A member added to a membership level"
+msgstr "Egy Tag hozzáadása egy tagsági szinthez"
+
+#: app/Services/Integrations/MemberPress/SubscriptionExpiredTrigger.php:24
+#: app/Services/Integrations/MemberPress/SubscriptionExpiredTrigger.php:39
+msgid "A Subscription expired"
+msgstr "Az előfizetés lejárt"
+
+#: app/Services/DynamicSegments/AffiliateWPSegment.php:20
+msgid "Active Affiliates (AffiliateWP)"
+msgstr "Aktív affiliate partnerek (AffiliateWP)"
+
+#: app/Services/DynamicSegments/AffiliateWPSegment.php:21
+msgid "Active Affiliates who are also in the contact list as subscribed"
+msgstr ""
+"Aktív affiliatek, akik szintén feliratkozottként szerepelnek a "
+"partnerlistában"
+
+#: app/Http/Controllers/DynamicSegmentController.php:140
+msgid ""
+"Activity on your site login, email link click or various other activities"
+msgstr ""
+"Tevékenység a webhelyen bejelentkezés, e-mail link kattintás vagy egyéb "
+"tevékenységek"
+
+#: app/Services/Funnel/Actions/AddActivityAction.php:57
+msgid "Activity Title"
+msgstr "Tevékenység címe"
+
+#: app/Services/Integrations/WooCommerce/AddOrderNoteAction.php:23
+#: app/Services/Integrations/WooCommerce/AddOrderNoteAction.php:49
+msgid "Add Note to WooCommerce Order"
+msgstr "Megjegyzés hozzáadása a WooCommerce rendeléshez"
+
+#: app/Services/Funnel/Actions/AddActivityAction.php:25
+msgid "Add Notes & Activity"
+msgstr "Jegyzetek hozzáadása & Tevékenység"
+
+#: app/Services/Funnel/Actions/AddActivityAction.php:47
+msgid "Add Notes or Activity to Contact"
+msgstr "Jegyzetek vagy tevékenységek hozzáadása a partnerhez"
+
+#: app/Services/Funnel/Actions/AddActivityAction.php:26
+#: app/Services/Funnel/Actions/AddActivityAction.php:48
+msgid "Add Notes or Activity to the Contact Profile"
+msgstr "Jegyzetek vagy tevékenységek hozzáadása a partnerprofilhoz"
+
+#: app/Services/Integrations/ElementorFormIntegration/FormWidget.php:86
+msgid "Add Only"
+msgstr "Csak hozzáadás"
+
+#: app/Services/Integrations/WooCommerce/AddOrderNoteAction.php:22
+#: app/Services/Integrations/WooCommerce/AddOrderNoteAction.php:48
+msgid "Add Order Note"
+msgstr "Megjegyzés hozzáadása a rendeléshez"
+
+#: app/Http/Controllers/CampaignsProController.php:29
+msgid "Added to resend from failed"
+msgstr "Hozzáadva a sikertelenek újraküldéséhez"
+
+#: app/Hooks/Handlers/DataExporter.php:227
+msgid "Address Line 1"
+msgstr "Cím első sora"
+
+#: app/Hooks/Handlers/DataExporter.php:228
+msgid "Address Line 2"
+msgstr "Cím második sora"
+
+#: app/Services/Integrations/AffiliateWP/AffiliateWPAffActiveTrigger.php:48
+msgid "AffiliateWP - New Affiliate Approved/Active Register"
+msgstr "AffiliateWP - Új partner jóváhagyott / aktív regisztrált"
+
+#: app/Services/Integrations/LifterLms/LifterCoursePurchased.php:48
+msgid "Also check if the contact completed the course or not."
+msgstr ""
+"Ellenőrizze azt is, hogy a kapcsolattartó elvégezte-e a tanfolyamot vagy sem."
+
+#: app/Services/Integrations/RCP/RCPMembershipTrigger.php:51
+#: app/Services/Integrations/RCP/RCPMembershipCancelTrigger.php:51
+#: app/Services/Integrations/LifterLms/LessonCompletedTrigger.php:55
+#: app/Services/Integrations/LifterLms/CourseCompletedTrigger.php:51
+#: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:55
+#: app/Services/Integrations/LifterLms/MembershipEnrollTrigger.php:55
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:52
+#: app/Services/Integrations/WooCommerce/WooOrderStatusChangeTrigger.php:52
+#: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:52
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:54
+#: app/Services/Integrations/PMPro/PMProPMProMembershipTrigger.php:51
+#: app/Services/Integrations/PMPro/PMProPMProCancelLevelTrigger.php:51
+#: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:51
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:51
+#: app/Services/Integrations/LearnDash/LessonCompletedTrigger.php:51
+#: app/Services/Integrations/LearnDash/CourseCompletedTrigger.php:51
+#: app/Services/Integrations/LearnDash/CourseEnrollTrigger.php:53
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:51
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:52
+#: app/Services/Integrations/WishlistMember/WishlistMembershipTrigger.php:51
+#: app/Services/Integrations/TutorLms/CourseCompletedTrigger.php:51
+#: app/Services/Integrations/TutorLms/CourseEnrollTrigger.php:51
+#: app/Services/Integrations/MemberPress/MembershipTrigger.php:51
+#: app/Services/Integrations/MemberPress/SubscriptionExpiredTrigger.php:51
+#: app/Services/Integrations/AffiliateWP/AffiliateWPAffActiveTrigger.php:75
+#: app/Services/Funnel/Triggers/UserLoginTrigger.php:45
+msgid "An Automated double-optin email will be sent for new subscribers"
+msgstr "Egy automatikus dupla optin e-mailt küldünk az új feliratkozóknak"
+
+#: app/Services/Integrations/WooCommerce/WooOrderStatusChangeTrigger.php:78
+msgid "Any"
+msgstr "Bármely"
+
+#: app/Services/Integrations/WooCommerce/Helper.php:51
+#: app/Services/Integrations/Edd/Helper.php:53
+msgid "Any type of purchase"
+msgstr "Bármilyen típusú vásárlás"
+
+#: app/Services/Integrations/BuddyPress/Group.php:34
+#: app/Services/Integrations/BuddyPress/BBMemberType.php:57
+#: app/Services/Integrations/Edd/EddMetaBoxes.php:49
+#: app/Services/Integrations/Edd/EddMetaBoxes.php:103
+msgid "Apply Tags"
+msgstr "Címkék alkalmazása"
+
+#: app/Services/Integrations/LifterLms/LifterInit.php:366
+msgid "Apply Tags on Course Completed"
+msgstr "Címkék alkalmazása a befejezett tanfolyamon"
+
+#: app/Services/Integrations/LearnPress/LearnPressInit.php:149
+msgid "Apply Tags on Course Completion"
+msgstr "Címkék alkalmazása a tanfolyam befejezésekor"
+
+#: app/Services/Integrations/LifterLms/LifterInit.php:174
+#: app/Services/Integrations/TutorLms/TutorLmsInit.php:141
+msgid "Apply Tags on course completion"
+msgstr "Címkék alkalmazása a tanfolyam befejezésekor"
+
+#: app/Services/Integrations/LearnPress/LearnPressInit.php:130
+msgid "Apply Tags on Course Enrollment"
+msgstr "Címkék alkalmazása a tanfolyami beiratkozásra"
+
+#: app/Services/Integrations/LifterLms/LifterInit.php:161
+#: app/Services/Integrations/TutorLms/TutorLmsInit.php:127
+msgid "Apply Tags on course enrollment"
+msgstr "Címkék alkalmazása a tanfolyami beiratkozásra"
+
+#: app/Services/Integrations/LearnPress/LearnPressInit.php:186
+msgid "Apply Tags on Lesson Completion"
+msgstr "Címkék alkalmazása a lecke befejezésekor"
+
+#: app/Services/Integrations/LifterLms/LifterInit.php:232
+msgid "Apply Tags on Membership enrollment"
+msgstr "Címkék alkalmazása a tagfelvételnél"
+
+#: app/Http/Controllers/ManagerController.php:135
+msgid "Associate user could not be found"
+msgstr "A társ felhasználó nem található"
+
+#: app/Http/Controllers/ManagerController.php:62
+#: app/Http/Controllers/ManagerController.php:103
+msgid "Associate user could not be found with this email"
+msgstr "Társ felhasználó nem található ezzel az e-maillel"
+
+#: app/Services/Integrations/LifterLms/LifterInit.php:183
+msgid ""
+"Automatically remove tags defined in \"Apply Tags\" if course enrollment is "
+"cancelled."
+msgstr ""
+"Automatikusan eltávolítja a \"Címkék alkalmazása\" menüpontban meghatározott "
+"címkéket, ha a kurzusfelvételt törlik."
+
+#: app/Services/Integrations/LifterLms/LifterInit.php:241
+msgid ""
+"Automatically remove tags defined in \"Apply Tags\" if membership is "
+"cancelled."
+msgstr ""
+"Automatikusan eltávolítja a \"Címkék alkalmazása\" menüpontban meghatározott "
+"címkéket, ha a tagság megszűnik."
+
+#: app/Services/Integrations/BuddyPress/BBInit.php:29
+#: app/Services/Integrations/BuddyPress/BBInit.php:50
+msgid "BuddyBoss Groups"
+msgstr "BuddyBoss csoportok"
+
+#: app/Services/Integrations/BuddyPress/BBInit.php:26
+#: app/Services/Integrations/BuddyPress/BBInit.php:47
+msgid "BuddyPress Groups"
+msgstr "BuddyPress csoportok"
+
+#: app/Services/Funnel/Actions/RemoveFromFunnelAction.php:23
+#: app/Services/Funnel/Actions/RemoveFromFunnelAction.php:36
+msgid "Cancel Automations"
+msgstr "Automatizálások megszakítása"
+
+#: app/Services/Funnel/Actions/RemoveFromEmailSequenceAction.php:22
+msgid "Cancel Sequence Emails"
+msgstr "Sorozat e-mailek megszakítása"
+
+#: app/Services/Funnel/Actions/RemoveFromEmailSequenceAction.php:23
+msgid "Cancel Sequence Emails for the contact"
+msgstr "A partner e-mail sorozatának megszakítása"
+
+#: app/Services/Funnel/Actions/ChangeUserRoleAction.php:38
+msgid "Change connected user role"
+msgstr "Kapcsolódó felhasználói szerepkör módosítása"
+
+#: app/Services/Integrations/WooCommerce/OrderStatusChangeAction.php:22
+#: app/Services/Integrations/WooCommerce/OrderStatusChangeAction.php:44
+#: app/Services/Integrations/WooCommerce/CreateCouponAction.php:51
+msgid "Change Order Status"
+msgstr "Rendelési státusz átállítása"
+
+#: app/Services/Integrations/WooCommerce/OrderStatusChangeAction.php:23
+#: app/Services/Integrations/WooCommerce/OrderStatusChangeAction.php:45
+#: app/Services/Integrations/WooCommerce/CreateCouponAction.php:52
+msgid "Change status of the current order in WooCommerce"
+msgstr "Az aktuális megrendelés állapotának módosítása a WooCommerce-ben"
+
+#: app/Services/Funnel/Actions/ChangeUserRoleAction.php:37
+msgid "Change User Role"
+msgstr "Felhasználói szerepkör módosítása"
+
+#: app/Services/Funnel/Actions/ChangeUserRoleAction.php:23
+msgid "Change WP User Role"
+msgstr "WP felhasználói szerepkör módosítása"
+
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:22
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:47
+msgid "Check Contact's Properties"
+msgstr "A partner tulajdonságainak ellenőrzése"
+
+#: app/Services/Integrations/WooCommerce/WooConditions.php:43
+msgid "Check customer / Order properties"
+msgstr "Ügyfél / megrendelés tulajdonságainak ellenőrzése"
+
+#: app/Services/Integrations/LifterLms/LifterCoursePurchased.php:21
+msgid "Check if the contact enroll a course"
+msgstr "Ellenőrizze, hogy a kapcsolat beiratkozott-e egy tanfolyamra"
+
+#: app/Services/Integrations/LifterLms/LifterHasMembership.php:21
+#: app/Services/Integrations/LifterLms/LifterHasMembership.php:35
+msgid "Check if the contact has a Membership"
+msgstr "Annak ellenőrzése, hogy a partner rendelkezik-e tagsággal"
+
+#: app/Services/Funnel/Conditions/HasListCondition.php:22
+#: app/Services/Funnel/Conditions/HasListCondition.php:34
+msgid "Check If the contact has specific lists"
+msgstr "Jelöld be, ha a partner rendelkezik konkrét listákkal"
+
+#: app/Services/Funnel/Conditions/HasTagCondition.php:22
+#: app/Services/Funnel/Conditions/HasTagCondition.php:34
+msgid "Check If the contact has specific tags"
+msgstr "Jelöld be, ha a partner rendelkezik konkrét címkékkel"
+
+#: app/Services/Funnel/Conditions/HasUserRole.php:23
+#: app/Services/Funnel/Conditions/HasUserRole.php:35
+#: app/Services/Funnel/Conditions/HasUserRole.php:36
+msgid "Check If the contact has specific user role"
+msgstr ""
+"Ellenőrizze, hogy a kapcsolat rendelkezik-e adott felhasználói szereppel"
+
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:23
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:48
+msgid "Check If the contact match specific data properties"
+msgstr "Ellenőrzés: Ha a partner megfelel az adott adattulajdonságnak"
+
+#: app/Services/Integrations/WooCommerce/WooPurchased.php:34
+#: app/Services/Integrations/WooCommerce/WooConditions.php:85
+#: app/Services/Integrations/Edd/EddPurchased.php:21
+#: app/Services/Integrations/Edd/EddPurchased.php:34
+msgid "Check if the contact purchased a specific product"
+msgstr "Ellenőrizzük, hogy a partner vásárolt-e egy adott terméket"
+
+#: app/Services/Integrations/RCP/RCPIsInMembership.php:22
+#: app/Services/Integrations/RCP/RCPIsInMembership.php:35
+#: app/Services/Integrations/PMPro/PMProIsInMembership.php:22
+#: app/Services/Integrations/PMPro/PMProIsInMembership.php:35
+#: app/Services/Integrations/WishlistMember/WishlishIsInLevel.php:22
+#: app/Services/Integrations/WishlistMember/WishlishIsInLevel.php:35
+msgid "Check If user in a membership level and run sequences conditionally"
+msgstr ""
+"Jelölje be, ha a felhasználó tagsági szinten van, és feltételesen futtatja a "
+"sorozatokat"
+
+#: app/Services/Integrations/WooCommerce/WooPurchased.php:22
+#: app/Services/Integrations/WooCommerce/WooPurchased.php:35
+#: app/Services/Integrations/WooCommerce/WooConditions.php:86
+#: app/Services/Integrations/Edd/EddPurchased.php:22
+#: app/Services/Integrations/Edd/EddPurchased.php:35
+msgid ""
+"Check If user purchased selected products and run sequences conditionally"
+msgstr ""
+"Jelölje be, ha a felhasználó megvásárolta a kiválasztott termékeket, és "
+"feltételesen futtatja a sorozatokat"
+
+#: app/Http/Controllers/DynamicSegmentController.php:100
+#: app/Hooks/Handlers/DataExporter.php:230
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:104
+msgid "City"
+msgstr "Város"
+
+#: app/Services/Integrations/LearnDash/CourseCompletedTrigger.php:24
+#: app/Services/Integrations/LearnDash/CourseCompletedTrigger.php:39
+msgid "Completes a Course"
+msgstr "Befejez egy tanfolyamot"
+
+#: app/Services/Integrations/LearnDash/LessonCompletedTrigger.php:24
+#: app/Services/Integrations/LearnDash/LessonCompletedTrigger.php:39
+msgid "Completes a Lesson"
+msgstr "Befejez egy leckét"
+
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:24
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:39
+msgid "Completes a Topic"
+msgstr "Befejez egy modult"
+
+#: app/Services/Integrations/WooCommerce/WooConditions.php:98
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:58
+msgid "Condition"
+msgstr "Feltétel"
+
+#: app/Services/Integrations/TutorLms/TutorCoursePurchased.php:35
+msgid "Conditionally check if contact enrolled a course"
+msgstr ""
+"Feltételes ellenőrzés, hogy a kapcsolattartó beiratkozott-e egy tanfolyamra"
+
+#: app/Services/Integrations/LifterLms/LifterCoursePurchased.php:22
+#: app/Services/Integrations/LifterLms/LifterCoursePurchased.php:36
+#: app/Services/Integrations/LearnDash/LearnDashCoursePurchased.php:22
+#: app/Services/Integrations/LearnDash/LearnDashCoursePurchased.php:35
+#: app/Services/Integrations/TutorLms/TutorCoursePurchased.php:22
+msgid "Conditionally check if contact enrolled or completed a course"
+msgstr ""
+"Feltételes ellenőrzés, hogy a partner beiratkozott-e vagy elvégezte-e a "
+"tanfolyamot"
+
+#: app/Services/Integrations/LifterLms/LifterHasMembership.php:22
+#: app/Services/Integrations/LifterLms/LifterHasMembership.php:36
+msgid "Conditionally check if contact has an active membership level"
+msgstr ""
+"Feltételesen ellenőrizze, hogy a partner rendelkezik-e aktív tagsági szinttel"
+
+#: app/Services/Integrations/LearnDash/LearnDashIsInGroup.php:22
+#: app/Services/Integrations/LearnDash/LearnDashIsInGroup.php:35
+msgid "Conditionally check if contact is in a group"
+msgstr "Feltételesen ellenőrizze, hogy a partner csoporton belül van-e"
+
+#: app/Http/Controllers/DynamicSegmentController.php:77
+msgid "Conditions"
+msgstr "Feltételek"
+
+#: app/Services/Integrations/WooCommerce/WooConditions.php:90
+msgid "Configure Conditions"
+msgstr "Feltételek konfigurálása"
+
+#: app/Services/Integrations/CRM/ListAppliedTrigger.php:64
+msgid "contact added in all of the selected lists"
+msgstr "partner hozzáadva az összes kijelölt listához"
+
+#: app/Services/Integrations/CRM/TagAppliedTrigger.php:64
+msgid "contact added in all of the selected tags"
+msgstr "partner hozzáadva az összes kijelölt címkéhez"
+
+#: app/Services/Integrations/CRM/ListAppliedTrigger.php:60
+msgid "contact added in any of the selected lists"
+msgstr "partner hozzáadva a kijelölt listák bármelyikében"
+
+#: app/Services/Integrations/CRM/TagAppliedTrigger.php:60
+msgid "contact added in any of the selected tags"
+msgstr "partner hozzáadva a kijelölt címkék bármelyikéhez"
+
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:57
+msgid "Contact Data"
+msgstr "Partner adatok"
+
+#: app/Http/Controllers/DynamicSegmentController.php:82
+msgid "Contact Email"
+msgstr "Partner e-mailje"
+
+#: app/Services/Funnel/Actions/UpdateContactPropertyAction.php:47
+msgid "Contact Property"
+msgstr "Partner tulajdonság"
+
+#: app/Services/Funnel/Actions/UpdateContactPropertyAction.php:186
+msgid "Contact Source"
+msgstr "Partner forrása"
+
+#: app/Hooks/Handlers/DataExporter.php:236
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:118
+#: app/Services/Funnel/Actions/UpdateContactPropertyAction.php:181
+msgid "Contact Type"
+msgstr "Kapcsolat típusa"
+
+#: app/Services/Funnel/Benchmarks/LinkClickBenchmark.php:65
+msgid "Contacts will be redirected to this link."
+msgstr "A partnerek erre a hivatkozásra kerülnek átirányításra."
+
+#: app/Services/Funnel/Benchmarks/LinkClickBenchmark.php:56
+msgid "Copy This Link"
+msgstr "Hivatkozás másolása"
+
+#: app/Http/Controllers/DynamicSegmentController.php:114
+#: app/Hooks/Handlers/DataExporter.php:232
+#: app/Services/Integrations/WooCommerce/WooConditions.php:157
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:112
+#: app/Services/Funnel/Actions/UpdateContactPropertyAction.php:191
+msgid "Country"
+msgstr "Ország"
+
+#: app/Services/Integrations/WooCommerce/CreateCouponAction.php:22
+msgid "Create Coupon"
+msgstr "Kupon létrehozása"
+
+#: app/Services/Integrations/WooCommerce/CreateCouponAction.php:23
+msgid "Create Coupon Code"
+msgstr "Kuponkód létrehozása"
+
+#: app/Services/Funnel/Actions/UserRegistrationAction.php:45
+msgid "Create WordPress User"
+msgstr "WordPress felhasználó létrehozása"
+
+#: app/Services/Funnel/Actions/UserRegistrationAction.php:23
+msgid "Create WP User"
+msgstr "WP felhasználó létrehozása"
+
+#: app/Services/Funnel/Actions/UserRegistrationAction.php:24
+#: app/Services/Funnel/Actions/UserRegistrationAction.php:46
+msgid ""
+"Create WP User with a role if user is not already registered with contact "
+"email"
+msgstr ""
+"WP felhasználó létrehozása szerepkörrel, ha a felhasználó még nincs "
+"regisztrálva a kapcsolattartó e-mail címmel"
+
+#: app/Hooks/Handlers/DataExporter.php:240
+msgid "Created At"
+msgstr "Létrehozva"
+
+#: app/Http/Controllers/DynamicSegmentController.php:134
+msgid "Created at"
+msgstr "Létrehozva"
+
+#: app/Services/DynamicSegments/CustomSegment.php:48
+msgid "Custom Segments with custom filters on Subscriber data"
+msgstr "Egyéni szegmensek egyéni szűrőkkel a feliratkozói adatokon"
+
+#: app/Hooks/Handlers/DataExporter.php:238
+msgid "Date Of Birth"
+msgstr "Születési Idő"
+
+#: app/Services/Funnel/Actions/AddActivityAction.php:61
+msgid "Description"
+msgstr "Leírás"
+
+#: app/Services/Integrations/ElementorFormIntegration/FormWidget.php:97
+msgid "Double Opt-in"
+msgstr "Dupla feliratkozás"
+
+#: app/Services/DynamicSegments/EddActiveCustomerSegment.php:20
+msgid "Easy Digital Downloads Customers"
+msgstr "Easy Digital Downloads vásárló"
+
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:24
+msgid "Edd - New Order Success"
+msgstr "Edd - Új sikeres rendelés"
+
+#: app/Services/DynamicSegments/EddActiveCustomerSegment.php:21
+msgid "EDD customers who are also in the contact list as subscribed"
+msgstr ""
+"EDD-ügyfelek, akik szintén feliratkozottként szerepelnek a partnerlistában"
+
+#: app/Hooks/Handlers/DataExporter.php:225
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:100
+msgid "Email"
+msgstr "Email"
+
+#: app/Http/Controllers/CampaignsProController.php:80
+msgid "Email has been resent"
+msgstr "Az e-maileket újraküldtük"
+
+#: app/Services/Funnel/Benchmarks/EmailSequenceCompletedBenchmark.php:23
+#: app/Services/Funnel/Benchmarks/EmailSequenceCompletedBenchmark.php:37
+msgid "Email Sequence Completed"
+msgstr "Email sorozat befejezve"
+
+#: app/Http/Controllers/SequenceController.php:175
+#: app/Http/Controllers/SequenceMailController.php:113
+msgid "Email sequence successfully deleted"
+msgstr "Az e-mail sorozat sikeresen törölve"
+
+#: app/Http/Controllers/DynamicSegmentController.php:175
+msgid "Enable Last Email Activity Filter"
+msgstr "Utolsó e-mail tevékenységszűrő engedélyezése"
+
+#: app/Services/Funnel/Actions/EndFunnel.php:23
+#: app/Services/Funnel/Actions/EndFunnel.php:35
+msgid "End This Funnel Here"
+msgstr "Vége ennek a tölcsérnek itt"
+
+#: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:28
+#: app/Services/Integrations/TutorLms/CourseEnrollTrigger.php:24
+msgid "Enrollment in a course"
+msgstr "Beiratkozás tanfolyamra"
+
+#: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:43
+msgid "Enrollment in a course in LifterLMS"
+msgstr "Beiratkozás a LifterLMS tanfolyamra"
+
+#: app/Services/Integrations/TutorLms/CourseEnrollTrigger.php:39
+msgid "Enrollment in a course in TutorLMS"
+msgstr "Beiratkozás a TutorLMS tanfolyamra"
+
+#: app/Services/Integrations/LifterLms/MembershipEnrollTrigger.php:28
+msgid "Enrollment in a Membership"
+msgstr "Tagságba való beiratkozás"
+
+#: app/Services/Integrations/LifterLms/MembershipEnrollTrigger.php:43
+msgid "Enrollment in a Membership in LifterLMS"
+msgstr "Beiratkozás a LifterLMS tagságba"
+
+#: app/Services/Integrations/PMPro/PMProPMProMembershipTrigger.php:39
+msgid "Enrollment in a Membership Level in PMPro"
+msgstr "Beiratkozás tagsági szintre a PMPro-ban"
+
+#: app/Services/Integrations/LearnDash/CourseEnrollTrigger.php:24
+#: app/Services/Integrations/LearnDash/CourseEnrollTrigger.php:41
+msgid "Enrolls in a Course"
+msgstr "Tanfolyamra jelentkezik"
+
+#: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:24
+#: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:39
+msgid "Enrolls in a Group"
+msgstr "Csoportba való beiratkozás"
+
+#: app/Http/Controllers/DynamicSegmentController.php:170
+msgid "Filter By Email Activities"
+msgstr "Szűrés e-mail tevékenységek szerint"
+
+#: app/Http/Controllers/DynamicSegmentController.php:171
+msgid ""
+"Filter your contacts by from email open or email link click metrics. Leave "
+"the values blank for not applying"
+msgstr ""
+"Szűrje a partnereket e-mail megnyitási vagy e-mail linkre kattintási "
+"metrikák alapján. Hagyd üresen az értékeket, ha nem használod"
+
+#: app/Http/Controllers/DynamicSegmentController.php:88
+#: app/Hooks/Handlers/DataExporter.php:223
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:92
+msgid "First Name"
+msgstr "Keresztnév"
+
+#. Author of the plugin
+msgid "Fluent CRM"
+msgstr "Fluent CRM"
+
+#: app/Services/Integrations/WooCommerce/WooProductAdmin.php:47
+#: app/Services/Integrations/ElementorFormIntegration/FormWidget.php:31
+#: app/Services/Integrations/ElementorFormIntegration/FormWidget.php:39
+#: app/Services/Integrations/BuddyPress/Group.php:15
+msgid "FluentCRM"
+msgstr "FluentCRM"
+
+#: app/Services/Integrations/TutorLms/TutorLmsInit.php:104
+msgid "FluentCRM - Course Tags"
+msgstr "FluentCRM - Tanfolyam címkék"
+
+#: app/Services/Integrations/WooCommerce/WooProductAdmin.php:79
+msgid "FluentCRM Integration"
+msgstr "FluentCRM integráció"
+
+#. Name of the plugin
+msgid "FluentCRM Pro"
+msgstr "FluentCRM Pro"
+
+#: app/Services/Integrations/WooCommerce/WooInit.php:140
+#: app/Services/Integrations/Edd/EddInit.php:118
+msgid "FluentCRM Profile"
+msgstr "FluentCRM profil"
+
+#: app/Services/Integrations/LearnPress/LearnPressInit.php:105
+#: app/Services/Integrations/LearnPress/LearnPressInit.php:109
+#: app/Services/Integrations/BuddyPress/BBMemberType.php:218
+#: app/Services/Integrations/Edd/EddMetaBoxes.php:29
+msgid "FluentCRM Settings"
+msgstr "FluentCRM beállítások"
+
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:74
+#: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:71
+msgid "For what type of purchase you want to run this benchmark"
+msgstr "Milyen típusú vásárlás esetén szeretnéd futtatni ezt a benchmarkot"
+
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:97
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:99
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:101
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:102
+msgid "For what type of purchase you want to run this funnel"
+msgstr "Milyen típusú vásárlás esetén szeretné futtatni ezt a tölcsért"
+
+#: app/Services/Integrations/WooCommerce/Helper.php:59
+#: app/Services/Integrations/Edd/Helper.php:61
+msgid "From 2nd Purchase"
+msgstr "2. vásárlástól"
+
+#: app/Services/Funnel/Actions/UserRegistrationAction.php:56
+msgid "Generate Password Automatically"
+msgstr "Jelszó automatikus generálása"
+
+#: app/Services/Funnel/Conditions/HasListCondition.php:21
+msgid "Has in Selected Lists"
+msgstr "Kijelölt listákban szerepel"
+
+#: app/Services/Funnel/Conditions/HasTagCondition.php:21
+msgid "Has in Selected tags"
+msgstr "Kijelölt címkékben"
+
+#: app/Services/Funnel/Conditions/HasUserRole.php:22
+msgid "Has User Role"
+msgstr "Felhasználói szerepe van"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://fluentcrm.com"
+msgstr "https://fluentcrm.com"
+
+#: app/Hooks/Handlers/DataExporter.php:220
+msgid "ID"
+msgstr "ID"
+
+#: app/Services/Integrations/WooCommerce/WooConditions.php:97
+msgid "IF"
+msgstr "HA"
+
+#: app/Services/Integrations/LifterLms/LifterCoursePurchased.php:43
+#: app/Services/Integrations/LearnDash/LearnDashCoursePurchased.php:42
+#: app/Services/Integrations/TutorLms/TutorCoursePurchased.php:42
+msgid ""
+"If any of the courses has been enrolled by the contact it will result as YES"
+msgstr "Ha bármelyik tanfolyamra a kapcsolattartó beiratkozott, az IGEN lesz"
+
+#: app/Services/Integrations/LearnDash/LearnDashIsInGroup.php:42
+msgid ""
+"If any of the groups has been enrolled by the contact it will result as YES"
+msgstr "Ha bármelyik csoportot a kapcsolattartó regisztrálta, az IGEN lesz"
+
+#: app/Services/Integrations/WooCommerce/WooPurchased.php:42
+#: app/Services/Integrations/Edd/EddPurchased.php:42
+msgid ""
+"If any of the product has been purchased by the contact it will result as YES"
+msgstr "Ha bármelyik terméket megvásárolta a partner, az IGEN lesz"
+
+#: app/Services/Funnel/Conditions/HasListCondition.php:44
+msgid ""
+"If any of the selected lists found in that contact then it will be as \"Yes\""
+msgstr ""
+"Ha a kijelölt listák bármelyike megtalálható az adott partnerben, akkor az "
+"\"IGEN\" lesz."
+
+#: app/Services/Funnel/Conditions/HasTagCondition.php:44
+msgid ""
+"If any of the selected tags found in that contact then it will be as \"Yes\""
+msgstr ""
+"Ha a partnerben található kijelölt címkék bármelyike megtalálható, akkor az "
+"\"IGEN\" lesz."
+
+#: app/Services/Funnel/Conditions/HasUserRole.php:43
+msgid ""
+"If any of the selected user roles found in that contact then it will be as "
+"\"Yes\""
+msgstr ""
+"Ha a kiválasztott felhasználói szerepkörök bármelyike megtalálható az adott "
+"kapcsolaton, akkor \"Igen\" lesz"
+
+#: app/Services/Integrations/LifterLms/LessonCompletedTrigger.php:79
+#: app/Services/Integrations/LifterLms/CourseCompletedTrigger.php:75
+#: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:80
+#: app/Services/Integrations/LifterLms/MembershipEnrollTrigger.php:80
+#: app/Services/Integrations/PMPro/PMProPMProMembershipTrigger.php:76
+#: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:76
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:77
+#: app/Services/Integrations/LearnDash/LessonCompletedTrigger.php:76
+#: app/Services/Integrations/LearnDash/CourseCompletedTrigger.php:75
+#: app/Services/Integrations/LearnDash/CourseEnrollTrigger.php:78
+#: app/Services/Integrations/TutorLms/CourseCompletedTrigger.php:75
+#: app/Services/Integrations/TutorLms/CourseEnrollTrigger.php:76
+#: app/Services/Integrations/AffiliateWP/AffiliateWPAffActiveTrigger.php:98
+msgid "If Contact Already Exist?"
+msgstr "Ha a partner már létezik?"
+
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:78
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:79
+msgid "If Contact Exist?"
+msgstr "Ha partner létezik?"
+
+#: app/Services/Integrations/LifterLms/LifterHasMembership.php:43
+msgid ""
+"If the contact is in any of the membership levels (active) then it will "
+"result as YES"
+msgstr ""
+"Ha a partner a tagsági szintek bármelyikében (aktív) van, akkor IGEN lesz"
+
+#: app/Services/Integrations/RCP/RCPIsInMembership.php:42
+#: app/Services/Integrations/PMPro/PMProIsInMembership.php:42
+#: app/Services/Integrations/WishlistMember/WishlishIsInLevel.php:42
+msgid ""
+"If the contact is in any of the selected levels then the result will be as "
+"YES"
+msgstr ""
+"Ha a partner a kiválasztott szintek bármelyikében van, akkor az eredmény IGEN"
+
+#: app/Services/Funnel/Actions/ChangeUserRoleAction.php:24
+msgid "If user exist with the contact email then you can change user role"
+msgstr ""
+"Ha a felhasználó létezik a kapcsolattartó e-mail címével, akkor "
+"megváltoztathatja a felhasználó szerepét"
+
+#: app/Services/Integrations/LifterLms/LifterCoursePurchased.php:49
+msgid ""
+"If you enable this then the course need to completed by the contact to "
+"result as \"YES\""
+msgstr ""
+"Ha ezt engedélyezi, akkor a tanfolyamot a kapcsolattartónak be kell "
+"befejeznie ahhoz, hogy \"IGEN\" legyen"
+
+#: app/Services/FunnelMultiConditionTrait.php:21
+#: app/Services/Integrations/RCP/RCPMembershipTrigger.php:84
+#: app/Services/Integrations/RCP/RCPMembershipCancelTrigger.php:84
+#: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:95
+#: app/Services/Integrations/LifterLms/MembershipEnrollTrigger.php:95
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:103
+#: app/Services/Integrations/WooCommerce/WooOrderStatusChangeTrigger.php:105
+#: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:95
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:105
+#: app/Services/Integrations/PMPro/PMProPMProMembershipTrigger.php:91
+#: app/Services/Integrations/PMPro/PMProPMProCancelLevelTrigger.php:84
+#: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:91
+#: app/Services/Integrations/LearnDash/CourseEnrollTrigger.php:93
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:107
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:108
+#: app/Services/Integrations/WishlistMember/WishlistMembershipTrigger.php:84
+#: app/Services/Integrations/TutorLms/CourseEnrollTrigger.php:91
+#: app/Services/Integrations/MemberPress/MembershipTrigger.php:84
+#: app/Services/Integrations/MemberPress/SubscriptionExpiredTrigger.php:84
+#: app/Services/Funnel/Triggers/UserLoginTrigger.php:85
+msgid ""
+"If you enable, then it will restart the automation for a contact if the "
+"contact already in the automation. Otherwise, It will just skip if already "
+"exist"
+msgstr ""
+"Ha engedélyezed, akkor újraindítod egy partner automatizálását, ha a partner "
+"már az automatizálásban van. Ellenkező esetben, csak kihagyja, ha már létezik"
+
+#: app/Services/Integrations/RCP/RCPImporter.php:138
+#: app/Services/Integrations/PMPro/PMProImporter.php:138
+#: app/Services/Integrations/BuddyPress/BbImporter.php:202
+#: app/Services/Integrations/WishlistMember/WishlistMemberImporter.php:137
+#, php-format
+msgid "Import %s Members Now"
+msgstr "Import %s Tagok most"
+
+#: app/Services/Integrations/LifterLms/LifterImporter.php:181
+#: app/Services/Integrations/LearnPress/LearnPressImporter.php:131
+#: app/Services/Integrations/LearnDash/LearnDashImporter.php:183
+#: app/Services/Integrations/TutorLms/TutorImporter.php:137
+#, php-format
+msgid "Import %s Students Now"
+msgstr "Import %s Diákok most"
+
+#: app/Services/Integrations/RCP/RCPImporter.php:110
+#: app/Services/Integrations/LifterLms/LifterImporter.php:134
+#: app/Services/Integrations/LearnPress/LearnPressImporter.php:103
+#: app/Services/Integrations/PMPro/PMProImporter.php:110
+#: app/Services/Integrations/LearnDash/LearnDashImporter.php:136
+#: app/Services/Integrations/WishlistMember/WishlistMemberImporter.php:109
+#: app/Services/Integrations/TutorLms/TutorImporter.php:109
+msgid "Import by"
+msgstr "Importálás"
+
+#: app/Http/Controllers/CampaignsProController.php:159
+msgid "invalid selection"
+msgstr "érvénytelen kijelölés"
+
+#: app/Hooks/Handlers/DataExporter.php:233
+msgid "IP Address"
+msgstr "IP cím"
+
+#: app/Http/Controllers/DynamicSegmentController.php:181
+#: app/Http/Controllers/DynamicSegmentController.php:187
+msgid "Keep days 0/Blank for disable"
+msgstr "Hagyd a napokat 0/Üres állásban letiltáshoz"
+
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:90
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:67
+#: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:89
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:92
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:94
+#: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:64
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:95
+msgid "Keep it blank to run to any category products"
+msgstr "Hagyd üresen, hogy bármely kategória termékéhez fusson"
+
+#: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:89
+#: app/Services/Integrations/LearnDash/CourseEnrollTrigger.php:87
+#: app/Services/Integrations/TutorLms/CourseCompletedTrigger.php:84
+#: app/Services/Integrations/TutorLms/CourseEnrollTrigger.php:85
+msgid "Keep it blank to run to any Course Enrollment"
+msgstr "Hagyd üresen, hogy fusson bármely tanfolyamra való regisztrációhoz"
+
+#: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:85
+msgid "Keep it blank to run to any group Enrollment"
+msgstr "Hagyd üresen, hogy futtassa bármelyik csoport regisztrációhoz"
+
+#: app/Services/Integrations/LifterLms/LessonCompletedTrigger.php:89
+#: app/Services/Integrations/LifterLms/CourseCompletedTrigger.php:85
+#: app/Services/Integrations/LearnDash/CourseCompletedTrigger.php:85
+msgid "Keep it blank to run to any Lesson"
+msgstr "Hagyd üresen, hogy futtassa bármely leckénél"
+
+#: app/Services/Integrations/RCP/RCPMembershipCancelTrigger.php:78
+msgid "Keep it blank to run to any Level Cancellation"
+msgstr "Hagyd üresen, hogy futtassa bármely szint törlésénél"
+
+#: app/Services/Integrations/PMPro/PMProPMProCancelLevelTrigger.php:78
+msgid "Keep it blank to run to any Level cancellation"
+msgstr "Hagyd üresen, hogy futtassa bármely szint törlésénél"
+
+#: app/Services/Integrations/RCP/RCPMembershipTrigger.php:78
+#: app/Services/Integrations/PMPro/PMProPMProMembershipTrigger.php:85
+#: app/Services/Integrations/WishlistMember/WishlistMembershipTrigger.php:78
+#: app/Services/Integrations/MemberPress/MembershipTrigger.php:78
+msgid "Keep it blank to run to any Level Enrollment"
+msgstr "Hagyd üresen, hogy bármilyen szintű regisztrációhoz fusson"
+
+#: app/Services/Integrations/LifterLms/MembershipEnrollTrigger.php:89
+msgid "Keep it blank to run to any Membership"
+msgstr "Hagyd üresen, hogy futtassa bármely tagsághoz"
+
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:88
+msgid "Keep it blank to run to any product"
+msgstr "Tartsa üresen, hogy bármilyen termékre fusson"
+
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:82
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:59
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:84
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:87
+#: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:57
+msgid "Keep it blank to run to any product purchase"
+msgstr "Hagyd üresen, hogy bármilyen termék vásárlásához fusson"
+
+#: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:81
+msgid "Keep it blank to run to any product refund"
+msgstr "Hagyd üresen, hogy bármilyen termék visszatérítésekor fusson"
+
+#: app/Services/Integrations/MemberPress/SubscriptionExpiredTrigger.php:78
+msgid "Keep it blank to run to any subscription cancellation"
+msgstr "Hagyd üresen, hogy fusson bármely előfizetés lemondásakor"
+
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:101
+msgid "Keep it blank to run to any Topic for that lesson"
+msgstr "Hagyd üresen, hogy fusson minden témához, ehhez a leckénél"
+
+#: app/Hooks/Handlers/DataExporter.php:239
+msgid "Last Activity"
+msgstr "Utolsó tevékenység"
+
+#: app/Http/Controllers/DynamicSegmentController.php:139
+msgid "Last Contact Activity"
+msgstr "Utolsó partner tevékenység"
+
+#: app/Http/Controllers/DynamicSegmentController.php:185
+msgid "Last Email Link Clicked"
+msgstr "Utolsó e-mail linkre kattintás"
+
+#: app/Http/Controllers/DynamicSegmentController.php:179
+msgid "Last Email Open"
+msgstr "Utolsó e-mail megnyitás"
+
+#: app/Http/Controllers/DynamicSegmentController.php:94
+#: app/Hooks/Handlers/DataExporter.php:224
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:96
+msgid "Last Name"
+msgstr "Családi név"
+
+#: app/Services/Integrations/LearnDash/LessonCompletedTrigger.php:93
+msgid "Leave empty to target any lesson of this course"
+msgstr "Hagyd üresen, hogy megcélozzunk minden leckét ezen a tanfolyamon"
+
+#: app/Services/Funnel/Benchmarks/LinkClickBenchmark.php:35
+#: app/Services/Funnel/Benchmarks/LinkClickBenchmark.php:50
+msgid "Link Click"
+msgstr "Linkre kattintás"
+
+#: app/Http/Controllers/CampaignsProController.php:114
+msgid "Links are required"
+msgstr "Linkekre van szükség"
+
+#: app/Services/Integrations/CRM/ListAppliedTrigger.php:28
+#: app/Services/Integrations/CRM/ListAppliedTrigger.php:44
+msgid "List Applied"
+msgstr "Listához adás"
+
+#: app/Services/Integrations/CRM/RemoveFromListTrigger.php:29
+msgid "List Removed"
+msgstr "Lista eltávolítva"
+
+#: app/Http/Controllers/DynamicSegmentController.php:157
+#: app/Hooks/Handlers/DataExporter.php:242
+msgid "Lists"
+msgstr "Listák"
+
+#: app/Http/Controllers/ManagerController.php:84
+msgid "Manager has been added"
+msgstr "A kezelő hozzáadva"
+
+#: app/Http/Controllers/ManagerController.php:144
+msgid "Manager has been removed"
+msgstr "A kezelőt eltávolították"
+
+#: app/Http/Controllers/ManagerController.php:124
+msgid "Manager has been updated"
+msgstr "A kezelő frissült"
+
+#: app/Http/Controllers/DynamicSegmentController.php:194
+msgid "Match Any One Condition"
+msgstr "Egyezés bármely feltétellel"
+
+#: app/Http/Controllers/DynamicSegmentController.php:193
+msgid "Match Both Open and Click Condition"
+msgstr "A Megnyitás és a Kattintás feltétel egyezése"
+
+#: app/Http/Controllers/DynamicSegmentController.php:190
+msgid "Match Type"
+msgstr "Egyezés típusa"
+
+#: app/Services/Integrations/WooCommerce/WooConditions.php:99
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:59
+msgid "Match Value"
+msgstr "Egyezési érték"
+
+#: app/Services/Integrations/RCP/RCPMembershipCancelTrigger.php:24
+msgid "Membership cancelled"
+msgstr "A tagság megszakítva"
+
+#: app/Services/Integrations/RCP/RCPMembershipCancelTrigger.php:39
+msgid "Membership is cancelled"
+msgstr "A tagság megszűnik"
+
+#: app/Services/Integrations/PMPro/PMProPMProMembershipTrigger.php:24
+msgid "Membership Level assignment of a User"
+msgstr "Tagsági szint hozzárendelése egy felhasználóhoz"
+
+#: app/Services/Integrations/PMPro/PMProPMProCancelLevelTrigger.php:24
+#: app/Services/Integrations/PMPro/PMProPMProCancelLevelTrigger.php:39
+msgid "Membership Level Expiration"
+msgstr "Tagsági szint lejárata"
+
+#: app/Services/Integrations/AffiliateWP/AffiliateWPAffActiveTrigger.php:63
+msgid "New Affiliate Approved/Active Register"
+msgstr "Új partner jóváhagyott / aktív nyilvántartás"
+
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:39
+msgid "New Edd Order (paid) has been places"
+msgstr "Új Edd Order (fizetett) már leadva"
+
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:27
+msgid "New Order (Processing)"
+msgstr "Új rendelés (feldolgozás)"
+
+#: app/Services/Integrations/WooCommerce/AddOrderNoteAction.php:59
+msgid "New Order Status"
+msgstr "Új rendelési státusz"
+
+#: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:24
+msgid "New Order Success"
+msgstr "Új rendelés sikeresen"
+
+#: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:49
+msgid "New Order Success in EDD"
+msgstr "Új sikeres rendelés az EDD-ben"
+
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:42
+msgid "New WooCommerce Order (Processing) has been places"
+msgstr "Új WooCommerce Order (Feldolgozás alatt) már leadva"
+
+#: app/Services/Funnel/Actions/EndFunnel.php:24
+msgid "No further action will run once a contact hit this point"
+msgstr "Nem fog további műveletet futtatni, ha egy partner elérte ezt a pontot"
+
+#: app/Services/Integrations/ElementorFormIntegration/FormWidget.php:87
+msgid "Only add new contacts, don't update existing ones."
+msgstr "Csak új névjegyeket adjon hozzá, ne frissítse a meglévőket."
+
+#: app/Services/Integrations/WooCommerce/Helper.php:55
+#: app/Services/Integrations/Edd/Helper.php:57
+msgid "Only for first purchase"
+msgstr "Csak első vásárlás esetén"
+
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:25
+msgid "Order Completed"
+msgstr "Rendelés teljesítve"
+
+#: app/Services/Integrations/WooCommerce/AddOrderNoteAction.php:54
+msgid "Order Note"
+msgstr "Megjegyzés a rendeléshez"
+
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:25
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:50
+msgid "Order Received in WooCommerce"
+msgstr "Rendelés beérkezése a WooCommerce-ben"
+
+#: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:25
+msgid "Order Refunded"
+msgstr "Rendelés visszatérítve"
+
+#: app/Services/Integrations/WooCommerce/WooOrderStatusChangeTrigger.php:25
+msgid "Order Status Changed"
+msgstr "Megrendelés státusza megváltozott"
+
+#: app/Services/Funnel/Actions/HTTPSendDataAction.php:26
+msgid "Outgoing Webhook"
+msgstr "Kimenő Webhook"
+
+#: app/Services/DynamicSegments/PMProMembersSegment.php:21
+msgid "Paid Membership Members"
+msgstr "Paid Membership tagok"
+
+#: app/Services/DynamicSegments/PMProMembersSegment.php:22
+msgid ""
+"Paid Membership Members customers who are also in the contact list as "
+"subscribed"
+msgstr ""
+"Paid Membership tagok azon ügyfelei, akik szintén feliratkozottként "
+"szerepelnek a partnerlistában"
+
+#: app/Services/Funnel/Benchmarks/LinkClickBenchmark.php:59
+msgid ""
+"Paste this link in any email or page. When a contact click this link then it "
+"will be recorded and redirect to the url as provided bellow."
+msgstr ""
+"Illessd be ezt a hivatkozást bármely e-mailbe vagy oldalra. Amikor egy "
+"partner erre a linkre kattint, akkor a rendszer rögzíti és átirányítja a "
+"lent megadott URL-re."
+
+#: app/Services/Funnel/Actions/RemoveFromFunnelAction.php:24
+msgid "Pause/Cancel another automation for contact"
+msgstr "Partnerek másik automatizálásának szüneteltetése/megszakítása"
+
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:25
+msgid "Payment Refunded"
+msgstr "Fizetés visszatérítve"
+
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:40
+msgid "Payment Refunded in EDD"
+msgstr "EDD-ben visszatérített kifizetés"
+
+#: app/Hooks/Handlers/DataExporter.php:234
+msgid "Phone"
+msgstr "Telefon"
+
+#: app/Http/Controllers/DynamicSegmentController.php:236
+#: app/Http/Controllers/DynamicSegmentController.php:264
+msgid "Please provide segment title"
+msgstr "Kérjük, adja meg a szegmens címét"
+
+#: app/Services/Funnel/Benchmarks/LinkClickBenchmark.php:66
+msgid "Please provide the url to where the contact will be redirected"
+msgstr "Kérjük, add meg az URL-t, ahova a partnert átirányítjuk"
+
+#: app/Services/Funnel/Benchmarks/LinkClickBenchmark.php:55
+msgid "Please save to get the sharable link"
+msgstr "Kérjük, mentsd el a megosztható link eléréséhez"
+
+#: app/Services/Funnel/Benchmarks/EmailSequenceCompletedBenchmark.php:45
+msgid "Please select the email sequences that need to be watched for completed"
+msgstr ""
+"Kérjük, válassza ki azokat az e-mail szekvenciákat, amelyeket figyelni kell "
+"a befejezett"
+
+#: app/Services/Integrations/LifterLms/LessonCompletedTrigger.php:80
+#: app/Services/Integrations/LifterLms/CourseCompletedTrigger.php:76
+#: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:81
+#: app/Services/Integrations/LifterLms/MembershipEnrollTrigger.php:81
+#: app/Services/Integrations/PMPro/PMProPMProMembershipTrigger.php:77
+#: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:77
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:78
+#: app/Services/Integrations/LearnDash/LessonCompletedTrigger.php:77
+#: app/Services/Integrations/LearnDash/CourseCompletedTrigger.php:76
+#: app/Services/Integrations/LearnDash/CourseEnrollTrigger.php:79
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:79
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:80
+#: app/Services/Integrations/TutorLms/CourseCompletedTrigger.php:76
+#: app/Services/Integrations/TutorLms/CourseEnrollTrigger.php:77
+#: app/Services/Integrations/AffiliateWP/AffiliateWPAffActiveTrigger.php:99
+msgid ""
+"Please specify what will happen if the subscriber already exist in the "
+"database"
+msgstr ""
+"Kérjük, add meg, mi történik, ha a feliratkozó már létezik az adatbázisban"
+
+#: app/Hooks/Handlers/DataExporter.php:229
+msgid "Postal Code"
+msgstr "Irányítószám"
+
+#. Description of the plugin
+msgid "Pro Email Automation and Integration Addon for FluentCRM"
+msgstr "Pro e-mail automatizálás és integrációs addon a FluentCRM-hez"
+
+#: app/Services/Funnel/Actions/UpdateContactPropertyAction.php:48
+msgid "Property Value"
+msgstr "Tulajdonság értéke"
+
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:94
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:71
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:96
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:98
+#: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:68
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:99
+msgid "Purchase Type"
+msgstr "Beszerzési típus"
+
+#: app/Services/Integrations/WooCommerce/WooPurchased.php:21
+msgid "Purchased a specific product or not"
+msgstr "Megvásárolt egy adott terméket vagy sem"
+
+#: app/Services/Funnel/Benchmarks/LinkClickBenchmark.php:63
+msgid "Redirect To"
+msgstr "Átirányítás ide"
+
+#: app/Services/Funnel/Actions/RemoveFromEmailSequenceAction.php:34
+msgid "Remove Email Sequences"
+msgstr "E-mail sorozatok eltávolítása"
+
+#: app/Services/Integrations/CRM/RemoveFromListTrigger.php:45
+msgid "Remove From List"
+msgstr "Törlés a Listából"
+
+#: app/Services/Integrations/CRM/RemoveFromTagTrigger.php:45
+msgid "Remove From Tags"
+msgstr "Eltávolítás címkékből"
+
+#: app/Services/Integrations/Edd/EddMetaBoxes.php:121
+msgid "Remove selected Tags on refund"
+msgstr "Kiválasztott címkék eltávolítása visszatérítéskor"
+
+#: app/Services/Integrations/LifterLms/LifterInit.php:182
+#: app/Services/Integrations/LifterLms/LifterInit.php:240
+msgid "Remove Tags"
+msgstr "Címkék eltávolítása"
+
+#: app/Services/Integrations/BuddyPress/Group.php:47
+#: app/Services/Integrations/BuddyPress/BBMemberType.php:76
+msgid "Remove Tags on leave defined in \"Apply Tags\""
+msgstr ""
+
+#: app/Services/Integrations/Edd/EddMetaBoxes.php:68
+msgid "Remove Tags on refund defined in \"Apply Tags\""
+msgstr ""
+
+#: app/Services/Funnel/Actions/ChangeUserRoleAction.php:49
+msgid "Replace user role "
+msgstr "Felhasználói szerepkör helyettesítése"
+
+#: app/Services/Funnel/Actions/HTTPSendDataAction.php:108
+msgid "Request Body Data"
+msgstr "Body adatok lekérése"
+
+#: app/Services/Funnel/Actions/HTTPSendDataAction.php:137
+msgid "Request Headers Data"
+msgstr "Fejléc adatok lekérése"
+
+#: app/Services/Integrations/LifterLms/LifterCoursePurchased.php:46
+msgid "Require completed?"
+msgstr "Befejezettet igényel?"
+
+#: app/Services/FunnelMultiConditionTrait.php:20
+#: app/Services/Integrations/RCP/RCPMembershipTrigger.php:83
+#: app/Services/Integrations/RCP/RCPMembershipCancelTrigger.php:83
+#: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:94
+#: app/Services/Integrations/LifterLms/MembershipEnrollTrigger.php:94
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:102
+#: app/Services/Integrations/WooCommerce/WooOrderStatusChangeTrigger.php:104
+#: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:94
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:104
+#: app/Services/Integrations/PMPro/PMProPMProMembershipTrigger.php:90
+#: app/Services/Integrations/PMPro/PMProPMProCancelLevelTrigger.php:83
+#: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:90
+#: app/Services/Integrations/LearnDash/CourseEnrollTrigger.php:92
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:106
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:107
+#: app/Services/Integrations/WishlistMember/WishlistMembershipTrigger.php:83
+#: app/Services/Integrations/TutorLms/CourseEnrollTrigger.php:90
+#: app/Services/Integrations/MemberPress/MembershipTrigger.php:83
+#: app/Services/Integrations/MemberPress/SubscriptionExpiredTrigger.php:83
+#: app/Services/Funnel/Triggers/UserLoginTrigger.php:84
+msgid ""
+"Restart the Automation Multiple times for a contact for this event. (Only "
+"enable if you want to restart automation for the same contact)"
+msgstr ""
+"Indítsa újra az automatizálást többször is egy partner számára ehhez az "
+"eseményhez. (Csak akkor engedélyezze, ha ugyanannak a partnernek az "
+"automatizálását szeretné újraindítani)"
+
+#: app/Services/Funnel/Actions/AddEmailSequenceAction.php:50
+msgid ""
+"Restart the sequence emails if the contact already in the email sequence"
+msgstr ""
+"A szekvencia e-mailek újraindítása, ha a kapcsolat már az e-mail "
+"szekvenciában van"
+
+#: app/Services/Integrations/CRM/ListAppliedTrigger.php:55
+#: app/Services/Integrations/CRM/TagAppliedTrigger.php:55
+msgid "Run When"
+msgstr "Futtatás mikor"
+
+#: app/Services/Integrations/WooCommerce/WooInit.php:68
+msgid "Sales (This Month)"
+msgstr "Értékesítés (ebben a hónapban)"
+
+#: app/Services/Integrations/WooCommerce/WooInit.php:64
+msgid "Sales (Today)"
+msgstr "Értékesítés (ma)"
+
+#: app/Services/Funnel/Actions/SendCampaignEmailAction.php:35
+msgid "Schedule Campaign Email"
+msgstr "Kampány e-mail ütemezése"
+
+#: app/Http/Controllers/DynamicSegmentController.php:253
+msgid "Segment has been created"
+msgstr "A szegmens létrejött"
+
+#: app/Http/Controllers/DynamicSegmentController.php:283
+msgid "Segment has been updated"
+msgstr "A szegmens frissült"
+
+#: app/Services/Integrations/LifterLms/LifterImporter.php:151
+#: app/Services/Integrations/LifterLms/LifterImporter.php:153
+#: app/Services/Integrations/LearnPress/LearnPressImporter.php:116
+#: app/Services/Integrations/LearnPress/LearnPressImporter.php:118
+#: app/Services/Integrations/LearnDash/LearnDashImporter.php:153
+#: app/Services/Integrations/LearnDash/LearnDashImporter.php:155
+#: app/Services/Integrations/TutorLms/TutorImporter.php:122
+#: app/Services/Integrations/TutorLms/TutorImporter.php:124
+#, php-format
+msgid "Select %s Course"
+msgstr "Válassza ki a %s tanfolyamot"
+
+#: app/Services/Integrations/LifterLms/LifterImporter.php:166
+#: app/Services/Integrations/LearnDash/LearnDashImporter.php:168
+#: app/Services/Integrations/LearnDash/LearnDashImporter.php:170
+#: app/Services/Integrations/BuddyPress/BbImporter.php:187
+#: app/Services/Integrations/BuddyPress/BbImporter.php:189
+#, php-format
+msgid "Select %s Group"
+msgstr "Válassza ki a %s csoportot"
+
+#: app/Services/Integrations/BuddyPress/BbImporter.php:155
+#, php-format
+msgid "Select %s Import Type"
+msgstr "Válassza ki a %s Import típusát"
+
+#: app/Services/Integrations/BuddyPress/BbImporter.php:172
+#: app/Services/Integrations/BuddyPress/BbImporter.php:174
+#, php-format
+msgid "Select %s Member Type"
+msgstr "Válassza ki a %s tagtípust"
+
+#: app/Services/Integrations/RCP/RCPImporter.php:123
+#: app/Services/Integrations/RCP/RCPImporter.php:125
+#: app/Services/Integrations/LifterLms/LifterImporter.php:168
+#: app/Services/Integrations/PMPro/PMProImporter.php:123
+#: app/Services/Integrations/PMPro/PMProImporter.php:125
+#: app/Services/Integrations/WishlistMember/WishlistMemberImporter.php:122
+#: app/Services/Integrations/WishlistMember/WishlistMemberImporter.php:124
+#, php-format
+msgid "Select %s Membership"
+msgstr "Válassza ki a %s Tagságot"
+
+#: app/Services/Funnel/Actions/AddActivityAction.php:52
+msgid "Select Activity Type"
+msgstr "Tevékenységtípus kiválasztása"
+
+#: app/Services/Funnel/Actions/RemoveFromFunnelAction.php:42
+msgid "Select Automations"
+msgstr "Automatizálások kiválasztása"
+
+#: app/Services/Funnel/Actions/RemoveFromFunnelAction.php:40
+msgid "Select Automations that you want to cancel"
+msgstr "Válaszd ki a megszakítani kívánt automatizálásokat"
+
+#: app/Services/Funnel/Actions/SendCampaignEmailAction.php:42
+msgid "Select Campaign"
+msgstr "Kampány kiválasztása"
+
+#: app/Services/Funnel/Actions/SendCampaignEmailAction.php:43
+msgid "Select Campaign Email"
+msgstr "Kampány e-mail kiválasztása"
+
+#: app/Http/Controllers/DynamicSegmentController.php:78
+msgid ""
+"Select conditions which will define this segment. All Conditions will be "
+"applied to filter"
+msgstr ""
+"Válaszd ki azokat a feltételeket, amelyek meghatározzák ezt a szegmenst. "
+"Minden feltételt alkalmazni kell a szűrőhöz"
+
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:84
+#: app/Services/Integrations/LearnDash/LessonCompletedTrigger.php:83
+msgid "Select Course to find out Lesson"
+msgstr "Válassza ki a tanfolyamot, a Lecke kereséséhez"
+
+#: app/Services/Funnel/Actions/AddEmailSequenceAction.php:44
+msgid "Select Email Sequence"
+msgstr "E-mail sorozat kiválasztása"
+
+#: app/Services/Integrations/LifterLms/CourseCompletedTrigger.php:82
+#: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:87
+#: app/Services/Integrations/LearnDash/CourseCompletedTrigger.php:82
+#: app/Services/Integrations/LearnDash/CourseEnrollTrigger.php:85
+#: app/Services/Integrations/TutorLms/CourseCompletedTrigger.php:82
+#: app/Services/Integrations/TutorLms/CourseEnrollTrigger.php:83
+msgid "Select for which Courses this automation will run"
+msgstr "Válaszd ki, hogy mely tanfolyamokon fog futni ez az automatizálás"
+
+#: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:83
+msgid "Select for which groups this automation will run"
+msgstr "Válaszd ki, hogy az automatizálás mely csoportokhoz fog futni"
+
+#: app/Services/Integrations/LifterLms/LessonCompletedTrigger.php:86
+msgid "Select for which Lessons this automation will run"
+msgstr "Válaszd ki, hogy az automatizálás mely leckékhez fog futni"
+
+#: app/Services/Integrations/RCP/RCPMembershipTrigger.php:76
+#: app/Services/Integrations/RCP/RCPMembershipCancelTrigger.php:76
+#: app/Services/Integrations/PMPro/PMProPMProMembershipTrigger.php:83
+#: app/Services/Integrations/PMPro/PMProPMProCancelLevelTrigger.php:76
+#: app/Services/Integrations/WishlistMember/WishlistMembershipTrigger.php:76
+#: app/Services/Integrations/MemberPress/MembershipTrigger.php:76
+#: app/Services/Integrations/MemberPress/SubscriptionExpiredTrigger.php:76
+msgid "Select for which Membership Levels this automation will run"
+msgstr "Válaszd ki, hogy az automatizálás mely tagsági szinteken fog futni"
+
+#: app/Services/Integrations/LifterLms/LifterHasMembership.php:41
+#: app/Services/Integrations/LifterLms/MembershipEnrollTrigger.php:87
+msgid "Select for which Memberships this automation will run"
+msgstr "Válaszd ki, hogy mely tagságokon fog ez az automatizálás futni"
+
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:89
+#: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:88
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:91
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:92
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:93
+msgid "Select for which product category the automation will run"
+msgstr "Válaszd ki, hogy az automatizálás melyik termékkategóriában fog futni"
+
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:66
+#: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:62
+msgid "Select for which product category the benchmark will run"
+msgstr "Válaszd ki, hogy a benchmark melyik termékkategóriában fog futni"
+
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:81
+#: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:80
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:83
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:85
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:86
+msgid "Select for which products this automation will run"
+msgstr "Válaszd ki, hogy az automatizálás mely termékekhez fog futni"
+
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:58
+#: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:55
+#: app/Services/Funnel/Benchmarks/LinkClickBenchmark.php:58
+msgid "Select for which products this benchmark will run"
+msgstr "Válaszd ki, hogy mely termékekhez fog futni ez a benchmark"
+
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:98
+msgid "Select for which Topics this automation will run"
+msgstr "Válaszd ki, hogy az automatizálás mely témakörökben fog futni"
+
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:91
+msgid "Select Lesson to find out the available topics"
+msgstr "A Lecke lehetőséget választva ismerje meg az elérhető témaköröket"
+
+#: app/Services/Integrations/LearnDash/LessonCompletedTrigger.php:91
+msgid "Select Lesson to find out Topic"
+msgstr "Válassza a Lecke lehetőséget a témakör kereséshez"
+
+#: app/Services/Integrations/CRM/ListAppliedTrigger.php:52
+#: app/Services/Integrations/CRM/RemoveFromListTrigger.php:53
+#: app/Services/Funnel/Conditions/HasListCondition.php:43
+msgid "Select List"
+msgstr "Lista kiválasztása"
+
+#: app/Services/Integrations/CRM/ListAppliedTrigger.php:51
+#: app/Services/Integrations/CRM/RemoveFromListTrigger.php:52
+#: app/Services/Integrations/ElementorFormIntegration/FormWidget.php:58
+#: app/Services/Funnel/Conditions/HasListCondition.php:42
+msgid "Select Lists"
+msgstr "Listák kiválasztása"
+
+#: app/Services/Integrations/WooCommerce/AddOrderNoteAction.php:60
+msgid "Select Note Type for the reference Order."
+msgstr "Válassza ki a megjegyzés típusát a rendeléshez."
+
+#: app/Services/Funnel/Conditions/HasUserRole.php:41
+#: app/Services/Funnel/Conditions/HasUserRole.php:42
+msgid "Select Roles"
+msgstr "Szerepkörök kiválasztása"
+
+#: app/Services/Funnel/Actions/AddEmailSequenceAction.php:45
+msgid "Select Sequence Email"
+msgstr "E-mail sorozat kiválasztása"
+
+#: app/Services/Funnel/Benchmarks/EmailSequenceCompletedBenchmark.php:44
+#: app/Services/Funnel/Actions/RemoveFromEmailSequenceAction.php:41
+msgid "Select Sequences"
+msgstr "Sorozatok kiválasztása"
+
+#: app/Services/Integrations/RCP/RCPMembershipTrigger.php:47
+#: app/Services/Integrations/RCP/RCPMembershipCancelTrigger.php:47
+#: app/Services/Integrations/LifterLms/LessonCompletedTrigger.php:51
+#: app/Services/Integrations/LifterLms/CourseCompletedTrigger.php:47
+#: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:51
+#: app/Services/Integrations/LifterLms/MembershipEnrollTrigger.php:51
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:48
+#: app/Services/Integrations/WooCommerce/WooOrderStatusChangeTrigger.php:48
+#: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:48
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:50
+#: app/Services/Integrations/PMPro/PMProPMProMembershipTrigger.php:47
+#: app/Services/Integrations/PMPro/PMProPMProCancelLevelTrigger.php:47
+#: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:47
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:47
+#: app/Services/Integrations/LearnDash/CourseCompletedTrigger.php:47
+#: app/Services/Integrations/LearnDash/CourseEnrollTrigger.php:49
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:47
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:48
+#: app/Services/Integrations/WishlistMember/WishlistMembershipTrigger.php:47
+#: app/Services/Integrations/TutorLms/CourseCompletedTrigger.php:47
+#: app/Services/Integrations/TutorLms/CourseEnrollTrigger.php:47
+#: app/Services/Integrations/MemberPress/MembershipTrigger.php:47
+#: app/Services/Integrations/MemberPress/SubscriptionExpiredTrigger.php:47
+#: app/Services/Integrations/AffiliateWP/AffiliateWPAffActiveTrigger.php:71
+#: app/Services/Funnel/Triggers/UserLoginTrigger.php:41
+msgid "Select Status"
+msgstr "Állapot kiválasztása"
+
+#: app/Services/Integrations/CRM/TagAppliedTrigger.php:52
+#: app/Services/Integrations/CRM/RemoveFromTagTrigger.php:53
+#: app/Services/Funnel/Conditions/HasTagCondition.php:43
+msgid "Select Tag"
+msgstr "Címke választása"
+
+#: app/Services/Integrations/CRM/TagAppliedTrigger.php:51
+#: app/Services/Integrations/CRM/RemoveFromTagTrigger.php:52
+#: app/Services/Funnel/Conditions/HasTagCondition.php:42
+msgid "Select Tags"
+msgstr "Cimkék kijelölése"
+
+#: app/Services/Integrations/ElementorFormIntegration/FormWidget.php:75
+msgid "Select tags"
+msgstr "Címkék kijelölése"
+
+#: app/Services/Funnel/Conditions/HasListCondition.php:35
+msgid "Select the lists that you want to check for a contact"
+msgstr "Jelöld ki azokat a listákat, amelyeket ellenőrizzünk a partnernél"
+
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:95
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:72
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:97
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:99
+#: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:69
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:100
+msgid "Select the purchase type"
+msgstr "A beszerzési típus kiválasztása"
+
+#: app/Services/Funnel/Conditions/HasTagCondition.php:35
+msgid "Select the tags that you want to check for a contact"
+msgstr "Jelöld ki azokat a címkéket, amelyeket ellenőrizzünk a partnernél"
+
+#: app/Services/Funnel/Actions/RemoveFromFunnelAction.php:37
+msgid "Select which automations will be cancelled from the contact"
+msgstr ""
+"Válassza ki, hogy mely automatizálások lesznek megszakítva a partnertől"
+
+#: app/Services/Funnel/Actions/SendCampaignEmailAction.php:36
+msgid "Select which campaign email will be scheduled to this contact"
+msgstr "Válassza ki, hogy melyik kampány e-mail lesz ütemezve erre a partnerre"
+
+#: app/Services/Integrations/LifterLms/LifterCoursePurchased.php:41
+#: app/Services/Integrations/LearnDash/LearnDashCoursePurchased.php:40
+#: app/Services/Integrations/TutorLms/TutorCoursePurchased.php:40
+msgid "Select Which Course you want to match for checking enrollment"
+msgstr ""
+"Válassza ki, hogy melyik tanfolyamot szeretné egyeztetni a beiratkozás "
+"ellenőrzésével"
+
+#: app/Services/Integrations/LearnDash/LearnDashIsInGroup.php:40
+msgid "Select Which Group you want to match for checking"
+msgstr "Válaszd ki, hogy melyik csoportot szeretné ellenőrizni"
+
+#: app/Services/Integrations/RCP/RCPIsInMembership.php:40
+#: app/Services/Integrations/PMPro/PMProIsInMembership.php:40
+#: app/Services/Integrations/WishlistMember/WishlishIsInLevel.php:40
+msgid "Select Which Level you want to match for this conditional split"
+msgstr ""
+"Válaszd ki, hogy melyik szintnek kell megfelelni ehhez a feltételes "
+"felosztáshoz"
+
+#: app/Services/Integrations/WooCommerce/WooPurchased.php:40
+#: app/Services/Integrations/Edd/EddPurchased.php:40
+msgid "Select Which Product you want to match for checking Purchase"
+msgstr ""
+"Válaszd ki, hogy melyik terméknek kell megfelelnie a Vásárlás ellenőrzéshez"
+
+#: app/Services/Funnel/Actions/AddEmailSequenceAction.php:38
+msgid "Select which sequence will be assigned to this contact"
+msgstr "Válaszd ki, hogy melyik sorozat lesz hozzárendelve ehhez a partnerhez"
+
+#: app/Services/Funnel/Actions/RemoveFromEmailSequenceAction.php:35
+msgid "Select which sequences will be removed from this contact"
+msgstr "Válaszd ki, hogy mely sorozatot töröljükk ettől a partnertől"
+
+#: app/Http/Controllers/DynamicSegmentController.php:301
+msgid "Selected segment has been deleted"
+msgstr "A kijelölt szegmens törölve lett"
+
+#: app/Http/Controllers/SequenceController.php:137
+msgid "Selected sequence has been successfully duplicated"
+msgstr "A kiválasztott szekvencia sikeresen megkettőződött"
+
+#: app/Http/Controllers/SmartLinksController.php:99
+msgid "Selected Smart Link has been deleted"
+msgstr "A kijelölt Smart Link törölve lett"
+
+#: app/Http/Controllers/SequenceController.php:253
+msgid "Selected subscribers has been successfully removed from this sequence"
+msgstr ""
+"A kiválasztott feliratkozók sikeresen el lettek távolítva ebből a sorozatból"
+
+#: app/Services/Integrations/LifterLms/LifterInit.php:172
+#: app/Services/Integrations/TutorLms/TutorLmsInit.php:139
+msgid "Selected tags will be applied to the contact on course completion."
+msgstr ""
+"A kiválasztott címkék a tanfolyam befejezésekor kerülnek a kapcsolatra."
+
+#: app/Services/Integrations/LifterLms/LifterInit.php:159
+#: app/Services/Integrations/TutorLms/TutorLmsInit.php:125
+msgid "Selected tags will be applied to the contact on course enrollment."
+msgstr ""
+"A kiválasztott címkék a tanfolyamra való beiratkozáskor kerülnek a kontaktra."
+
+#: app/Services/Integrations/LifterLms/LifterInit.php:364
+msgid "Selected tags will be applied to the contact on lesson completed."
+msgstr ""
+"A kiválasztott címkék a lecke befejezésekor kerülnek alkalmazásra a "
+"kapcsolatra."
+
+#: app/Services/Integrations/LifterLms/LifterInit.php:230
+msgid "Selected tags will be applied to the contact on membership enrollment."
+msgstr ""
+"A kiválasztott címkék a tagság felvételekor kerülnek alkalmazásra a "
+"kapcsolatra."
+
+#: app/Services/Funnel/Actions/SendCampaignEmailAction.php:24
+msgid "Send an Email from your existing campaign"
+msgstr "E-mail küldése a meglévő kampányból"
+
+#: app/Services/Funnel/Actions/AddEmailSequenceAction.php:25
+msgid "Send Automated Emails based on your Sequence settings"
+msgstr "Automatikus e-mailek küldése a sorozat beállítások alapján"
+
+#: app/Services/Funnel/Actions/SendCampaignEmailAction.php:23
+msgid "Send Campaign Email"
+msgstr "Kampány e-mail küldése"
+
+#: app/Services/Funnel/Actions/HTTPSendDataAction.php:154
+msgid ""
+"Send Data as Background Process. (You may enable this if you have lots of "
+"tasks)"
+msgstr ""
+"Adatok küldése háttérfolyamatként. (Ezt akkor engedélyezheti, ha sok "
+"feladata van.)"
+
+#: app/Services/Funnel/Actions/HTTPSendDataAction.php:55
+msgid "Send Data to External Server"
+msgstr "Adatok küldése külső szerverre"
+
+#: app/Services/Funnel/Actions/HTTPSendDataAction.php:27
+#: app/Services/Funnel/Actions/HTTPSendDataAction.php:56
+msgid "Send Data to external server via GET or POST Method"
+msgstr "Adatok küldése külső szerverre GET vagy POST módszerrel"
+
+#: app/Services/Integrations/ElementorFormIntegration/FormWidget.php:98
+msgid ""
+"Send Double Optin Email for new or pending contacts. If you don't enable "
+"this then contact will be added as subscribed state."
+msgstr ""
+"Double Optin e-mail küldése új vagy függőben lévő partnereknek. Ha ezt nem "
+"engedélyezi, akkor a kapcsolattartó előfizetett állapotként lesz hozzáadva."
+
+#: app/Services/Funnel/Actions/UserRegistrationAction.php:82
+msgid "Send WordPress user notification email"
+msgstr "WordPress felhasználói értesítés e-mail küldése"
+
+#: app/Http/Controllers/SequenceMailController.php:64
+msgid "Sequence email has been created"
+msgstr "Sorozat e-mail jött létre"
+
+#: app/Http/Controllers/SequenceMailController.php:97
+msgid "Sequence email has been updated"
+msgstr "A sorozat e-mailek frissültek"
+
+#: app/Http/Controllers/SequenceController.php:45
+msgid "Sequence has been created"
+msgstr "A sorozat létrejött"
+
+#: app/Http/Controllers/SequenceController.php:81
+msgid "Sequence has been updated"
+msgstr "A sorozat frissült"
+
+#: app/Services/Funnel/Actions/AddEmailSequenceAction.php:24
+#: app/Services/Funnel/Actions/AddEmailSequenceAction.php:37
+msgid "Set Sequence Emails"
+msgstr "Sorozat e-mailek beállítása"
+
+#: app/Services/Integrations/WooCommerce/WooConditions.php:91
+msgid "Set the condition groups as many as you like"
+msgstr "Állítsa be a feltételcsoportokat, amennyit csak akar"
+
+#: app/Services/Funnel/Actions/UpdateContactPropertyAction.php:46
+msgid "Setup contact properties that you want to update"
+msgstr "Frissíteni kívánt partner tulajdonságok beállítása"
+
+#: app/Http/Controllers/DynamicSegmentController.php:191
+msgid "Should Match Both Open & Click Condition?"
+msgstr "Meg kell egyeznie mind a Megnyitás & Kattintás feltételeinek?"
+
+#: app/Http/Controllers/SmartLinksController.php:68
+msgid "SmartLink has be created"
+msgstr "Létrejött a SmartLink"
+
+#: app/Http/Controllers/SmartLinksController.php:90
+msgid "SmartLink has be updated"
+msgstr "A SmartLink frissítve lett"
+
+#: app/Http/Controllers/SmartLinksController.php:49
+msgid "SmartLinks module has been successfully activated"
+msgstr "A SmartLinks modul sikeresen aktiválva"
+
+#: app/Http/Controllers/CampaignsProController.php:20
+msgid "Sorry no failed campaign emails found"
+msgstr "Sajnáljuk, nem található sikertelen kampány e-mail"
+
+#: app/Http/Controllers/CampaignsProController.php:47
+#: app/Http/Controllers/CampaignsProController.php:57
+msgid "Sorry! No emails found"
+msgstr "Sajnáljuk! Nem található e-mail"
+
+#: app/Http/Controllers/DynamicSegmentController.php:292
+msgid "Sorry! No segment found"
+msgstr "Sajnáljuk! Nem található szegmens"
+
+#: app/Http/Controllers/DynamicSegmentController.php:128
+#: app/Hooks/Handlers/DataExporter.php:237
+msgid "Source"
+msgstr "Forrás"
+
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:52
+msgid "Specify Matching Conditions"
+msgstr "Egyezési feltételek megadása"
+
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:53
+msgid ""
+"Specify which contact properties need to matched. Based on the conditions it "
+"will run yes blocks or no blocks"
+msgstr ""
+"Add meg, hogy mely partner tulajdonságnak kell egyeznie. A feltételek "
+"alapján fognak futni igen blokkok vagy nem blokkok"
+
+#: app/Http/Controllers/DynamicSegmentController.php:106
+#: app/Hooks/Handlers/DataExporter.php:231
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:108
+msgid "State"
+msgstr "Megye"
+
+#: app/Hooks/Handlers/DataExporter.php:235
+msgid "Status"
+msgstr "Állapot"
+
+#: app/Services/Integrations/LifterLms/CourseCompletedTrigger.php:24
+#: app/Services/Integrations/TutorLms/CourseCompletedTrigger.php:24
+msgid "Student completes a Course"
+msgstr "A hallgató befejezi a tanfolyamot"
+
+#: app/Services/Integrations/LifterLms/CourseCompletedTrigger.php:39
+msgid "Student completes a Course in LifterLMS"
+msgstr "Diák befejezi a tanfolyam a LifterLMS-ben"
+
+#: app/Services/Integrations/TutorLms/CourseCompletedTrigger.php:39
+msgid "Student completes a Course in TutorLMS"
+msgstr "Hallgató befejezi a tanfolyamot a TutorLMS-ben"
+
+#: app/Services/Integrations/LifterLms/LessonCompletedTrigger.php:28
+msgid "Student completes a Lesson"
+msgstr "A hallgató befejezi a leckét"
+
+#: app/Services/Integrations/LifterLms/LessonCompletedTrigger.php:43
+msgid "Student completes a Lesson in LifterLMS"
+msgstr "Tanuló befejezi a leckét a LifterLMS-ben"
+
+#: app/Http/Controllers/DynamicSegmentController.php:121
+#: app/Services/Integrations/RCP/RCPMembershipTrigger.php:46
+#: app/Services/Integrations/RCP/RCPMembershipCancelTrigger.php:46
+#: app/Services/Integrations/LifterLms/LessonCompletedTrigger.php:50
+#: app/Services/Integrations/LifterLms/CourseCompletedTrigger.php:46
+#: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:50
+#: app/Services/Integrations/LifterLms/MembershipEnrollTrigger.php:50
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:47
+#: app/Services/Integrations/WooCommerce/WooOrderStatusChangeTrigger.php:47
+#: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:47
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:49
+#: app/Services/Integrations/PMPro/PMProPMProMembershipTrigger.php:46
+#: app/Services/Integrations/PMPro/PMProPMProCancelLevelTrigger.php:46
+#: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:46
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:46
+#: app/Services/Integrations/LearnDash/LessonCompletedTrigger.php:46
+#: app/Services/Integrations/LearnDash/CourseCompletedTrigger.php:46
+#: app/Services/Integrations/LearnDash/CourseEnrollTrigger.php:48
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:46
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:47
+#: app/Services/Integrations/WishlistMember/WishlistMembershipTrigger.php:46
+#: app/Services/Integrations/TutorLms/CourseCompletedTrigger.php:46
+#: app/Services/Integrations/TutorLms/CourseEnrollTrigger.php:46
+#: app/Services/Integrations/MemberPress/MembershipTrigger.php:46
+#: app/Services/Integrations/MemberPress/SubscriptionExpiredTrigger.php:46
+#: app/Services/Integrations/AffiliateWP/AffiliateWPAffActiveTrigger.php:70
+#: app/Services/Funnel/Triggers/UserLoginTrigger.php:40
+msgid "Subscription Status"
+msgstr "Feliratkozás állapota"
+
+#: app/Services/Integrations/CRM/TagAppliedTrigger.php:28
+#: app/Services/Integrations/CRM/TagAppliedTrigger.php:44
+msgid "Tag Applied"
+msgstr "Címke hozzáadása"
+
+#: app/Services/Integrations/CRM/RemoveFromTagTrigger.php:29
+msgid "Tag Removed"
+msgstr "Címke eltávolítva"
+
+#: app/Http/Controllers/DynamicSegmentController.php:146
+#: app/Hooks/Handlers/DataExporter.php:243
+msgid "Tags"
+msgstr "Címkék"
+
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:83
+#: app/Services/Integrations/LearnDash/LessonCompletedTrigger.php:82
+msgid "Target Course"
+msgstr "Cél tanfolyam"
+
+#: app/Services/Integrations/LifterLms/CourseCompletedTrigger.php:81
+#: app/Services/Integrations/LifterLms/LifterCoursePurchased.php:40
+#: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:86
+#: app/Services/Integrations/LearnDash/CourseCompletedTrigger.php:81
+#: app/Services/Integrations/LearnDash/CourseEnrollTrigger.php:84
+#: app/Services/Integrations/LearnDash/LearnDashCoursePurchased.php:39
+#: app/Services/Integrations/TutorLms/TutorCoursePurchased.php:39
+#: app/Services/Integrations/TutorLms/CourseCompletedTrigger.php:81
+#: app/Services/Integrations/TutorLms/CourseEnrollTrigger.php:82
+msgid "Target Courses"
+msgstr "Cél tanfolyamok"
+
+#: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:82
+#: app/Services/Integrations/LearnDash/LearnDashIsInGroup.php:39
+msgid "Target Groups"
+msgstr "Célcsoportok"
+
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:90
+#: app/Services/Integrations/LearnDash/LessonCompletedTrigger.php:90
+msgid "Target Lesson"
+msgstr "Cél lecke"
+
+#: app/Services/Integrations/LifterLms/LessonCompletedTrigger.php:85
+msgid "Target Lessons"
+msgstr "Cél leckék"
+
+#: app/Services/Integrations/RCP/RCPIsInMembership.php:39
+#: app/Services/Integrations/PMPro/PMProIsInMembership.php:39
+#: app/Services/Integrations/WishlistMember/WishlishIsInLevel.php:39
+msgid "Target Levels"
+msgstr "Cél Tagsági szintek"
+
+#: app/Services/Integrations/RCP/RCPMembershipTrigger.php:75
+#: app/Services/Integrations/RCP/RCPMembershipCancelTrigger.php:75
+#: app/Services/Integrations/PMPro/PMProPMProMembershipTrigger.php:82
+#: app/Services/Integrations/PMPro/PMProPMProCancelLevelTrigger.php:75
+#: app/Services/Integrations/WishlistMember/WishlistMembershipTrigger.php:75
+#: app/Services/Integrations/MemberPress/MembershipTrigger.php:75
+#: app/Services/Integrations/MemberPress/SubscriptionExpiredTrigger.php:75
+msgid "Target Membership Levels"
+msgstr "Cél tagsági szintek"
+
+#: app/Services/Integrations/LifterLms/LifterHasMembership.php:40
+#: app/Services/Integrations/LifterLms/MembershipEnrollTrigger.php:86
+msgid "Target Memberships"
+msgstr "Cél tagságok"
+
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:88
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:65
+#: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:87
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:90
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:91
+#: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:61
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:92
+msgid "Target Product Categories"
+msgstr "Termékkategóriák célzása"
+
+#: app/Services/Integrations/WooCommerce/WooPurchased.php:39
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:80
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:57
+#: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:79
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:82
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:84
+#: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:54
+#: app/Services/Integrations/Edd/EddPurchased.php:39
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:85
+msgid "Target Products"
+msgstr "Cél termékek"
+
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:97
+msgid "Target Topics"
+msgstr "Cél témák"
+
+#: app/Services/PluginManager/LicenseManager.php:78
+#, php-format
+msgid "The %s license needs to be activated. %sActivate Now%s"
+msgstr "A (z) %s licencet aktiválni kell. %sAktiváld most%s"
+
+#: app/Hooks/Handlers/DataExporter.php:196
+msgid ""
+"The Block Action defined in the JSON file is not available on your site."
+msgstr "A JSON-fájlban definiált blokk művelet nem érhető el a webhelyen."
+
+#: app/Hooks/Handlers/DataExporter.php:169
+msgid "The provided JSON file is not valid"
+msgstr "A megadott JSON fájl érvénytelen"
+
+#: app/Hooks/Handlers/DataExporter.php:180
+msgid "The trigger defined in the JSON file is not available on your site."
+msgstr "A JSON-fájlban definiált eseményindító nem érhető el a webhelyen."
+
+#: app/Services/Funnel/Actions/EndFunnel.php:36
+msgid "This automation will be marked as completed in this point for a contact"
+msgstr ""
+"Ez az automatizálás ezen a ponton befejezettként lesz megjelölve a partnernél"
+
+#: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:26
+#: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:41
+msgid "This Automation will start once an order get refunded"
+msgstr ""
+"Ez az Automatizálás akkor indul el, amikor a megrendelést visszatérítik"
+
+#: app/Services/Funnel/Triggers/UserLoginTrigger.php:26
+#: app/Services/Funnel/Triggers/UserLoginTrigger.php:34
+msgid "This Funnel will be initiated when a user login to your site"
+msgstr ""
+"Ez a tölcsér akkor fog elindulni, amikor egy felhasználó bejelentkezik az "
+"oldaladra"
+
+#: app/Services/Integrations/AffiliateWP/AffiliateWPAffActiveTrigger.php:49
+#: app/Services/Integrations/AffiliateWP/AffiliateWPAffActiveTrigger.php:64
+msgid ""
+"This Funnel will be initiated when affiliate will be approved or register as "
+"direct approved"
+msgstr ""
+"Ez a tölcsér akkor indul el, amikor egy affiliate partnert jóváhagytak, vagy "
+"közvetlen jóváhagyottként regisztrálják"
+
+#: app/Services/Integrations/LifterLms/CourseCompletedTrigger.php:25
+#: app/Services/Integrations/TutorLms/CourseCompletedTrigger.php:25
+msgid "This Funnel will start a student completes a Course"
+msgstr "Ez a tölcsér akkor indul el, ha egy tanuló befejez egy tanfolyamot"
+
+#: app/Services/Integrations/LearnDash/LessonCompletedTrigger.php:25
+msgid "This Funnel will start a student completes a lesson"
+msgstr "Ez a tölcsér akkor indul el, ha egy tanuló befejez egy leckét"
+
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:41
+msgid "This Funnel will start once an order get marked as refunded"
+msgstr ""
+"Ez a tölcsér akkor indul el, ha egy megrendelést visszatérítettnek jelölnek "
+"meg"
+
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:26
+msgid "This Funnel will start once new order has been marked as completed"
+msgstr ""
+"Ez a tölcsér akkor indul el, ha az új megrendelést befejezettnek jelölték"
+
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:28
+msgid "This Funnel will start once new order has been placed as processing"
+msgstr ""
+"Ez a tölcsér akkor indul el, amikor új rendelést adnak le feldolgozás "
+"alattinak"
+
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:25
+#: app/Services/Integrations/Edd/EddPaymentSuccessTrigger.php:40
+msgid ""
+"This Funnel will start once new order will be added as successful payment"
+msgstr ""
+"Ez a tölcsér akkor indul el, amikor az új rendelés sikeres kifizetésként "
+"kerül hozzáadásra"
+
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:41
+msgid "This Funnel will start once new order will be marked as completed"
+msgstr ""
+"Ez a tölcsér akkor indul el, ha az új megrendelés befejezettnek lesz jelölve"
+
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessTrigger.php:43
+msgid ""
+"This Funnel will start once new order will be marked as successful payment"
+msgstr ""
+"Ez a tölcsér akkor indul el, amikor az új rendelés sikeres kifizetésként "
+"lesz megjelölve"
+
+#: app/Services/Integrations/Edd/EddPaymentRefundTrigger.php:26
+msgid "This Funnel will start once payment refunded for an order"
+msgstr ""
+"Ez a tölcsér akkor indul, ha a megrendelésre vonatkozó kifizetés "
+"visszatérítésre kerül"
+
+#: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:29
+msgid "This funnel will start when a contact has been enrolled in a course"
+msgstr ""
+"Ez a tölcsér akkor indul el, amikor egy partner beiratkozott egy tanfolyamra"
+
+#: app/Services/Integrations/WishlistMember/WishlistMembershipTrigger.php:25
+#: app/Services/Integrations/WishlistMember/WishlistMembershipTrigger.php:40
+msgid "This funnel will start when a member is added to a level"
+msgstr ""
+"Ez a tölcsér akkor indul el, amikor egy tagot hozzáadnak egy tagsági szinthez"
+
+#: app/Services/Integrations/RCP/RCPMembershipTrigger.php:25
+#: app/Services/Integrations/RCP/RCPMembershipTrigger.php:40
+msgid ""
+"This funnel will start when a member is added to a level for the first time"
+msgstr ""
+"Ez a tölcsér akkor kezdődik, amikor egy tagot először adnak hozzá egy "
+"szinthez"
+
+#: app/Services/Integrations/RCP/RCPMembershipCancelTrigger.php:25
+#: app/Services/Integrations/RCP/RCPMembershipCancelTrigger.php:40
+msgid "This funnel will start when a membership has been cancelled"
+msgstr "Ez a tölcsér akkor indul el, amikor a tagságot törölték"
+
+#: app/Services/Integrations/PMPro/PMProPMProCancelLevelTrigger.php:25
+#: app/Services/Integrations/PMPro/PMProPMProCancelLevelTrigger.php:40
+msgid "This funnel will start when a membership has been expired for a user"
+msgstr "Ez a tölcsér akkor indul el, amikor egy felhasználó tagsága lejárt"
+
+#: app/Services/Integrations/MemberPress/MembershipTrigger.php:25
+#: app/Services/Integrations/MemberPress/MembershipTrigger.php:40
+msgid ""
+"This funnel will start when a membership level get activated for a member"
+msgstr ""
+"Ez a tölcsér akkor indul el, amikor egy tag tagsági szintje aktiválódik"
+
+#: app/Services/Integrations/WooCommerce/WooOrderStatusChangeTrigger.php:26
+#: app/Services/Integrations/WooCommerce/WooOrderStatusChangeTrigger.php:41
+msgid ""
+"This Funnel will start when a Order status will change from one state to "
+"another"
+msgstr ""
+"Ez a tölcsér akkor indul el, amikor a Rendelés állapota egyik állapotból a "
+"másikba változik"
+
+#: app/Services/Integrations/LifterLms/CourseCompletedTrigger.php:40
+#: app/Services/Integrations/LearnDash/CourseCompletedTrigger.php:40
+#: app/Services/Integrations/TutorLms/CourseCompletedTrigger.php:40
+msgid "This Funnel will start when a student completes a Course"
+msgstr "Ez a tölcsér akkor kezdődik, amikor egy tanuló befejez egy tanfolyamot"
+
+#: app/Services/Integrations/LifterLms/LessonCompletedTrigger.php:29
+#: app/Services/Integrations/LifterLms/LessonCompletedTrigger.php:44
+#: app/Services/Integrations/LearnDash/LessonCompletedTrigger.php:40
+msgid "This Funnel will start when a student completes a lesson"
+msgstr "Ez a tölcsér akkor kezdődik, amikor egy tanuló befejez egy leckét"
+
+#: app/Services/Integrations/LifterLms/MembershipEnrollTrigger.php:29
+msgid ""
+"This Funnel will start when a student has been enrolled in a membership level"
+msgstr "Ez a tölcsér akkor indul el, amikor egy tanulót tagsági szinthez adunk"
+
+#: app/Services/Integrations/LifterLms/MembershipEnrollTrigger.php:44
+msgid "This funnel will start when a student is added in a Membership"
+msgstr ""
+"Ez a tölcsér akkor indul el, amikor egy tanulót hozzáadnak egy tagsághoz"
+
+#: app/Services/Integrations/LifterLms/CourseEnrollTrigger.php:44
+#: app/Services/Integrations/LearnDash/CourseEnrollTrigger.php:42
+#: app/Services/Integrations/TutorLms/CourseEnrollTrigger.php:40
+msgid "This Funnel will start when a student is enrolled in a course"
+msgstr ""
+"Ez a tölcsér akkor kezdődik, amikor egy tanuló beiratkozott egy tanfolyamra"
+
+#: app/Services/Integrations/LearnDash/CourseEnrollTrigger.php:25
+msgid "This funnel will start when a student is enrolled in a course"
+msgstr ""
+"Ez a tölcsér akkor kezdődik, amikor egy tanuló beiratkozott egy tanfolyamra"
+
+#: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:40
+msgid "This Funnel will start when a student is enrolled in a group"
+msgstr ""
+"Ez a tölcsér akkor kezdődik, amikor egy tanuló beiratkozik egy csoportba"
+
+#: app/Services/Integrations/MemberPress/SubscriptionExpiredTrigger.php:25
+#: app/Services/Integrations/MemberPress/SubscriptionExpiredTrigger.php:40
+msgid "This funnel will start when a subscription has been expired"
+msgstr "Ez a tölcsér akkor indul el, amikor egy előfizetés lejárt"
+
+#: app/Services/Integrations/PMPro/PMProPMProMembershipTrigger.php:25
+msgid ""
+"This funnel will start when a user is assigned to specified membership levels"
+msgstr ""
+"Ez a tölcsér akkor indul el, amikor a felhasználó hozzá van rendelve a "
+"megadott tagsági szintekhez"
+
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:25
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:40
+msgid "This funnel will start when a user is completes a lesson topic"
+msgstr "Ez a tölcsér akkor indul el, amikor a felhasználó befejez egy modult"
+
+#: app/Services/Integrations/LearnDash/GroupEnrollTrigger.php:25
+msgid "This funnel will start when a user is enrolled in a group"
+msgstr ""
+"Ez a tölcsér akkor indul el, amikor a felhasználó regisztrálva van egy "
+"csoportban"
+
+#: app/Services/Integrations/PMPro/PMProPMProMembershipTrigger.php:40
+msgid "This funnel will start when an user is enrolled in Membership Levels"
+msgstr ""
+"Ez a tölcsér akkor indul el, amikor a felhasználó regisztrált tagsági "
+"szintekre"
+
+#: app/Services/DynamicSegments/CustomSegment.php:49
+msgid ""
+"This is a custom segment and contacts are filter based your provided filters "
+"on real time data."
+msgstr ""
+"Ez egy egyéni szegmens, és a partnereket valós idejű adatok alapján szűrik a "
+"megadott szűrők."
+
+#: app/Services/DynamicSegments/AffiliateWPSegment.php:22
+msgid ""
+"This segment contains all your Subscribed contacts which are also your "
+"active Affiliates"
+msgstr ""
+"Ez a szegmens tartalmazza az összes feliratkozott partnert, akik egyben az "
+"Ön aktív affiliate-jei"
+
+#: app/Services/DynamicSegments/EddActiveCustomerSegment.php:22
+msgid ""
+"This segment contains all your Subscribed contacts which are also your EDD "
+"Customers with atleast one purchase"
+msgstr ""
+"Ez a szegmens tartalmazza az összes feliratkozott partnert, akik egyben az "
+"EDD ügyfelek is, legalább egy vásárlással"
+
+#: app/Services/DynamicSegments/PMProMembersSegment.php:23
+msgid ""
+"This segment contains all your Subscribed contacts which are also your Paid "
+"Membership Members"
+msgstr ""
+"Ez a szegmens tartalmazza az összes feliratkozott partnert, akik egyben Paid "
+"Membership tagok"
+
+#: app/Services/DynamicSegments/WooCustomerSegment.php:22
+msgid ""
+"This segment contains all your Subscribed contacts which are also your "
+"WooCommerce Customers"
+msgstr ""
+"Ez a szegmens tartalmazza az összes feliratkozott partnert, akik egyben a "
+"WooCommerce vásárlók is"
+
+#: app/Services/DynamicSegments/WpUserSegment.php:22
+msgid ""
+"This segment contains all your Subscribed contacts which are also your "
+"WordPress users"
+msgstr ""
+"Ez a szegmens tartalmazza az összes feliratkozott partnert, akik szintén a "
+"WordPress felhasználói"
+
+#: app/Services/Funnel/Benchmarks/EmailSequenceCompletedBenchmark.php:24
+#: app/Services/Funnel/Benchmarks/EmailSequenceCompletedBenchmark.php:38
+msgid "This will run once a selected email sequence is completed for a contact"
+msgstr ""
+"Ez akkor fog lefutni, ha egy kiválasztott e-mail sorozat befejeződött egy "
+"kapcsolat számára"
+
+#: app/Services/Funnel/Benchmarks/LinkClickBenchmark.php:36
+#: app/Services/Funnel/Benchmarks/LinkClickBenchmark.php:51
+msgid "This will run once a subscriber click on this provided link"
+msgstr "Ez akkor fog futni, ha a feliratkozó rákattint erre a megadott linkre"
+
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:26
+msgid "This will run once new order has been placed as processing"
+msgstr "Ez akkor fog futni, amikor új rendelést adnak le feldolgozás alattinak"
+
+#: app/Services/Integrations/WooCommerce/WooOrderSuccessBenchmark.php:51
+msgid "This will run once new order will be placed as processing"
+msgstr "Ez akkor fog futni, amikor új rendelés kerül feldolgozásra"
+
+#: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:25
+#: app/Services/Integrations/Edd/EddOrderSuccessBenchmark.php:50
+msgid "This will run once new order will be placed as processing in EDD"
+msgstr "Ez akkor fog futni, amikor új rendelés kerül feldolgozásra az EDD-ben"
+
+#: app/Services/Integrations/CRM/RemoveFromListTrigger.php:46
+msgid ""
+"This will run when any of the selected lists have been removed from a contact"
+msgstr ""
+"Ez akkor fog futni, ha a kijelölt listák bármelyikét eltávolították egy "
+"partnerről"
+
+#: app/Services/Integrations/CRM/RemoveFromTagTrigger.php:46
+msgid ""
+"This will run when any of the selected tags have been removed from a contact"
+msgstr ""
+"Ez akkor fog futni, ha a kijelölt címkék bármelyikét eltávolították egy "
+"partnerről"
+
+#: app/Services/Integrations/CRM/ListAppliedTrigger.php:29
+#: app/Services/Integrations/CRM/ListAppliedTrigger.php:45
+msgid "This will run when selected lists have been applied to a contact"
+msgstr "Ez akkor fog futni, ha kijelölt listákat alkalmaztak egy partnerre"
+
+#: app/Services/Integrations/CRM/RemoveFromListTrigger.php:30
+msgid "This will run when selected lists have been removed from a contact"
+msgstr ""
+"Ez akkor fog futni, ha a kijelölt listákat eltávolították egy partnerből"
+
+#: app/Services/Integrations/CRM/TagAppliedTrigger.php:29
+#: app/Services/Integrations/CRM/TagAppliedTrigger.php:45
+msgid "This will run when selected tags have been applied to a contact"
+msgstr "Ez akkor fog futni, ha kijelölt címkéket alkalmaztak egy partnerre"
+
+#: app/Services/Integrations/CRM/RemoveFromTagTrigger.php:30
+msgid "This will run when selected Tags have been removed from a contact"
+msgstr ""
+"Ez akkor fog futni, ha a kijelölt címkéket eltávolították egy partnerről"
+
+#: app/Hooks/Handlers/DataExporter.php:226
+msgid "Timezone"
+msgstr "Időzóna"
+
+#: app/Hooks/Handlers/DataExporter.php:222
+msgid "Title"
+msgstr "Cím"
+
+#: app/Services/Integrations/WooCommerce/WooConditions.php:95
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:55
+msgid "True if all conditions match"
+msgstr "Igaz, ha minden feltételnek megfelel"
+
+#: app/Services/Integrations/WooCommerce/WooConditions.php:96
+#: app/Services/Funnel/Conditions/CheckUserPropCondition.php:56
+msgid "True if any of the conditions match"
+msgstr "Igaz, ha bármelyik feltételnek megfelel"
+
+#: app/Services/Integrations/WooCommerce/AddOrderNoteAction.php:55
+msgid ""
+"Type the note that you want to add to the reference order. You can also use "
+"smart tags"
+msgstr ""
+"Írja be azt a megjegyzést, amelyet hozzá kíván adni a hivatkozási "
+"sorrendhez. Használhat intelligens címkéket is"
+
+#: app/Services/Funnel/Actions/UpdateContactPropertyAction.php:23
+#: app/Services/Funnel/Actions/UpdateContactPropertyAction.php:40
+msgid "Update Contact Property"
+msgstr "Partner tulajdonságának frissítése"
+
+#: app/Services/Funnel/Actions/UpdateContactPropertyAction.php:24
+#: app/Services/Funnel/Actions/UpdateContactPropertyAction.php:41
+msgid "Update custom fields or few main property of a contact"
+msgstr "Egyéni mezők vagy a partner néhány fő tulajdonságának frissítése"
+
+#: app/Services/Funnel/Actions/UpdateUserMetaAction.php:24
+#: app/Services/Funnel/Actions/UpdateUserMetaAction.php:42
+msgid "Update WordPress User Meta Data"
+msgstr "WordPress felhasználói metaadatok frissítése"
+
+#: app/Services/Funnel/Actions/UpdateUserMetaAction.php:23
+#: app/Services/Funnel/Actions/UpdateUserMetaAction.php:41
+msgid "Update WP User Meta"
+msgstr "WP felhasználói meta frissítése"
+
+#: app/Hooks/Handlers/DataExporter.php:241
+msgid "Updated At"
+msgstr "Frissítve"
+
+#: app/Hooks/Handlers/DataExporter.php:221
+msgid "User ID"
+msgstr "Felhasználói azonosító"
+
+#: app/Services/Funnel/Triggers/UserLoginTrigger.php:25
+#: app/Services/Funnel/Triggers/UserLoginTrigger.php:33
+msgid "User Login"
+msgstr "Bejelentkezés"
+
+#: app/Services/Funnel/Actions/UpdateUserMetaAction.php:45
+#: app/Services/Funnel/Actions/UserRegistrationAction.php:70
+msgid "User Meta Mapping"
+msgstr "Felhasználói meta leképezés"
+
+#: app/Services/Integrations/WooCommerce/WooConditions.php:42
+msgid "Woocommerce Conditions"
+msgstr "Woocommerce feltételek"
+
+#: app/Services/DynamicSegments/WooCustomerSegment.php:20
+msgid "WooCommerce Customers"
+msgstr "WooCommerce ügyfelek"
+
+#: app/Services/DynamicSegments/WooCustomerSegment.php:21
+msgid "WooCommerce customers who are also in the contact list as subscribed"
+msgstr "WooCommerce ügyfelek, akik szintén a partnerlistában, mint előfizetett"
+
+#: app/Services/Integrations/WooCommerce/WooOrderCompletedTrigger.php:40
+msgid "WooCommerce Order has been completed"
+msgstr "A WooCommerce rendelés befejeződött"
+
+#: app/Services/Integrations/WooCommerce/WooOrderRefundedTrigger.php:40
+msgid "WooCommerce Order has been refunded"
+msgstr "A WooCommerce megrendelést visszafizették"
+
+#: app/Services/Integrations/WooCommerce/WooOrderStatusChangeTrigger.php:40
+msgid "WooCommerce Order Status Changed"
+msgstr "WooCommerce Megrendelés státusz megváltozott"
+
+#: app/Services/DynamicSegments/WpUserSegment.php:20
+msgid "WordPress Users"
+msgstr "WordPress Felhasználók"
+
+#: app/Services/DynamicSegments/WpUserSegment.php:21
+msgid "WordPress users who are also in the contact list as subscribed"
+msgstr ""
+"WordPress felhasználók, akik szintén a partnerlistában, mint előfizetett"
+
+#: app/Http/Controllers/CampaignsProController.php:89
+msgid "You can do this action if campaign is in archived status only"
+msgstr ""
+"Ezt a műveletet akkor teheti meg, ha a kampány csak archivált állapotban van"
+
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:86
+#: app/Services/Integrations/LearnDash/LessonCompletedTrigger.php:85
+msgid "You must select a course"
+msgstr "Ki kell választanod egy tanfolyamot"
+
+#: app/Services/Integrations/LearnDash/TopicCompletedTrigger.php:93
+msgid "You must select a topic"
+msgstr "Ki kell választanod egy témakört"
+
+#: app/Http/Controllers/LicenseController.php:58
+msgid "Your license key has been successfully deactivated"
+msgstr "A licenckulcs inaktiválása sikeresen megtörtént"
+
+#: app/Http/Controllers/LicenseController.php:41
+msgid "Your license key has been successfully updated"
+msgstr "A licenckulcs frissítése sikeresen megtörtént"
+
+#: app/Services/Funnel/Benchmarks/LinkClickBenchmark.php:64
+msgid "Your Target URL"
+msgstr "A cél URL-címe"

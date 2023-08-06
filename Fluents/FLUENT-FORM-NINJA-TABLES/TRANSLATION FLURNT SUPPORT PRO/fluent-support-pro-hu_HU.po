@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fluent Support Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-16 14:03+0000\n"
+"PO-Revision-Date: 2021-11-18 19:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: Magyar\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: fluent-support-pro\n"
+
+#: app/Http/Controllers/TicketFormController.php:98
+msgid "Content help message"
+msgstr "Tartalom súgóüzenet"
+
+#: app/Services/ProHelper.php:31
+msgid "Create a New Ticket"
+msgstr "Új jegy létrehozása"
+
+#: app/Services/ProHelper.php:29
+msgid "Create Ticket"
+msgstr "Új jegy létrehozása"
+
+#: app/Http/Controllers/TicketFormController.php:101
+msgid "Create ticket button text"
+msgstr "Jegy gomb szövegének létrehozása"
+
+#: app/Http/Controllers/TicketFormController.php:102
+msgid "Create ticket page heading"
+msgstr "Jegyoldal címsor létrehozása"
+
+#: app/Http/Controllers/CustomFieldsController.php:75
+msgid "Custom Data has been updated"
+msgstr "Az Egyéni adatok frissítésre kerültek"
+
+#. Description of the plugin
+msgid "Customer Support and Ticketing System for WordPress"
+msgstr "Ügyfélszolgálat és jegyrendszer a WordPress számára"
+
+#. Name of the plugin
+msgid "Fluent Support Pro"
+msgstr "Fluent Support Pro"
+
+#: app/Http/Controllers/TicketFormController.php:97
+msgid "Form content heading"
+msgstr "Formanyomtatvány tartalmi fejléc"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://fluentsupport.com"
+msgstr "https://fluentsupport.com"
+
+#: app/Services/Integrations/Edd.php:95 app/Services/Integrations/Edd.php:105
+#: app/Services/Integrations/WooCommerce.php:106
+#: app/Services/Integrations/WooCommerce.php:117
+#, php-format
+msgid "Order #%d"
+msgstr "Rendelés #%d"
+
+#: app/Services/Integrations/Edd.php:71
+#: app/Services/Integrations/WooCommerce.php:56
+#, php-format
+msgid "Order #%d - %s"
+msgstr "Rendelés #%d - %s"
+
+#: app/Services/ProHelper.php:26
+msgid "Please provide details about your problem"
+msgstr "Kérjük, adja meg a probléma részleteit"
+
+#: app/Services/ProHelper.php:28
+msgid "Priority"
+msgstr "Prioritás"
+
+#: app/Http/Controllers/TicketFormController.php:100
+msgid "Priority heading"
+msgstr "Prioritási címsor"
+
+#: app/Http/Controllers/TicketFormController.php:99
+msgid "Product/Service heading"
+msgstr "Termék/szolgáltatás cím"
+
+#: app/Services/ProHelper.php:27
+msgid "Related Product/Service"
+msgstr "Kapcsolódó termék/szolgáltatás"
+
+#: app/Http/Controllers/WorkflowsController.php:189
+msgid "Selected workflow has been deleted"
+msgstr "A kiválasztott munkafolyamat törlésre került"
+
+#: app/Http/Controllers/TicketFormController.php:34
+msgid "Settings has been updated"
+msgstr "A beállítások frissültek"
+
+#: app/Services/ProHelper.php:24
+msgid "Subject"
+msgstr "Téma"
+
+#: app/Http/Controllers/TicketFormController.php:96
+msgid "Subject heading"
+msgstr "Tárgycím"
+
+#: app/Services/ProHelper.php:30
+msgid "Submit a Support Ticket"
+msgstr "Támogatási jegy beküldése"
+
+#: app/Services/Integrations/WooCommerce.php:150
+msgid "Support"
+msgstr "Támogatás"
+
+#: app/Services/PluginManager/LicenseManager.php:78
+#, php-format
+msgid "The %s license needs to be activated. %sActivate Now%s"
+msgstr "A (z) %s licencet aktiválni kell. %sAktiváld most%s"
+
+#: app/Http/Controllers/TicketFormController.php:103
+msgid "Ticket Create Call to Action"
+msgstr "Jegy létrehozása Felhívás akcióra"
+
+#: app/Services/ProHelper.php:25
+msgid "Ticket Details"
+msgstr "Jegy részletek"
+
+#. Author of the plugin
+msgid "WPManageNinja LLC"
+msgstr "WPManageNinja Kft."

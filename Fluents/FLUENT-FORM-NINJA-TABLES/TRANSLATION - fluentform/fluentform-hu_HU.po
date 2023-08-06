@@ -1,0 +1,4361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fluent Forms - Best Form Plugin for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-29 15:47+0000\n"
+"PO-Revision-Date: 2022-04-28 10:51+0200\n"
+"Last-Translator: Ferenc Sárosi\n"
+"Language-Team: Magyar\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+
+#: app/Services/Integrations/BaseIntegration.php:103
+msgid " List is required"
+msgstr " Lista szükséges"
+
+#: app/Modules/Component/Component.php:1005
+msgid " to "
+msgstr " - "
+
+#: app/Services/Migrator/Classes/BaseMigrator.php:21
+#, php-format
+msgid "%s is not installed."
+msgstr "%s nincs telepítve."
+
+#: app/Services/Integrations/GlobalNotificationManager.php:175
+msgid "(truncated)"
+msgstr "(csonkolt)"
+
+#: app/Hooks/Backend.php:116
+msgid "-- Select a form --"
+msgstr "-- Válassz űrlapot --"
+
+#: app/Services/Migrator/Classes/CalderaMigrator.php:137
+msgid "-Select-"
+msgstr "-Kiválasztás-"
+
+#: app/Modules/Form/FormDataParser.php:146
+#: app/Modules/Form/FormDataParser.php:197
+msgid "...."
+msgstr "...."
+
+#: app/Modules/Component/Component.php:548
+msgid "0% Completed"
+msgstr "0% kész"
+
+#: app/Modules/Component/Component.php:547
+#: app/Services/FluentConversational/Classes/Form.php:535
+#: app/Services/FluentConversational/Classes/Form.php:653
+msgid "100% Completed"
+msgstr "100%-ban kész"
+
+#: app/Services/FormBuilder/ElementCustomization.php:459
+msgid "23/03/2018"
+msgstr "23/03/2018"
+
+#: app/Services/FormBuilder/ElementCustomization.php:467
+msgid "23/03/2018 23:59:59"
+msgstr "23/03/2018 23:59:59"
+
+#: app/Services/FormBuilder/ElementCustomization.php:463
+msgid "23:59:59"
+msgstr "23:59:59"
+
+#: app/Modules/Registerer/Menu.php:483
+msgid "<h2>No form found</h2>"
+msgstr "<h2>Nem található űrlap</h2>"
+
+#: app/Hooks/Common.php:115
+msgid "Accepted"
+msgstr "Elfogadva"
+
+#: app/Services/FormBuilder/DefaultElements.php:1245
+msgid "Action Hook"
+msgstr "Műveleti horgok"
+
+#: app/Modules/Registerer/Menu.php:976
+msgid "Actions"
+msgstr "Műveletek"
+
+#: app/Services/FormBuilder/ElementCustomization.php:417
+msgid "Activating a reversible mask"
+msgstr "Visszafordítható maszk aktiválása"
+
+#: resources/views/admin/transfer/index.php:42
+msgid "Activity Logs"
+msgstr "Műveleti naplók"
+
+#: app/Modules/Registerer/Menu.php:916
+msgid "Add a New Form"
+msgstr "Új űrlap hozzáadása"
+
+#: app/Modules/EditorButtonModule.php:19
+msgid "Add Form"
+msgstr "Űrlap hozzáadása"
+
+#: app/Modules/Registerer/Menu.php:983
+msgid "Add Note"
+msgstr "Jegyzet hozzáadása"
+
+#: app/Modules/Widgets/SidebarWidgets.php:12
+msgid "Add your form by Fluent Forms"
+msgstr "Adja hozzá űrlapját a Fluent Forms által"
+
+#: app/Modules/DocumentationModule.php:21
+msgid "Adding a new form"
+msgstr "Új űrlap hozzáadása"
+
+#: app/Services/FormBuilder/DefaultElements.php:283
+msgid "Address"
+msgstr "Cím"
+
+#: app/Services/FormBuilder/ElementCustomization.php:313
+#: app/Services/FormBuilder/DefaultElements.php:484
+#: app/Services/Migrator/Classes/BaseMigrator.php:1346
+msgid "Address Fields"
+msgstr "Címmezők"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1509
+msgid "Address Line"
+msgstr "Cím első sora"
+
+#: app/Services/FormBuilder/DefaultElements.php:305
+#: app/Services/FormBuilder/DefaultElements.php:309
+#: app/Services/Migrator/Classes/BaseMigrator.php:1167
+msgid "Address Line 1"
+msgstr "Cím első sora"
+
+#: app/Services/FormBuilder/DefaultElements.php:333
+#: app/Services/FormBuilder/DefaultElements.php:337
+#: app/Services/Migrator/Classes/BaseMigrator.php:1195
+msgid "Address Line 2"
+msgstr "Cím második sora"
+
+#: app/Services/FormBuilder/EditorShortCode.php:14
+msgid "Admin Email"
+msgstr "Admin E-mail"
+
+#: app/Services/FormBuilder/ElementCustomization.php:336
+msgid "Admin Field Label"
+msgstr "Admin mező címkéje"
+
+#: app/Services/FormBuilder/ElementCustomization.php:337
+msgid ""
+"Admin field label is field title which will be used for admin field title."
+msgstr ""
+"A rendszergazdai mezőcímke a mező címe, amelyet a rendszergazdai mező "
+"címéhez fog használni."
+
+#: app/Services/FormBuilder/ElementCustomization.php:22
+#: app/Services/FormBuilder/ElementCustomization.php:23
+msgid "Advanced Date Configuration"
+msgstr "Haladó dátum konfiguráció"
+
+#: app/Modules/Registerer/Menu.php:972
+msgid "Advanced Filter"
+msgstr "Bővített szűrő"
+
+#: app/Services/FormBuilder/CountryNames.php:18
+msgid "Afghanistan"
+msgstr "Afganisztán"
+
+#: app/Modules/Registerer/Menu.php:948
+msgid "ago"
+msgstr "óta"
+
+#: app/Services/FormBuilder/CountryNames.php:19
+msgid "Aland Islands"
+msgstr "Aland-szigetek"
+
+#: app/Services/FormBuilder/CountryNames.php:20
+msgid "Albania"
+msgstr "Albánia"
+
+#: app/Services/FormBuilder/CountryNames.php:21
+msgid "Algeria"
+msgstr "Algéria"
+
+#: app/Modules/Widgets/FluentFormWidget.php:199
+#: app/Modules/Widgets/FluentFormWidget.php:437
+#: app/Modules/Widgets/FluentFormWidget.php:566
+#: app/Modules/Widgets/FluentFormWidget.php:858
+#: app/Modules/Widgets/FluentFormWidget.php:1290
+#: app/Modules/Widgets/FluentFormWidget.php:2060
+msgid "Alignment"
+msgstr "Igazítás"
+
+#: app/Modules/Registerer/Menu.php:940
+msgid "All"
+msgstr "Összes"
+
+#: resources/views/admin/global_menu.php:16
+msgid "All Entries"
+msgstr "Minden kitöltött űrlap"
+
+#: app/Modules/Registerer/Menu.php:935
+msgid "All Form Entries"
+msgstr "Minden kitöltött űrlap"
+
+#: app/Modules/Registerer/Menu.php:328 app/Modules/Registerer/Menu.php:329
+#: app/Modules/Registerer/Menu.php:915 app/Modules/CLI/Commands.php:12
+#: resources/views/admin/global_menu.php:12
+msgid "All Forms"
+msgstr "Minden űrlap"
+
+#: app/Modules/CLI/Commands.php:16
+msgid "All Submissions"
+msgstr "Űrlapbeküldések"
+
+#: app/Modules/Registerer/Menu.php:969
+msgid "All Types"
+msgstr "Összes típus"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:161
+#: app/Services/FormBuilder/ValidationRuleSettings.php:162
+msgid "Allowed Files"
+msgstr "Engedélyezett fájlok"
+
+#: app/Services/FormBuilder/DefaultElements.php:850
+msgid "Allowed image types does not match"
+msgstr "Az engedélyezett fájltípus nem egyezik meg"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:234
+#: app/Services/FormBuilder/ValidationRuleSettings.php:235
+msgid "Allowed Images"
+msgstr "Engedélyezett képek"
+
+#: app/Modules/Component/Component.php:1010
+msgid "AM"
+msgstr "DE"
+
+#: app/Services/FormBuilder/DefaultElements.php:990
+msgid "Amazing"
+msgstr "Csodálatos"
+
+#: app/Services/FormBuilder/CountryNames.php:22
+msgid "American Samoa"
+msgstr "Amerikai Szamoa"
+
+#: app/Modules/Registerer/Menu.php:975
+msgid "Amount"
+msgstr "Összeg"
+
+#: app/Services/FormBuilder/CountryNames.php:23
+msgid "Andorra"
+msgstr "Andorra"
+
+#: app/Services/FormBuilder/CountryNames.php:24
+msgid "Angola"
+msgstr "Angola"
+
+#: app/Services/FormBuilder/CountryNames.php:25
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: app/Services/FormBuilder/CountryNames.php:26
+msgid "Antarctica"
+msgstr "Antarktisz"
+
+#: app/Services/FormBuilder/CountryNames.php:27
+msgid "Antigua and Barbuda"
+msgstr "Antigua és Barbuda"
+
+#: app/Modules/Registerer/Menu.php:980
+msgid "API Calls"
+msgstr "API-hívások"
+
+#: resources/views/admin/transfer/index.php:49
+msgid "API Logs"
+msgstr "API naplók"
+
+#: app/Services/FormBuilder/ElementCustomization.php:234
+msgid "Apply Styles"
+msgstr "Stílusok alkalmazása"
+
+#: app/Services/FormBuilder/ElementCustomization.php:235
+msgid "Apply styles provided here"
+msgstr "Az itt megadott stílusok alkalmazása"
+
+#: app/Modules/Component/Component.php:946
+msgid "Apr"
+msgstr "Ápr"
+
+#: app/Modules/Component/Component.php:960
+msgid "April"
+msgstr "Április"
+
+#: app/Services/FormBuilder/CountryNames.php:28
+msgid "Argentina"
+msgstr "Argentína"
+
+#: app/Services/FormBuilder/CountryNames.php:29
+msgid "Armenia"
+msgstr "Örményország"
+
+#: app/Services/FormBuilder/CountryNames.php:30
+msgid "Aruba"
+msgstr "Aruba"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:133
+msgid "Asterisk Color"
+msgstr "Csillag szín"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:169
+msgid "Audio"
+msgstr "Audió"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:24
+msgid "Audio (mp3, wav, ogg, oga, wma, mka, m4a, ra, mid, midi)"
+msgstr "Audio (mp3, wav, ogg, oga, wma, mka, m4a, ra, mid, midi)"
+
+#: app/Modules/Component/Component.php:950
+msgid "Aug"
+msgstr "Aug"
+
+#: app/Modules/Component/Component.php:964
+msgid "August"
+msgstr "Augusztus"
+
+#: app/Services/FormBuilder/CountryNames.php:31
+msgid "Australia"
+msgstr "Ausztrália"
+
+#: app/Services/FormBuilder/CountryNames.php:32
+msgid "Austria"
+msgstr "Ausztria"
+
+#: app/Services/FormBuilder/DefaultElements.php:989
+msgid "Awesome"
+msgstr "Fantasztikus"
+
+#: app/Services/FormBuilder/CountryNames.php:33
+msgid "Azerbaijan"
+msgstr "Azerbajdzsán"
+
+#: app/Modules/Registerer/Menu.php:950
+msgid "Back to Entries"
+msgstr "Vissza a beküldésekhez"
+
+#: app/Modules/Widgets/FluentFormWidget.php:393
+#: app/Modules/Widgets/FluentFormWidget.php:1786
+#: app/Modules/Widgets/FluentFormWidget.php:1881
+#: app/Modules/Widgets/FluentFormWidget.php:1947
+#: app/Modules/Widgets/FluentFormWidget.php:2010
+msgid "Background"
+msgstr "Háttér"
+
+#: app/Services/FormBuilder/ElementCustomization.php:397
+#: app/Modules/Widgets/OxyFluentFormWidget.php:68
+#: app/Modules/Widgets/OxyFluentFormWidget.php:752
+#: app/Modules/Widgets/OxyFluentFormWidget.php:835
+#: app/Modules/Widgets/FluentFormWidget.php:601
+#: app/Modules/Widgets/FluentFormWidget.php:809
+#: app/Modules/Widgets/FluentFormWidget.php:1019
+#: app/Modules/Widgets/FluentFormWidget.php:1135
+#: app/Modules/Widgets/FluentFormWidget.php:1347
+#: app/Modules/Widgets/FluentFormWidget.php:1431
+#: app/Modules/Widgets/FluentFormWidget.php:1559
+#: app/Modules/Widgets/FluentFormWidget.php:1631
+#: app/Modules/Widgets/FluentFormWidget.php:2131
+#: app/Modules/Widgets/FluentFormWidget.php:2237
+#: app/Modules/Widgets/FluentFormWidget.php:2290
+msgid "Background Color"
+msgstr "Háttérszín"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:614
+msgid "Background Color - Selected State"
+msgstr "Háttérszín - Kiválasztott állapot"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:692
+#: app/Modules/Widgets/OxyFluentFormWidget.php:841
+msgid "Background Hover Color"
+msgstr "Háttér hover színe"
+
+#: app/Services/FormBuilder/CountryNames.php:34
+msgid "Bahamas"
+msgstr "Bahama-szigetek"
+
+#: app/Services/FormBuilder/CountryNames.php:35
+msgid "Bahrain"
+msgstr "Bahrein"
+
+#: app/Services/FormBuilder/CountryNames.php:36
+msgid "Bangladesh"
+msgstr "Banglades"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:724
+msgid "Bar Color"
+msgstr "Sáv színe"
+
+#: app/Services/FormBuilder/CountryNames.php:37
+msgid "Barbados"
+msgstr "Barbados"
+
+#: app/Services/FormBuilder/CountryNames.php:38
+msgid "Belarus"
+msgstr "Fehéroroszország"
+
+#: app/Services/FormBuilder/CountryNames.php:40
+msgid "Belau"
+msgstr "Belau"
+
+#: app/Services/FormBuilder/CountryNames.php:39
+msgid "Belgium"
+msgstr "Belgium"
+
+#: app/Services/FormBuilder/CountryNames.php:41
+msgid "Belize"
+msgstr "Belize"
+
+#: app/Services/FormBuilder/CountryNames.php:42
+msgid "Benin"
+msgstr "Benin"
+
+#: app/Services/FormBuilder/CountryNames.php:43
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: app/Services/FormBuilder/CountryNames.php:44
+msgid "Bhutan"
+msgstr "Bhután"
+
+#: app/Services/FormBuilder/CountryNames.php:45
+msgid "Bolivia"
+msgstr "Bolívia"
+
+#: app/Services/FormBuilder/CountryNames.php:46
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr "Bonaire, Saint Eustatius és Saba"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:98
+#: app/Modules/Widgets/OxyFluentFormWidget.php:260
+#: app/Modules/Widgets/OxyFluentFormWidget.php:794
+#: app/Modules/Widgets/OxyFluentFormWidget.php:850
+#: app/Modules/Widgets/OxyFluentFormWidget.php:878
+#: app/Modules/Widgets/FluentFormWidget.php:626
+#: app/Modules/Widgets/FluentFormWidget.php:822
+#: app/Modules/Widgets/FluentFormWidget.php:1389
+#: app/Modules/Widgets/FluentFormWidget.php:1484
+#: app/Modules/Widgets/FluentFormWidget.php:1572
+#: app/Modules/Widgets/FluentFormWidget.php:1842
+#: app/Modules/Widgets/FluentFormWidget.php:1957
+#: app/Modules/Widgets/FluentFormWidget.php:2156
+#: app/Modules/Widgets/FluentFormWidget.php:2313
+msgid "Border"
+msgstr "Szegély"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1056
+#: app/Modules/Widgets/FluentFormWidget.php:1150
+#: app/Modules/Widgets/FluentFormWidget.php:1655
+#: app/Modules/Widgets/FluentFormWidget.php:2019
+#: app/Modules/Widgets/FluentFormWidget.php:2261
+msgid "Border Color"
+msgstr "Szegély szín"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:629
+msgid "Border Color - Selected State"
+msgstr "Keret színe - Kiválasztott állapot"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:105
+#: app/Modules/Widgets/OxyFluentFormWidget.php:267
+#: app/Modules/Widgets/FluentFormWidget.php:498
+#: app/Modules/Widgets/FluentFormWidget.php:637
+#: app/Modules/Widgets/FluentFormWidget.php:1082
+#: app/Modules/Widgets/FluentFormWidget.php:1108
+#: app/Modules/Widgets/FluentFormWidget.php:1581
+#: app/Modules/Widgets/FluentFormWidget.php:1853
+#: app/Modules/Widgets/FluentFormWidget.php:1965
+#: app/Modules/Widgets/FluentFormWidget.php:2030
+#: app/Modules/Widgets/FluentFormWidget.php:2166
+msgid "Border Radius"
+msgstr "Szegély sugár"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:603
+msgid "Border Radius for Checkbox"
+msgstr "Keret sugara a jelölőnégyzethez"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:621
+msgid "Border Size - Selected State"
+msgstr "Keret mérete - kiválasztott állapot"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1034
+msgid "Border Width"
+msgstr "Szegély szélesség"
+
+#: app/Services/FormBuilder/CountryNames.php:47
+msgid "Bosnia and Herzegovina"
+msgstr "Bosznia-Hercegovina"
+
+#: app/Services/FormBuilder/CountryNames.php:48
+msgid "Botswana"
+msgstr "Botswana"
+
+#: app/Services/FormBuilder/ElementCustomization.php:67
+msgid "Bottom"
+msgstr "Alul"
+
+#: app/Services/FormBuilder/CountryNames.php:49
+msgid "Bouvet Island"
+msgstr "Bouvet-sziget"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:110
+#: app/Modules/Widgets/OxyFluentFormWidget.php:248
+#: app/Modules/Widgets/OxyFluentFormWidget.php:796
+#: app/Modules/Widgets/OxyFluentFormWidget.php:852
+#: app/Modules/Widgets/OxyFluentFormWidget.php:879
+msgid "Box Shadow"
+msgstr "Doboz árnyék"
+
+#: app/Services/FormBuilder/CountryNames.php:50
+msgid "Brazil"
+msgstr "Brazília"
+
+#: app/Services/FormBuilder/CountryNames.php:51
+msgid "British Indian Ocean Territory"
+msgstr "Brit Indiai-óceáni Terület"
+
+#: app/Services/FormBuilder/CountryNames.php:52
+msgid "British Virgin Islands"
+msgstr "Brit Virgin-szigetek"
+
+#: app/Modules/Registerer/Menu.php:936
+msgid "Browser"
+msgstr "Böngésző"
+
+#: app/Services/FormBuilder/CountryNames.php:53
+msgid "Brunei"
+msgstr "Brunei"
+
+#: app/Services/FormBuilder/CountryNames.php:54
+msgid "Bulgaria"
+msgstr "Bulgária"
+
+#: app/Services/FormBuilder/CountryNames.php:55
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: app/Services/FormBuilder/CountryNames.php:56
+msgid "Burundi"
+msgstr "Burundi"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1903
+msgid "Button"
+msgstr "Gomb"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:664
+msgid "Button Border"
+msgstr "Gomb kerete"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:665
+msgid "Button Box Shadow"
+msgstr "Gomb doboz árnyék"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:667
+msgid "Button Hover Border"
+msgstr "Gomb kerete egérmutató alatt"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:666
+msgid "Button Hover Box Shadow"
+msgstr "Gomb doboz árnyék egérmutató alatt"
+
+#: app/Services/FormBuilder/ElementCustomization.php:86
+msgid "Button Size"
+msgstr "Gomb méret"
+
+#: app/Services/FormBuilder/ElementCustomization.php:81
+#: app/Modules/Widgets/OxyFluentFormWidget.php:671
+msgid "Button Style"
+msgstr "Gomb stílusa"
+
+#: app/Services/FormBuilder/ElementCustomization.php:200
+#: app/Services/FormBuilder/ElementSettingsPlacement.php:410
+msgid "Button Text"
+msgstr "Gomb szövege"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:663
+msgid "Button Typography"
+msgstr "Gomb tipográfia"
+
+#: app/Services/FormBuilder/CountryNames.php:57
+msgid "Cambodia"
+msgstr "Kambodzsa"
+
+#: app/Services/FormBuilder/CountryNames.php:58
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: app/Services/FormBuilder/CountryNames.php:59
+msgid "Canada"
+msgstr "Kanada"
+
+#: app/Services/FormBuilder/CountryNames.php:60
+msgid "Cape Verde"
+msgstr "Zöld-foki-szigetek"
+
+#: app/Services/FormBuilder/CountryNames.php:61
+msgid "Cayman Islands"
+msgstr "Kajmán-szigetek"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:344
+msgid "Cell Typography"
+msgstr "Cella tipográfia"
+
+#: app/Services/FormBuilder/ElementCustomization.php:219
+#: app/Modules/Widgets/FluentFormWidget.php:207
+#: app/Modules/Widgets/FluentFormWidget.php:450
+#: app/Modules/Widgets/FluentFormWidget.php:574
+#: app/Modules/Widgets/FluentFormWidget.php:866
+#: app/Modules/Widgets/FluentFormWidget.php:1298
+#: app/Modules/Widgets/FluentFormWidget.php:2068
+msgid "Center"
+msgstr "Középre"
+
+#: app/Services/FormBuilder/CountryNames.php:62
+msgid "Central African Republic"
+msgstr "Közép-afrikai Köztársaság"
+
+#: app/Services/FormBuilder/CountryNames.php:63
+msgid "Chad"
+msgstr "Csád"
+
+#: app/Modules/Registerer/Menu.php:964
+msgid "Change status to"
+msgstr "Állapotváltoztatás"
+
+#: app/Services/FormBuilder/DefaultElements.php:694
+#: app/Services/Migrator/Classes/BaseMigrator.php:586
+msgid "Check Box"
+msgstr "Jelölőnégyzet"
+
+#: app/Modules/Registerer/Menu.php:934
+msgid "Check the video intro"
+msgstr "Nézze meg a videó bevezetőjét"
+
+#: app/Services/FormBuilder/DefaultElements.php:1046
+msgid "Checkable Grid"
+msgstr "Szűrhető rács"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:275
+msgid "Checkable Grid Field"
+msgstr "Bejelölhatő rácsmező"
+
+#: app/Services/FormBuilder/ElementCustomization.php:492
+#: app/Modules/Widgets/FluentFormWidget.php:1071
+msgid "Checkbox"
+msgstr "Jelölőnégyzet"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:514
+msgid "Checkbox & Radio"
+msgstr "Rádió és jelölőnégyzet"
+
+#: app/Services/FormBuilder/DefaultElements.php:655
+msgid "Checkbox Field"
+msgstr "Jelölőnégyzet"
+
+#: app/Services/FormBuilder/DefaultElements.php:1025
+#: app/Modules/Widgets/FluentFormWidget.php:1318
+msgid "Checkbox Grid"
+msgstr "Jelölőnégyzet rács"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:550
+msgid "Checkbox/Radio Smart UI"
+msgstr "Rádió és jelölőnégyzet Sart UI"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1125
+msgid "Checked"
+msgstr "Bejelölt"
+
+#: app/Services/FormBuilder/CountryNames.php:64
+msgid "Chile"
+msgstr "Chile"
+
+#: app/Services/FormBuilder/CountryNames.php:65
+msgid "China"
+msgstr "Kína"
+
+#: app/Services/FormBuilder/CountryNames.php:66
+msgid "Christmas Island"
+msgstr "Karácsony-sziget"
+
+#: app/Services/FormBuilder/DefaultElements.php:361
+#: app/Services/FormBuilder/DefaultElements.php:365
+#: app/Services/Migrator/Classes/BaseMigrator.php:1223
+msgid "City"
+msgstr "Város"
+
+#: app/Services/FormBuilder/ElementCustomization.php:369
+msgid "Class for the field wrapper. This can be used to style current element."
+msgstr ""
+"A mező burkolóosztályának osztálya. Ez az aktuális elem stílushoz "
+"használható."
+
+#: app/Services/FormBuilder/ElementCustomization.php:374
+msgid "Class for the field. This can be used to style current element."
+msgstr "A mezőhöz tartozó osztály. Ez az aktuális elem stílushoz használható."
+
+#: app/Services/FormBuilder/ElementCustomization.php:432
+msgid "Clear if not match"
+msgstr "Törlés, ha nem egyezik"
+
+#: app/Services/FormBuilder/ElementCustomization.php:433
+msgid "Clear value if not match the mask"
+msgstr "Érték törlése, ha nem egyezik meg a maszkkal"
+
+#: app/Modules/Registerer/Menu.php:933
+msgid "Click Here to Create Your First Form"
+msgstr "Kattintson ide az első űrlap létrehozásához"
+
+#: app/Modules/Registerer/Menu.php:949
+msgid "Click to copy shortcode"
+msgstr "Kattintson a rövidkód másolásához"
+
+#: app/Modules/Component/Component.php:1008
+msgid "Click to toggle"
+msgstr "Kattints a be-/kikapcsoláshoz"
+
+#: app/Services/FormBuilder/CountryNames.php:67
+msgid "Cocos (Keeling) Islands"
+msgstr "Kókusz-szigetek/Keeling-szigetek"
+
+#: app/Services/FormBuilder/CountryNames.php:68
+msgid "Colombia"
+msgstr "Kolumbia"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:307
+#: app/Modules/Widgets/OxyFluentFormWidget.php:747
+#: app/Modules/Widgets/OxyFluentFormWidget.php:819
+#: app/Modules/Widgets/FluentFormWidget.php:241
+#: app/Modules/Widgets/FluentFormWidget.php:315
+#: app/Modules/Widgets/FluentFormWidget.php:891
+#: app/Modules/Widgets/FluentFormWidget.php:1189
+#: app/Modules/Widgets/FluentFormWidget.php:1244
+#: app/Modules/Widgets/FluentFormWidget.php:1335
+#: app/Modules/Widgets/FluentFormWidget.php:1419
+#: app/Modules/Widgets/FluentFormWidget.php:1925
+#: app/Modules/Widgets/FluentFormWidget.php:1998
+#: app/Modules/Widgets/FluentFormWidget.php:2344
+msgid "Color"
+msgstr "Szín"
+
+#: app/Services/FormBuilder/ElementCustomization.php:125
+msgid "Columns"
+msgstr "Oszlopok"
+
+#: app/Services/FormBuilder/CountryNames.php:69
+msgid "Comoros"
+msgstr "Comore-szigetek"
+
+#: app/Services/FormBuilder/ElementCustomization.php:392
+msgid "Conditional Logic"
+msgstr "Feltételes Logika"
+
+#: app/Modules/DocumentationModule.php:33
+msgid "Conditional logics"
+msgstr "Feltételes logikák"
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:130
+msgid "Configuration required!"
+msgstr "Konfiguráció szükséges!"
+
+#: app/Services/FormBuilder/CountryNames.php:70
+msgid "Congo (Brazzaville)"
+msgstr "Kongó"
+
+#: app/Services/FormBuilder/CountryNames.php:71
+msgid "Congo (Kinshasa)"
+msgstr "Kongói Demokratikus Köztársaság"
+
+#. Author of the plugin
+msgid "Contact Form - WPManageNinja LLC"
+msgstr "Kapcsolati űrlap - WPManageNinja LLC"
+
+#. Description of the plugin
+msgid ""
+"Contact Form By Fluent Forms is the advanced Contact form plugin with drag "
+"and drop, multi column supported form builder plugin"
+msgstr ""
+"A kapcsolati form a FluentFormtól egy fejlett kapcsolati űrlap bővítmény "
+"fogd és vidd módszerrel valamint több oszlopot támogató űrlap építő bővítmény"
+
+#: app/Services/FormBuilder/ElementCustomization.php:368
+msgid "Container Class"
+msgstr "Tároló osztály"
+
+#: app/Services/FormBuilder/ElementCustomization.php:210
+msgid "Content Alignment"
+msgstr "Tartalom igazítása"
+
+#: app/Modules/Registerer/Menu.php:917
+msgid "Conversational Form"
+msgstr "Beszélgetős űrlap"
+
+#: app/Modules/Registerer/Menu.php:924
+msgid "Conversational Preview"
+msgstr "Beszélgetés előnézete"
+
+#: app/Modules/Registerer/Menu.php:929
+msgid "Conversion"
+msgstr "Konverziók"
+
+#: app/Services/FormBuilder/CountryNames.php:72
+msgid "Cook Islands"
+msgstr "Cook-szigetek"
+
+#: app/Services/FormBuilder/CountryNames.php:73
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: app/Services/Migrator/Classes/BaseMigrator.php:1531
+msgid "Could not find form ,please import again"
+msgstr "Nem találtam az űrlapot ,kérjük, importálja újra"
+
+#: app/Services/FormBuilder/DefaultElements.php:453
+#: app/Services/FormBuilder/DefaultElements.php:917
+msgid "Country"
+msgstr "Ország"
+
+#: app/Services/FormBuilder/ElementCustomization.php:378
+#: app/Services/FormBuilder/DefaultElements.php:939
+#: app/Services/Migrator/Classes/BaseMigrator.php:1068
+msgid "Country List"
+msgstr "Országlista"
+
+#: app/Helpers/Helper.php:581
+msgid "Create a Form First"
+msgstr "Az első űrlap létrehozása"
+
+#: app/Modules/Registerer/Menu.php:918
+msgid "Create Conversational Form"
+msgstr "Beszélgetős űrlap létrehozása"
+
+#: app/Services/FormBuilder/ElementCustomization.php:131
+msgid "Create options for the field and checkmark them for default selection."
+msgstr ""
+"A mezőre vonatkozó beállítások létrehozása és azok alapértelmezett "
+"kijelöléshez való bejelölése."
+
+#: app/Services/FormBuilder/ElementCustomization.php:393
+msgid ""
+"Create rules to dynamically display or hide this field based on values from "
+"another field."
+msgstr ""
+"Szabályok létrehozása a mező dinamikus megjelenítésére vagy elrejtésére egy "
+"másik mező értékei alapján."
+
+#: app/Services/FormBuilder/ElementCustomization.php:136
+msgid ""
+"Create visual options for the field and checkmark them for default selection."
+msgstr ""
+"A négyzet vizuális beállításainak megadása és bejelölése az alapértelmezett "
+"kijelöléshez."
+
+#: app/Services/FormBuilder/CountryNames.php:74
+msgid "Croatia"
+msgstr "Horvátország"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:225
+msgid "CSV"
+msgstr "CSV"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:48
+msgid "CSV (csv)"
+msgstr "CSV (CSV)"
+
+#: app/Services/FormBuilder/CountryNames.php:75
+msgid "Cuba"
+msgstr "Kuba"
+
+#: app/Services/FormBuilder/CountryNames.php:76
+msgid "Cura&ccedil;ao"
+msgstr "Cura&ccedil;ao"
+
+#: app/Services/FormBuilder/EditorShortCode.php:76
+msgid "Currency"
+msgstr "Pénznem"
+
+#: app/Services/FormBuilder/ElementCustomization.php:471
+#: app/Modules/Widgets/FluentFormWidget.php:2092
+msgid "Custom"
+msgstr "Egyéni"
+
+#: app/Modules/Form/Settings/FormCssJs.php:152
+msgid "Custom CSS and JS successfully updated"
+msgstr "Egyéni CSS és JS sikeresen frissítve"
+
+#: app/Modules/Registerer/Menu.php:575
+msgid "Custom CSS/JS"
+msgstr "Egyéni CSS/JS"
+
+#: app/Services/FormBuilder/DefaultElements.php:955
+#: app/Services/Migrator/Classes/BaseMigrator.php:886
+msgid "Custom HTML"
+msgstr "Egyéni HTML"
+
+#: app/Services/FormBuilder/ElementCustomization.php:407
+msgid "Custom Mask"
+msgstr "Egyéni maszk"
+
+#: app/Services/FormBuilder/DefaultElements.php:1452
+msgid "Custom Payment Amount"
+msgstr "Egyéni kifizetés összege"
+
+#: app/Modules/Widgets/FluentFormWidget.php:943
+msgid "Custom Styles"
+msgstr "Egyéni stílusok"
+
+#: app/Modules/Widgets/FluentFormWidget.php:101
+msgid "Custom Title & Description"
+msgstr "Egyéni cím & Leírás"
+
+#: app/Services/FormBuilder/CountryNames.php:77
+msgid "Cyprus"
+msgstr "Ciprus"
+
+#: app/Services/FormBuilder/CountryNames.php:78
+msgid "Czech Republic"
+msgstr "Csehország"
+
+#: app/Modules/Registerer/Menu.php:937
+msgid "Date"
+msgstr "Dátum"
+
+#: app/Services/FormBuilder/EditorShortCode.php:19
+msgid "Date (dd/mm/yyyy)"
+msgstr "Dátum (nn/hh/éééé)"
+
+#: app/Services/FormBuilder/EditorShortCode.php:18
+msgid "Date (mm/dd/yyyy)"
+msgstr "Dátum (hh/nn/éééé)"
+
+#: app/Services/FormBuilder/DefaultElements.php:795
+msgid "Date / Time"
+msgstr "Dátum/idő"
+
+#: app/Services/FormBuilder/ElementCustomization.php:110
+msgid "Date Format"
+msgstr "Dátum formátum"
+
+#: app/Modules/Component/Component.php:954
+msgid "Dec"
+msgstr "Dec"
+
+#: app/Modules/Component/Component.php:968
+msgid "December"
+msgstr "December"
+
+#: app/Services/FormBuilder/ElementCustomization.php:55
+#: app/Services/FormBuilder/ElementCustomization.php:587
+#: app/Modules/Widgets/FluentFormWidget.php:442
+msgid "Default"
+msgstr "Alapérték"
+
+#: app/Services/FormBuilder/ElementCustomization.php:346
+msgid "Default Value"
+msgstr "Alapértelmezett érték"
+
+#: app/Services/FormBuilder/ElementCustomization.php:87
+msgid "Define a size of the button"
+msgstr "A gomb méretének megadása"
+
+#: app/Services/FormBuilder/ElementCustomization.php:359
+msgid "Define Max selections items that a user can select ."
+msgstr "Adja meg a felhasználó által maximális kijelölhető elemeket."
+
+#: app/Modules/Registerer/Menu.php:927
+msgid "Delete"
+msgstr "Töröl"
+
+#: app/Services/FormBuilder/CountryNames.php:79
+msgid "Denmark"
+msgstr "Dánia"
+
+#: app/Services/FormBuilder/ElementCustomization.php:195
+#: app/Services/FormBuilder/ElementSettingsPlacement.php:479
+#: app/Modules/Widgets/FluentFormWidget.php:125
+#: app/Modules/Widgets/FluentFormWidget.php:303
+#: app/Modules/Widgets/FluentFormWidget.php:1235
+msgid "Description"
+msgstr "Leírás"
+
+#: app/Services/FormBuilder/ElementCustomization.php:196
+msgid "Description will be shown to the user as normal text content."
+msgstr ""
+"A leírás normál szöveges tartalomként jelenik meg a felhasználó számára."
+
+#: app/Services/FluentConversational/Classes/Form.php:51
+msgid "Design"
+msgstr "Tervezés"
+
+#: app/Services/FormBuilder/ElementCustomization.php:51
+msgid ""
+"Determine the position of label title where the user will see this. By "
+"choosing \"Default\", global label placement setting will be applied."
+msgstr ""
+"A címke helyének meghatározása, ahol a felhasználó ezt látni fogja. Az "
+"\"alapértelmezett\" kiválasztásával a globális címkeelhelyezési beállítást "
+"alkalmazza a rendszer."
+
+#: app/Modules/Registerer/Menu.php:960
+msgid "Device"
+msgstr "Eszköz"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:135
+msgid "Digits"
+msgstr "Számjegyek"
+
+#: app/Services/FormBuilder/ElementCustomization.php:526
+msgid "Digits Count"
+msgstr "Számjegyek száma"
+
+#: app/Services/FormBuilder/ElementCustomization.php:254
+msgid "Disable auto focus when changing each page"
+msgstr "Az automatikus fókusz letiltása az egyes lapok módosításakor"
+
+#: app/Services/FormBuilder/CountryNames.php:80
+msgid "Djibouti"
+msgstr "Dzsibuti"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:194
+msgid "Docs"
+msgstr "Dokumentáció"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:36
+msgid ""
+"Docs (doc, ppt, pps, xls, mdb, docx, xlsx, pptx, odt, odp, ods, odg, odc, "
+"odb, odf, rtf, txt)"
+msgstr ""
+"Docs (doc, ppt, PPS, xls, mdb, docx, xlsx, PPTX, ODT, ODP, ODS, odg, odc, "
+"ODB, ODF, RTF, txt)"
+
+#: app/Services/FormBuilder/CountryNames.php:81
+msgid "Dominica"
+msgstr "Dominika"
+
+#: app/Services/FormBuilder/CountryNames.php:82
+msgid "Dominican Republic"
+msgstr "Dominikai Köztársaság"
+
+#: resources/views/admin/settings/index.php:37
+msgid "Double Optin Settings"
+msgstr "Dupla Opt-in beállítások"
+
+#: app/Services/FormBuilder/DefaultElements.php:556
+#: app/Services/FormBuilder/DefaultElements.php:588
+msgid "Dropdown"
+msgstr "Legördülő"
+
+#: app/Modules/Registerer/Menu.php:926
+msgid "Duplicate"
+msgstr "Duplikálás"
+
+#: app/Services/FormBuilder/ElementCustomization.php:352
+msgid "Dynamic Default Value"
+msgstr "Dinamikus alapértelmezett érték"
+
+#: app/Services/FormBuilder/CountryNames.php:83
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: app/Modules/Registerer/Menu.php:921
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: app/Modules/Registerer/Menu.php:493
+msgid "Editor"
+msgstr "Szerkesztő"
+
+#: app/Services/FormBuilder/CountryNames.php:84
+msgid "Egypt"
+msgstr "Egyiptom"
+
+#: app/Services/FormBuilder/CountryNames.php:85
+msgid "El Salvador"
+msgstr "Salvador"
+
+#: app/Services/FormBuilder/ElementCustomization.php:373
+msgid "Element Class"
+msgstr "Elemosztály"
+
+#: app/Services/FormBuilder/ElementCustomization.php:45
+msgid "Element Label"
+msgstr "Elem felirata"
+
+#: app/Services/FormBuilder/DefaultElements.php:143
+msgid "Email"
+msgstr "E-mail"
+
+#: app/Services/FormBuilder/DefaultElements.php:164
+msgid "Email Address"
+msgstr "Email cím"
+
+#: app/Hooks/Backend.php:288 app/Services/FormBuilder/DefaultElements.php:161
+msgid "Email address need to be unique."
+msgstr "Az email címnek egyedinek kell lennie."
+
+#: app/Modules/Registerer/Menu.php:537
+msgid "Email Notifications"
+msgstr "Email értesítések"
+
+#: app/Services/Scheduler/Scheduler.php:141
+#, php-format
+msgid "Email Summary of Your Forms (Last %d Days)"
+msgstr "Az Ön űrlapjainak e-mailes összefoglalója (az elmúlt %d napokban)"
+
+#: app/Services/FormBuilder/EditorShortCode.php:20
+msgid "Embedded Post/Page ID"
+msgstr "Beágyazott bejegyzés/oldal azonosítója"
+
+#: app/Services/FormBuilder/EditorShortCode.php:21
+msgid "Embedded Post/Page Title"
+msgstr "Beágyazott bejegyzés/oldal címe"
+
+#: app/Services/FormBuilder/EditorShortCode.php:22
+msgid "Embedded URL"
+msgstr "Beágyazott URL"
+
+#: app/Services/FormBuilder/ElementCustomization.php:259
+msgid "Enable auto page change for single radio field"
+msgstr "Automatikus oldalmódosítás engedélyezése egyetlen rádiós mezőhöz"
+
+#: app/Services/FormBuilder/ElementCustomization.php:325
+msgid "Enable Multiple Columns"
+msgstr "Több oszlop engedélyezése"
+
+#: app/Services/FormBuilder/ElementCustomization.php:264
+msgid "Enable Per step data save (Save and Continue)"
+msgstr "Lépésenkénti adatmentés engedélyezése (Mentés és folytatás)"
+
+#: app/Services/FormBuilder/ElementCustomization.php:140
+msgid "Enable Searchable Smart Options"
+msgstr "Kereshető intelligens beállítások engedélyezése"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:554
+msgid "Enable Smart UI"
+msgstr "Smart UI engedélyezése"
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:50
+msgid ""
+"Enter your Mailchimp API Key, if you do not have <br>Please login to your "
+"Mailchimp account and go to<br>Profile -> Extras -> Api Keys"
+msgstr ""
+"Adja meg a Mailchimp API kulcsát, ha még nem rendelkezik <br>Kérjük, "
+"jelentkezzen be a Mailchimp fiókjába, és menjen aProfil<br>-&gt; Extrák -"
+"&gt; Api kulcsok</br></br>menüpontra"
+
+#: app/Modules/Registerer/Menu.php:958
+msgid "Entity ID"
+msgstr "Entitás azonosító"
+
+#: app/Modules/Registerer/Menu.php:345 app/Modules/Registerer/Menu.php:510
+#: app/Modules/Registerer/Menu.php:923
+#: resources/views/email/report/body.php:148
+msgid "Entries"
+msgstr "Kitöltött űrlapok"
+
+#: app/Services/Migrator/Classes/BaseMigrator.php:1580
+msgid "Entries Imported Successfully"
+msgstr "Sikeresen importált beküldések"
+
+#: app/Modules/Registerer/Menu.php:953
+msgid "Entry Details"
+msgstr "A beküldés részletei"
+
+#: app/Services/FormBuilder/CountryNames.php:86
+msgid "Equatorial Guinea"
+msgstr "Egyenlítői-Guinea"
+
+#: app/Services/FormBuilder/CountryNames.php:87
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: app/Modules/Widgets/FluentFormWidget.php:2336
+msgid "Error Message"
+msgstr "Hibaüzenet"
+
+#: app/Modules/Widgets/FluentFormWidget.php:172
+msgid "Error Messages"
+msgstr "Hibaüzenetek"
+
+#: app/Modules/Widgets/FluentFormWidget.php:165
+msgid "Errors"
+msgstr "Hibák"
+
+#: app/Services/FormBuilder/CountryNames.php:88
+msgid "Estonia"
+msgstr "Észtország"
+
+#: app/Services/FormBuilder/CountryNames.php:89
+msgid "Ethiopia"
+msgstr "Etiópia"
+
+#: app/Helpers/Helper.php:424
+msgid "EU Style with Decimal (Ex: 123.456,00)"
+msgstr "Eu stílus tizedes (Pl.: 123.456.00)"
+
+#: app/Helpers/Helper.php:434
+msgid "EU Style without Decimal (EX: 123.456.789)"
+msgstr "Eu stílus tizedesjegy nélkül (PL: 123.456.789)"
+
+#: app/Modules/Activator.php:138
+msgid "Every 5 Minutes (FluentForm)"
+msgstr "5 percenként (FluentForm)"
+
+#: app/Hooks/Common.php:326
+#| msgid "Every 5 minites (FluentForm)"
+msgid "Every 5 minutes (FluentForm)"
+msgstr "Minden 5 percben (FluentForm)"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:220
+msgid "Executable Files"
+msgstr "Végrehajtható fájlok"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:44
+msgid "Executable Files (exe)"
+msgstr "Végrehajtható fájlok (exe)"
+
+#: app/Modules/Registerer/Menu.php:970
+msgid "Export"
+msgstr "Exportálás"
+
+#: app/Modules/Registerer/Menu.php:971
+msgid "Export as"
+msgstr "Exportálás"
+
+#: app/Services/Migrator/Classes/BaseMigrator.php:100
+msgid "Export error, please try again."
+msgstr "Exportálási hiba, kérjük, próbálja meg újra."
+
+#: resources/views/admin/transfer/index.php:18
+msgid "Export Forms"
+msgstr "Űrlapok exportja"
+
+#: app/Services/FormBuilder/CountryNames.php:90
+msgid "Falkland Islands"
+msgstr "Falkland-szigetek"
+
+#: app/Services/FormBuilder/CountryNames.php:91
+msgid "Faroe Islands"
+msgstr "Feröer-szigetek"
+
+#: app/Modules/Registerer/Menu.php:974
+msgid "Favorites Entries only"
+msgstr "Csak kedvenc beküldések"
+
+#: app/Modules/Component/Component.php:944
+msgid "Feb"
+msgstr "Február"
+
+#: app/Modules/Component/Component.php:958
+msgid "February"
+msgstr "Február"
+
+#: app/Services/Integrations/BaseIntegration.php:102
+msgid "Feed Name is required"
+msgstr "Hírcsatorna neve szükséges"
+
+#: app/Services/FormBuilder/ElementCustomization.php:487
+#: app/Services/FormBuilder/ElementCustomization.php:488
+msgid "Field Type"
+msgstr "Mező típusa"
+
+#: app/Services/FormBuilder/CountryNames.php:92
+msgid "Fiji"
+msgstr "Fidzsi-szigetek"
+
+#: app/Services/FormBuilder/DefaultElements.php:873
+#: app/Services/FormBuilder/DefaultElements.php:900
+#: app/Services/Migrator/Classes/BaseMigrator.php:870
+msgid "File Upload"
+msgstr "Fájl feltöltés"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:659
+msgid "File Upload Field"
+msgstr "Fájl feltöltési mező"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1870
+msgid "Filled"
+msgstr "Betöltve"
+
+#: app/Modules/Registerer/Menu.php:973
+msgid "Filter By Date Range"
+msgstr "Szűrés dátumtartomány szerint"
+
+#: app/Services/FormBuilder/CountryNames.php:93
+msgid "Finland"
+msgstr "Finnország"
+
+#: app/Services/FormBuilder/DefaultElements.php:42
+#: app/Services/FormBuilder/DefaultElements.php:47
+#: app/Services/Migrator/Classes/BaseMigrator.php:198
+msgid "First Name"
+msgstr "Keresztnév"
+
+#: app/Services/FormBuilder/DefaultElements.php:1340
+msgid "Five Column Container"
+msgstr "Öt oszlopos tároló"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:13
+#| msgid "WP Fluent Forms"
+msgid "Fluent Form"
+msgstr "Fluent Forms"
+
+#. Name of the plugin
+#: app/Modules/Registerer/Menu.php:306 app/Modules/Widgets/OxygenWidget.php:36
+#: app/Modules/Widgets/FluentFormWidget.php:23
+#: app/Modules/Widgets/FluentFormWidget.php:82
+#: app/Modules/Widgets/FluentFormWidget.php:90
+#: resources/views/admin/global_menu.php:9
+msgid "Fluent Forms"
+msgstr "WP Fluent Forms"
+
+#: app/Modules/Entries/Entries.php:445
+msgid "Fluent Forms Bot"
+msgstr "Fluent Forms Bot"
+
+#: resources/views/admin/settings/index.php:11
+msgid "Fluent Forms Global Settings"
+msgstr "Fluent űrlapok globális beállításai"
+
+#: app/Hooks/Backend.php:72
+msgid "Fluent Forms Latest Form Submissions"
+msgstr "Fluent Forms Legutóbbi űrlap kitöltések"
+
+#: app/Hooks/Backend.php:330
+msgid "Fluent Forms PDF"
+msgstr "Fluent Forms PDF"
+
+#: app/Modules/Registerer/Menu.php:304
+msgid "Fluent Forms Pro"
+msgstr "WP Fluent Forms Pro bővítmény"
+
+#: app/Modules/Widgets/SidebarWidgets.php:11
+msgid "Fluent Forms Widget"
+msgstr "Fluent Forms Widget"
+
+#: app/Modules/Widgets/FluentFormWidget.php:802
+msgid "Focus"
+msgstr "Fókusz"
+
+#: app/Services/FormBuilder/ElementCustomization.php:402
+msgid "Font Color"
+msgstr "Betűszín"
+
+#: app/Services/FormBuilder/ElementCustomization.php:403
+msgid "Font color of the element"
+msgstr "Az elem betűszíne"
+
+#: app/Modules/Registerer/Menu.php:944
+#: resources/views/email/report/body.php:147
+#: resources/views/email/report/body.php:172
+msgid "Form"
+msgstr "Űrlap"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:62
+#: app/Modules/Widgets/FluentFormWidget.php:383
+msgid "Form Container"
+msgstr "Űrlaptároló"
+
+#: app/Modules/Registerer/Menu.php:954
+msgid "Form Entry Data"
+msgstr "Űrlap beküldések adatai"
+
+#: app/Modules/Form/Form.php:557
+msgid "Form has been successfully converted to conversational form."
+msgstr "Az űrlapot sikeresen átalakítottuk társalgási űrlapra."
+
+#: app/Modules/Form/Form.php:509
+msgid "Form has been successfully duplicated."
+msgstr "Az űrlap sikeresen duplikálva lett."
+
+#: app/Modules/DocumentationModule.php:29
+msgid "Form layout settings"
+msgstr "Űrlapelrendezési beállítások"
+
+#: app/Modules/Form/Form.php:547
+msgid "Form Not Found! Try Again."
+msgstr "Űrlap nem található! Próbálja újra."
+
+#: app/Modules/DocumentationModule.php:53
+msgid "Form restrictions and scheduling"
+msgstr "Űrlapkorlátozások és ütemezés"
+
+#: app/Modules/Registerer/Menu.php:531
+msgid "Form Settings"
+msgstr "Űrlap beállításai"
+
+#: app/Services/FormBuilder/DefaultElements.php:1121
+msgid "Form Step"
+msgstr "Űrlap-lépés"
+
+#: app/Services/FormBuilder/ElementCustomization.php:250
+#: app/Services/FormBuilder/ElementCustomization.php:299
+msgid "Form step titles, user will see each title in each step."
+msgstr ""
+"Űrlap lépések címei, a felhasználó látni fogja az egyes címeket a lépéseknél."
+
+#: app/Services/FormBuilder/ElementSettingsPlacement.php:411
+msgid "Form submission button text."
+msgstr "Az űrlapküldés gombszövege."
+
+#: app/Modules/Form/Form.php:187
+msgid "Form submission is not started yet."
+msgstr "Az űrlapküldés még nincs elindítva."
+
+#: app/Modules/Form/Form.php:188
+msgid "Form submission is now closed."
+msgstr "Az űrlapküldés már be van zárva."
+
+#: app/Services/FormBuilder/DefaultElements.php:1320
+msgid "Four Column Container"
+msgstr "Négy oszlopos tároló"
+
+#: app/Services/FormBuilder/CountryNames.php:94
+msgid "France"
+msgstr "Franciaország"
+
+#: app/Services/FormBuilder/CountryNames.php:95
+msgid "French Guiana"
+msgstr "Francia Guyana"
+
+#: app/Services/FormBuilder/CountryNames.php:96
+msgid "French Polynesia"
+msgstr "Francia Polinézia"
+
+#: app/Services/FormBuilder/CountryNames.php:97
+msgid "French Southern Territories"
+msgstr "Francia Déli Területek"
+
+#: app/Modules/Component/Component.php:987
+msgid "Fri"
+msgstr "Pén"
+
+#: app/Modules/Component/Component.php:978
+msgid "Friday"
+msgstr "Péntek"
+
+#: app/Modules/Widgets/FluentFormWidget.php:2091
+msgid "Full Width"
+msgstr "Teljes szélesség"
+
+#: app/Services/FormBuilder/CountryNames.php:98
+msgid "Gabon"
+msgstr "Gabon"
+
+#: app/Services/FormBuilder/CountryNames.php:99
+msgid "Gambia"
+msgstr "Gambia"
+
+#: app/Modules/Widgets/FluentFormWidget.php:850
+msgid "GDPR , Terms & Condition "
+msgstr "GDPR , Általános Szerződési Feltételek "
+
+#: app/Services/FormBuilder/DefaultElements.php:1164
+#: app/Services/FormBuilder/DefaultElements.php:1166
+#: app/Services/FormBuilder/DefaultElements.php:1179
+#: app/Services/Migrator/Classes/BaseMigrator.php:989
+#: app/Services/Migrator/Classes/BaseMigrator.php:1002
+msgid "GDPR Agreement"
+msgstr "GDPR engedély"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:352
+msgid "GDPR, Terms & Condition"
+msgstr "GDPR, Általános Szerződési Feltételek"
+
+#: app/Modules/Registerer/Menu.php:979
+msgid "General"
+msgstr "Általános"
+
+#: app/Services/FormBuilder/CountryNames.php:100
+msgid "Georgia"
+msgstr "Georgia"
+
+#: app/Services/FormBuilder/CountryNames.php:101
+msgid "Germany"
+msgstr "Németország"
+
+#: app/Modules/Registerer/Menu.php:422 app/Modules/Registerer/Menu.php:423
+msgid "Get Help"
+msgstr "Súgó"
+
+#: app/Services/FormBuilder/CountryNames.php:102
+msgid "Ghana"
+msgstr "Ghána"
+
+#: app/Services/FormBuilder/CountryNames.php:103
+msgid "Gibraltar"
+msgstr "Gibraltár"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:247
+#: app/Services/FormBuilder/ValidationRuleSettings.php:261
+msgid "GIF"
+msgstr "Gif"
+
+#: app/Modules/Registerer/Menu.php:381 app/Modules/Registerer/Menu.php:382
+#: resources/views/admin/global_menu.php:28
+msgid "Global Settings"
+msgstr "Globális beállítások"
+
+#: app/Services/FormBuilder/DefaultElements.php:987
+msgid "Good"
+msgstr "Jó"
+
+#: app/Services/FormBuilder/CountryNames.php:104
+msgid "Greece"
+msgstr "Görögország"
+
+#: app/Services/FormBuilder/CountryNames.php:105
+msgid "Greenland"
+msgstr "Grönland"
+
+#: app/Services/FormBuilder/CountryNames.php:106
+msgid "Grenada"
+msgstr "Grenada"
+
+#: app/Services/FormBuilder/ElementCustomization.php:477
+msgid "Grid Columns"
+msgstr "Rács oszlopok"
+
+#: app/Services/FormBuilder/ElementCustomization.php:482
+msgid "Grid Rows"
+msgstr "Rácssorok"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1326
+msgid "Grid Table Head"
+msgstr "Rácstáblázat-fej"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1410
+msgid "Grid Table Item"
+msgstr "Rácstábla elem"
+
+#: app/Services/FormBuilder/CountryNames.php:107
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: app/Services/FormBuilder/CountryNames.php:108
+msgid "Guam"
+msgstr "Guam"
+
+#: app/Services/FormBuilder/CountryNames.php:109
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: app/Services/FormBuilder/CountryNames.php:110
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: app/Modules/Registerer/Menu.php:962
+msgid "Guest"
+msgstr "Vendég"
+
+#: app/Services/FormBuilder/CountryNames.php:111
+msgid "Guinea"
+msgstr "Guinea"
+
+#: app/Services/FormBuilder/CountryNames.php:112
+msgid "Guinea-Bissau"
+msgstr "Bissau-Guinea"
+
+#: app/Services/FormBuilder/CountryNames.php:113
+msgid "Guyana"
+msgstr "Guyana"
+
+#: app/Services/FormBuilder/CountryNames.php:114
+msgid "Haiti"
+msgstr "Haiti"
+
+#: app/Services/FormBuilder/DefaultElements.php:1210
+msgid "hCaptcha"
+msgstr "hCaptcha"
+
+#: app/Modules/Form/FormHandler.php:464
+msgid "hCaptcha verification failed, please try again."
+msgstr "a hCaptcha ellenőrzése sikertelen, kérjük, próbálja meg újra."
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:342
+msgid "Heading Typography"
+msgstr "Címsor tipográfia"
+
+#: app/Services/FormBuilder/CountryNames.php:115
+msgid "Heard Island and McDonald Islands"
+msgstr "Heard-sziget és McDonald-szigetek"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1369
+#: app/Modules/Widgets/FluentFormWidget.php:1464
+#: app/Modules/Widgets/FluentFormWidget.php:1819
+msgid "Height"
+msgstr "Magasság"
+
+#: resources/views/email/report/body.php:136
+msgid "Hello There,"
+msgstr "Szia %s,"
+
+#: resources/views/admin/docs/index.php:4
+msgid "Help & Documentation"
+msgstr "Súgó és dokumentáció"
+
+#: app/Services/FormBuilder/ElementCustomization.php:387
+msgid "Help Message"
+msgstr "Súgóüzenet"
+
+#: app/Services/FormBuilder/ElementCustomization.php:388
+msgid ""
+"Help message will be shown as tooltip next to sidebar or below the field."
+msgstr ""
+"A súgóüzenet tippként jelenik meg az oldalsáv mellett vagy a mező alatt."
+
+#: app/Services/FormBuilder/DefaultElements.php:1010
+#: app/Services/Migrator/Classes/BaseMigrator.php:334
+msgid "Hidden Field"
+msgstr "Rejtett mező"
+
+#: app/Modules/Widgets/FluentFormWidget.php:141
+#: app/Modules/Widgets/FluentFormWidget.php:153
+#: app/Modules/Widgets/FluentFormWidget.php:176
+#: app/Modules/Widgets/FluentFormWidget.php:1695
+#: app/Modules/Widgets/FluentFormWidget.php:1763
+msgid "Hide"
+msgstr "Elrejtés"
+
+#: app/Modules/Registerer/Menu.php:938
+msgid "Hide Chart"
+msgstr "Diagram elrejtése"
+
+#: app/Services/FormBuilder/ElementCustomization.php:75
+msgid "Hide Label"
+msgstr "Címke elrejtése"
+
+#: app/Services/FormBuilder/CountryNames.php:116
+msgid "Honduras"
+msgstr "Honduras"
+
+#: app/Services/FormBuilder/CountryNames.php:117
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+#: app/Services/FormBuilder/ElementCustomization.php:172
+msgid "Hook Name"
+msgstr "Horog neve"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:216
+#: app/Modules/Widgets/FluentFormWidget.php:1624
+#: app/Modules/Widgets/FluentFormWidget.php:1991
+#: app/Modules/Widgets/FluentFormWidget.php:2230
+msgid "Hover"
+msgstr "Egérmutató alatt"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:795
+#: app/Modules/Widgets/OxyFluentFormWidget.php:851
+msgid "Hover Border"
+msgstr "Keret egérmutató alatt"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:797
+#: app/Modules/Widgets/OxyFluentFormWidget.php:853
+msgid "Hover Box Shadow"
+msgstr "Doboz árnyék egérmutató alatt"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:757
+msgid "Hover Color"
+msgstr "Szín rámutatáskor"
+
+#: app/Services/FormBuilder/ElementCustomization.php:126
+msgid ""
+"How many cols will textarea take in a form. It's an HTML attributes for "
+"browser support."
+msgstr ""
+"Hány oszlop lesz a szövegterület az űrlapon. A böngésző támogatásának HTML-"
+"attribútumai."
+
+#: app/Services/FormBuilder/ElementCustomization.php:121
+msgid ""
+"How many rows will textarea take in a form. It's an HTML attributes for "
+"browser support."
+msgstr ""
+"Hány sor lesz a szövegterület az űrlapon. A böngésző támogatásának HTML-"
+"attribútumai."
+
+#: app/Services/FormBuilder/ElementCustomization.php:211
+msgid "How the content will be aligned."
+msgstr "A tartalom igazítása."
+
+#: app/Services/FormBuilder/ElementCustomization.php:188
+msgid "HTML Code"
+msgstr "HTML-kód"
+
+#: app/Services/FormBuilder/EditorShortCode.php:23
+msgid "HTTP Referer URL"
+msgstr "HTTP hivatkozó URL"
+
+#. Author URI of the plugin
+msgid "https://fluentforms.com"
+msgstr "https://fluentforms.com"
+
+#. URI of the plugin
+msgid "https://wpmanageninja.com/wp-fluent-form/"
+msgstr "https://wpmanageninja.com/wp-fluent-form/"
+
+#: app/Services/FormBuilder/CountryNames.php:118
+msgid "Hungary"
+msgstr "Magyarország"
+
+#: app/Services/FluentConversational/Classes/Form.php:367
+msgid "I accept"
+msgstr "Elfogadom"
+
+#: app/Services/FormBuilder/DefaultElements.php:1165
+msgid ""
+"I consent to have this website store my submitted information so they can "
+"respond to my inquiry"
+msgstr ""
+"Hozzájárulok ahhoz, hogy ez a weboldal tárolja a megadott adataimat, hogy "
+"válaszolni tudjanak a megkeresésemre"
+
+#: app/Services/FluentConversational/Classes/Form.php:368
+msgid "I don't accept"
+msgstr "Nem fogadom el"
+
+#: app/Services/FormBuilder/CountryNames.php:119
+msgid "Iceland"
+msgstr "Izland"
+
+#: app/Modules/Registerer/Menu.php:919
+msgid "ID"
+msgstr "ID"
+
+#: app/Services/FormBuilder/ElementCustomization.php:573
+msgid "If validation failed then it will show this message"
+msgstr "Ha sz ellenőrzés hibára fut, ezt az üzenete jeleníti meg"
+
+#: app/Services/FormBuilder/ElementCustomization.php:260
+msgid ""
+"If you enable this then for last radio item field will trigger next page "
+"change"
+msgstr ""
+"Ha ezt engedélyezed, akkor az utolsó rádióelem mező a következő "
+"oldalváltozást indítja el"
+
+#: app/Services/FormBuilder/ElementCustomization.php:418
+msgid "If you enable this then it the mask will work as reverse"
+msgstr "Ha ezt engedélyezi, akkor a maszk fordítottként fog működni"
+
+#: app/Services/FormBuilder/ElementCustomization.php:265
+msgid ""
+"If you enable this then on each step change the data current step data will "
+"be persisted in a step form<br />Your users can resume the form where they "
+"left"
+msgstr ""
+"Ha ezt engedélyezi, akkor minden lépésnél módosítsa az aktuális "
+"lépésadatokat egy lépésűrlapon.<br />A felhasználók folytathatják az űrlapot "
+"ott, ahol abbahagyták"
+
+#: app/Services/FormBuilder/ElementCustomization.php:255
+msgid ""
+"If you enable this then on page transition automatic scrolling will be "
+"disabled"
+msgstr ""
+"Ha ezt engedélyezed, akkor az oldalon az automatikus görgetés le lesz tiltva"
+
+#: app/Services/FormBuilder/ElementCustomization.php:141
+msgid ""
+"If you enable this then options will be searchable by select2 js library"
+msgstr ""
+"Ha ezt engedélyezi, akkor a beállítások a select2 js könyvtár által "
+"kereshetők lesznek"
+
+#: app/Services/FormBuilder/ElementCustomization.php:428
+msgid "If you enable this then the checkable options will be shuffled"
+msgstr "Ha engedélyezed ezt, akkor a kiválasztható elemeket keveri a rendszer"
+
+#: app/Services/FormBuilder/ElementCustomization.php:270
+msgid ""
+"If you enable this then users will see the form as step page where it has "
+"been left"
+msgstr ""
+"Ha ezt engedélyezi, akkor a felhasználók az űrlapot lépéslapként fogják "
+"látni, ahol abbahagyták"
+
+#: app/Services/FormBuilder/ElementCustomization.php:547
+msgid ""
+"If you make it unique then it will validate as unique from previous "
+"submissions of this form"
+msgstr ""
+"Ha egyedivé teszed, akkor ennek az űrlap beküldésének korábbiaktól való "
+"egyediségét érvényesíteni fogja a rendszer"
+
+#: app/Services/FormBuilder/ElementCustomization.php:347
+#: app/Services/FormBuilder/ElementCustomization.php:353
+msgid "If you would like to pre-populate the value of a field, enter it here."
+msgstr "Ha szeretnél előre megadni egy mező értéket, add meg itt."
+
+#: app/Services/FormBuilder/DefaultElements.php:829
+#: app/Services/FormBuilder/DefaultElements.php:856
+#: app/Modules/Widgets/FluentFormWidget.php:1542
+msgid "Image Upload"
+msgstr "Kép feltöltése"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:165
+msgid "Images"
+msgstr "Képek"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:20
+msgid "Images (jpg, jpeg, gif, png, bmp)"
+msgstr "Képek (jpg, JPEG, GIF, PNG, BMP)"
+
+#: resources/views/admin/transfer/index.php:25
+msgid "Import Forms"
+msgstr "Űrlapok importja"
+
+#: app/Services/FormBuilder/CountryNames.php:120
+msgid "India"
+msgstr "India"
+
+#: app/Services/FormBuilder/CountryNames.php:121
+msgid "Indonesia"
+msgstr "Indonézia"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:143
+msgid "Input & Textara"
+msgstr "Bevitel & Szöveg"
+
+#: app/Modules/Widgets/FluentFormWidget.php:558
+msgid "Input & Textarea"
+msgstr "Bevitel & Szöveg"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:168
+#: app/Modules/Widgets/FluentFormWidget.php:693
+msgid "Input Height"
+msgstr "Bemeneti magasság"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:161
+#: app/Modules/Widgets/FluentFormWidget.php:674
+msgid "Input Width"
+msgstr "Bemeneti szélesség"
+
+#: app/Modules/Registerer/Menu.php:411 app/Modules/Registerer/Menu.php:412
+msgid "Integration Modules"
+msgstr "Integrációs modulok"
+
+#: app/Services/Integrations/GlobalIntegrationManager.php:259
+msgid "Integration successfully saved"
+msgstr "Az integráció sikeresen elmentve"
+
+#: app/Services/Integrations/GlobalIntegrationManager.php:151
+msgid "Integration successfully updated"
+msgstr "Az integráció sikeresen frissítve"
+
+#: resources/views/admin/global_menu.php:31
+msgid "Integrations"
+msgstr "Integrációk"
+
+#: app/Services/FormBuilder/DefaultElements.php:894
+#: app/Services/Migrator/Classes/BaseMigrator.php:864
+msgid "Invalid file type"
+msgstr "Érvénytelen fájltípus"
+
+#: app/Modules/Entries/Entries.php:843
+msgid "Invalid Request"
+msgstr "Érvénytelen kérés"
+
+#: app/Services/FormBuilder/EditorShortCode.php:17
+msgid "IP Address"
+msgstr "Térképjelölő cím"
+
+#: app/Services/FormBuilder/CountryNames.php:122
+msgid "Iran"
+msgstr "Irán"
+
+#: app/Services/FormBuilder/CountryNames.php:123
+msgid "Iraq"
+msgstr "Irak"
+
+#: app/Services/FormBuilder/CountryNames.php:124
+msgid "Ireland"
+msgstr "Írország"
+
+#: app/Services/FormBuilder/CountryNames.php:125
+msgid "Isle of Man"
+msgstr "Man"
+
+#: app/Services/FormBuilder/CountryNames.php:126
+msgid "Israel"
+msgstr "Izrael"
+
+#: app/Services/FormBuilder/CountryNames.php:127
+msgid "Italy"
+msgstr "Olaszország"
+
+#: app/Modules/Entries/Entries.php:633
+msgid "Item has been added to favorites"
+msgstr "Az elem hozzá lett adva a kedvencekhez"
+
+#: app/Modules/Entries/Entries.php:635
+msgid "Item has been removed from favorites"
+msgstr "Az elem eltávolításra került a Kedvencekből"
+
+#: app/Services/FormBuilder/DefaultElements.php:1463
+msgid "Item Quantity"
+msgstr "Cikk mennyisége"
+
+#: app/Modules/Entries/Entries.php:521
+msgid "Item Successfully deleted"
+msgstr "Az elem törlése sikeresen megtörtént"
+
+#: app/Services/FormBuilder/CountryNames.php:128
+msgid "Ivory Coast"
+msgstr "Elefántcsontpart"
+
+#: app/Services/FormBuilder/CountryNames.php:129
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: app/Modules/Component/Component.php:943
+msgid "Jan"
+msgstr "Január"
+
+#: app/Modules/Component/Component.php:957
+msgid "January"
+msgstr "Január"
+
+#: app/Services/FormBuilder/CountryNames.php:130
+msgid "Japan"
+msgstr "Japán"
+
+#: app/Services/FormBuilder/CountryNames.php:131
+msgid "Jersey"
+msgstr "Jersey"
+
+#: app/Services/FormBuilder/CountryNames.php:132
+msgid "Jordan"
+msgstr "Jordánia"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:239
+#: app/Services/FormBuilder/ValidationRuleSettings.php:253
+msgid "JPG"
+msgstr "JPG"
+
+#: app/Modules/Component/Component.php:949
+msgid "Jul"
+msgstr "Júl"
+
+#: app/Modules/Component/Component.php:963
+msgid "July"
+msgstr "Július"
+
+#: app/Modules/Component/Component.php:948
+msgid "Jun"
+msgstr "Jún"
+
+#: app/Modules/Component/Component.php:962
+msgid "June"
+msgstr "Június"
+
+#: app/Services/FormBuilder/CountryNames.php:133
+msgid "Kazakhstan"
+msgstr "Kazahsztán"
+
+#: app/Services/FormBuilder/CountryNames.php:134
+msgid "Kenya"
+msgstr "Kenya"
+
+#: app/Services/FormBuilder/CountryNames.php:135
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: app/Services/FormBuilder/CountryNames.php:136
+msgid "Kosovo"
+msgstr "Koszovó"
+
+#: app/Services/FormBuilder/CountryNames.php:137
+msgid "Kuwait"
+msgstr "Kuvait"
+
+#: app/Services/FormBuilder/CountryNames.php:138
+msgid "Kyrgyzstan"
+msgstr "Kirgizisztán"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1181
+msgid "Label"
+msgstr "Címke"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1517
+#: app/Modules/Widgets/FluentFormWidget.php:1705
+msgid "Label Color"
+msgstr "Címke színe"
+
+#: app/Services/FormBuilder/ElementCustomization.php:50
+msgid "Label Placement"
+msgstr "Címke elhelyezése"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:733
+msgid "Label Spacing"
+msgstr "Címke távolság"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:117
+#: app/Modules/Widgets/FluentFormWidget.php:137
+#: app/Modules/Widgets/FluentFormWidget.php:525
+msgid "Labels"
+msgstr "Címkék"
+
+#: app/Services/FormBuilder/CountryNames.php:139
+msgid "Laos"
+msgstr "Laosz"
+
+#: app/Services/FormBuilder/ElementCustomization.php:99
+msgid "Large"
+msgstr "Nagy"
+
+#: app/Services/FormBuilder/DefaultElements.php:100
+#: app/Services/FormBuilder/DefaultElements.php:106
+#: app/Services/Migrator/Classes/BaseMigrator.php:256
+msgid "Last Name"
+msgstr "Vezetéknév"
+
+#: app/Services/FormBuilder/CountryNames.php:140
+msgid "Latvia"
+msgstr "Lettország"
+
+#: app/Services/FormBuilder/ElementCustomization.php:582
+msgid "Layout"
+msgstr "Elrendezés"
+
+#: app/Services/FormBuilder/CountryNames.php:141
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: app/Services/FormBuilder/ElementCustomization.php:71
+#: app/Services/FormBuilder/ElementCustomization.php:215
+#: app/Modules/Widgets/FluentFormWidget.php:203
+#: app/Modules/Widgets/FluentFormWidget.php:446
+#: app/Modules/Widgets/FluentFormWidget.php:570
+#: app/Modules/Widgets/FluentFormWidget.php:862
+#: app/Modules/Widgets/FluentFormWidget.php:1294
+#: app/Modules/Widgets/FluentFormWidget.php:2064
+msgid "Left"
+msgstr "Bal"
+
+#: app/Services/FormBuilder/CountryNames.php:142
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: resources/views/email/report/body.php:137
+#, php-format
+msgid "Let's see how your forms performed in the last %d days."
+msgstr "Lássuk, hogyan teljesítettek az űrlapok az elmúlt %d napban."
+
+#: app/Services/FormBuilder/CountryNames.php:143
+msgid "Liberia"
+msgstr "Libéria"
+
+#: app/Services/FormBuilder/CountryNames.php:144
+msgid "Libya"
+msgstr "Líbia"
+
+#: app/Services/FormBuilder/CountryNames.php:145
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:364
+#: app/Modules/Widgets/OxyFluentFormWidget.php:532
+#: app/Modules/Widgets/FluentFormWidget.php:403
+msgid "Link Color"
+msgstr "Link színe"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:537
+msgid "Link Hover Color"
+msgstr "Link színe egér rátételekor"
+
+#: app/Services/FormBuilder/CountryNames.php:146
+msgid "Lithuania"
+msgstr "Litvánia"
+
+#: app/Modules/Component/Component.php:552
+#: resources/views/public/conversational-form.php:118
+msgid "Loading..."
+msgstr "Betöltés…"
+
+#: app/Services/FormBuilder/CountryNames.php:147
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: app/Services/FormBuilder/CountryNames.php:148
+msgid "Macao S.A.R., China"
+msgstr "Makaó"
+
+#: app/Services/FormBuilder/CountryNames.php:149
+msgid "Macedonia"
+msgstr "Macedónia"
+
+#: app/Services/FormBuilder/CountryNames.php:150
+msgid "Madagascar"
+msgstr "Madagaszkár"
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:51
+msgid "Mailchimp API Key"
+msgstr "MailChimp API kulcs"
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:127
+msgid "Mailchimp Feed"
+msgstr "MailChimp feed"
+
+#: app/Modules/DocumentationModule.php:45
+msgid "Mailchimp integration"
+msgstr "Mailchimp integráció"
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:43
+msgid ""
+"Mailchimp is a marketing platform for small businesses. Send beautiful "
+"emails, connect your e-commerce store, advertise, and build your brand. Use "
+"Fluent Forms to collect customer information and automatically add it to "
+"your Mailchimp campaign list. If you don't have a Mailchimp account, you can "
+"<a href=\"https://mailchimp.com/\" target=\"_blank\">sign up for one here.</"
+"a>"
+msgstr ""
+"A Mailchimp egy marketingplatform kisvállalkozások számára. Küldjön gyönyörű "
+"e-maileket, csatlakoztassa e-kereskedelmi áruházát, reklámozzon és építse "
+"márkáját. A Fluent Forms segítségével gyűjtse össze az ügyfelek adatait, és "
+"automatikusan adja hozzá a Mailchimp kampánylistájához. Ha még nincs "
+"Mailchimp-fiókja, <a href=\"https://mailchimp.com/\" target=\"_blank\">itt "
+"regisztrálhat.</a>"
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:132
+msgid ""
+"Mailchimp is not configured yet! Please configure your mailchimp api first"
+msgstr ""
+"A MailChimp nincs még konfigurálva! Kérjük, konfiguráld a MailChimp API-t "
+"először"
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:42
+msgid "Mailchimp Settings"
+msgstr "MailChimp beállítások"
+
+#: app/Services/FormBuilder/CountryNames.php:151
+msgid "Malawi"
+msgstr "Malawi"
+
+#: app/Services/FormBuilder/CountryNames.php:152
+msgid "Malaysia"
+msgstr "Malajzia"
+
+#: app/Services/FormBuilder/CountryNames.php:153
+msgid "Maldives"
+msgstr "Maldiv-szigetek"
+
+#: app/Services/FormBuilder/CountryNames.php:154
+msgid "Mali"
+msgstr "Mali"
+
+#: app/Services/FormBuilder/CountryNames.php:155
+msgid "Malta"
+msgstr "Málta"
+
+#: app/Modules/Acl/Acl.php:213
+msgid "Manage Entries"
+msgstr "Beküldések kezelése"
+
+#: app/Modules/Acl/Acl.php:201
+msgid "Manage Forms"
+msgstr "Űrlapok kezelése"
+
+#: app/Modules/Acl/Acl.php:226
+msgid "Manage Payments"
+msgstr "Fizetések kezelése"
+
+#: app/Modules/Acl/Acl.php:232
+msgid "Manage Settings"
+msgstr "Beállítások kezelése"
+
+#: app/Modules/Acl/Managers.php:88
+msgid "Manager has been removed."
+msgstr "A menedzser eltávolításra került."
+
+#: app/Modules/Acl/Managers.php:69
+msgid "Manager has been saved."
+msgstr "A menedzsert mentettük."
+
+#: app/Modules/DocumentationModule.php:37
+msgid "Managing form submissions"
+msgstr "Űrlapbeküldések kezelése"
+
+#: app/Modules/Component/Component.php:945
+msgid "Mar"
+msgstr "Márc"
+
+#: app/Modules/Component/Component.php:959
+msgid "March"
+msgstr "Március"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:91
+#: app/Modules/Widgets/OxyFluentFormWidget.php:404
+#: app/Modules/Widgets/OxyFluentFormWidget.php:788
+#: app/Modules/Widgets/FluentFormWidget.php:268
+#: app/Modules/Widgets/FluentFormWidget.php:344
+#: app/Modules/Widgets/FluentFormWidget.php:465
+#: app/Modules/Widgets/FluentFormWidget.php:1223
+#: app/Modules/Widgets/FluentFormWidget.php:1278
+#: app/Modules/Widgets/FluentFormWidget.php:2377
+msgid "Margin"
+msgstr "Margó"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:769
+#: app/Modules/Widgets/FluentFormWidget.php:2190
+msgid "Margin Top"
+msgstr "Felső margó"
+
+#: app/Modules/Registerer/Menu.php:956
+msgid "Mark as Favorite"
+msgstr "Megjelölés kedvencként"
+
+#: app/Modules/Registerer/Menu.php:549
+msgid "Marketing & CRM Integrations"
+msgstr "Marketing és CRM-integrációk"
+
+#: app/Services/FormBuilder/CountryNames.php:156
+msgid "Marshall Islands"
+msgstr "Marshall-szigetek"
+
+#: app/Services/FormBuilder/CountryNames.php:157
+msgid "Martinique"
+msgstr "Martinique"
+
+#: app/Services/FormBuilder/ElementCustomization.php:442
+#: app/Services/FormBuilder/DefaultElements.php:217
+#: app/Services/FormBuilder/DefaultElements.php:235
+#: app/Services/Migrator/Classes/BaseMigrator.php:695
+msgid "Mask Input"
+msgstr "Maszkbemenet"
+
+#: app/Services/FormBuilder/CountryNames.php:158
+msgid "Mauritania"
+msgstr "Mauritánia"
+
+#: app/Services/FormBuilder/CountryNames.php:159
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:148
+msgid "Max File Size"
+msgstr "Maximális fájlméret"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:155
+msgid "Max Files Count"
+msgstr "Maximális Fájlszámlálás"
+
+#: app/Services/FormBuilder/ElementCustomization.php:502
+msgid "Max Repeat inputs"
+msgstr "Maximális ismételt bevitel"
+
+#: app/Services/FormBuilder/ElementCustomization.php:358
+msgid "Max Selection"
+msgstr "Maximális kiválasztás"
+
+#: app/Services/FormBuilder/ElementCustomization.php:341
+msgid "Max text length"
+msgstr "Maximális szöveg hossz"
+
+#: app/Services/FormBuilder/ElementCustomization.php:521
+#: app/Services/FormBuilder/ValidationRuleSettings.php:142
+msgid "Max Value"
+msgstr "Maximumérték"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:73
+#: app/Modules/Widgets/FluentFormWidget.php:415
+msgid "Max Width"
+msgstr "Max. Szélesség"
+
+#: app/Services/FormBuilder/DefaultElements.php:842
+#: app/Services/FormBuilder/DefaultElements.php:886
+msgid "Maximum file size limit is 1MB"
+msgstr "A maximális fájlméret 1MB"
+
+#: app/Services/Migrator/Classes/BaseMigrator.php:856
+msgid "Maximum file size limit reached"
+msgstr "A maximális fájlméret elérte a határt"
+
+#: app/Services/Migrator/Classes/BaseMigrator.php:860
+msgid "Maximum upload limit reached"
+msgstr "Elérte a maximális feltöltési korlátot"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:156
+msgid "Maximum user file upload number."
+msgstr "Felhasználói fájlfeltöltés maximális száma."
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:143
+msgid "Maximum value for the input field."
+msgstr "A beviteli mező maximális értéke."
+
+#: app/Services/FormBuilder/DefaultElements.php:526
+msgid "Maximum value is "
+msgstr "Maximális érték "
+
+#: app/Modules/Component/Component.php:947
+#: app/Modules/Component/Component.php:961
+msgid "May"
+msgstr "Május"
+
+#: app/Services/FormBuilder/CountryNames.php:160
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: app/Services/FormBuilder/ElementCustomization.php:95
+msgid "Medium"
+msgstr "Közepes"
+
+#: app/Services/FormBuilder/CountryNames.php:161
+msgid "Mexico"
+msgstr "Mexikó"
+
+#: app/Services/FormBuilder/CountryNames.php:162
+msgid "Micronesia"
+msgstr "Mikronézia"
+
+#: app/Services/FormBuilder/DefaultElements.php:70
+#: app/Services/FormBuilder/DefaultElements.php:76
+#: app/Services/Migrator/Classes/BaseMigrator.php:226
+msgid "Middle Name"
+msgstr "Középső név"
+
+#: resources/views/admin/transfer/index.php:33
+msgid "Migrator"
+msgstr "Migrator"
+
+#: app/Services/FormBuilder/ElementCustomization.php:516
+#: app/Services/FormBuilder/ValidationRuleSettings.php:128
+msgid "Min Value"
+msgstr "Minimumérték"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:129
+msgid "Minimum value for the input field."
+msgstr "A beviteli mező minimumértéke."
+
+#: app/Services/FormBuilder/DefaultElements.php:522
+msgid "Minimum value is "
+msgstr "Minimumérték "
+
+#: app/Services/FormBuilder/CountryNames.php:163
+msgid "Moldova"
+msgstr "Moldova"
+
+#: app/Modules/Component/Component.php:983
+msgid "Mon"
+msgstr "Hé"
+
+#: app/Services/FormBuilder/CountryNames.php:164
+msgid "Monaco"
+msgstr "Monaco"
+
+#: app/Modules/Component/Component.php:974
+msgid "Monday"
+msgstr "Hétfő"
+
+#: app/Services/FormBuilder/CountryNames.php:165
+msgid "Mongolia"
+msgstr "Mongólia"
+
+#: app/Services/FormBuilder/CountryNames.php:166
+msgid "Montenegro"
+msgstr "Montenegró"
+
+#: app/Services/FormBuilder/CountryNames.php:167
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: app/Services/FormBuilder/CountryNames.php:168
+msgid "Morocco"
+msgstr "Marokkó"
+
+#: app/Services/FormBuilder/CountryNames.php:169
+msgid "Mozambique"
+msgstr "Mozambzik"
+
+#: app/Services/FormBuilder/ElementCustomization.php:309
+msgid "Multi-step form's next button"
+msgstr "A többlépcsős űrlap következő gombja"
+
+#: app/Services/FormBuilder/ElementCustomization.php:304
+msgid "Multi-step form's previous button"
+msgstr "A többlépcsős űrlap előző gombja"
+
+#: app/Services/FormBuilder/DefaultElements.php:742
+#: app/Services/Migrator/Classes/BaseMigrator.php:551
+msgid "Multiple Choice"
+msgstr "Feleletválasztós"
+
+#: app/Services/FormBuilder/DefaultElements.php:714
+msgid "Multiselect"
+msgstr "Többválasztás"
+
+#: app/Services/FormBuilder/CountryNames.php:170
+msgid "Myanmar"
+msgstr "Mianmar"
+
+#: app/Services/FormBuilder/ElementCustomization.php:40
+msgid "Name Attribute"
+msgstr "Név attribútum"
+
+#: app/Modules/Form/Form.php:527
+#, php-format
+msgid "Name attribute %s has duplicate value."
+msgstr "A névattribútum %s ismétlődő értékkel rendelkezik."
+
+#: app/Services/FormBuilder/ElementCustomization.php:318
+msgid "Name Fields"
+msgstr "Névmezők"
+
+#: app/Services/FormBuilder/CountryNames.php:171
+msgid "Namibia"
+msgstr "Namíbia"
+
+#: app/Services/FormBuilder/CountryNames.php:172
+msgid "Nauru"
+msgstr "Nauru"
+
+#: app/Services/FormBuilder/CountryNames.php:173
+msgid "Nepal"
+msgstr "Nepál"
+
+#: app/Services/FormBuilder/CountryNames.php:174
+msgid "Netherlands"
+msgstr "Hollandia"
+
+#: app/Services/FormBuilder/CountryNames.php:175
+msgid "New Caledonia"
+msgstr "Új-Kaledónia"
+
+#: app/Modules/Registerer/Menu.php:338 app/Modules/Registerer/Menu.php:339
+msgid "New Form"
+msgstr "Új űrlap"
+
+#: app/Services/FormBuilder/CountryNames.php:176
+msgid "New Zealand"
+msgstr "Új-Zéland"
+
+#: app/Services/FormBuilder/DefaultElements.php:1116
+#: app/Modules/Registerer/Menu.php:952
+msgid "Next"
+msgstr "Következő"
+
+#: app/Services/FormBuilder/ElementCustomization.php:308
+msgid "Next Button"
+msgstr "Következő Gomb"
+
+#: app/Modules/Component/Component.php:940
+msgid "Next Month"
+msgstr "Következő hónap"
+
+#: app/Services/FormBuilder/CountryNames.php:177
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: app/Services/FormBuilder/DefaultElements.php:986
+msgid "Nice"
+msgstr "Szép"
+
+#: app/Services/FormBuilder/CountryNames.php:178
+msgid "Niger"
+msgstr "Niger"
+
+#: app/Services/FormBuilder/CountryNames.php:179
+msgid "Nigeria"
+msgstr "Nigéria"
+
+#: app/Services/FormBuilder/CountryNames.php:180
+msgid "Niue"
+msgstr "Niue"
+
+#: app/Services/FormBuilder/ElementCustomization.php:243
+#: app/Services/FormBuilder/ElementCustomization.php:560
+#: app/Services/FormBuilder/ValidationRuleSettings.php:69
+#: app/Services/FormBuilder/ValidationRuleSettings.php:86
+#: app/Services/FormBuilder/ValidationRuleSettings.php:103
+#: app/Services/FormBuilder/ValidationRuleSettings.php:120
+#: app/Modules/Widgets/FluentFormWidget.php:104
+#: app/Modules/Widgets/FluentFormWidget.php:946
+msgid "No"
+msgstr "Nem"
+
+#: app/Modules/Component/Component.php:553
+msgid "No choices to choose from"
+msgstr "Nincs választási lehetőség"
+
+#: app/Services/Migrator/Classes/BaseMigrator.php:32
+msgid "No forms found!"
+msgstr "Nem találtunk űrlapokat!"
+
+#: app/Modules/Registerer/Menu.php:981
+msgid "No Logs found"
+msgstr "Nem találtunk naplókat"
+
+#: app/Modules/Registerer/Menu.php:968 app/Modules/Registerer/Menu.php:984
+msgid "No Notes found"
+msgstr "Nem találtunk jegyzeteket"
+
+#: app/Modules/Component/Component.php:551
+msgid "No results found"
+msgstr "Nincs találat"
+
+#: app/Modules/Form/FormHandler.php:385 app/Modules/Acl/Acl.php:185
+msgid "Nonce verification failed, please try again."
+msgstr "NONCE ellenőrzés nem sikerült, kérjük, próbáld újra."
+
+#: app/Services/FormBuilder/ElementCustomization.php:292
+#: app/Services/FormBuilder/ElementCustomization.php:447
+msgid "None"
+msgstr "Nincs"
+
+#: app/Services/FormBuilder/CountryNames.php:181
+msgid "Norfolk Island"
+msgstr "Norfolk-sziget"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:192
+#: app/Modules/Widgets/FluentFormWidget.php:594
+#: app/Modules/Widgets/FluentFormWidget.php:1009
+#: app/Modules/Widgets/FluentFormWidget.php:1552
+#: app/Modules/Widgets/FluentFormWidget.php:1775
+#: app/Modules/Widgets/FluentFormWidget.php:1917
+#: app/Modules/Widgets/FluentFormWidget.php:2124
+msgid "Normal"
+msgstr "Normál"
+
+#: app/Services/FormBuilder/CountryNames.php:183
+msgid "North Korea"
+msgstr "Észak-Korea"
+
+#: app/Services/FormBuilder/CountryNames.php:182
+msgid "Northern Mariana Islands"
+msgstr "Északi-Mariana-szigetek"
+
+#: app/Services/FormBuilder/CountryNames.php:184
+msgid "Norway"
+msgstr "Norvégia"
+
+#: app/Modules/Entries/Entries.php:489
+msgid "Note has been successfully added"
+msgstr "A megjegyzés sikeresen hozzáadva"
+
+#: app/Modules/Component/Component.php:953
+msgid "Nov"
+msgstr "Nov"
+
+#: app/Modules/Component/Component.php:967
+msgid "November"
+msgstr "November"
+
+#: app/Services/FormBuilder/ElementCustomization.php:566
+msgid "Number Format"
+msgstr "Számformátum"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:136
+msgid "Number of digits for the input field."
+msgstr "A beviteli mező számjegyeinek száma."
+
+#: app/Services/FormBuilder/DefaultElements.php:503
+#: app/Services/FormBuilder/DefaultElements.php:540
+#: app/Services/Migrator/Classes/BaseMigrator.php:779
+msgid "Numeric Field"
+msgstr "Numerikus mező"
+
+#: app/Modules/Component/Component.php:952
+msgid "Oct"
+msgstr "Okt"
+
+#: app/Modules/Component/Component.php:966
+msgid "October"
+msgstr "Október"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1443
+msgid "Odd Item Background Color"
+msgstr "Páratlan elem háttérszíne"
+
+#: app/Services/FormBuilder/ShortCodeParser.php:274
+msgid "Offline"
+msgstr "Offline"
+
+#: app/Services/FormBuilder/CountryNames.php:185
+msgid "Oman"
+msgstr "Omán"
+
+#: app/Services/FormBuilder/DefaultElements.php:1265
+msgid "One Column Container"
+msgstr "Egy oszlopos tároló"
+
+#: app/Modules/Component/Component.php:555
+msgid "Only %%maxItemCount%% options can be added"
+msgstr "Csak %%maxItemCount%% opciók adhatók hozzá"
+
+#: app/Services/FormBuilder/ElementCustomization.php:130
+#: app/Services/FormBuilder/ElementCustomization.php:135
+#: app/Services/FormBuilder/ElementCustomization.php:383
+msgid "Options"
+msgstr "Beállítások"
+
+#: app/Services/FormBuilder/EditorShortCode.php:97
+msgid "Order Items Table"
+msgstr "Rendelési tételek tábla"
+
+#: app/Modules/Registerer/Menu.php:543
+msgid "Other Confirmations"
+msgstr "Egyéb visszaigazolások"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:84
+#: app/Modules/Widgets/OxyFluentFormWidget.php:243
+#: app/Modules/Widgets/OxyFluentFormWidget.php:397
+#: app/Modules/Widgets/OxyFluentFormWidget.php:676
+#: app/Modules/Widgets/OxyFluentFormWidget.php:781
+#: app/Modules/Widgets/OxyFluentFormWidget.php:808
+#: app/Modules/Widgets/OxyFluentFormWidget.php:884
+#: app/Modules/Widgets/FluentFormWidget.php:290
+#: app/Modules/Widgets/FluentFormWidget.php:366
+#: app/Modules/Widgets/FluentFormWidget.php:477
+#: app/Modules/Widgets/FluentFormWidget.php:750
+#: app/Modules/Widgets/FluentFormWidget.php:1211
+#: app/Modules/Widgets/FluentFormWidget.php:1266
+#: app/Modules/Widgets/FluentFormWidget.php:1398
+#: app/Modules/Widgets/FluentFormWidget.php:1493
+#: app/Modules/Widgets/FluentFormWidget.php:1593
+#: app/Modules/Widgets/FluentFormWidget.php:1977
+#: app/Modules/Widgets/FluentFormWidget.php:2178
+#: app/Modules/Widgets/FluentFormWidget.php:2365
+msgid "Padding"
+msgstr "Eltartás"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1676
+msgid "Pagination"
+msgstr "Lapszámozás"
+
+#: app/Services/FormBuilder/EditorShortCode.php:79
+msgid "Paid Total Amount"
+msgstr "Kifizetett teljes összeg"
+
+#: app/Services/FormBuilder/CountryNames.php:186
+msgid "Pakistan"
+msgstr "Pakisztán"
+
+#: app/Services/FormBuilder/CountryNames.php:187
+msgid "Palestinian Territory"
+msgstr "Palesztina"
+
+#: app/Services/FormBuilder/CountryNames.php:188
+msgid "Panama"
+msgstr "Panama"
+
+#: app/Services/FormBuilder/CountryNames.php:189
+msgid "Papua New Guinea"
+msgstr "Pápua Új-Guinea"
+
+#: app/Services/FormBuilder/CountryNames.php:190
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: app/Services/FormBuilder/DefaultElements.php:1083
+msgid "Password"
+msgstr "Jelsző"
+
+#: app/Services/FormBuilder/DefaultElements.php:1096
+#: app/Services/Migrator/Classes/BaseMigrator.php:727
+msgid "Password Field"
+msgstr "Jelszó mező"
+
+#: app/Services/FormBuilder/EditorShortCode.php:80
+msgid "Payment Amount"
+msgstr "Fizetendő összeg"
+
+#: app/Services/FormBuilder/DefaultElements.php:1440
+msgid "Payment Field"
+msgstr "Kifizetési mező"
+
+#: app/Services/FormBuilder/ElementCustomization.php:145
+msgid "Payment Items"
+msgstr "Fizetési tételek"
+
+#: app/Services/FormBuilder/EditorShortCode.php:77
+#: app/Services/FormBuilder/EditorShortCode.php:100
+msgid "Payment Method"
+msgstr "Fizetési mód"
+
+#: app/Services/FormBuilder/EditorShortCode.php:95
+msgid "Payment Receipt"
+msgstr "Fizetési nyugta"
+
+#: app/Services/FormBuilder/EditorShortCode.php:78
+#: app/Services/FormBuilder/EditorShortCode.php:98
+msgid "Payment Status"
+msgstr "Fizetési állapot"
+
+#: app/Services/FormBuilder/EditorShortCode.php:96
+msgid "Payment Summary"
+msgstr "Fizetési összefoglaló"
+
+#: app/Services/FormBuilder/EditorShortCode.php:99
+#: resources/views/email/report/body.php:173
+msgid "Payment Total"
+msgstr "Kifizetés összesen"
+
+#: app/Modules/Registerer/Menu.php:370 app/Modules/Registerer/Menu.php:371
+#: resources/views/admin/global_menu.php:22
+#: resources/views/admin/global_menu.php:37
+#: resources/views/email/report/body.php:168
+msgid "Payments"
+msgstr "Fizetések"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:190
+msgid "PDF"
+msgstr "PDF"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:32
+msgid "PDF (pdf)"
+msgstr "PDF-fájl (PDF)"
+
+#: app/Services/FormBuilder/CountryNames.php:191
+msgid "Peru"
+msgstr "Peru"
+
+#: app/Services/FormBuilder/CountryNames.php:192
+msgid "Philippines"
+msgstr "Fülöp-szigetek"
+
+#: app/Services/Migrator/Classes/BaseMigrator.php:818
+msgid "Phone number is not valid"
+msgstr "Érvénytelen telefonszám"
+
+#: app/Services/FormBuilder/CountryNames.php:193
+msgid "Pitcairn"
+msgstr "Pitcairn-szigetek"
+
+#: app/Services/FormBuilder/ElementCustomization.php:105
+#: app/Modules/Widgets/FluentFormWidget.php:149
+#: app/Modules/Widgets/FluentFormWidget.php:905
+msgid "Placeholder"
+msgstr "Helytartó"
+
+#: app/Services/FluentConversational/Classes/Converter/Converter.php:315
+msgid ""
+"Please enter a valid value. The two nearest valid values are {lower_value} "
+"and {upper_value}"
+msgstr ""
+"Kérjük, adjon meg egy érvényes értéket. A két legközelebbi érvényes érték a "
+"{lower_value} és {upper_value}"
+
+#: app/Services/Integrations/BaseIntegration.php:110
+msgid "Please fix the errors"
+msgstr "Javítsd ki a hibákat"
+
+#: app/Services/FormBuilder/ElementCustomization.php:527
+msgid "Please provide digits count value"
+msgstr "Kérjük, adja meg a számjegyek számának értékét"
+
+#: app/Services/FormBuilder/ElementCustomization.php:503
+msgid ""
+"Please provide max number of rows the user can fill up for this repeat "
+"field. Keep blank/0 for unlimited numbers"
+msgstr ""
+"Add meg a sorok maximális számát, amelyet a felhasználó kitölthet ennél az "
+"ismétlő mezőhöz. Hagyd üresen/0 a korlátlanhoz"
+
+#: app/Services/FormBuilder/ElementCustomization.php:522
+msgid "Please provide Maximum value"
+msgstr "Add meg a maximális értéket"
+
+#: app/Services/FormBuilder/ElementCustomization.php:517
+msgid "Please provide minimum value"
+msgstr "Add meg a minimális értéket"
+
+#: app/Modules/Registerer/Menu.php:967
+msgid "Please Provide Note Content"
+msgstr "Kérjük, adja meg a jegyzet tartalmát"
+
+#: app/Services/FormBuilder/ElementCustomization.php:532
+msgid ""
+"Please provide step attribute for this field. Give value \"any\" for "
+"floating value"
+msgstr ""
+"Adja meg a mező lépésattribútumát. Adj meg \"bármennyi\" értéket a lebegő "
+"értékhez"
+
+#: app/Modules/Entries/Entries.php:660
+msgid "Please select entries first"
+msgstr "Először válassza ki a kitöltéseket"
+
+#: app/Modules/Settings/Settings.php:184
+msgid "Please validate your hCaptcha first and then hit save."
+msgstr "Kérjük, először érvényesítse a hCaptchát, majd nyomja meg a mentést."
+
+#: app/Modules/Settings/Settings.php:121
+msgid "Please validate your reCAPTCHA first and then hit save."
+msgstr "Kérjük, először érvényesítse a reCAPTCHA-t, majd nyomja meg a mentést."
+
+#: app/Modules/Component/Component.php:1011
+msgid "PM"
+msgstr "DU"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:243
+#: app/Services/FormBuilder/ValidationRuleSettings.php:257
+msgid "PNG"
+msgstr "PNG"
+
+#: app/Services/FormBuilder/CountryNames.php:194
+msgid "Poland"
+msgstr "Lengyelország"
+
+#: app/Services/FormBuilder/CountryNames.php:195
+msgid "Portugal"
+msgstr "Portugália"
+
+#: app/Modules/DocumentationModule.php:61
+msgid "Predefined form fields"
+msgstr "Előre definiált űrlapmezők"
+
+#: app/Services/FormBuilder/ElementCustomization.php:536
+msgid "Prefix Label"
+msgstr "Előtag címke"
+
+#: app/Modules/Component/Component.php:554
+msgid "Press to select"
+msgstr "Nyomja meg a választáshoz"
+
+#: app/Modules/Registerer/Menu.php:925
+msgid "Preview"
+msgstr "Előző"
+
+#: resources/views/frameless/edit-entry.php:8
+#: resources/views/frameless/show_review.php:8
+msgid "Preview Form"
+msgstr "Előző űrlap"
+
+#: app/Services/FormBuilder/DefaultElements.php:1111
+#: app/Modules/Registerer/Menu.php:951
+msgid "Previous"
+msgstr "Előző"
+
+#: app/Services/FormBuilder/ElementCustomization.php:303
+msgid "Previous Button"
+msgstr "Elõzõ gomb"
+
+#: app/Modules/Component/Component.php:939
+msgid "Previous Month"
+msgstr "Előző hónap"
+
+#: app/Services/FormBuilder/ElementCustomization.php:284
+#: app/Modules/Widgets/OxyFluentFormWidget.php:708
+msgid "Progress Bar"
+msgstr "Állapot jelző"
+
+#: app/Services/FormBuilder/ElementCustomization.php:279
+msgid "Progress Indicator"
+msgstr "Folyamatjelző"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1752
+msgid "Progressbar"
+msgstr "Fejlődésmutató"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1684
+msgid "Progressbar Label"
+msgstr "Fejlődésmutató címke"
+
+#: app/Services/FormBuilder/ElementCustomization.php:537
+msgid ""
+"Provide Input Prefix Label. It will show in the input field as prefix label"
+msgstr ""
+"Add meg a bemeneti előtag címkéjét. A bemeneti mezőben előtagcímkeként "
+"jelenik meg"
+
+#: app/Services/FormBuilder/ElementCustomization.php:542
+msgid ""
+"Provide Input Suffix Label. It will show in the input field as suffix label"
+msgstr ""
+"Add meg a bemeneti utótag címkéjét. A bemeneti mezőben utótagcímkeként "
+"jelenik meg"
+
+#: app/Services/FormBuilder/CountryNames.php:196
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: app/Services/FormBuilder/CountryNames.php:197
+msgid "Qatar"
+msgstr "Katár"
+
+#: app/Services/FormBuilder/ElementCustomization.php:496
+msgid "Radio"
+msgstr "Rádiógomb"
+
+#: app/Modules/Widgets/FluentFormWidget.php:935
+msgid "Radio & Checkbox"
+msgstr "Rádió és jelölőnégyzet"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1097
+msgid "Radio Buttons"
+msgstr "Rádiógombok"
+
+#: app/Services/FormBuilder/DefaultElements.php:605
+#: app/Services/FormBuilder/DefaultElements.php:638
+#: app/Services/Migrator/Classes/BaseMigrator.php:623
+msgid "Radio Field"
+msgstr "Rádió-mező"
+
+#: app/Services/FormBuilder/EditorShortCode.php:32
+msgid "Random String with Prefix"
+msgstr "Véletlenszerű karakterlánc előtaggal"
+
+#: app/Services/FormBuilder/DefaultElements.php:971
+#: app/Services/FormBuilder/DefaultElements.php:993
+#: app/Services/Migrator/Classes/BaseMigrator.php:971
+msgid "Ratings"
+msgstr "Értékelések"
+
+#: app/Modules/Registerer/Menu.php:946
+msgid "Read"
+msgstr "Olvasás"
+
+#: app/Modules/Registerer/Menu.php:942
+msgid "Read Only"
+msgstr "Csak olvasható"
+
+#: app/Services/FormBuilder/DefaultElements.php:1194
+#: app/Services/Migrator/Classes/BaseMigrator.php:1109
+msgid "reCaptcha"
+msgstr "reCAPTCHA"
+
+#: app/Modules/Form/FormHandler.php:441
+msgid "reCaptcha verification failed, please try again."
+msgstr "reCaptcha ellenőrzés hibára futott, kérjük ismételd meg."
+
+#: app/Modules/Registerer/Menu.php:955
+msgid "Remove from Favorites"
+msgstr "Eltávolítás a kedvencek közül"
+
+#: app/Services/FormBuilder/ElementCustomization.php:331
+msgid "Repeat Fields"
+msgstr "Mezők ismétlése"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:59
+msgid "Required"
+msgstr "Szükséges"
+
+#: app/Services/FormBuilder/ElementCustomization.php:160
+msgid "Required Validation Message"
+msgstr "A kötelező mezők ellenőrzési üzenete"
+
+#: app/Services/FormBuilder/ElementCustomization.php:269
+msgid "Resume Step from last form session"
+msgstr "Lépés folytatása az utolsó űrlap munkamenetéből"
+
+#: app/Services/FormBuilder/CountryNames.php:198
+msgid "Reunion"
+msgstr "Réunion"
+
+#: app/Services/FormBuilder/ElementCustomization.php:63
+#: app/Services/FormBuilder/ElementCustomization.php:223
+#: app/Modules/Widgets/FluentFormWidget.php:211
+#: app/Modules/Widgets/FluentFormWidget.php:454
+#: app/Modules/Widgets/FluentFormWidget.php:578
+#: app/Modules/Widgets/FluentFormWidget.php:870
+#: app/Modules/Widgets/FluentFormWidget.php:1302
+#: app/Modules/Widgets/FluentFormWidget.php:2072
+msgid "Right"
+msgstr "Jobb"
+
+#: app/Services/FormBuilder/CountryNames.php:199
+msgid "Romania"
+msgstr "Románia"
+
+#: app/Services/FormBuilder/ElementCustomization.php:120
+msgid "Rows"
+msgstr "Sorok"
+
+#: app/Services/FormBuilder/CountryNames.php:200
+msgid "Russia"
+msgstr "Oroszország"
+
+#: app/Services/FormBuilder/CountryNames.php:201
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: app/Services/FormBuilder/CountryNames.php:211
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr "S&atilde;o Tom&eacute; és Pr&iacute;ncipe"
+
+#: app/Services/FormBuilder/CountryNames.php:202
+msgid "Saint Barth&eacute;lemy"
+msgstr "Saint-Barth&eacute;lemy"
+
+#: app/Services/FormBuilder/CountryNames.php:203
+msgid "Saint Helena"
+msgstr "Szent Ilona"
+
+#: app/Services/FormBuilder/CountryNames.php:204
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts és Nevis"
+
+#: app/Services/FormBuilder/CountryNames.php:205
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: app/Services/FormBuilder/CountryNames.php:207
+msgid "Saint Martin (Dutch part)"
+msgstr "Saint Martin (Holland rész)"
+
+#: app/Services/FormBuilder/CountryNames.php:206
+msgid "Saint Martin (French part)"
+msgstr "Saint Martin (Francia rész)"
+
+#: app/Services/FormBuilder/CountryNames.php:208
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint-Pierre és Miquelon"
+
+#: app/Services/FormBuilder/CountryNames.php:209
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent és Grenadine-szigetek"
+
+#: app/Services/FormBuilder/CountryNames.php:264
+msgid "Samoa"
+msgstr "Samoa"
+
+#: app/Services/FormBuilder/CountryNames.php:210
+msgid "San Marino"
+msgstr "San Marino"
+
+#: app/Modules/Component/Component.php:988
+msgid "Sat"
+msgstr "Szo"
+
+#: app/Modules/Component/Component.php:979
+msgid "Saturday"
+msgstr "Szombat"
+
+#: app/Services/FormBuilder/CountryNames.php:212
+msgid "Saudi Arabia"
+msgstr "Szaúd-Arábia"
+
+#: app/Services/Integrations/GlobalIntegrationManager.php:33
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:46
+msgid "Save Settings"
+msgstr "Beállítások mentése"
+
+#: app/Modules/Component/Component.php:1007
+msgid "Scroll to increment"
+msgstr "Görgess a növeléséhez"
+
+#: app/Modules/Registerer/Menu.php:932
+msgid "Search"
+msgstr "Keresés"
+
+#: app/Modules/Registerer/Menu.php:931
+msgid "Search Forms"
+msgstr "Űrlapok keresése"
+
+#: app/Services/FormBuilder/DefaultElements.php:1059
+#: app/Services/FormBuilder/DefaultElements.php:1065
+#: app/Modules/Widgets/OxyFluentFormWidget.php:375
+#: app/Modules/Widgets/FluentFormWidget.php:1173
+#: app/Services/Migrator/Classes/BaseMigrator.php:906
+msgid "Section Break"
+msgstr "Szakasztörés"
+
+#: app/Services/FormBuilder/ElementCustomization.php:82
+msgid "Select a button style from the dropdown"
+msgstr "Gombstílus választása a legördülő listából"
+
+#: app/Helpers/Helper.php:576
+msgid "Select a Fluent Forms"
+msgstr "Fluent Forms kiválasztása"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:36
+#: app/Modules/Widgets/OxyFluentFormWidget.php:429
+msgid "Select a Form"
+msgstr "Az űrlap kiválasztása"
+
+#: app/Services/FormBuilder/ElementCustomization.php:443
+msgid "Select a mask for the input field"
+msgstr "A beviteli mező maszkjának kiválasztása"
+
+#: app/Services/FormBuilder/ElementCustomization.php:114
+msgid ""
+"Select any date format from the dropdown. The user will be able to choose a "
+"date in this given format."
+msgstr ""
+"Válasszon egy dátumformátumot a legördülő listából. A felhasználó az adott "
+"formátumban tudja kiválasztani a dátumot majd."
+
+#: app/Services/FormBuilder/ElementCustomization.php:280
+msgid ""
+"Select any of them below, user will see progress of form steps according to "
+"your choice."
+msgstr ""
+"Válaszd ki bármelyiket alul, a felhasználó látni fogja a haladás lépéseit a "
+"választásod szerint."
+
+#: app/Services/FormBuilder/DefaultElements.php:448
+#: app/Services/FormBuilder/DefaultElements.php:913
+#: app/Services/Migrator/Classes/BaseMigrator.php:1310
+msgid "Select Country"
+msgstr "Válassz országot"
+
+#: app/Services/FormBuilder/ElementCustomization.php:113
+msgid "Select Date Format"
+msgstr "Dátumformátum kiválasztása"
+
+#: app/Services/FormBuilder/ElementCustomization.php:567
+msgid ""
+"Select the format of numbers that are allowed in this field. You have the "
+"option to use a comma or a dot as the decimal separator."
+msgstr ""
+"Válassza ki az ebben a mezőben engedélyezett számok formátumát. Lehetősége "
+"van vesszőt vagy pontot használni tizedes elválasztóként."
+
+#: app/Services/FormBuilder/ElementCustomization.php:583
+msgid "Select the Layout for checkable items"
+msgstr "Az ellenőrizhető elemek elrendezésének kijelölése"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:77
+msgid "Select whether the phone number should be validated or not."
+msgstr "Válassza ki, hogy a telefonszámot érvényesíteni kívánja-e vagy sem."
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:60
+msgid "Select whether this field is a required field for the form or not."
+msgstr "Határozd meg, hogy a mező kötelező vagy választható legyen."
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:94
+msgid "Select whether to validate this field as email or not"
+msgstr ""
+"Válassza ki, hogy ezt a mezőt e-mailként kívánja-e érvényesíteni vagy sem"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:111
+msgid "Select whether to validate this field as URL or not"
+msgstr ""
+"Válassza ki, hogy ezt a mezőt URL-ként kívánja-e érvényesíteni vagy sem"
+
+#: app/Modules/Entries/Entries.php:686
+msgid "Selected entries successfully deleted"
+msgstr "A kijelölt kitöltéseket sikerült törölni"
+
+#: app/Modules/Entries/Entries.php:692
+msgid "Selected entries successfully marked as favorites"
+msgstr "A kiválasztott beküldéseket sikeresen kedvencekként jelöltük"
+
+#: app/Modules/Entries/Entries.php:697
+msgid "Selected entries successfully removed from favorites"
+msgstr "A kiválasztott beküldéseket sikeresen eltávolítottuk a kedvencek közül"
+
+#: app/Services/Integrations/GlobalIntegrationManager.php:277
+msgid "Selected integration feed successfully deleted"
+msgstr "A kijelölt integrációs hírcsatorna sikeresen törölve"
+
+#: app/Modules/Logger/DataLogger.php:253 app/Modules/Logger/DataLogger.php:274
+msgid "Selected log(s) successfully deleted"
+msgstr "A kiválasztott napló(k) sikeresen törlésre került(ek)"
+
+#: app/Services/FormBuilder/CountryNames.php:213
+msgid "Senegal"
+msgstr "Szenegál"
+
+#: app/Modules/Component/Component.php:951
+msgid "Sep"
+msgstr "Szept"
+
+#: app/Modules/Component/Component.php:965
+msgid "September"
+msgstr "Szeptember"
+
+#: app/Services/FormBuilder/CountryNames.php:214
+msgid "Serbia"
+msgstr "Szerbia"
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:133
+msgid "Set Mailchimp API"
+msgstr "MailChimp API beállítása"
+
+#: app/Services/FormBuilder/ElementCustomization.php:146
+msgid "Set your product type and corresponding prices"
+msgstr "A terméktípus és a megfelelő árak beállítása"
+
+#: app/Services/FormBuilder/ElementCustomization.php:151
+msgid "Set your subscription plans"
+msgstr "Állítsa be előfizetési terveit"
+
+#: app/Modules/DocumentationModule.php:41
+msgid "Setting up email notifications"
+msgstr "E-mail értesítések beállítása"
+
+#: app/Modules/DocumentationModule.php:25
+msgid "Setting up form submission confirmation"
+msgstr "Űrlapküldés visszaigazolásának beállítása"
+
+#: app/Modules/Registerer/Menu.php:922
+msgid "Settings"
+msgstr "Beállítások"
+
+#: app/Modules/Registerer/Menu.php:499
+msgid "Settings & Integrations"
+msgstr "Beállítások és integrációk"
+
+#: app/Modules/Form/Settings/FormSettings.php:123
+#: app/Modules/Form/Settings/FormSettings.php:172
+msgid "Settings has been saved."
+msgstr "A beállításokat elmentettük."
+
+#: app/Modules/DocumentationModule.php:57
+msgid "Setup conditional confirmation messages"
+msgstr "Feltételes megerősítő üzenetek beállítása"
+
+#: app/Services/FormBuilder/CountryNames.php:215
+msgid "Seychelles"
+msgstr "Seychelle-szigetek"
+
+#: app/Modules/Registerer/Menu.php:928
+msgid "Short Code"
+msgstr "Short code"
+
+#: app/Services/FormBuilder/ElementCustomization.php:229
+#: app/Services/FormBuilder/DefaultElements.php:1228
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: app/Modules/Widgets/FluentFormWidget.php:140
+#: app/Modules/Widgets/FluentFormWidget.php:152
+#: app/Modules/Widgets/FluentFormWidget.php:175
+#: app/Modules/Widgets/FluentFormWidget.php:1694
+#: app/Modules/Widgets/FluentFormWidget.php:1762
+msgid "Show"
+msgstr "Megjelenítés"
+
+#: app/Modules/Registerer/Menu.php:939
+msgid "Show Chart"
+msgstr "Diagram megjelenítése"
+
+#: app/Services/FormBuilder/ElementCustomization.php:180
+msgid "Show Checkbox"
+msgstr "Jelölőnégyzet megjelenítése"
+
+#: app/Modules/Registerer/Menu.php:965
+msgid "Show empty fields"
+msgstr "Üres mezők megjelenítése"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1692
+msgid "Show Label"
+msgstr "Cimke megjelenítése"
+
+#: app/Modules/Widgets/FluentFormWidget.php:1760
+msgid "Show Progressbar"
+msgstr "Folyamatjelző sáv megjelenítése"
+
+#: app/Services/FormBuilder/ElementCustomization.php:551
+msgid "Show Text"
+msgstr "Szöveg megjelenítése"
+
+#: app/Services/FormBuilder/ElementCustomization.php:552
+msgid "Show Text value on selection"
+msgstr "Szövegérték megjelenítése a kijelölésen"
+
+#: app/Services/FormBuilder/ElementCustomization.php:427
+msgid "Shuffle the available options"
+msgstr "A rendelkezésre álló beállítások keverése"
+
+#: app/Services/FormBuilder/CountryNames.php:216
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: app/Services/FormBuilder/DefaultElements.php:199
+msgid "Simple Text"
+msgstr "Egyszerű szöveg"
+
+#: app/Services/FormBuilder/CountryNames.php:217
+msgid "Singapore"
+msgstr "Szingapúr"
+
+#: app/Services/FormBuilder/EditorShortCode.php:16
+msgid "Site Title"
+msgstr "Oldal címe"
+
+#: app/Services/FormBuilder/EditorShortCode.php:15
+msgid "Site URL"
+msgstr "Weboldal URL"
+
+#: app/Services/FormBuilder/DefaultElements.php:1361
+msgid "Six Column Container"
+msgstr "Hat oszlopos tároló"
+
+#: app/Modules/Widgets/FluentFormWidget.php:954
+msgid "Size"
+msgstr "Méret"
+
+#: app/Modules/Registerer/Menu.php:557
+msgid "Slack"
+msgstr "Slack"
+
+#: app/Modules/DocumentationModule.php:49
+msgid "Slack integration"
+msgstr "Slack integráció"
+
+#: app/Services/FormBuilder/CountryNames.php:218
+msgid "Slovakia"
+msgstr "Szlovákia"
+
+#: app/Services/FormBuilder/CountryNames.php:219
+msgid "Slovenia"
+msgstr "Szlovénia"
+
+#: app/Services/FormBuilder/ElementCustomization.php:91
+msgid "Small"
+msgstr "Kicsi"
+
+#: app/Modules/Registerer/Menu.php:401 app/Modules/Registerer/Menu.php:402
+msgid "SMTP"
+msgstr "SMTP"
+
+#: app/Services/FormBuilder/CountryNames.php:220
+msgid "Solomon Islands"
+msgstr "Salamon-szigetek"
+
+#: app/Services/FormBuilder/CountryNames.php:221
+msgid "Somalia"
+msgstr "Szomália"
+
+#: app/Services/FormBuilder/DefaultElements.php:1060
+msgid "Some description about this section"
+msgstr "Néhány leírás erről a szakaszról"
+
+#: app/Modules/Entries/Entries.php:187
+msgid ""
+"Sorry! No entries found. All your entries will be shown here once you start "
+"getting form submissions"
+msgstr ""
+"Sajnáljuk, de nem találtunk kitöltött űrlapokat. Az összes űrlap kitöltés "
+"itt fog megjelenni, ha már vannak kitöltések"
+
+#: app/Services/Integrations/GlobalIntegrationManager.php:28
+msgid "Sorry! No integration failed found with: "
+msgstr "Sajnáljuk, de nem találtunk hibás integrációt ezzel: "
+
+#: app/Modules/Track/SetupModule.php:11
+msgid "Sorry! you do not have permission to install plugin"
+msgstr "Sajnáljuk, de nincs engedélyed a plugin telepítésére"
+
+#: resources/views/admin/no_permission.php:17
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Sajnáljuk, Önnek nincs engedélye az oldal megtekintéséhez."
+
+#: app/Modules/Acl/RoleManager.php:48
+msgid "Sorry, you can not give access to the Subscriber role."
+msgstr "Sajnálom, de nem adhat hozzáférést az Előfizető szerepkörhöz."
+
+#: app/Modules/Acl/RoleManager.php:59
+msgid ""
+"Sorry, You can not update permissions. Only administrators can update "
+"permissions"
+msgstr ""
+"Sajnos nem lehet frissíteni az engedélyeket. Csak rendszergazdák "
+"frissíthetik az engedélyeket"
+
+#: app/Modules/Form/Form.php:196
+msgid "Sorry, you cannot submit an empty form. Let's hear what you wanna say."
+msgstr "Nem lehet üres űrlapot beküldeni. Halljuk, mit akarsz mondani."
+
+#: app/Global/Common.php:244 app/Modules/Component/Component.php:292
+msgid "Sorry, You do not have permission to view this form"
+msgstr "Sajnáljuk, de nincs engedélye az űrlap megtekintésére"
+
+#: app/Modules/Settings/Settings.php:181
+msgid "Sorry, Your hCaptcha is not valid, Please try again"
+msgstr "Sajnáljuk, a hCaptcha nem érvényes, kérjük, próbálja meg újra"
+
+#: app/Modules/Settings/Settings.php:118
+msgid "Sorry, Your reCAPTCHA is not valid. Please try again"
+msgstr "Sajnáljuk, a reCAPTCHA nem érvényes. Kérjük, próbálja meg újra"
+
+#: app/Services/FormBuilder/EditorShortCode.php:64
+msgid "Source URL"
+msgstr "Forrás URL"
+
+#: app/Services/FormBuilder/CountryNames.php:222
+msgid "South Africa"
+msgstr "Dél-Afrika"
+
+#: app/Services/FormBuilder/CountryNames.php:223
+msgid "South Georgia/Sandwich Islands"
+msgstr "Dél-Georgia és Déli-Sandwish-szigetek"
+
+#: app/Services/FormBuilder/CountryNames.php:224
+msgid "South Korea"
+msgstr "Dél-Korea"
+
+#: app/Services/FormBuilder/CountryNames.php:225
+msgid "South Sudan"
+msgstr "Dél-Szudán"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:279
+#: app/Modules/Widgets/OxyFluentFormWidget.php:640
+#: app/Modules/Widgets/FluentFormWidget.php:762
+#: app/Modules/Widgets/FluentFormWidget.php:1736
+msgid "Spacing"
+msgstr "Térköz"
+
+#: app/Services/FormBuilder/CountryNames.php:226
+msgid "Spain"
+msgstr "Spanyolország"
+
+#: app/Services/FormBuilder/CountryNames.php:227
+msgid "Sri Lanka"
+msgstr "Srí Lanka"
+
+#: app/Services/FormBuilder/DefaultElements.php:390
+#: app/Services/FormBuilder/DefaultElements.php:394
+#: app/Services/Migrator/Classes/BaseMigrator.php:1252
+msgid "State"
+msgstr "Állapot"
+
+#: app/Modules/Registerer/Menu.php:945
+msgid "Status"
+msgstr "Állapot"
+
+#: app/Services/FormBuilder/ElementCustomization.php:531
+msgid "Step"
+msgstr "Lépés"
+
+#: app/Modules/Component/Component.php:535
+msgid "Step %activeStep% of %totalStep% - %stepTitle%"
+msgstr "Lépés %activeStep% of %totalStep% - %stepTitle%"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:802
+msgid "Step Button"
+msgstr "Lépés gomb"
+
+#: app/Services/FormBuilder/ElementCustomization.php:249
+msgid "Step Title"
+msgstr "Lépés cím"
+
+#: app/Services/FormBuilder/ElementCustomization.php:298
+msgid "Step Titles"
+msgstr "Lépés címek"
+
+#: app/Services/FormBuilder/ElementCustomization.php:288
+msgid "Steps"
+msgstr "Lépések"
+
+#: app/Services/FluentConversational/Classes/Elements/WelcomeScreen.php:36
+msgid "Sub Heading"
+msgstr "Alcím"
+
+#: app/Services/FormBuilder/EditorShortCode.php:70
+msgid "Submission Admin View URL"
+msgstr "Küldési Admin nézet URL-címe"
+
+#: app/Services/FormBuilder/EditorShortCode.php:69
+msgid "Submission Create Date"
+msgstr "A kitöltés dátuma"
+
+#: app/Services/FormBuilder/EditorShortCode.php:62
+#: app/Modules/Registerer/Menu.php:943
+msgid "Submission ID"
+msgstr "Kitöltés ID"
+
+#: app/Modules/Entries/Entries.php:833
+msgid "Submission ID and User ID is required"
+msgstr "Beküldési azonosító és felhasználói azonosító szükséges"
+
+#: app/Modules/Registerer/Menu.php:957
+msgid "Submission Info"
+msgstr "Beküldési információ"
+
+#: app/Modules/Registerer/Menu.php:978
+msgid "Submission Logs"
+msgstr "Beküldési naplók"
+
+#: app/Modules/Form/FormHandler.php:401
+msgid "Submission marked as spammed. Please try again"
+msgstr "Spamként megjelölve küldött anyag. Próbálkozzon újra"
+
+#: app/Modules/Registerer/Menu.php:966 app/Modules/Registerer/Menu.php:982
+msgid "Submission Notes"
+msgstr "Beküldési megjegyzések"
+
+#: app/Services/FormBuilder/EditorShortCode.php:63
+msgid "Submission Serial Number"
+msgstr "A kitöltés sorozatszáma"
+
+#: app/Services/FormBuilder/EditorShortCode.php:68
+msgid "Submission Status"
+msgstr "Kitöltés állapot"
+
+#: app/Services/FormBuilder/ElementCustomization.php:205
+#: app/Modules/Widgets/OxyFluentFormWidget.php:740
+#: app/Modules/Widgets/FluentFormWidget.php:2052
+msgid "Submit Button"
+msgstr "Beküldés gomb"
+
+#: app/Modules/Registerer/Menu.php:977
+msgid "Submitted at"
+msgstr "Beküldve a"
+
+#: app/Modules/Registerer/Menu.php:963
+msgid "Submitted On"
+msgstr "Beküldve"
+
+#: app/Services/FormBuilder/EditorShortCode.php:66
+msgid "Submitter Browser"
+msgstr "A kitöltő böngészője"
+
+#: app/Services/FormBuilder/EditorShortCode.php:67
+msgid "Submitter Device"
+msgstr "A kitöltő eszköze"
+
+#: app/Services/FormBuilder/ElementCustomization.php:150
+msgid "Subscription Items"
+msgstr "ElőFizetési cikkek"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:859
+#: app/Modules/Widgets/FluentFormWidget.php:2282
+msgid "Success Message"
+msgstr "Sikeres üzenet"
+
+#: app/Modules/Form/Form.php:155
+msgid "Successfully created a form."
+msgstr "Sikeresen létrehoztad az űrlapot."
+
+#: app/Modules/Form/Form.php:386
+msgid "Successfully deleted the form."
+msgstr "Az űrlap sikeresen törölve."
+
+#: app/Modules/Acl/RoleManager.php:55
+msgid "Successfully saved the role(s)."
+msgstr "A szerepkör(ök) mentése sikerült."
+
+#: app/Services/FormBuilder/CountryNames.php:228
+msgid "Sudan"
+msgstr "Szudán"
+
+#: app/Services/FormBuilder/ElementCustomization.php:541
+msgid "Suffix Label"
+msgstr "Utótag címke"
+
+#: app/Modules/Component/Component.php:982
+msgid "Sun"
+msgstr "Vas"
+
+#: app/Modules/Component/Component.php:973
+msgid "Sunday"
+msgstr "Vasárnap"
+
+#: resources/views/admin/global_menu.php:46
+msgid "Support"
+msgstr "Támogatás"
+
+#: app/Services/FormBuilder/CountryNames.php:229
+msgid "Suriname"
+msgstr "Suriname"
+
+#: app/Services/FormBuilder/CountryNames.php:230
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard- és Jan Mayen-szigetek"
+
+#: app/Services/FormBuilder/CountryNames.php:231
+msgid "Swaziland"
+msgstr "Szváziföld"
+
+#: app/Services/FormBuilder/CountryNames.php:232
+msgid "Sweden"
+msgstr "Svédország"
+
+#: app/Services/FormBuilder/CountryNames.php:233
+msgid "Switzerland"
+msgstr "Svájc"
+
+#: app/Services/FormBuilder/CountryNames.php:234
+msgid "Syria"
+msgstr "Szíria"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:331
+msgid "Table Body Alt Background"
+msgstr "Táblázat törzsének Alt háttér színe"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:336
+msgid "Table Body Alt Text Color"
+msgstr "Táblázat törzsének Alt szöveg színe"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:326
+msgid "Table Body Background"
+msgstr "Táblázat törzsének háttere"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:321
+msgid "Table Head Background"
+msgstr "Táblázat fejléc háttere"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:316
+msgid "Table Outer Border Color"
+msgstr "Tábla külső szegély színe"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:311
+msgid "Table Outer Border Width"
+msgstr "A táblázat külső szélessége"
+
+#: app/Services/FormBuilder/CountryNames.php:235
+msgid "Taiwan"
+msgstr "Tajvan"
+
+#: app/Services/FormBuilder/CountryNames.php:236
+msgid "Tajikistan"
+msgstr "Tádzsikisztán"
+
+#: app/Services/FormBuilder/CountryNames.php:237
+msgid "Tanzania"
+msgstr "Tanzánia"
+
+#: app/Services/FormBuilder/ElementCustomization.php:165
+#: app/Services/FormBuilder/DefaultElements.php:1149
+#: app/Services/Migrator/Classes/BaseMigrator.php:1139
+msgid "Terms & Conditions"
+msgstr "Szerződési feltételek"
+
+#: app/Services/FormBuilder/DefaultElements.php:1138
+#: app/Services/Migrator/Classes/BaseMigrator.php:1128
+msgid "Terms and Conditions"
+msgstr "Felhasználási feltételek"
+
+#: app/Services/FormBuilder/DefaultElements.php:268
+msgid "Text Area"
+msgstr "Szöveges terület"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:125
+#: app/Modules/Widgets/OxyFluentFormWidget.php:359
+#: app/Modules/Widgets/OxyFluentFormWidget.php:383
+#: app/Modules/Widgets/OxyFluentFormWidget.php:527
+#: app/Modules/Widgets/OxyFluentFormWidget.php:715
+#: app/Modules/Widgets/OxyFluentFormWidget.php:825
+#: app/Modules/Widgets/OxyFluentFormWidget.php:896
+#: app/Modules/Widgets/FluentFormWidget.php:533
+#: app/Modules/Widgets/FluentFormWidget.php:613
+#: app/Modules/Widgets/FluentFormWidget.php:916
+#: app/Modules/Widgets/FluentFormWidget.php:1643
+#: app/Modules/Widgets/FluentFormWidget.php:1801
+#: app/Modules/Widgets/FluentFormWidget.php:2143
+#: app/Modules/Widgets/FluentFormWidget.php:2249
+#: app/Modules/Widgets/FluentFormWidget.php:2301
+msgid "Text Color"
+msgstr "Szöveg szín"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:543
+msgid "Text Font Size"
+msgstr "Szöveg betűméret"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:683
+#: app/Modules/Widgets/OxyFluentFormWidget.php:830
+msgid "Text Hover Color"
+msgstr "Szöveg hover színe"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:149
+#: app/Modules/Widgets/FluentFormWidget.php:649
+#: app/Modules/Widgets/FluentFormWidget.php:980
+msgid "Text Indent"
+msgstr "Szöveg behúzása"
+
+#: app/Services/FormBuilder/DefaultElements.php:182
+msgid "Text Input"
+msgstr "Szövegbevitel"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:520
+msgid "Text Style"
+msgstr "Szövegstílus"
+
+#: app/Services/FormBuilder/DefaultElements.php:255
+msgid "Textarea"
+msgstr "Szöveg terület"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:182
+#: app/Modules/Widgets/FluentFormWidget.php:731
+msgid "Textarea Height"
+msgstr "Szövegterület magassága"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:175
+#: app/Modules/Widgets/FluentFormWidget.php:712
+msgid "Textarea Width"
+msgstr "Szövegterület szélessége"
+
+#: app/Services/FormBuilder/CountryNames.php:238
+msgid "Thailand"
+msgstr "Thaiföld"
+
+#: app/Modules/Form/Form.php:170
+msgid "Thank you for your message. We will get in touch with you shortly"
+msgstr "Köszönjük az üzenetét. Hamarosan felvesszük Önnel a kapcsolatot"
+
+#: app/Services/FormBuilder/ElementCustomization.php:398
+msgid "The Background color of the element"
+msgstr "Az elem háttérszíne"
+
+#: app/Modules/Form/Settings/Validator/Confirmations.php:51
+msgid "The Confirmation Type field is required."
+msgstr "Meg kell adni a Megerősítéstípus mezőt."
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:149
+msgid "The file size limit uploaded by the user."
+msgstr "A felhasználó által feltölthető fájlméret-korlátja."
+
+#: app/Modules/Component/Component.php:468
+#, php-format
+msgid "The form can be filled in the actual <a href=\"%s\">website url</a>."
+msgstr ""
+"Az űrlapot ki lehet tölteni a tényleges <a href=\"%s\">honlap url-en</a>."
+
+#: app/Modules/Form/Form.php:368
+msgid "The form is successfully updated."
+msgstr "Az űrlap sikeresen frissítve."
+
+#: app/Services/FormBuilder/ElementCustomization.php:342
+msgid "The maximum number of characters the input should accept"
+msgstr "A maximális karakterszám, amit a beviteli mező elfogadhat"
+
+#: app/Services/FormBuilder/DefaultElements.php:530
+msgid "The number of digits has to be "
+msgstr "A számjegyek számának a következőnek kell lennie "
+
+#: app/Modules/Form/Settings/Validator/Confirmations.php:52
+msgid "The Page field is required when Confirmation Type is Page."
+msgstr "Az oldal mezőre akkor van szükség, ha a megerősítés típusa oldal."
+
+#: app/Modules/Form/Settings/Validator/Confirmations.php:53
+msgid "The Redirect URL field is required when Confirmation Type is Redirect."
+msgstr ""
+"Ha az űrlap megerősítés típusa átirányítás, akkor kötelező megadni az "
+"átirányítási URL-cím mezőt."
+
+#: app/Modules/Form/Settings/Validator/Confirmations.php:54
+msgid "The Redirect URL format is invalid."
+msgstr "Érvénytelen az átirányítás URL-formátuma."
+
+#: resources/views/email/report/body.php:195
+msgid "This email has been generated from Fluent Forms at %1$s%2$s%3$s."
+msgstr "Ez az e-mail jött létre Fluent Forms %1$s%2$s%3$s."
+
+#: resources/views/email/report/body.php:219
+#, php-format
+msgid ""
+"This email has been sent from %1$syour website%2$s via Fluent Forms. You can "
+"disable this email %3$syour website%4$s"
+msgstr ""
+"Ezt az e-mailt a %1$swebhelyéről%2$s a Fluent Forms-on keresztül küldték. "
+"Letilthatja ezt az e-mailt %3$swebhelyét%4$s"
+
+#: app/Services/FormBuilder/DefaultElements.php:53
+#: app/Services/FormBuilder/DefaultElements.php:83
+#: app/Services/FormBuilder/DefaultElements.php:113
+#: app/Services/FormBuilder/DefaultElements.php:152
+#: app/Services/FormBuilder/DefaultElements.php:191
+#: app/Services/FormBuilder/DefaultElements.php:229
+#: app/Services/FormBuilder/DefaultElements.php:262
+#: app/Services/FormBuilder/DefaultElements.php:316
+#: app/Services/FormBuilder/DefaultElements.php:344
+#: app/Services/FormBuilder/DefaultElements.php:373
+#: app/Services/FormBuilder/DefaultElements.php:402
+#: app/Services/FormBuilder/DefaultElements.php:432
+#: app/Services/FormBuilder/DefaultElements.php:461
+#: app/Services/FormBuilder/DefaultElements.php:514
+#: app/Services/FormBuilder/DefaultElements.php:581
+#: app/Services/FormBuilder/DefaultElements.php:631
+#: app/Services/FormBuilder/DefaultElements.php:687
+#: app/Services/FormBuilder/DefaultElements.php:736
+#: app/Services/FormBuilder/DefaultElements.php:767
+#: app/Services/FormBuilder/DefaultElements.php:805
+#: app/Services/FormBuilder/DefaultElements.php:837
+#: app/Services/FormBuilder/DefaultElements.php:881
+#: app/Services/FormBuilder/DefaultElements.php:925
+#: app/Services/FormBuilder/DefaultElements.php:981
+#: app/Services/FormBuilder/DefaultElements.php:1032
+#: app/Services/FormBuilder/DefaultElements.php:1090
+#: app/Services/FormBuilder/DefaultElements.php:1143
+#: app/Services/FormBuilder/DefaultElements.php:1172
+#: app/Services/Migrator/Classes/GravityFormsMigrator.php:321
+#: app/Services/Migrator/Classes/GravityFormsMigrator.php:341
+#: app/Services/Migrator/Classes/BaseMigrator.php:209
+#: app/Services/Migrator/Classes/BaseMigrator.php:239
+#: app/Services/Migrator/Classes/BaseMigrator.php:269
+#: app/Services/Migrator/Classes/BaseMigrator.php:545
+#: app/Services/Migrator/Classes/BaseMigrator.php:579
+#: app/Services/Migrator/Classes/BaseMigrator.php:617
+#: app/Services/Migrator/Classes/BaseMigrator.php:689
+#: app/Services/Migrator/Classes/BaseMigrator.php:757
+#: app/Services/Migrator/Classes/BaseMigrator.php:814
+#: app/Services/Migrator/Classes/BaseMigrator.php:851
+#: app/Services/Migrator/Classes/BaseMigrator.php:965
+#: app/Services/Migrator/Classes/BaseMigrator.php:995
+#: app/Services/Migrator/Classes/BaseMigrator.php:1054
+#: app/Services/Migrator/Classes/BaseMigrator.php:1133
+#: app/Services/Migrator/Classes/BaseMigrator.php:1178
+#: app/Services/Migrator/Classes/BaseMigrator.php:1206
+#: app/Services/Migrator/Classes/BaseMigrator.php:1235
+#: app/Services/Migrator/Classes/BaseMigrator.php:1264
+#: app/Services/Migrator/Classes/BaseMigrator.php:1294
+#: app/Services/Migrator/Classes/BaseMigrator.php:1323
+msgid "This field is required"
+msgstr "A mező kitöltése kötelező"
+
+#: app/Services/FormBuilder/DefaultElements.php:156
+msgid "This field must contain a valid email"
+msgstr "Ennek a mezőnek egy érvényes e-mail címet kell tartalmaznia"
+
+#: app/Services/FormBuilder/DefaultElements.php:771
+#: app/Services/Migrator/Classes/BaseMigrator.php:396
+msgid "This field must contain a valid url"
+msgstr "Ennek a mezőnek érvényes URL-címet kell tartalmaznia"
+
+#: app/Services/FormBuilder/DefaultElements.php:518
+#: app/Services/Migrator/Classes/BaseMigrator.php:761
+msgid "This field must contain numeric value"
+msgstr "Ennek a mezőnek számértéket kell tartalmaznia"
+
+#: app/Hooks/Backend.php:312
+msgid "This field value need to be unique."
+msgstr "Ennek a mezőértéknek egyedinek kell lennie."
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:438
+msgid ""
+"This is a Conversational Form. You must use the default Design tab for this "
+"type of forms."
+msgstr ""
+"Ez egy társalgós űrlap. Az ilyen típusú űrlapokhoz az alapértelmezett "
+"Tervezés lapot kell használnia."
+
+#: app/Services/FormBuilder/ElementCustomization.php:332
+msgid "This is a form field which a user will be able to repeat."
+msgstr "Ez egy űrlapmező, amelyet a felhasználó megismételhet."
+
+#: app/Services/FormBuilder/ElementCustomization.php:206
+msgid "This is form submission button."
+msgstr "Ez az űrlapküldés gomb."
+
+#: app/Services/FormBuilder/ElementCustomization.php:41
+msgid ""
+"This is the field name attributes which is used to submit form data, name "
+"attribute must be unique."
+msgstr ""
+"Az űrlapadatok elküldése során használt mezőnév-attribútumoknak, a "
+"névattribútumoknak egyedieknek kell lenniük."
+
+#: app/Services/FormBuilder/ElementCustomization.php:106
+msgid ""
+"This is the field placeholder, the user will see this if the input field is "
+"empty."
+msgstr ""
+"Ez a mezőhelyőrző, a felhasználó ezt akkor fogja látni, ha a beviteli mező "
+"üres."
+
+#: app/Services/FormBuilder/ElementCustomization.php:46
+msgid "This is the field title the user will see when filling out the form."
+msgstr ""
+"Ez az a mezőcím, amelyet a felhasználó az űrlap kitöltésekor fog látni."
+
+#: app/Services/FormBuilder/DefaultElements.php:196
+msgid "This value need to be unique."
+msgstr "Ennek az értéknek egyedinek kell lennie."
+
+#: app/Services/FormBuilder/ElementCustomization.php:201
+msgid "This will be visible as button text for upload file."
+msgstr "Ez látható lesz, mint gomb szöveg a fájlfeltöltéshez."
+
+#: app/Services/FormBuilder/DefaultElements.php:1301
+msgid "Three Column Container"
+msgstr "Három oszlopos tároló"
+
+#: app/Modules/Component/Component.php:986
+msgid "Thu"
+msgstr "Csü"
+
+#: app/Modules/Component/Component.php:977
+msgid "Thursday"
+msgstr "Csütörtök"
+
+#: app/Services/FormBuilder/DefaultElements.php:811
+msgid "Time & Date"
+msgstr "Dátum és idő"
+
+#: app/Services/FormBuilder/CountryNames.php:239
+msgid "Timor-Leste"
+msgstr "Kelet-Timor"
+
+#: app/Modules/Registerer/Menu.php:920
+#: app/Modules/Widgets/FluentFormWidget.php:112
+#: app/Modules/Widgets/FluentFormWidget.php:229
+msgid "Title"
+msgstr "Cím"
+
+#: app/Modules/Widgets/FluentFormWidget.php:188
+msgid "Title & Description"
+msgstr "Cím, leírás"
+
+#: app/Modules/Widgets/SidebarWidgets.php:51
+msgid "Title (optional):"
+msgstr "Cím (Opcionális):"
+
+#: app/Services/FormBuilder/CountryNames.php:240
+msgid "Togo"
+msgstr "Togo"
+
+#: app/Services/FormBuilder/CountryNames.php:241
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: app/Services/FormBuilder/CountryNames.php:242
+msgid "Tonga"
+msgstr "Tonga"
+
+#: app/Modules/Registerer/Menu.php:391 app/Modules/Registerer/Menu.php:392
+#: resources/views/admin/transfer/index.php:6
+msgid "Tools"
+msgstr "Eszközök"
+
+#: app/Services/FormBuilder/ElementCustomization.php:59
+msgid "Top"
+msgstr "Fent"
+
+#: app/Modules/Form/Settings/ExtraSettings.php:49
+msgid "Trello"
+msgstr "Trello"
+
+#: app/Services/FormBuilder/CountryNames.php:243
+msgid "Trinidad and Tobago"
+msgstr "Trinidad and Tobago"
+
+#: app/Modules/Component/Component.php:984
+msgid "Tue"
+msgstr "Ke"
+
+#: app/Modules/Component/Component.php:975
+msgid "Tuesday"
+msgstr "Kedd"
+
+#: app/Services/FormBuilder/CountryNames.php:244
+msgid "Tunisia"
+msgstr "Tunisia"
+
+#: app/Services/FormBuilder/CountryNames.php:245
+msgid "Turkey"
+msgstr "Turkey"
+
+#: app/Services/FormBuilder/CountryNames.php:246
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: app/Services/FormBuilder/CountryNames.php:247
+msgid "Turks and Caicos Islands"
+msgstr "Turks and Caicos Islands"
+
+#: app/Services/FormBuilder/CountryNames.php:248
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: app/Services/FormBuilder/DefaultElements.php:1283
+msgid "Two Column Container"
+msgstr "Két oszlopos tároló"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:379
+#: app/Modules/Widgets/OxyFluentFormWidget.php:711
+#: app/Modules/Widgets/OxyFluentFormWidget.php:793
+#: app/Modules/Widgets/OxyFluentFormWidget.php:849
+#: app/Modules/Widgets/OxyFluentFormWidget.php:876
+#: app/Modules/Widgets/FluentFormWidget.php:257
+#: app/Modules/Widgets/FluentFormWidget.php:331
+#: app/Modules/Widgets/FluentFormWidget.php:545
+#: app/Modules/Widgets/FluentFormWidget.php:782
+#: app/Modules/Widgets/FluentFormWidget.php:883
+#: app/Modules/Widgets/FluentFormWidget.php:1202
+#: app/Modules/Widgets/FluentFormWidget.php:1257
+#: app/Modules/Widgets/FluentFormWidget.php:1360
+#: app/Modules/Widgets/FluentFormWidget.php:1456
+#: app/Modules/Widgets/FluentFormWidget.php:1530
+#: app/Modules/Widgets/FluentFormWidget.php:1606
+#: app/Modules/Widgets/FluentFormWidget.php:1724
+#: app/Modules/Widgets/FluentFormWidget.php:1937
+#: app/Modules/Widgets/FluentFormWidget.php:2210
+#: app/Modules/Widgets/FluentFormWidget.php:2324
+#: app/Modules/Widgets/FluentFormWidget.php:2357
+msgid "Typography"
+msgstr "Tipográfia"
+
+#: app/Services/FormBuilder/CountryNames.php:249
+msgid "Uganda"
+msgstr "Uganda"
+
+#: app/Services/FormBuilder/CountryNames.php:250
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: app/Services/FormBuilder/CountryNames.php:251
+msgid "United Arab Emirates"
+msgstr "United Arab Emirates"
+
+#: app/Services/FormBuilder/CountryNames.php:252
+msgid "United Kingdom (UK)"
+msgstr "United Kingdom (UK)"
+
+#: app/Services/FormBuilder/CountryNames.php:253
+msgid "United States (US)"
+msgstr "United States (US)"
+
+#: app/Services/FormBuilder/CountryNames.php:254
+msgid "United States (US) Minor Outlying Islands"
+msgstr "United States (US) Minor Outlying Islands"
+
+#: app/Services/FormBuilder/CountryNames.php:255
+msgid "United States (US) Virgin Islands"
+msgstr "United States (US) Virgin Islands"
+
+#: app/Modules/Registerer/Menu.php:947
+msgid "Unread"
+msgstr "Olvasatlan"
+
+#: app/Modules/Registerer/Menu.php:941
+msgid "Unread Only"
+msgstr "Csak olvasatlanul"
+
+#: app/Modules/CLI/Commands.php:20
+msgid "Unread Submissions"
+msgstr "Olvasatlan beküldések"
+
+#: resources/views/admin/global_menu.php:52
+msgid "Upgrade to Pro"
+msgstr "Frissítés a Pro változatra"
+
+#: app/Modules/Component/Component.php:549
+#: app/Services/FluentConversational/Classes/Form.php:534
+#: app/Services/FluentConversational/Classes/Form.php:652
+msgid "Uploading"
+msgstr "Feltöltés"
+
+#: app/Services/FormBuilder/DefaultElements.php:760
+msgid "URL"
+msgstr "URL"
+
+#: app/Services/FormBuilder/CountryNames.php:256
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: app/Helpers/Helper.php:404
+msgid "US Style with Decimal (EX: 123,456.00)"
+msgstr "Amerikai stílus tizedesvesszővel (PL: 123 456,00)"
+
+#: app/Helpers/Helper.php:414
+msgid "US Style without Decimal (Ex: 123,456,789)"
+msgstr "Amerikai stílus tizedesjegy nélkül (Pl. 123 456 789)"
+
+#: app/Modules/Registerer/Menu.php:961
+msgid "User"
+msgstr "Felhasználó"
+
+#: app/Services/FormBuilder/EditorShortCode.php:30
+msgid "User Browser Client"
+msgstr "A felhasználó Böngésző kliense"
+
+#: app/Services/FormBuilder/EditorShortCode.php:25
+msgid "User Display Name"
+msgstr "Felhasználó megjelenítendő neve"
+
+#: app/Services/FormBuilder/EditorShortCode.php:28
+msgid "User Email"
+msgstr "Felhasználó E-mail címe"
+
+#: app/Services/FormBuilder/EditorShortCode.php:26
+msgid "User First Name"
+msgstr "Felhasználó keresztneve"
+
+#: app/Services/FormBuilder/EditorShortCode.php:24
+msgid "User ID"
+msgstr "Felhasználói azonosító"
+
+#: app/Services/FormBuilder/EditorShortCode.php:65
+msgid "User Id"
+msgstr "Felhasználó ID"
+
+#: app/Modules/Registerer/Menu.php:959
+msgid "User IP"
+msgstr "Felhasználó IP"
+
+#: app/Services/FormBuilder/EditorShortCode.php:27
+msgid "User Last Name"
+msgstr "Felhasználó vezetékneve"
+
+#: app/Services/FormBuilder/EditorShortCode.php:31
+msgid "User Operating System"
+msgstr "Felhasználói operációs rendszer"
+
+#: app/Services/FormBuilder/EditorShortCode.php:29
+msgid "User Username"
+msgstr "Felhasználó felhasználóneve"
+
+#: app/Services/FormBuilder/CountryNames.php:257
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: app/Services/FormBuilder/ElementCustomization.php:546
+msgid "Validate as Unique"
+msgstr "Egyediség ellenőrzése"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:93
+msgid "Validate Email"
+msgstr "Email érvényesítése"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:76
+msgid "Validate Phone Number"
+msgstr "Telefonszám hitelesítése"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:110
+msgid "Validate URL"
+msgstr "URL érvényesítése"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:892
+msgid "Validation Error"
+msgstr "Érvényesítési hiba"
+
+#: app/Services/FormBuilder/ElementCustomization.php:572
+msgid "Validation Message for Duplicate"
+msgstr "A duplikátumok ellenőrzési üzenete"
+
+#: app/Services/FormBuilder/ElementCustomization.php:155
+msgid "Validation Rules"
+msgstr "Érvényesítési szabályok"
+
+#: app/Services/FormBuilder/CountryNames.php:258
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: app/Services/FormBuilder/CountryNames.php:259
+msgid "Vatican"
+msgstr "Vatican"
+
+#: app/Services/FormBuilder/CountryNames.php:260
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: app/Services/FormBuilder/DefaultElements.php:988
+msgid "Very Good"
+msgstr "Nagyon jó"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:173
+msgid "Video"
+msgstr "Videó"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:28
+msgid "Video (avi, divx, flv, mov, ogv, mkv, mp4, m4v, divx, mpg, mpeg, mpe)"
+msgstr "Videó (AVI, DivX, FLV, MOV, ogv, MKV, MP4, M4V, DivX, MPG, MPEG, MPE)"
+
+#: app/Services/FormBuilder/CountryNames.php:261
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: app/Modules/Acl/Acl.php:207
+msgid "View Entries"
+msgstr "Beküldések megtekintése"
+
+#: app/Modules/Acl/Acl.php:197
+msgid "View Forms"
+msgstr "Űrlapok megtekintése"
+
+#: app/Modules/Acl/Acl.php:219
+msgid "View Payments"
+msgstr "Fizetések megtekintése"
+
+#: app/Modules/Registerer/Menu.php:930
+msgid "Views"
+msgstr "Nézetek"
+
+#: app/Services/FormBuilder/CountryNames.php:262
+msgid "Wallis and Futuna"
+msgstr "Wallis and Futuna"
+
+#: app/Modules/Acl/Managers.php:114
+msgid "We could not found any user with this email."
+msgstr "Nem találtunk semmilyen felhasználót ezzel az e-mail címmel."
+
+#: app/Modules/Form/Settings/ExtraSettings.php:43
+msgid "Web Hooks"
+msgstr "Web horgok"
+
+#: app/Services/FormBuilder/DefaultElements.php:777
+#: app/Services/Migrator/Classes/BaseMigrator.php:403
+msgid "Website URL"
+msgstr "Webhely URL-je"
+
+#: app/Modules/Component/Component.php:985
+msgid "Wed"
+msgstr "Sze"
+
+#: app/Modules/Component/Component.php:976
+msgid "Wednesday"
+msgstr "Szerda"
+
+#: resources/views/email/report/body.php:123
+msgid "Weekly Email Summary of Your Forms"
+msgstr "Heti e-mail összefoglaló az űrlapokról"
+
+#: app/Services/FluentConversational/Classes/Elements/WelcomeScreen.php:35
+msgid "Welcome Heading"
+msgstr "Üdvözöljük fejléc"
+
+#: app/Services/FluentConversational/Classes/Elements/WelcomeScreen.php:65
+msgid "Welcome Screen"
+msgstr "Üdvözlő képernyő"
+
+#: app/Services/FormBuilder/CountryNames.php:263
+msgid "Western Sahara"
+msgstr "Nyugat Szahara"
+
+#: app/Modules/Widgets/OxyFluentFormWidget.php:698
+#: app/Modules/Widgets/OxyFluentFormWidget.php:762
+#: app/Modules/Widgets/FluentFormWidget.php:2087
+#: app/Modules/Widgets/FluentFormWidget.php:2101
+msgid "Width"
+msgstr "Szélesség"
+
+#: app/Modules/Component/Component.php:1006
+msgid "Wk"
+msgstr "Hét"
+
+#: app/Services/FormBuilder/ElementCustomization.php:173
+msgid "WordPress Hook name to hook something in this place."
+msgstr "WordPress Hook név, hogy valamit ezen a helyen tudj rögzíteni."
+
+#: app/Services/FormBuilder/ElementSettingsPlacement.php:480
+msgid "Write HTML content for GDPR agreement checkbox"
+msgstr "Írj HTML tartalmat a GDPR szerinti jelölőnégyzethez"
+
+#: app/Services/FormBuilder/ElementCustomization.php:166
+msgid "Write HTML content for terms & condition checkbox"
+msgstr "Írj HTML tartalmat a Felhasználási feltételek jelölőnégyzethez"
+
+#: app/Services/FormBuilder/ElementCustomization.php:408
+#: app/Services/FormBuilder/ElementCustomization.php:478
+#: app/Services/FormBuilder/ElementCustomization.php:483
+msgid "Write your own mask for this input"
+msgstr "Saját maszk írása ehhez a bevitelhez"
+
+#: app/Modules/Component/Component.php:1013
+msgid "Year"
+msgstr "Év"
+
+#: app/Services/FormBuilder/CountryNames.php:265
+msgid "Yemen"
+msgstr "Yemen"
+
+#: app/Services/FormBuilder/ElementCustomization.php:239
+#: app/Services/FormBuilder/ElementCustomization.php:556
+#: app/Services/FormBuilder/ValidationRuleSettings.php:65
+#: app/Services/FormBuilder/ValidationRuleSettings.php:82
+#: app/Services/FormBuilder/ValidationRuleSettings.php:99
+#: app/Services/FormBuilder/ValidationRuleSettings.php:116
+#: app/Modules/Widgets/FluentFormWidget.php:103
+#: app/Modules/Widgets/FluentFormWidget.php:945
+msgid "Yes"
+msgstr "Igen"
+
+#: app/Services/FormBuilder/DefaultElements.php:890
+msgid "You can upload maximum 1 file"
+msgstr "Maximum 1 fájlt tölthetsz fel"
+
+#: app/Services/FormBuilder/DefaultElements.php:846
+msgid "You can upload maximum 1 image"
+msgstr "Maximum egy képet tölthetsz fel"
+
+#: app/Services/FormBuilder/ElementCustomization.php:29
+msgid ""
+"You can write your own date configuration as JS object. Please write valid "
+"configuration as per flatpickr config."
+msgstr ""
+"Saját dátumkonfigurációt írhat JS objektumként. Írja be az érvényes "
+"konfigurációt a flatpickr konfiguráció szerint."
+
+#: app/Modules/Form/Transfer.php:145
+msgid "You form has been successfully imported."
+msgstr "Az űrlap importálása sikeresen megtörtént."
+
+#: app/Modules/Form/Transfer.php:81 app/Modules/Form/Transfer.php:152
+msgid "You have a faulty JSON file, please export the Fluent Forms again."
+msgstr "Van egy hibás JSON fájl, kérjük, exportálja a Fluent űrlapokat újra."
+
+#: app/Services/Integrations/GlobalIntegrationManager.php:41
+msgid "Your API Key is not valid"
+msgstr "A SendFox API kulcs érvényes"
+
+#: app/Services/Integrations/GlobalIntegrationManager.php:37
+msgid "Your API Key is valid"
+msgstr "Az API-kulcsod érvényes"
+
+#: app/Modules/Settings/Settings.php:190
+msgid "Your hCaptcha details are already valid, So no need to save again."
+msgstr "A hCaptcha adatai már érvényesek, így nincs szükség újabb mentésre."
+
+#: app/Modules/Settings/Settings.php:177
+msgid "Your hCaptcha is valid and saved."
+msgstr "A hCaptcha érvényes és elmentve."
+
+#: app/Modules/Settings/Settings.php:147
+msgid "Your hCaptcha settings are deleted."
+msgstr "A hCaptcha beállításai törlődnek."
+
+#: app/Modules/Settings/Settings.php:260
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:119
+msgid "Your mailchimp api key has been verfied and successfully set"
+msgstr "A MailChimp API-kulcsodat leellenőriztük, és sikeresen be van állítva"
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:45
+msgid "Your Mailchimp API Key is not valid"
+msgstr "A MailChimp API-kulcs nem érvényes"
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:44
+msgid "Your Mailchimp API Key is valid"
+msgstr "A MailChimp API kulcs érvényes"
+
+#: app/Modules/Settings/Settings.php:127
+msgid "Your reCAPTCHA details are already valid. So no need to save again."
+msgstr "A reCAPTCHA adatai már érvényesek. Így nincs szükség újabb mentésre."
+
+#: app/Modules/Settings/Settings.php:114
+msgid "Your reCAPTCHA is valid and saved."
+msgstr "A reCAPTCHA érvényes és elmentve."
+
+#: app/Modules/Settings/Settings.php:81
+msgid "Your reCAPTCHA settings are deleted."
+msgstr "A reCAPTCHA beállításai törlődnek."
+
+#: app/Modules/Settings/Settings.php:231
+msgid "Your settings has been updated"
+msgstr "A beállítások frissültek"
+
+#: app/Services/Integrations/MailChimp/MailChimpIntegration.php:90
+msgid "Your settings has been updated and disconnected"
+msgstr "A beállításokat frissítette és leválasztotta"
+
+#: app/Services/FormBuilder/ElementCustomization.php:230
+msgid "Your shortcode to render desired content in current place."
+msgstr ""
+"A rővidkódod, amivel a kívánt tartalmat a jelenlegi helyén meg tudod "
+"jeleníteni."
+
+#: app/Services/FormBuilder/ElementCustomization.php:189
+msgid "Your valid HTML code will be shown to the user as normal content."
+msgstr ""
+"Az érvényes HTML-kód normál tartalomként jelenik meg a felhasználó számára."
+
+#: app/Services/FormBuilder/CountryNames.php:266
+msgid "Zambia"
+msgstr "Zambia"
+
+#: app/Services/FormBuilder/CountryNames.php:267
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: app/Services/FormBuilder/DefaultElements.php:419
+#: app/Services/Migrator/Classes/BaseMigrator.php:1281
+msgid "Zip"
+msgstr "Irányítószám"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:216
+msgid "Zip Archives"
+msgstr "ZIP archívum"
+
+#: app/Services/FormBuilder/ValidationRuleSettings.php:40
+msgid "Zip Archives (zip, gz, gzip, rar, 7z)"
+msgstr "Zip archívum (zip, GZ, gzip, rar, 7z)"
+
+#: app/Services/FormBuilder/DefaultElements.php:424
+msgid "Zip Code"
+msgstr "Irányítószám"
