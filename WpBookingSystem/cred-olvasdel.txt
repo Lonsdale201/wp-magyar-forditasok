@@ -9,7 +9,7 @@ WP Booking System - WooCommerce Add-on
 
 Fordította: Soczó Kristóf
 
-Utoljára módosítva: 2023. 08. 05.
+Utoljára módosítva: 2023.08.05.
 WpBookIngSystem Pro verzió: 5.8.9.1
 
 
