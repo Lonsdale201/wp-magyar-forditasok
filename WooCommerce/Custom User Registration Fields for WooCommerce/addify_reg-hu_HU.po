@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Addify - User Registration Plugin for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-18 12:39+0000\n"
+"PO-Revision-Date: 2023-08-06 12:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Magyar\n"
+"Language: hu-HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2"
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:765
+msgid " Enable/Disable Approve new user at checkout page. "
+msgstr ""
+"Új felhasználó jóváhagyásának engedélyezése / letiltása a pénztár oldalon."
+
+#: front/class-afreg-fields-front.php:3538 
+#: front/class-afreg-fields-front.php:3626 
+#: front/class-afreg-fields-front.php:4457
+msgid " is not a valid email address!"
+msgstr "nem érvényes email cím!"
+
+#: front/class-afreg-fields-front.php:3556 
+#: front/class-afreg-fields-front.php:3644 
+#: front/class-afreg-fields-front.php:4475
+msgid " is not a valid number!"
+msgstr "nem érvényes szám!"
+
+#: front/class-afreg-fields-front.php:5300 
+#: front/class-afreg-fields-front.php:5440
+msgid " is not valid!"
+msgstr "nem érvényes!"
+
+#: front/class-afreg-fields-front.php:3530 
+#: front/class-afreg-fields-front.php:3547 
+#: front/class-afreg-fields-front.php:3565 
+#: front/class-afreg-fields-front.php:3578 
+#: front/class-afreg-fields-front.php:3618 
+#: front/class-afreg-fields-front.php:3635 
+#: front/class-afreg-fields-front.php:3653 
+#: front/class-afreg-fields-front.php:3666 
+#: front/class-afreg-fields-front.php:4437 
+#: front/class-afreg-fields-front.php:4450 
+#: front/class-afreg-fields-front.php:4466 
+#: front/class-afreg-fields-front.php:4484 
+#: front/class-afreg-fields-front.php:4497 
+#: front/class-afreg-fields-front.php:4505 
+#: front/class-afreg-fields-front.php:5195 
+#: front/class-afreg-fields-front.php:5207 
+#: front/class-afreg-fields-front.php:5218 
+#: front/class-afreg-fields-front.php:5229 
+#: front/class-afreg-fields-front.php:5240 
+#: front/class-afreg-fields-front.php:5252 
+#: front/class-afreg-fields-front.php:5263 
+#: front/class-afreg-fields-front.php:5274 
+#: front/class-afreg-fields-front.php:5285 
+#: front/class-afreg-fields-front.php:5296 
+#: front/class-afreg-fields-front.php:5335 
+#: front/class-afreg-fields-front.php:5347 
+#: front/class-afreg-fields-front.php:5358 
+#: front/class-afreg-fields-front.php:5369 
+#: front/class-afreg-fields-front.php:5380 
+#: front/class-afreg-fields-front.php:5392 
+#: front/class-afreg-fields-front.php:5403 
+#: front/class-afreg-fields-front.php:5414 
+#: front/class-afreg-fields-front.php:5425 
+#: front/class-afreg-fields-front.php:5436
+msgid " is required!"
+msgstr "kötelező!"
+
+#: front/class-afreg-fields-front.php:187 
+#: front/class-afreg-fields-front.php:3834
+msgid "---Select---"
+msgstr "---Kiválasztás---"
+
+#: front/class-afreg-fields-front.php:75 front/class-afreg-fields-front.php:82 
+#: front/class-afreg-fields-front.php:1507 
+#: front/class-afreg-fields-front.php:1525 
+#: front/class-afreg-fields-front.php:1542 
+#: front/class-afreg-fields-front.php:1560 
+#: front/class-afreg-fields-front.php:1578 
+#: front/class-afreg-fields-front.php:1595 
+#: front/class-afreg-fields-front.php:1612 
+#: front/class-afreg-fields-front.php:1629 
+#: front/class-afreg-fields-front.php:1646 
+#: front/class-afreg-fields-front.php:1664 
+#: front/class-afreg-fields-front.php:1877 
+#: front/class-afreg-fields-front.php:1890 
+#: front/class-afreg-fields-front.php:1892 
+#: front/class-afreg-fields-front.php:1898 
+#: front/class-afreg-fields-front.php:1912 
+#: front/class-afreg-fields-front.php:1915 
+#: front/class-afreg-fields-front.php:1972 
+#: front/class-afreg-fields-front.php:1985 
+#: front/class-afreg-fields-front.php:1987 
+#: front/class-afreg-fields-front.php:1993 
+#: front/class-afreg-fields-front.php:1997
+msgid ": "
+msgstr ":"
+
+#: front/class-afreg-fields-front.php:3606 
+#: front/class-afreg-fields-front.php:3694 
+#: front/class-afreg-fields-front.php:4530
+msgid ": File size is too big!"
+msgstr ": A fájl mérete túl nagy!"
+
+#: front/class-afreg-fields-front.php:3593 
+#: front/class-afreg-fields-front.php:3681 
+#: front/class-afreg-fields-front.php:4517
+msgid ": File type is not allowed!"
+msgstr ": Ez a fájl típus nem támogatott!"
+
+#: front/class-afreg-fields-front.php:5512
+msgid "</b> is required!"
+msgstr "</b> kötelező!"
+
+#: admin/class-afreg-fields-admin.php:166
+msgid "Action"
+msgstr "Művelet"
+
+#: admin/class-afreg-fields-admin.php:333 
+#: admin/class-afreg-fields-admin.php:470 
+#: admin/class-afreg-fields-admin.php:484
+msgid "Active"
+msgstr "Aktív"
+
+#: addify-registration-addon-main.php:77 addify-registration-addon-main.php:78
+msgid "Add New Field"
+msgstr "Új mező"
+
+#: admin/class-afreg-fields-admin.php:192
+msgid "Add New Option"
+msgstr "Új opció"
+
+#. Author of the plugin
+msgid "Addify"
+msgstr "Addify"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:632
+msgid "Additional Fields Section Title"
+msgstr "További mezők Szekció címe"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:851
+msgid "Admin Email Address"
+msgstr "Admin email cím"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:884
+msgid "Admin Email Subject"
+msgstr "Admin Email tárgya"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:899
+msgid "Admin Email Text"
+msgstr "Admin Email szöveg"
+
+#: addify-registration-addon-main.php:87
+msgid "All Fields"
+msgstr "Összes mező"
+
+#: admin/class-afreg-fields-admin.php:154
+msgid "Allowed File Types(Add Comma(,) separated types. e.g png,jpg,gif)"
+msgstr "Elfogadott fály típusok (vesszővel válasszuk el pl: png,jpg,gif)"
+
+#: admin/class-afreg-fields-admin.php:2048 
+#: admin/class-afreg-fields-admin.php:2327 
+#: admin/class-afreg-fields-admin.php:2328
+msgid "Approve"
+msgstr "Jóváhagyás"
+
+#: front/class-afreg-fields-front.php:1859
+msgid "Approve Link "
+msgstr "Link jóváhagyása "
+
+#: admin/class-afreg-fields-admin.php:1201
+msgid "Approve New User Messages Settings"
+msgstr "Új felhasználó jóváhagyási üzenet beállítások"
+
+#: admin/class-afreg-fields-admin.php:587 
+#: admin/class-afreg-fields-admin.php:1135
+msgid "Approve New User Settings"
+msgstr "Új felhasználó jóváhagyások beállítása"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:963
+msgid "Approved Email Subject"
+msgstr "Jóváhagyott e-mail tárgya"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:978
+msgid "Approved Email Text"
+msgstr "Jóváhagyott email szöveg"
+
+#: admin/class-afreg-fields-admin.php:131
+msgid "Checkbox"
+msgstr "Jelölőnégyzet"
+
+#: front/class-afreg-fields-front.php:71 admin/class-afreg-fields-admin.php:86
+msgid "Click here to view"
+msgstr "Kattints ide a megtekintéshez"
+
+#: admin/class-afreg-fields-admin.php:137
+msgid "Color Picker"
+msgstr "Színválasztó"
+
+#: front/class-afreg-fields-front.php:2596 
+#: front/class-afreg-fields-front.php:3265 
+#: admin/class-afreg-fields-admin.php:1690
+msgid "Current"
+msgstr ""
+
+#. Name of the plugin
+msgid "Custom User Registration Fields for WooCommerce"
+msgstr "Custom User Registration Fields for WooCommerce"
+
+#: admin/class-afreg-fields-admin.php:138
+msgid "Date Picker"
+msgstr "Dátumválasztó"
+
+#: admin/class-afreg-fields-admin.php:2049 
+#: admin/class-afreg-fields-admin.php:2330 
+#: admin/class-afreg-fields-admin.php:2331
+msgid "Disapprove"
+msgstr "Elutasítás"
+
+#: front/class-afreg-fields-front.php:1860
+msgid "Disapprove Link "
+msgstr "Link elutasítása"
+
+#: admin/class-afreg-fields-admin.php:2260
+msgid "Disapproved"
+msgstr "Elutasítva"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:994
+msgid "Disapproved Email Subject"
+msgstr "Elutasított email tárgya"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:1009
+msgid "Disapproved Email Text"
+msgstr "Elutasított e-mail szöveg"
+
+#: front/class-afreg-fields-front.php:1851 
+#: front/class-afreg-fields-front.php:1949
+msgid "E-mail: "
+msgstr "Email:"
+
+#: addify-registration-addon-main.php:79
+msgid "Edit Registration Field"
+msgstr "Regisztrációs mező szerkesztése"
+
+#: admin/class-afreg-fields-admin.php:128
+msgid "Email"
+msgstr "Email"
+
+#: admin/class-afreg-fields-admin.php:588
+msgid "Email Settings"
+msgstr "Email beállítások"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:868
+msgid "Enable admin email notification"
+msgstr "Admin email értesítés engedélyezése"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:745
+msgid "Enable Approve New User"
+msgstr "Új felhasználó jóváhagyásának engedélyezése"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:760
+msgid "Enable Approve New User at Checkout Page"
+msgstr "Új felhasználó jóváhagyásának engedélyezése a Pénztár oldalon"
+
+#: admin/class-afreg-fields-admin.php:553 
+#: admin/class-afreg-fields-admin.php:554
+msgid "Enable Default Fields"
+msgstr "Alapértelmezett mezők engedélyezése"
+
+#: admin/afreg_def_admin.php:7
+msgid "Enable Default Registration Fields"
+msgstr "Alapértelmezett regisztrációs mezők engedélyezése"
+
+#: admin/afreg_def_admin.php:8
+msgid ""
+"Enable default woocommerce registration fields on registration page. When "
+"user enter these fields data will be populated on billing fields "
+"automatically."
+msgstr ""
+"Alapértelmezett woocommerce regisztrációs mezők engedélyezése a "
+"regisztrációs oldalon. Amikor a felhasználó megadja ezeket a mezőket, az "
+"adatok automatikusan feltöltődnek a számlázási mezőkbe."
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:873
+msgid "Enable or Disable new user notification to admin from this module. "
+msgstr ""
+"Engedélyezze vagy tiltsa le az új felhasználók értesítését az "
+"adminisztrátornak ebben a modulban."
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:921
+msgid "Enable or Disable welcome email notification from this module. "
+msgstr ""
+"Az üdvözlő email értesítés engedélyezése vagy letiltása ebben a modulban. "
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:692
+msgid "Enable User Role Selection"
+msgstr "Felhasználói szerepkör kiválasztásának engedélyezése"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:916
+msgid "Enable welcome email notification"
+msgstr "Üdvözlő email értesítés engedélyezése"
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:750
+msgid ""
+"Enable/Disable Approve new user. When this option is enabled all new "
+"registered users will be set to Pending until admin approves"
+msgstr ""
+"Új felhasználó jóváhagyás engedélyezése/letiltása. Ha ez az opció be van "
+"kapcsolva, akkor minden új regisztrált felhasználó függőben lesz, amíg az "
+"admin jóvá nem hagyja."
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:697
+msgid ""
+"Enable/Disable User Role selection on registraiton page. If this is enable "
+"then a user role dropdown will be shown on registration page."
+msgstr ""
+"Felhasználói szerepkör kiválasztásának engedélyezése/letiltása a "
+"regisztrációs oldalon. Ha ez engedélyezve van, akkor a regisztrációs oldalon "
+"megjelenik a felhasználói szerepkör legördülő menüpontja."
+
+#: admin/class-afreg-fields-admin.php:120
+msgid "Enter the text in above title field, that will become field label."
+msgstr "Írja be a fenti cím mezőbe a szöveget, amely a mező címkéje lesz."
+
+#. %s: field label
+#: front/class-afreg-fields-front.php:1168 
+#: front/class-afreg-fields-front.php:1218 
+#: front/class-afreg-fields-front.php:1226 
+#: front/class-afreg-fields-front.php:1236 
+#: front/class-afreg-fields-front.php:1246 
+#: front/class-afreg-fields-front.php:1257 
+#: front/class-afreg-fields-front.php:1269 
+#: front/class-afreg-fields-front.php:1273 
+#: front/class-afreg-fields-front.php:1282 
+#: front/class-afreg-fields-front.php:1295 
+#: front/class-afreg-fields-front.php:1310 
+#: front/class-afreg-fields-front.php:1330 
+#: front/class-afreg-fields-front.php:1338 
+#: front/class-afreg-fields-front.php:1348 
+#: front/class-afreg-fields-front.php:1358 
+#: front/class-afreg-fields-front.php:1368 
+#: front/class-afreg-fields-front.php:1380 
+#: front/class-afreg-fields-front.php:1384 
+#: front/class-afreg-fields-front.php:1393 
+#: front/class-afreg-fields-front.php:1406 
+#: front/class-afreg-fields-front.php:1421 
+#: front/class-afreg-fields-front.php:5335 
+#: front/class-afreg-fields-front.php:5347 
+#: front/class-afreg-fields-front.php:5358 
+#: front/class-afreg-fields-front.php:5369 
+#: front/class-afreg-fields-front.php:5380 
+#: front/class-afreg-fields-front.php:5392 
+#: front/class-afreg-fields-front.php:5403 
+#: front/class-afreg-fields-front.php:5414 
+#: front/class-afreg-fields-front.php:5425 
+#: front/class-afreg-fields-front.php:5436 
+#: front/class-afreg-fields-front.php:5440
+msgid "Error"
+msgstr "Hiba"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:775
+msgid "Exclude User Roles"
+msgstr "Kizárt szerepkörök"
+
+#: admin/class-afreg-fields-admin.php:249
+msgid "Field Custom Css Class"
+msgstr "Mező egyedi CSS osztály"
+
+#: admin/class-afreg-fields-admin.php:244
+msgid "Field Description"
+msgstr "Mező leírás"
+
+#: admin/class-afreg-fields-admin.php:101
+msgid "Field Details"
+msgstr "Mező adatok"
+
+#: admin/class-afreg-fields-admin.php:102
+msgid "Field Formating"
+msgstr "Mező formázás"
+
+#: admin/class-afreg-fields-admin.php:119
+msgid "Field Label"
+msgstr "Mező címke"
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:712
+msgid "Field label for user role selection select box."
+msgstr "A felhasználói szerepkör kiválasztására szolgáló mező címkéje."
+
+#: admin/class-afreg-fields-admin.php:165
+msgid "Field Label/Text"
+msgstr "Mező címke/szöveg "
+
+#: admin/class-afreg-fields-admin.php:159
+msgid "Field Options"
+msgstr "Mező beállítások"
+
+#: admin/class-afreg-fields-admin.php:239
+msgid "Field Placeholder Text"
+msgstr "Mező helykitöltő szöveg"
+
+#: admin/class-afreg-fields-admin.php:326
+msgid "Field Sort Order"
+msgstr "Mező rendezési sorrend "
+
+#: admin/class-afreg-fields-admin.php:104 
+#: admin/class-afreg-fields-admin.php:331
+msgid "Field Status"
+msgstr "Mező státusz"
+
+#: admin/class-afreg-fields-admin.php:124 
+#: admin/class-afreg-fields-admin.php:453
+msgid "Field Type"
+msgstr "Mező típus"
+
+#: admin/class-afreg-fields-admin.php:230
+msgid "Field Width"
+msgstr "Mező szélesség"
+
+#: admin/afreg_def_admin.php:66
+msgid "Field Width:"
+msgstr "Mező szélesség:"
+
+#: admin/class-afreg-fields-admin.php:136
+msgid "File Upload (Supports my account registration page only)"
+msgstr "Fájl feltöltés (csak a fiókom regisztrációs oldalát támogatja)"
+
+#: admin/class-afreg-fields-admin.php:149
+msgid "File Upload Size(MB)"
+msgstr "Fájl feltöltési méret(MB)"
+
+#: admin/class-afreg-fields-admin.php:2247
+msgid "Filter"
+msgstr "Szűrés"
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:802
+msgid ""
+"First message that will be displayed to user when he/she completes the "
+"registration process, this message will be displayed only when manual "
+"approval is required. "
+msgstr ""
+"Az első üzenet, amely megjelenik a felhasználónak, amikor befejezi a "
+"regisztrációs folyamatot; ez az üzenet csak akkor jelenik meg, ha kézi "
+"jóváhagyásra van szükség. "
+
+#: admin/class-afreg-fields-admin.php:145
+msgid ""
+"For google reCaptcha field you must enter correct site key and secret key in "
+"our module settings. Without these keys google reCaptcha will not work."
+msgstr ""
+"A google reCaptcha mezőhöz a helyes oldal (site) kulcsot és titkos (secret) "
+"kulcsot kell megadnia a modul beállításaiban. E kulcsok nélkül a google "
+"reCaptcha nem fog működni."
+
+#: admin/afreg_def_admin.php:68 admin/class-afreg-fields-admin.php:232
+msgid "Full Width"
+msgstr "Teljes szélesség"
+
+#: admin/class-afreg-fields-admin.php:585
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#: admin/class-afreg-fields-admin.php:140
+msgid "Google reCAPTCHA (Supports my account registration page only"
+msgstr "Google reCAPTCHA (csak a fiókom oldal)"
+
+#: admin/class-afreg-fields-admin.php:1042
+msgid "Google reCaptcha Settings"
+msgstr "Google reCaptcha beállítások"
+
+#: admin/afreg_def_admin.php:72 admin/class-afreg-fields-admin.php:233
+msgid "Half Width"
+msgstr "50% (Half Width)"
+
+#. Author URI of the plugin
+msgid "http://www.addifypro.com"
+msgstr "http://www.addifypro.com"
+
+#. URI of the plugin
+msgid ""
+"https://woocommerce.com/products/custom-user-registration-fields-for-"
+"woocommerce/"
+msgstr ""
+"https://woocommerce.com/products/custom-user-registration-fields-for-"
+"woocommerce/"
+
+#: admin/class-afreg-fields-admin.php:334 
+#: admin/class-afreg-fields-admin.php:472 
+#: admin/class-afreg-fields-admin.php:485
+msgid "Inactive"
+msgstr "Inaktív"
+
+#: front/class-afreg-fields-front.php:3575 
+#: front/class-afreg-fields-front.php:3663 
+#: front/class-afreg-fields-front.php:4494
+msgid "Invalid reCaptcha!"
+msgstr "Érvénytelen reCaptcha!"
+
+#: admin/class-afreg-fields-admin.php:268
+msgid "is Dependable?"
+msgstr "Feltétel Aktiválása?"
+
+#: admin/afreg_def_admin.php:42
+msgid "Label:"
+msgstr "Címke:"
+
+#: admin/class-afreg-fields-admin.php:1134
+msgid "Manage Approve new user settings from here."
+msgstr "Itt kezelheted az új felhasználók jóváhagyás beállításait"
+
+#: admin/class-afreg-fields-admin.php:1233
+msgid "Manage Email Settings"
+msgstr "Email beállítások kezelése"
+
+#: admin/class-afreg-fields-admin.php:1027
+msgid "Manage registration module general settings from here."
+msgstr "Itt kezelheti a regisztrációs modul általános beállításait."
+
+#: admin/class-afreg-fields-admin.php:1067
+msgid ""
+"Manage user role settings from here. Choose wheather you want to show user "
+"role dropdown on registraiton page or not and choose which user roles you "
+"want to show in dropdown on registration page."
+msgstr ""
+"Itt kezelheti a felhasználói szerepkör-beállításokat. Válassza ki, hogy a "
+"regisztrációs oldalon megjelenjen-e a felhasználói szerepkörök legördülő "
+"listája, és válassza ki, hogy mely felhasználói szerepköröket szeretné "
+"megjeleníteni a regisztrációs oldalon a legördülő listában."
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:797
+msgid "Message for Users when Account is Created"
+msgstr "Üzenet a felhasználóknak fiók létrehozásakor"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:827
+msgid "Message for Users when Account is disapproved"
+msgstr "Üzenet a felhasználóknak, amikor a fiókot elutasítják"
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:832
+msgid "Message for Users when Account is Disapproved By Admin."
+msgstr "Üzenet a felhasználóknak, ha a fiókot az admin nem hagyja jóvá."
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:812
+msgid "Message for Users when Account is pending for approval"
+msgstr "Üzenet a felhasználóknak, amikor a fiók jóváhagyásra vár"
+
+#: admin/afreg_def_admin.php:52
+msgid "Message:"
+msgstr "Leírás:"
+
+#: admin/class-afreg-fields-admin.php:132
+msgid "Multi Checkbox"
+msgstr "Több jelölőnégyzet (Multi Checkbox)"
+
+#: admin/class-afreg-fields-admin.php:130
+msgid "Multi Selectbox"
+msgstr "Többszörös kiválasztás"
+
+#: addify-registration-addon-main.php:80
+msgid "New Registration Field"
+msgstr "Új regisztrációs mező "
+
+#: front/class-afreg-fields-front.php:1892 
+#: front/class-afreg-fields-front.php:1987
+msgid "No"
+msgstr "Nem"
+
+#: addify-registration-addon-main.php:84
+msgid "No registration field found"
+msgstr "Nem található regisztrációs mező"
+
+#: addify-registration-addon-main.php:85
+msgid "No registration field found in trash"
+msgstr "Nem található regisztrációs mező a lomtárban"
+
+#: admin/class-afreg-fields-admin.php:134
+msgid "Number"
+msgstr "Szám"
+
+#: admin/class-afreg-fields-admin.php:164
+msgid "Option Value"
+msgstr "Opció értéke"
+
+#: admin/class-afreg-fields-admin.php:135
+msgid "Password"
+msgstr "Jelszó"
+
+#: admin/afreg_def_admin.php:47
+msgid "Placeholder:"
+msgstr "Helykitöltő: (placeholder)"
+
+#: admin/afreg_def_admin.php:83
+msgid "Publish"
+msgstr "Publikus"
+
+#: admin/class-afreg-fields-admin.php:133
+msgid "Radio Button"
+msgstr "Rádió gomb"
+
+#: admin/class-afreg-fields-admin.php:220
+msgid "Read Only Field(Customer can not update this from My Account page)"
+msgstr ""
+"Mező csak olvasható (a vásárló nem tudja frissíteni a fiókom oldaláról) "
+
+#: addify-registration-addon-main.php:76
+msgid "Registration Field"
+msgstr "Regisztrációs mező"
+
+#: addify-registration-addon-main.php:75 addify-registration-addon-main.php:88
+msgid "Registration Fields"
+msgstr "Regisztrációs mezők"
+
+#: admin/class-afreg-fields-admin.php:580
+msgid "Registration Fields Settings"
+msgstr "Regisztrációs mezők beállításai"
+
+#: admin/class-afreg-fields-admin.php:182
+msgid "Remove Option"
+msgstr "Opció törlése"
+
+#: admin/class-afreg-fields-admin.php:215
+msgid "Required Field"
+msgstr "Kötelező mező"
+
+#: admin/afreg_def_admin.php:57
+msgid "Required:"
+msgstr "Kötelező:"
+
+#: addify-registration-addon-main.php:82
+msgid "Search Registration Field"
+msgstr "Regisztrációs mező keresése"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:669
+msgid "Secret Key"
+msgstr "Secret Key"
+
+#: front/class-afreg-fields-front.php:5058
+msgid "Select a country..."
+msgstr "Válasszon egy országot..."
+
+#: addify-registration-addon-main.php:373
+msgid "Select a county / state..."
+msgstr "Válasszon ki egy megyét..."
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:273 
+#: admin/class-afreg-fields-admin.php:722
+msgid "Select User Roles"
+msgstr "Felhasználói szerepkörök kiválasztása"
+
+#: admin/class-afreg-fields-admin.php:309
+msgid ""
+"Select user roles on which you want to show this field, leave empty for show "
+"in all."
+msgstr ""
+"Válassza ki azokat a felhasználói szerepköröket, amelyeknél ezt a mezőt meg "
+"kívánja jeleníteni. Ha az összeset szeretnénk, hagyjuk üresen."
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:780
+msgid ""
+"Select which user roles users you want to exclude from manual approval. "
+"These user roles users will be automatically approved."
+msgstr ""
+"Válassza ki, hogy mely felhasználói szerepkörök felhasználóit szeretné "
+"kizárni a kézi jóváhagyásból. Ezek a felhasználói szerepkörök automatikusan "
+"jóváhagyásra kerülnek."
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:727
+msgid ""
+"Select which user roles you want to show in dropdown on registration page. "
+"Note: Administrator role is not avaiable for show in dropdown."
+msgstr ""
+"Válassza ki a regisztrációs oldalon a legördülő listából, hogy mely "
+"felhasználói szerepköröket szeretné megjeleníteni. Megjegyzés: Az Admin "
+"szerepkör nem jeleníthető meg a legördülő listában."
+
+#: admin/class-afreg-fields-admin.php:129
+msgid "Selectbox"
+msgstr "Kiválasztás"
+
+#: admin/class-afreg-fields-admin.php:562 
+#: admin/class-afreg-fields-admin.php:563
+msgid "Settings"
+msgstr "Beállítások"
+
+#: admin/afreg_def_admin.php:11
+msgid "Settings saved successfully."
+msgstr "A beállítások sikeresen mentve."
+
+#: admin/class-afreg-fields-admin.php:225
+msgid "Show in admin order detail page and order email"
+msgstr ""
+"Mutassa a mezőt a rendelés részletek oldalán, és a rendelési email-ben is."
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:654
+msgid "Site Key"
+msgstr "Site Key"
+
+#: admin/class-afreg-fields-admin.php:455
+msgid "Sort Order"
+msgstr "Sorrend"
+
+#: admin/afreg_def_admin.php:62
+msgid "Sort Order:"
+msgstr "Mező sorrend:"
+
+#: admin/class-afreg-fields-admin.php:454
+msgid "Status"
+msgstr "Státusz"
+
+#: admin/afreg_def_admin.php:81
+msgid "Status:"
+msgstr "Státusz:"
+
+#: admin/class-afreg-fields-admin.php:126
+msgid "Text"
+msgstr "Szöveg"
+
+#: admin/class-afreg-fields-admin.php:127
+msgid "Textarea"
+msgstr "Szövegmező"
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:856
+msgid ""
+"This email address will be used for getting new user email notification for "
+"admin, if this is empty then defualt wordpress admin email address will be "
+"used."
+msgstr ""
+"Ezt az email címet fogjuk használni, hogy új felhasználó email értesítést "
+"kapjon az admin, ha ez üres, akkor az alapértelmezett WordPress admin email "
+"címet fogjuk használni. "
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:889
+msgid ""
+"This email subject is used when new user notification is sent to admin. "
+msgstr ""
+"Ezt az email tárgyat használjuk, amikor az új felhasználóról szóló "
+"értesítést küldünk az adminisztrátornak. "
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:904
+msgid ""
+"This email text will be used when new user notification is sent to admin. If "
+"Approve new user is active then you can write text about new user approval."
+msgstr ""
+"Ez az email szöveg kerül felhasználásra, amikor az új felhasználóról szóló "
+"értesítést küldjük az adminisztrátornak. Ha az Új felhasználó jóváhagyása "
+"aktív, akkor megadhat szöveget az új felhasználó jóváhagyásáról."
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:674
+msgid ""
+"This is gogle reCaptcha secret key, you can get this from google. With this "
+"key google reCaptcha will not work."
+msgstr ""
+"Ez a google reCaptcha titkos kulcsa (secret key), ezt a Google-tól kaphatja "
+"meg. A kulcs hiányában a google reCaptcha nem fog működni."
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:659
+msgid ""
+"This is gogle reCaptcha site key, you can get this from google. With this "
+"key google reCaptcha will not work."
+msgstr ""
+"Ez a google reCaptcha oldal kulcsa (site key), ezt a Google-tól kaphatja meg."
+" A kulcs hiányában a google reCaptcha nem fog működni."
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:983
+msgid ""
+"This is the approved email message, this message is used when account is "
+"approved by administrator. "
+msgstr ""
+"Ez a jóváhagyott email üzenet, ez az üzenet akkor használjuk, ha a fiókot az "
+"admin jóváhagyta. "
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:968
+msgid ""
+"This is the approved email subject, this subject is when used when account "
+"is approved by administrator.  "
+msgstr ""
+"Ez a jóváhagyott email tárgya, ez a tárgy akkor használatos, ha a fiókot az "
+"admin jóváhagyta.  "
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:1014
+msgid ""
+"This is the disapproved email message, this message is used when account is "
+"disapproved by administrator."
+msgstr ""
+"Ez az elutasított e-mail üzenet, ezt az üzenetet akkor használjuk ha a "
+"fiókot az admin elutasította."
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:999
+msgid ""
+"This is the disapproved email subject, this subject is used when account is "
+"disapproved by administrator."
+msgstr ""
+"Ez az elutasított e-mail tárgya, ez a tárgy akkor használatos, ha a fiókot "
+"az admin elutasította."
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:952
+msgid ""
+"This is the email body; when a new customer registers this email be "
+"automatically sent and the custom fields will be included in that email. "
+"This body text will be included along with the default fields data."
+msgstr ""
+"Ez az email törzsszövege; amikor egy új vásárló regisztrál, ez az e-mail "
+"automatikusan elküldésre kerül, és az egyéni mezők benne lesznek az e-"
+"mailben. Ez a törzsszöveg az alapértelmezett mezők adataival együtt kerül "
+"bele."
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:937
+msgid ""
+"This is the email subject; this subject is used when the email is sent to "
+"the user on account creation to include fields data and manual approval "
+"message."
+msgstr ""
+"Ez az email tárgya; ezt a tárgyat használjuk, amikor az email a "
+"felhasználónak a fiók létrehozásakor elküldésre kerül, és tartalmazza a "
+"mezők adatait és a manuális jóváhagyási üzenetet."
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:637
+msgid ""
+"This is the title for the section where additional fields are displayed on "
+"front end registration form."
+msgstr ""
+"Ez annak a szekciónak a címe, ahol további mezők jelennek meg a "
+"regisztrációs űrlapon."
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: admin/class-afreg-fields-admin.php:817
+msgid ""
+"This will be displayed when user will attempt to login after registration "
+"and his/her account is still pending for admin approval. "
+msgstr ""
+"Ez az üzenet akkor jelenik meg, ha a felhasználó a regisztráció után "
+"megpróbál bejelentkezni, de a fiókja még adminisztrátori jóváhagyásra vár. "
+
+#: admin/class-afreg-fields-admin.php:139
+msgid "Time Picker"
+msgstr "Időpont választó"
+
+#: admin/afreg_def_admin.php:84
+msgid "Unpublish"
+msgstr "Nem publikus"
+
+#: front/class-afreg-fields-front.php:1849
+msgid "User details are as follow:"
+msgstr "A felhasználó adatai a következők:"
+
+#. Description of the plugin
+msgid ""
+"User Registration Plugin for WooCommerce allows you to add extra fields to "
+"your registration form. Registration Fields Addon is compatible with both "
+"WordPress & WooCommerce. Support 14 types of fields and compatible with "
+"Addify plugins. (PLEASE TAKE BACKUP BEFORE UPDATING THE PLUGIN)."
+msgstr ""
+"A User Registration Plugin for WooCommerce lehetővé teszi, hogy extra "
+"mezőket adjon hozzá a regisztrációs űrlaphoz. A Registration Fields Addon "
+"kompatibilis mind a WordPress-szel, mind a WooCommerce-szel. Támogatja a 14 "
+"típusú mezőt és kompatibilis az Addify pluginekkel. (KÉRJÜK, KÉSZÍTSEN "
+"BIZTONSÁGI MENTÉST A BŐVÍTMÉNY FRISSÍTÉSE ELŐTT)."
+
+#: admin/class-afreg-fields-admin.php:103
+msgid "User Role Dependency"
+msgstr "Felhasználói szerepkör feltétel"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:707
+msgid "User Role Field Label"
+msgstr "Felhasználói szerepkör mező címke"
+
+#: admin/class-afreg-fields-admin.php:586
+msgid "User Role Settings"
+msgstr "Felhasználói szerepkörök beállítások"
+
+#: admin/class-afreg-fields-admin.php:2014
+msgid "User Status"
+msgstr "Felhasználói státusz"
+
+#: front/class-afreg-fields-front.php:1850 
+#: front/class-afreg-fields-front.php:1948
+msgid "Username: "
+msgstr "Felhasználónév:"
+
+#: admin/class-afreg-fields-admin.php:2251 
+#: admin/class-afreg-fields-admin.php:2253
+msgid "View all users"
+msgstr "Összes felhasználó megtekintése"
+
+#: addify-registration-addon-main.php:81
+msgid "View Registration Field"
+msgstr "Regisztrációs mező megtekintése"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:947
+msgid "Welcome/Pending Email Body Text"
+msgstr "Üdvözlő / függőben lévő e-mail szöveg"
+
+#. ID used to identify the field throughout the theme
+#: admin/class-afreg-fields-admin.php:932
+msgid "Welcome/Pending Email Subject"
+msgstr "Üdvözlő/függő e-mail tárgya"
+
+#: front/class-afreg-fields-front.php:1890 
+#: front/class-afreg-fields-front.php:1985
+msgid "Yes"
+msgstr "Igen"
+
+#: front/class-afreg-fields-front.php:1947
+msgid "Your details are as follow:"
+msgstr "Az Ön adatai a következők:"

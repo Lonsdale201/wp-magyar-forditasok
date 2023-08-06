@@ -1,0 +1,13 @@
+WpBookIngSystem Pro
+A fő fájl 72%-os fordítási állapotban.
+
+Link: https://www.wpbookingsystem.com/
+
+Addons fordítások:
+WP Booking System - Booking Manager
+WP Booking System - WooCommerce Add-on
+
+Fordította: Soczó Kristóf
+
+Elérhetőség
+Discord: lonsdale201
