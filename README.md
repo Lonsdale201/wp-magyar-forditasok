@@ -38,7 +38,8 @@ Nincsenek előfeltételek, és nem szükséges az angol nyelvvizsga sem. Mindenk
 - Ne fordíts le bizonyos szakszavakat. Shortcode, widegts stb.. Egyes esetekben vannak olyan stringek amik nem igénylik hogy keressünk magyar megfelelőt, mert magától értendő.
 - Elementor, és egyéb page builder kiegészítő fordításoknál a widget neveit nem feltétlen célszerű magyarosítani. Ne akarj a CTA rövidítésnek magyar megfelelőt írni, mert felesleges.
 - Ha túl sok jelentést kapsz a fordításodra levesszük. Ha kijavítást követően ismét túl sok report érkezik, levesszük, és megszüntetjük a jogosultságodat arra, hogy fordításokat küldj be.
-- Ha hibát jeleznek a fordíátosban a legjobb tudásod szerint köteles vagy azt javítani. Ha a jövőben nem lesz rá kapacitásod, egyeztess más fordítóval, hogy ha lehetséges vegye át a fordításod.
+- Ha hibát jeleznek a fordításodban a legjobb tudásod szerint köteles vagy azt javítani. Ha a jövőben nem lesz rá kapacitásod, egyeztess más fordítóval, hogy ha lehetséges vegye át a fordításod.
+- Csatlakozást követően figyeld aktívan ennek a repónak az **Issue** szekcióját, hogy minél hamarabb értesülj.
 
 
 ### Szabály a felhasználók számára
@@ -52,8 +53,12 @@ Nincsenek előfeltételek, és nem szükséges az angol nyelvvizsga sem. Mindenk
 ## Hogyan tudok fordítást "telepíteni"?
 
 A fordítási fájlokat fel kell töltened. Bővítmény használata esetében a **Loco Translate** segítségével néhány kattintással megoldható. Ha nem kívánsz plugint használni hozzá, akkor manuálisan kell telepítened.
-FTP, SSH vagy egyéb módon (pl cpanel fájl kezelő) el kell tudnod érni a **wp-content** mappádat. Itt ha még nincs, hozz létre egy **languages** nevű mappát, azon belül pedig egy **plugins** mappát. Ezután nincs más dolgod mint a Plugins mappába feltölteni a megfelelő fájlokat. A fordítások minden esetben úgy vannak elnevezve, hogy azok a bővítmény, és a WordPress számára azonosítható legyen, így ezeket a fájlokat nem szabad átnevezdned letöltést követően, és akkor sem, amikor felteszed őket a szerverre!
+FTP, SSH vagy egyéb módon (pl cpanel fájl kezelő) el kell tudnod érni a **wp-content** mappádat. Itt ha még nincs, hozz létre egy **languages** nevű mappát, azon belül pedig egy **plugins** mappát. Ezután nincs más dolgod mint a Plugins mappába feltölteni a megfelelő fájlokat. *(wp-content/languages/plugins)* A fordítások minden esetben úgy vannak elnevezve, hogy azok a bővítmény, és a WordPress számára azonosítható legyen, így ezeket a fájlokat nem szabad átnevezdned letöltést követően, és akkor sem, amikor felteszed őket a szerverre!
 
 Nagyon ritka esetben a nyelv fájlokat a bővítmény megköveleti, hogy a saját mappájába telepítsd egy **languages** mappába. Ám ez nagyon kis százalékban szükséges.
+
+Loco Translate bővítmény esetében mennyj a Loco Translate / Plugins menüpontba. A listában keresd meg azt a bővítményt amihez fel kívánod tölteni a fordítást, majd kattints rá. A következő ablakban kattints a PO Feltöltése gombra. A **Válasszon helyet** alatt a rádió gomboknál válaszd ki az **egyedi-t**, majd a feltölteni kívánt fájl-t, és kattints a Feltöltés gombra.
+
+![image](https://github.com/Lonsdale201/wp-magyar-forditasok/assets/23199033/8908d090-c9d2-46bf-96c9-9d6cdeefa82a)
 
 
