@@ -1,0 +1,13 @@
+YayMail Pro - WooCommerce Email Customizer
+
+A fájl 49% fordítási állapotban van.
+Rengeteg olyan string van, amit nem tudok előhozni, vagy egy olyan kapcsolódó addons által van, amivel nem rendelkezek, így a maradék 50% többnyire ezek teszik ki.
+
+Link: https://yaycommerce.com/yaymail-woocommerce-email-customizer/
+
+
+
+Fordította: Soczó Kristóf
+Elérhetőség
+Discord: lonsdale201
+Email: kristof@hellowp.io, lonsdale201@hotmail.com

@@ -1,0 +1,2717 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YayMail Pro - WooCommerce Email Customizer\n"
+"POT-Creation-Date: 2023-06-19 10:37+0700\n"
+"PO-Revision-Date: 2023-08-09 18:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: Magyar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: yaymail.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: release\n"
+"X-Poedit-SearchPathExcluded-2: apps\n"
+"X-Poedit-SearchPathExcluded-3: assets\n"
+"X-Poedit-SearchPathExcluded-4: tools\n"
+"X-Poedit-SearchPathExcluded-5: includes/MailBuilder/languages\n"
+"X-Poedit-SearchPathExcluded-6: "
+"includes/Templates/DefaultTemplate/OrderStatus.php\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: hu-HU\n"
+"X-Loco-Version: 2.6.4; wp-6.3"
+
+#: views/templates/emails/advanced_local_pickup_instruction.php:182
+msgid " - "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:30
+msgid " . Their order is as follows:"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CancelledOrder.php:28 
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:27
+msgid " belonging to "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/FailedOrder.php:26
+msgid " from "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CancelledOrder.php:28
+msgid " has been cancelled:"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/PartiallyShipped.php:25
+msgid " has been partially shipped."
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerRefundedOrder.php:26
+msgid " has been refunded. There are more details below for your reference:"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/ShippedOrder.php:25
+msgid " has been shipped."
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/FailedOrder.php:26
+msgid " has failed. The order was as follows:"
+msgstr ""
+
+#: views/templates/emails/advanced_local_pickup_instruction.php:203
+msgid " To "
+msgstr ""
+
+#. translators: activations remaining.
+#: views/templates/emails/software_add_on.php:33
+#, php-format
+msgid "%d activations remaining"
+msgstr ""
+
+#. translators: woocommerce-pip.
+#: includes/MailBuilder/PIPTemplate.php:157
+#, php-format
+msgid "%d order"
+msgid_plural "%d orders"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/MailBuilder/Shortcodes.php:1763 
+#: includes/MailBuilder/Shortcodes.php:1775
+msgid "(910) 529-1147"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:34 
+#: includes/Templates/DefaultTemplate/CustomerProcessingOrder.php:27
+msgid ", and it is now being processed:"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerNewAccount.php:28
+msgid ""
+". You can access your account area to view orders, change your password, and "
+"more at: "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerNewAccount.php:28
+msgid ". Your username is "
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1270 
+#: includes/MailBuilder/Shortcodes.php:1278 
+#: includes/MailBuilder/Shortcodes.php:1708 
+#: includes/MailBuilder/Shortcodes.php:1716 
+#: includes/MailBuilder/Shortcodes.php:1732
+msgid "1"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:43
+msgid "123"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1751
+msgid "333"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1761 
+#: includes/MailBuilder/Shortcodes.php:1776
+msgid "48744"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1767 
+#: includes/MailBuilder/Shortcodes.php:1768
+msgid "7400 Edwards Rd"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1753 
+#: includes/MailBuilder/Shortcodes.php:1754
+msgid "755 E North Grove Rd"
+msgstr ""
+
+#. translators: %s: Order tracking info.
+#: includes/MailBuilder/Shortcodes.php:3419
+#, php-format
+msgid ""
+": <a class=\"yaymai_dhl_tracking_url\" href=\"%s%s\" target=\"_blank\">%s</a>"
+msgstr ""
+
+#. translators: 1: URL to WordPress Updates screen, 2: URL to Update PHP page.
+#: includes/YayCommerceMenu/views/other-plugins-content.php:217
+#, php-format
+msgid ""
+"<a href=\"%1$s\">Please update WordPress</a>, and then <a href=\"%2$s\">"
+"learn more about updating PHP</a>."
+msgstr ""
+
+#. translators: %s: URL to Update PHP page.
+#: includes/YayCommerceMenu/views/other-plugins-content.php:231 
+#: includes/YayCommerceMenu/views/other-plugins-content.php:250
+#, php-format
+msgid "<a href=\"%s\">Learn more about updating PHP</a>."
+msgstr ""
+
+#. translators: %s: URL to WordPress Updates screen.
+#: includes/YayCommerceMenu/views/other-plugins-content.php:225 
+#: includes/YayCommerceMenu/views/other-plugins-content.php:241
+#, php-format
+msgid "<a href=\"%s\">Please update WordPress</a>."
+msgstr "<a href=\"%s\">Kérjük, frissítse a WordPress-t</a>."
+
+#. translators: woocommerce-pip.
+#: includes/MailBuilder/PIPTemplate.php:253
+#, php-format
+msgid "[%1$s] Invoice %2$s for order %3$s from %4$s"
+msgstr ""
+
+#. translators: WC Order Number, New Status & Date on which the order was placed.
+#: includes/MailBuilder/WooTemplate.php:268
+#, php-format
+msgid "[%1$s] Order #%2$s status changed to %3$s - %4$s"
+msgstr ""
+
+#. translators: woocommerce-pip.
+#: includes/MailBuilder/PIPTemplate.php:114
+#, php-format
+msgid "[%1$s] Packing List for invoice %2$s - order %3$s from %4$s"
+msgstr ""
+
+#. translators: woocommerce-pip.
+#: includes/MailBuilder/PIPTemplate.php:160
+#, php-format
+msgid "[%1$s] Pick List for %2$s"
+msgstr ""
+
+#. translators: none.
+#: includes/MailBuilder/WooTemplate.php:433
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/Helper/Helper.php:232 
+#: views/templates/emails/email-order-details-border-title.php:9 
+#: views/templates/emails/sampleOrder/email-order-details-border-title.php:9
+msgid "[Order #"
+msgstr ""
+
+#. translators: %s: Order ID.
+#: views/templates/emails/email-order-details-border.php:128 
+#: views/templates/emails/email-order-details-border.php:133 
+#: views/templates/emails/email-order-details.php:129 
+#: views/templates/emails/email-order-details.php:134 
+#: views/templates/emails/sampleOrder/email-order-details-border.php:20 
+#: views/templates/emails/sampleOrder/email-order-details.php:19
+#, php-format
+msgid "[Order #%s]"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerNote.php:24
+msgid "A note has been added to your order"
+msgstr ""
+
+#: includes/I18n.php:354
+msgid "ACTIONS"
+msgstr "MŰVELETEK "
+
+#: includes/YayCommerceMenu/views/other-plugins-content.php:149
+msgid "Activate"
+msgstr ""
+
+#: includes/YayCommerceMenu/OtherPluginsMenu.php:355
+msgid "Activate success"
+msgstr ""
+
+#: includes/Page/Settings.php:134
+msgid "Add a new Email Template"
+msgstr ""
+
+#: includes/Page/Settings.php:133
+msgid "Add New Email Template"
+msgstr "Új Email sablon hozzáadása"
+
+#: includes/I18n.php:297
+msgid "Add social"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1797
+msgid "Additional content"
+msgstr ""
+
+#: includes/Page/Source/DefaultElement.php:713 
+#: views/templates/emails/additional-order-details.php:32
+msgid "Additional Order Details"
+msgstr ""
+
+#: views/templates/emails/LatePoint/SampleTemplate/latepoint-booking-detail.php:27
+#:  views/templates/emails/LatePoint/latepoint-booking-detail.php:60
+msgid "Adult"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/jet-booking-details.php:19
+msgid "adults"
+msgstr ""
+
+#: includes/I18n.php:332
+msgid "After"
+msgstr ""
+
+#: includes/I18n.php:196
+msgid "Align"
+msgstr "Igazítás"
+
+#: includes/I18n.php:129
+msgid "All changes you made won't be saved."
+msgstr "Az összes elvégzett módosítás nem lesz elmentve."
+
+#: includes/I18n.php:94
+msgid "All your saved template will be reset to default"
+msgstr "Minden elmentett sablon visszaáll az alapértelmezettre."
+
+#: includes/I18n.php:161
+msgid "All your saved template will be reset to default."
+msgstr "Minden elmentett sablon visszaáll az alapértelmezettre."
+
+#: includes/I18n.php:162
+msgid "Already Did"
+msgstr "Már megtettem"
+
+#: includes/I18n.php:278
+msgid "Apply to all templates"
+msgstr ""
+
+#: includes/I18n.php:160
+msgid ""
+"Are you happy with YayMail? You can give a review to motivate our developers "
+msgstr ""
+"Elégedett vagy a YayMail-lel? Adjon értékelést, hogy motiválja "
+"fejlesztőinket. "
+
+#: includes/I18n.php:123
+msgid "Are you sure you want to leave?"
+msgstr "Biztos, hogy el akar menni?"
+
+#: includes/I18n.php:128
+msgid "Are you sure you want to reset this template?"
+msgstr "Biztos, hogy vissza akarja állítani ezt a sablont?"
+
+#: includes/I18n.php:245
+msgid "Are you sure?"
+msgstr "Biztos vagy benne?"
+
+#: includes/Templates/DefaultTemplate/CustomerNote.php:27
+msgid "As a reminder, here are your order details:"
+msgstr ""
+
+#: includes/I18n.php:225
+msgid "Ascending price"
+msgstr ""
+
+#: includes/I18n.php:285
+msgid "Auto"
+msgstr ""
+
+#: includes/I18n.php:115
+msgid "AUTOMATEWOO"
+msgstr ""
+
+#: includes/Helper/Helper.php:303 includes/Templates/Templates.php:60
+msgid "AutomateWoo Referrals Email"
+msgstr ""
+
+#: includes/I18n.php:102
+msgid "BACK TO DASHBOARD"
+msgstr "VISSZA A VEZÉRLŐPULTRA"
+
+#: includes/I18n.php:47
+msgid "BACKGROUND COLOR"
+msgstr "HÁTTÉRSZÍN"
+
+#: includes/I18n.php:169
+msgid "Background color"
+msgstr "Háttérszín"
+
+#: includes/I18n.php:263
+msgid "Background image"
+msgstr "Háttérkép"
+
+#: includes/I18n.php:280
+msgid "Background position"
+msgstr ""
+
+#: includes/I18n.php:264
+msgid "Background repeat"
+msgstr ""
+
+#: includes/I18n.php:296
+msgid "Background size"
+msgstr ""
+
+#: includes/I18n.php:49
+msgid "Basic"
+msgstr "Alapvető"
+
+#: includes/I18n.php:331
+msgid "Before"
+msgstr ""
+
+#: includes/Ajax.php:434 includes/Page/Source/DefaultElement.php:13 
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/PartiallyShipped.php:27
+#:  
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/ShippedOrder.php:27
+#:  includes/Templates/DefaultTemplate/CancelledOrder.php:31 
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:51 
+#: includes/Templates/DefaultTemplate/CustomerCompletedOrder.php:29 
+#: includes/Templates/DefaultTemplate/CustomerInvoice.php:31 
+#: includes/Templates/DefaultTemplate/CustomerNote.php:30 
+#: includes/Templates/DefaultTemplate/CustomerOnHoldOrder.php:29 
+#: includes/Templates/DefaultTemplate/CustomerProcessingOrder.php:31 
+#: includes/Templates/DefaultTemplate/CustomerRefundedOrder.php:29 
+#: includes/Templates/DefaultTemplate/FailedOrder.php:30 
+#: includes/Templates/DefaultTemplate/NewOrder.php:28 
+#: views/templates/emails/email-billing-shipping-address-title.php:14 
+#: views/templates/emails/email-billing-shipping-address.php:14
+msgid "Billing Address"
+msgstr "Számlázási cím"
+
+#: includes/I18n.php:193
+msgid "Billing title"
+msgstr "Számlázási címke"
+
+#: includes/I18n.php:108
+msgid "billings"
+msgstr "számlázás"
+
+#: includes/I18n.php:242
+msgid "Blank"
+msgstr "Üres"
+
+#: includes/I18n.php:156
+msgid "Blocks"
+msgstr "Blokkok"
+
+#. translators:  booking options
+#: views/templates/emails/fooevents_ticket_details.php:87 
+#: views/templates/emails/fooevents_ticket_details.php:93
+#, php-format
+msgid "Booking %s"
+msgstr ""
+
+#: views/templates/emails/LatePoint/latepoint-booking-detail.php:45
+msgid "Booking Detail"
+msgstr ""
+
+#: views/templates/emails/jet-booking-details.php:9 
+#: views/templates/emails/sampleOrder/jet-booking-details.php:9
+msgid "Booking Details"
+msgstr ""
+
+#: views/templates/emails/LatePoint/SampleTemplate/latepoint-booking-detail.php:11
+msgid "Booking Number:"
+msgstr ""
+
+#: includes/I18n.php:330
+msgid "Border"
+msgstr "Szegély"
+
+#: includes/I18n.php:172
+msgid "Border color"
+msgstr "Szegély szín"
+
+#: includes/I18n.php:202
+msgid "Border radius"
+msgstr "Szegély sugár"
+
+#: includes/I18n.php:198
+msgid "Border style"
+msgstr "Szegély stílus"
+
+#: includes/I18n.php:197
+msgid "Border width"
+msgstr "Szegély szélesség"
+
+#: includes/I18n.php:168
+msgid "Bottom"
+msgstr "lent"
+
+#: includes/I18n.php:329
+msgid "Button"
+msgstr "Gomb"
+
+#: includes/I18n.php:265
+msgid "Button align"
+msgstr "Gomb igazítás"
+
+#: includes/I18n.php:259
+msgid "Button background color"
+msgstr "Gomb háttérszín"
+
+#: includes/I18n.php:257
+msgid "Button text"
+msgstr "Gomb szöveg"
+
+#: includes/I18n.php:260
+msgid "Button text color"
+msgstr "Gomb szöveg szín"
+
+#: includes/I18n.php:258
+msgid "Button url"
+msgstr "Gomb Url"
+
+#: includes/I18n.php:253
+msgid "Buy background color"
+msgstr ""
+
+#: includes/I18n.php:338
+msgid "Buy button"
+msgstr "Vedd meg gomb"
+
+#: includes/I18n.php:144
+msgid "Buy Now"
+msgstr "Vedd meg"
+
+#: includes/I18n.php:252
+msgid "Buy text"
+msgstr "Vedd meg szöveg"
+
+#: includes/I18n.php:254
+msgid "Buy text color"
+msgstr "Vedd meg szín"
+
+#: includes/I18n.php:78
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: views/templates/emails/email-order-details-border-before.php:12 
+#: views/templates/emails/email-order-details-border.php:14 
+#: views/templates/emails/email-order-details.php:14 
+#: views/templates/emails/email-order-payment-gateways.php:12
+msgid "Cash on delivery"
+msgstr ""
+
+#: includes/I18n.php:205
+msgid "Categories"
+msgstr "Termékkategóriák"
+
+#: includes/I18n.php:219
+msgid "Category selections"
+msgstr "Kategória alapján"
+
+#: includes/I18n.php:283
+msgid "Center"
+msgstr ""
+
+#: includes/I18n.php:79
+msgid "Change email subject and form name"
+msgstr "Az email tárgyának és nevének módosításához"
+
+#: includes/I18n.php:228
+msgid "Change image"
+msgstr "Kép módosítása"
+
+#: includes/Ajax.php:983
+msgid "change revision"
+msgstr ""
+
+#: includes/I18n.php:215
+msgid "Change video"
+msgstr "Videó módosítása"
+
+#: includes/I18n.php:323
+msgid "Changes you made will be lost."
+msgstr "Az elvégzett módosítások elvesznek."
+
+#: views/templates/emails/sampleOrder/jet-booking-details.php:16
+msgid "Check In"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1747
+msgid "Check payments"
+msgstr ""
+
+#: includes/I18n.php:142
+msgid "Checkout Field Editor"
+msgstr ""
+
+#: views/templates/emails/LatePoint/SampleTemplate/latepoint-booking-detail.php:31
+#:  views/templates/emails/LatePoint/latepoint-booking-detail.php:64
+msgid "Child"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/jet-booking-details.php:22
+msgid "children"
+msgstr ""
+
+#: includes/I18n.php:99
+msgid "Choose File"
+msgstr "Fájl kiválasztása"
+
+#: includes/I18n.php:309
+msgid "Clear all"
+msgstr ""
+
+#: includes/Ajax.php:1013
+msgid "clear revision"
+msgstr ""
+
+#: includes/I18n.php:80
+msgid "Click here"
+msgstr "kattintson ide"
+
+#: includes/MailBuilder/Shortcodes.php:674 
+#: includes/MailBuilder/Shortcodes.php:1487 
+#: includes/MailBuilder/Shortcodes.php:1780
+msgid "Click here to reset your password"
+msgstr ""
+
+#: includes/I18n.php:210
+msgid "Close"
+msgstr "Bezárás"
+
+#: includes/I18n.php:349
+msgid "Color"
+msgstr ""
+
+#: includes/I18n.php:345
+msgid "Colorful"
+msgstr ""
+
+#: includes/I18n.php:288
+msgid "Column"
+msgstr "Oszlop"
+
+#: includes/I18n.php:289
+msgid "Column width"
+msgstr "Oszlop szélesség"
+
+#: views/templates/emails/fooevents_ticket_details.php:77
+msgid "Company"
+msgstr ""
+
+#: includes/I18n.php:139
+msgid "Compatible with 20+ third-party plugins"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:31 
+#: includes/Templates/DefaultTemplate/NewOrder.php:26
+msgid "Congratulations on the sale."
+msgstr ""
+
+#: includes/I18n.php:307
+msgid "Contact us"
+msgstr ""
+
+#: includes/I18n.php:287
+msgid "Contain"
+msgstr ""
+
+#: includes/I18n.php:53
+msgid "CONTAINER WIDTH (PX)"
+msgstr "KONTÉNER SZÉLESSÉG (PX)"
+
+#: includes/I18n.php:256
+msgid "Content"
+msgstr "Tartalom"
+
+#: includes/I18n.php:262
+msgid "Content align"
+msgstr "Tartalom elrendezés"
+
+#: includes/I18n.php:261
+msgid "Content width"
+msgstr "Tartalom szélesség"
+
+#: includes/Ajax.php:653
+msgid "Copied Template successfully."
+msgstr ""
+
+#: includes/I18n.php:293
+msgid "Copy"
+msgstr "Másol"
+
+#: includes/I18n.php:294
+msgid "Copy column"
+msgstr "Oszlop másolása"
+
+#: includes/I18n.php:239
+msgid "Copy Element"
+msgstr "Elem másolása"
+
+#: includes/I18n.php:127
+msgid "Copy From"
+msgstr "Másolás ebből:"
+
+#: includes/I18n.php:237
+msgid "Copy template element"
+msgstr "Sablon elem másolás"
+
+#: includes/I18n.php:233
+msgid "Copy this element to"
+msgstr "Másolja ezt az elemet a"
+
+#: includes/I18n.php:238
+msgid "Copy to"
+msgstr "Másolás ide"
+
+#: includes/Helper/Helper.php:234 
+#: views/templates/emails/email-order-details-border.php:147 
+#: views/templates/emails/sampleOrder/email-order-details-border.php:32
+msgid "Cost"
+msgstr ""
+
+#: includes/I18n.php:176 includes/I18n.php:181
+msgid "Cost title"
+msgstr ""
+
+#: includes/I18n.php:286
+msgid "Cover"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create awesome transactional emails with a drag and drop email builder"
+msgstr ""
+"Hozzon létre fantasztikus tranzakciós e-maileket egy drag and drop alapú "
+"email készítővel"
+
+#: includes/I18n.php:284
+msgid "Custom"
+msgstr ""
+
+#: includes/I18n.php:76
+msgid "CUSTOM CSS"
+msgstr ""
+
+#: includes/I18n.php:114
+msgid "CUSTOM ORDER META"
+msgstr ""
+
+#: includes/I18n.php:140
+msgid "Custom Order Status"
+msgstr ""
+
+#: includes/Page/Settings.php:516
+msgid "Custom Shortcode"
+msgstr ""
+
+#: includes/Page/Settings.php:512
+msgid "Custom Shortcode For "
+msgstr ""
+
+#: includes/Page/Settings.php:111
+msgid "Customize with YayMail"
+msgstr ""
+
+#: includes/I18n.php:319
+msgid "Danger"
+msgstr ""
+
+#: includes/I18n.php:200
+msgid "Dashed"
+msgstr "Szaggatott"
+
+#: includes/MailBuilder/Shortcodes.php:3222 
+#: views/templates/emails/chitchats_shipping_shipments.php:20 
+#: views/templates/emails/chitchats_shipping_shipments.php:54 
+#: views/templates/emails/fooevents_ticket_details.php:31 
+#: views/templates/emails/fooevents_ticket_details.php:42 
+#: views/templates/emails/sampleOrder/chitchats_shipping_shipments.php:19 
+#: views/templates/emails/sampleOrder/chitchats_shipping_shipments.php:34 
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:19 
+#: views/templates/emails/wc_shipment_tracking-info.php:19
+msgid "Date"
+msgstr "Dátum"
+
+#: includes/Helper/Helper.php:252
+msgid "Date Suspended"
+msgstr ""
+
+#: views/templates/emails/LatePoint/SampleTemplate/latepoint-booking-detail.php:18
+#:  views/templates/emails/LatePoint/latepoint-booking-detail.php:51
+msgid "Date/Tanggal"
+msgstr ""
+
+#: views/templates/emails/fooevents_ticket_details.php:58
+msgid "Day "
+msgstr ""
+
+#: includes/I18n.php:282
+msgid "Default"
+msgstr "Alapértelmezett"
+
+#: includes/I18n.php:226
+msgid "Descending price"
+msgstr ""
+
+#: views/templates/emails/ph_shipment_tracking_api_manager.php:22 
+#: views/templates/emails/sampleOrder/ph_shipment_tracking_api_manager.php:22
+msgid "Description"
+msgstr ""
+
+#: views/templates/emails/fooevents_ticket_details.php:80
+msgid "Designation"
+msgstr ""
+
+#: includes/I18n.php:132
+msgid "Desktop preview"
+msgstr "Asztali előnézet"
+
+#: includes/I18n.php:121
+msgid "Details"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:3417
+msgid "DHL Tracking Number"
+msgstr ""
+
+#. translators: %s: Formatted shipping date
+#: views/templates/emails/dpdch_tracking_number.php:16
+#, php-format
+msgid ""
+"Die Bestellung wird am %s mit DPD verschickt. Hier der Link um die Sendung "
+"zu verfolgen: "
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1743 
+#: views/templates/emails/email-order-details-border-before.php:56 
+#: views/templates/emails/email-order-details-border.php:60 
+#: views/templates/emails/email-order-details.php:60 
+#: views/templates/emails/email-order-payment-gateways.php:35 
+#: views/templates/emails/sampleOrder/email-order-details-border.php:68 
+#: views/templates/emails/sampleOrder/email-order-details.php:62
+msgid "Direct bank transfer"
+msgstr ""
+
+#: includes/I18n.php:52
+msgid "DIRECTION RTL"
+msgstr ""
+
+#: includes/I18n.php:312
+msgid "Disable this template"
+msgstr "Sablon kikapcsolása"
+
+#: includes/Helper/Helper.php:238
+msgid "Discount:"
+msgstr ""
+
+#: includes/I18n.php:56
+msgid "DISPLAY PAYMENT INSTRUCTION AND DETAILS"
+msgstr "FIZETÉSI INSTR ÉS RÉSZLETEK MEGJELENÍTÉSE"
+
+#: includes/I18n.php:147
+msgid "Do you want to save before moving to another template?"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1759 
+#: includes/MailBuilder/Shortcodes.php:1774
+msgid "Doe"
+msgstr ""
+
+#: includes/I18n.php:201
+msgid "Dotted"
+msgstr "Pontozott"
+
+#: includes/Helper/Helper.php:262 
+#: views/templates/emails/email-order-item-download.php:25 
+#: views/templates/emails/sampleOrder/email-order-item-download.php:25
+msgid "Download"
+msgstr ""
+
+#: includes/I18n.php:187
+msgid "Download title"
+msgstr "Letöltés címke"
+
+#: views/templates/emails/sampleOrder/email-order-item-download.php:54
+msgid "Download.doc"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/email-order-item-download.php:48
+msgid "Downloadable Product"
+msgstr ""
+
+#: includes/Helper/Helper.php:259
+msgid "Downloads"
+msgstr ""
+
+#: includes/I18n.php:232
+msgid "Duplicate"
+msgstr "Másolat"
+
+#: includes/I18n.php:339
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: includes/Page/Settings.php:135
+msgid "Edit Email Template"
+msgstr "Email sablon szerkesztés"
+
+#: includes/MailBuilder/Shortcodes.php:1769
+msgid "Edwards Rd"
+msgstr ""
+
+#: includes/I18n.php:44
+msgid "ELEMENTS"
+msgstr "ELEMEK"
+
+#: includes/I18n.php:157
+msgid "Elements"
+msgstr "Elemek"
+
+#: views/templates/emails/fooevents_ticket_details.php:72
+msgid "Email"
+msgstr "Email"
+
+#: includes/I18n.php:117
+msgid "Email address for test"
+msgstr "Email cím a teszthez"
+
+#: includes/Page/Settings.php:162 includes/YayCommerceMenu/RegisterMenu.php:148
+msgid "Email Builder Settings"
+msgstr ""
+
+#: includes/I18n.php:85
+msgid "EMAIL CONTENT BACKGROUND COLOR"
+msgstr "EMAIL TARTALOM HÁTTÉRSZÍN"
+
+#: includes/Ajax.php:597
+msgid "Email has been saved."
+msgstr ""
+
+#: includes/Ajax.php:323
+msgid "Email has been sent."
+msgstr "Az emailt elküldtük."
+
+#: includes/I18n.php:308
+msgid "Email heading"
+msgstr "Email fejléc"
+
+#: includes/I18n.php:131
+msgid "Email preview"
+msgstr "Email előnézet"
+
+#: includes/I18n.php:84
+msgid "Email Settings"
+msgstr "Email beállítások"
+
+#: includes/Page/Settings.php:131 includes/Page/Settings.php:132
+msgid "Email Template"
+msgstr "Email sablon"
+
+#: includes/Ajax.php:344
+msgid "Email Test"
+msgstr ""
+
+#: includes/I18n.php:148
+msgid "Email to show"
+msgstr ""
+
+#: includes/I18n.php:54
+msgid "Email width must be 480px (min) - 900px (max)"
+msgstr "Az email szélességének 480px (min) - 900px (max) kell lennie."
+
+#: includes/I18n.php:313
+msgid "Enable this template"
+msgstr "Sablon engedélyezése"
+
+#: includes/I18n.php:88
+msgid "Enable/Disable Templates"
+msgstr "Sablonok engedélyezése/kikapcsolása"
+
+#: includes/Helper/Helper.php:246 
+#: views/templates/emails/fooevents_ticket_details.php:45
+msgid "End date"
+msgstr ""
+
+#: includes/Helper/Helper.php:251
+msgid "End of Prepaid Term"
+msgstr ""
+
+#: views/templates/emails/fooevents_ticket_details.php:37 
+#: views/templates/emails/fooevents_ticket_details.php:51 
+#: views/templates/emails/fooevents_ticket_details.php:65
+msgid "End time"
+msgstr ""
+
+#: includes/License/EDD_SL_Plugin_Updater.php:537
+msgid "Error"
+msgstr ""
+
+#: includes/YayCommerceMenu/OtherPluginsMenu.php:318 
+#: includes/YayCommerceMenu/OtherPluginsMenu.php:362 
+#: includes/YayCommerceMenu/OtherPluginsMenu.php:472
+msgid "Error exception."
+msgstr ""
+
+#: includes/Ajax.php:688 includes/Ajax.php:748
+msgid "Error Reset Template!"
+msgstr ""
+
+#: includes/Ajax.php:607 includes/Ajax.php:664
+msgid "Error save data."
+msgstr ""
+
+#: includes/Ajax.php:334
+msgid "Error send mail!"
+msgstr ""
+
+#: includes/YayCommerceMenu/OtherPluginsMenu.php:327 
+#: includes/YayCommerceMenu/OtherPluginsMenu.php:371 
+#: includes/YayCommerceMenu/OtherPluginsMenu.php:481
+msgid "Error."
+msgstr "Hiba."
+
+#: includes/Helper/Helper.php:261 
+#: views/templates/emails/email-order-item-download.php:24 
+#: views/templates/emails/sampleOrder/email-order-item-download.php:24
+msgid "Expires"
+msgstr ""
+
+#: includes/I18n.php:186
+msgid "Expires title"
+msgstr "Lejárat címke"
+
+#: includes/I18n.php:96
+msgid "EXPORT"
+msgstr "EXPORT"
+
+#: includes/Ajax.php:70
+msgid "Export successfully."
+msgstr "Sikeres exportálás."
+
+#: includes/I18n.php:97
+msgid "Export Templates"
+msgstr "Sablonok exportálása"
+
+#: includes/Ajax.php:1058 includes/Ajax.php:1060 includes/Ajax.php:1075 
+#: includes/Ajax.php:1077 includes/Ajax.php:1092 includes/Ajax.php:1094 
+#: includes/Ajax.php:1109 includes/Ajax.php:1111 includes/Ajax.php:1126 
+#: includes/Ajax.php:1128
+msgid "Failed!"
+msgstr ""
+
+#: includes/Ajax.php:1020
+msgid "Failed!."
+msgstr ""
+
+#: includes/I18n.php:218
+msgid "Featured"
+msgstr "Kiemelt"
+
+#: includes/Ajax.php:857
+msgid "File not correct format."
+msgstr "Nem megfelelő formátumú fájl."
+
+#: includes/Ajax.php:854
+msgid "File not found."
+msgstr "Fájl nem található."
+
+#: includes/I18n.php:173
+msgid "Font family"
+msgstr "Betűtípus"
+
+#: includes/I18n.php:266
+msgid "Font size"
+msgstr "Méret"
+
+#: includes/I18n.php:122
+msgid "Free Install Now"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:2835
+msgid "Friday"
+msgstr "Péntek"
+
+#: includes/I18n.php:64
+msgid "Full"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1785
+msgid "G(UAM1(eIX#G"
+msgstr ""
+
+#: includes/I18n.php:50
+msgid "General"
+msgstr "Általános"
+
+#: includes/I18n.php:105
+msgid "generals"
+msgstr "általános"
+
+#: includes/YayCommerceMenu/OtherPluginsMenu.php:310
+msgid "Get data success"
+msgstr ""
+
+#: includes/I18n.php:138
+msgid "Get recent editing actions and revisions"
+msgstr ""
+
+#: includes/Ajax.php:1166 includes/Ajax.php:1217 includes/Ajax.php:1295 
+#: includes/Ajax.php:1362
+msgid "get successfully."
+msgstr ""
+
+#: includes/I18n.php:135
+msgid "Get YayMail Pro"
+msgstr ""
+
+#: includes/I18n.php:155
+msgid "Go Pro"
+msgstr ""
+
+#: includes/I18n.php:159
+msgid "Happy with YayMail"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/email-order-details-border-content.php:43
+msgid "Happy YayCommerce"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/email-order-details-border.php:46 
+#: views/templates/emails/sampleOrder/email-order-details.php:40
+msgid "Happy YayCommerce2"
+msgstr ""
+
+#: includes/I18n.php:188
+msgid "Header title"
+msgstr "Fejléc címe"
+
+#: includes/I18n.php:267
+msgid "Height"
+msgstr "Magasság"
+
+#: includes/YayCommerceMenu/RegisterMenu.php:87
+msgid "Help"
+msgstr "Segítség"
+
+#: includes/Templates/DefaultTemplate/CustomerInvoice.php:27
+msgid "Here are the details of your order placed on "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:34 
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:38 
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:42 
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:46 
+#: includes/Templates/DefaultTemplate/CustomerCompletedOrder.php:25 
+#: includes/Templates/DefaultTemplate/CustomerInvoice.php:26 
+#: includes/Templates/DefaultTemplate/CustomerNewAccount.php:27 
+#: includes/Templates/DefaultTemplate/CustomerNote.php:25 
+#: includes/Templates/DefaultTemplate/CustomerOnHoldOrder.php:25 
+#: includes/Templates/DefaultTemplate/CustomerProcessingOrder.php:26 
+#: includes/Templates/DefaultTemplate/CustomerRefundedOrder.php:25 
+#: includes/Templates/DefaultTemplate/CustomerResetPassword.php:25
+msgid "Hi "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/PartiallyShipped.php:25
+msgid "Hi there. we thought you'd like to know that your recent order from "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/ShippedOrder.php:25
+msgid "Hi there. We thought you’d like to know that your recent order from "
+msgstr ""
+
+#: includes/I18n.php:158
+msgid "History"
+msgstr "Előzmények"
+
+#: includes/Templates/DefaultTemplate/FailedOrder.php:27
+msgid ""
+"Hopefully they'll be back. Read more about <a href=\\\"https://docs."
+"woocommerce.com/document/managing-orders/\\\">troubleshooting failed "
+"payments</a>."
+msgstr ""
+
+#: includes/I18n.php:290
+msgid "HTML code"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yaycommerce.com"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://yaycommerce.com/yaymail-woocommerce-email-customizer/"
+msgstr ""
+
+#: includes/I18n.php:273
+msgid "Icon spacing"
+msgstr "Térköz"
+
+#: includes/Helper/Helper.php:244
+msgid "ID"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerResetPassword.php:27
+msgid ""
+"If you didn't make this request, just ignore this email. If you'd like to "
+"proceed:"
+msgstr ""
+
+#: includes/I18n.php:212
+msgid "Image"
+msgstr "Kép"
+
+#: includes/I18n.php:65
+msgid "IMAGE HEIGHT (PX)"
+msgstr "KÉP MAGASSÁG (PX)"
+
+#: includes/I18n.php:66
+msgid "Image height must be 30px (min) - 300px (max)"
+msgstr "A kép magasságának 30px (min) - 300px (max) kell lennie."
+
+#: includes/I18n.php:276
+msgid "Image overlay"
+msgstr "Háttér áttetszőség"
+
+#: includes/I18n.php:62
+msgid "IMAGE SIZE"
+msgstr "KÉPMÉRET MÉRET"
+
+#: includes/I18n.php:229
+msgid "Image URL"
+msgstr "Kép URL"
+
+#: includes/I18n.php:68
+msgid "IMAGE WIDTH (PX)"
+msgstr "KÉP SZÉLESSÉG (PX)"
+
+#: includes/I18n.php:69
+msgid "Image width must be 30px (min) - 300px (max)"
+msgstr "A kép szélességének 30px (min) - 300px (max) kell lennie."
+
+#: includes/I18n.php:100 includes/I18n.php:126
+msgid "Import"
+msgstr ""
+
+#: includes/Ajax.php:850
+msgid "Import Failed."
+msgstr ""
+
+#: includes/I18n.php:291
+msgid "Import HTML code"
+msgstr ""
+
+#: includes/I18n.php:153
+msgid "Import path url"
+msgstr ""
+
+#: includes/I18n.php:240
+msgid "Import template"
+msgstr "Sablon importálása"
+
+#: includes/I18n.php:125
+msgid "Import template from"
+msgstr "Sablon importálása"
+
+#: includes/I18n.php:98
+msgid "IMPORT TEMPLATES"
+msgstr "SABLONOK IMPORTÁLÁSA"
+
+#: includes/I18n.php:151
+msgid "Import text"
+msgstr ""
+
+#: includes/I18n.php:95
+msgid "Import/Export Templates"
+msgstr "Importálás/exportálás sablonok"
+
+#: includes/Ajax.php:852
+msgid "Imported successfully."
+msgstr ""
+
+#: includes/I18n.php:316
+msgid "Info"
+msgstr ""
+
+#: includes/I18n.php:150
+msgid "Input text"
+msgstr ""
+
+#: includes/YayCommerceMenu/views/other-plugins-content.php:77 
+#: includes/YayCommerceMenu/views/other-plugins-content.php:85
+msgid "Install Now"
+msgstr "Telepítés"
+
+#: includes/YayCommerceMenu/OtherPluginsMenu.php:438
+msgid "Install success"
+msgstr ""
+
+#: includes/Ajax.php:290
+msgid "Invalid email format!"
+msgstr ""
+
+#. translators: %s: search WooCommerce plugin link
+#: yaymail.php:91
+#, php-format
+msgid ""
+"is enabled but not effective. It requires %1$sWooCommerce%2$s in order to "
+"work."
+msgstr ""
+
+#: includes/Fallback.php:11
+msgid ""
+"It looks like you have another YayMail version installed, please delete it "
+"before activating this new version. All current settings and data are still "
+"preserved."
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1758 
+#: includes/MailBuilder/Shortcodes.php:1773
+msgid "John"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1772
+msgid "johndoe@gmail.com"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerProcessingOrder.php:27
+msgid "Just to let you know &mdash; we've received your order #"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:34
+msgid ""
+"Just to let you know &mdash; we've received your subscription renewal order #"
+msgstr ""
+
+#: views/templates/emails/tracking_more_info.php:84
+msgid "l jS F Y"
+msgstr ""
+
+#: includes/Ajax.php:938
+msgid "Language changed. Please wait for reloading page"
+msgstr "A nyelv megváltozott. Kérjük, várjon az oldal újratöltésére"
+
+#: includes/I18n.php:326
+msgid "Large"
+msgstr "Nagy"
+
+#: includes/Helper/Helper.php:250
+msgid "Last Order Date"
+msgstr ""
+
+#: includes/I18n.php:124
+msgid "Leave"
+msgstr "Elhagyás"
+
+#: includes/I18n.php:166
+msgid "Left"
+msgstr "Bal"
+
+#: views/templates/emails/software_add_on.php:27
+msgid "License Email:"
+msgstr ""
+
+#: views/templates/emails/software_add_on.php:28
+msgid "License Key:"
+msgstr ""
+
+#: includes/YayCommerceMenu/RegisterMenu.php:94
+msgid "Licenses"
+msgstr "Licencek"
+
+#: includes/I18n.php:270
+msgid "Line color"
+msgstr ""
+
+#: includes/I18n.php:346
+msgid "Line Dark"
+msgstr ""
+
+#: includes/I18n.php:269
+msgid "Line height"
+msgstr "Sor magasság"
+
+#: includes/I18n.php:348
+msgid "Line Light"
+msgstr ""
+
+#: includes/I18n.php:271
+msgid "Line type"
+msgstr "Vonaltípus"
+
+#: includes/MailBuilder/Shortcodes.php:3034 
+#: includes/MailBuilder/Shortcodes.php:3037
+msgid "Live track your order"
+msgstr ""
+
+#: includes/I18n.php:247
+msgid "Loading"
+msgstr ""
+
+#: includes/I18n.php:241
+msgid "Loading products"
+msgstr ""
+
+#: includes/Helper/LogHelper.php:52
+msgid "log-"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1755
+msgid "Mayville, Michigan"
+msgstr ""
+
+#: includes/I18n.php:350
+msgid "Media Image Library"
+msgstr ""
+
+#: includes/I18n.php:325
+msgid "Medium"
+msgstr "Közepes"
+
+#: includes/I18n.php:133
+msgid "Mobile preview"
+msgstr "Mobil előnézet"
+
+#: includes/MailBuilder/Shortcodes.php:2831
+msgid "Monday"
+msgstr "Hétfő"
+
+#: includes/I18n.php:315
+msgid "Move down"
+msgstr "Mozgatás le"
+
+#: includes/I18n.php:314
+msgid "Move up"
+msgstr "Mozgatás fel"
+
+#: includes/I18n.php:213 views/templates/emails/fooevents_ticket_details.php:71
+msgid "Name"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/jet-booking-details.php:25
+msgid "name"
+msgstr ""
+
+#: includes/I18n.php:223
+msgid "Name A-Z"
+msgstr ""
+
+#: includes/I18n.php:224
+msgid "Name Z-A"
+msgstr ""
+
+#: views/templates/emails/LatePoint/SampleTemplate/latepoint-booking-detail.php:24
+#:  views/templates/emails/LatePoint/latepoint-booking-detail.php:57
+msgid "Name/Nama"
+msgstr ""
+
+#: includes/YayCommerceMenu/views/other-plugins-content.php:162
+msgid "Network Activate"
+msgstr ""
+
+#: views/templates/emails/email-order-item-download.php:74
+msgid "Never"
+msgstr ""
+
+#: includes/Page/Settings.php:136
+msgid "New Email Template"
+msgstr "Új email sablon"
+
+#: includes/Templates/DefaultTemplate/NewOrder.php:24
+msgid "New order"
+msgstr ""
+
+#: includes/I18n.php:111
+msgid "new users"
+msgstr "új felhasználók"
+
+#: includes/I18n.php:216
+msgid "Newest"
+msgstr "Legújabb"
+
+#: includes/I18n.php:58
+msgid "No"
+msgstr "Nem"
+
+#: views/templates/emails/yith_barcode.php:21
+msgid "No barcode is available for this element."
+msgstr ""
+
+#: includes/Page/Settings.php:140
+msgid "No Email Template currently trashed"
+msgstr ""
+
+#: includes/Page/Settings.php:139
+msgid "No Email Template found"
+msgstr "Nem találtunk Email sablont"
+
+#: includes/I18n.php:101
+msgid "No file chosen"
+msgstr "Nincs kiválasztott fájl"
+
+#: includes/I18n.php:146
+msgid "No, don't save"
+msgstr "Ne, ne mentsd el"
+
+#: includes/Page/Source/DisplayAddonNotice.php:223 
+#: includes/Page/Source/DisplayNotice.php:26
+msgid "No, thanks"
+msgstr "Nem, köszönöm."
+
+#: includes/I18n.php:340
+msgid "No-repeat"
+msgstr ""
+
+#: includes/Ajax.php:203 includes/Ajax.php:282 includes/Ajax.php:428 
+#: includes/Ajax.php:620 includes/Ajax.php:678 includes/Ajax.php:701 
+#: includes/Ajax.php:872 includes/Ajax.php:902 includes/Ajax.php:925 
+#: includes/Ajax.php:953 includes/Ajax.php:1001 includes/Ajax.php:1033 
+#: includes/Ajax.php:1068 includes/Ajax.php:1085 includes/Ajax.php:1102 
+#: includes/Ajax.php:1120 includes/Ajax.php:1136 includes/Ajax.php:1184 
+#: includes/Ajax.php:1236 includes/Ajax.php:1314 includes/Helper/Helper.php:14 
+#: includes/MailBuilder/Shortcodes.php:825 
+#: includes/YayCommerceMenu/OtherPluginsMenu.php:292 
+#: includes/YayCommerceMenu/OtherPluginsMenu.php:341 
+#: includes/YayCommerceMenu/OtherPluginsMenu.php:389
+msgid "Nonce is invalid"
+msgstr ""
+
+#: includes/I18n.php:222
+msgid "None"
+msgstr "Nincs"
+
+#: includes/I18n.php:211
+msgid "NoProductFound"
+msgstr "Nem találhatóak termékek"
+
+#: includes/Ajax.php:1017
+msgid "Not have template"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1791
+msgid "note"
+msgstr ""
+
+#: includes/I18n.php:185
+msgid "Note title"
+msgstr "megjegyzés címke"
+
+#: includes/Helper/Helper.php:243 
+#: views/templates/emails/email-order-details-border.php:203 
+#: views/templates/emails/email-order-details.php:206
+msgid "Note:"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1792
+msgid "notes"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CancelledOrder.php:28 
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:27
+msgid "Notification to let you know &mdash; order #"
+msgstr ""
+
+#: includes/I18n.php:255
+msgid "Number of products per row"
+msgstr "Termékek száma soronként"
+
+#: includes/I18n.php:208
+msgid "Number of showing products"
+msgstr "Megjelenítendő termékek száma"
+
+#: includes/I18n.php:217
+msgid "On sale"
+msgstr "Akciós"
+
+#: includes/I18n.php:59
+msgid "Only for customer"
+msgstr ""
+
+#: includes/I18n.php:236
+msgid "Open mailbox"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1301 
+#: includes/MailBuilder/Shortcodes.php:1730
+msgid "Order"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CancelledOrder.php:26
+msgid "Order Cancelled: #{order_number}"
+msgstr ""
+
+#: includes/I18n.php:106
+msgid "order Details"
+msgstr "rendelési adatok"
+
+#: includes/Templates/DefaultTemplate/FailedOrder.php:24
+msgid "Order Failed: #{order_number}"
+msgstr ""
+
+#: includes/I18n.php:184
+msgid "Order fully refunded title"
+msgstr "Visszatérített rendelési címke"
+
+#: includes/Helper/Helper.php:241 
+#: views/templates/emails/email-order-details-border-content.php:105 
+#: views/templates/emails/email-order-details-border-content.php:114 
+#: views/templates/emails/email-order-details-border-content.php:128 
+#: views/templates/emails/email-order-details-border-content.php:145
+msgid "Order fully refunded."
+msgstr ""
+
+#: includes/I18n.php:174 includes/I18n.php:179
+msgid "Order item title"
+msgstr "Rendelési tétel címke"
+
+#: includes/Helper/Helper.php:291 includes/Templates/Templates.php:49
+msgid "Order partial shipped"
+msgstr ""
+
+#: includes/I18n.php:113
+msgid "ORDER TAXES"
+msgstr ""
+
+#: includes/YayCommerceMenu/OtherPluginsMenu.php:122
+msgid "Other Plugins"
+msgstr "Egyéb bővítmények"
+
+#: includes/YayCommerceMenu/RegisterMenu.php:101
+msgid "Other plugins"
+msgstr "Egyéb bővítmények"
+
+#: views/templates/emails/email-order-details-border-before.php:74 
+#: views/templates/emails/email-order-details-border.php:79 
+#: views/templates/emails/email-order-details.php:79 
+#: views/templates/emails/email-order-payment-gateways.php:42
+msgid "Our bank details"
+msgstr ""
+
+#: includes/I18n.php:164
+msgid "Padding"
+msgstr "Belső margó"
+
+#: includes/Templates/DefaultTemplate/CustomerResetPassword.php:24
+msgid "Password Reset Request"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1570 
+#: includes/MailBuilder/Shortcodes.php:1900
+msgid "Pay the banking ticket"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/FailedOrder.php:26
+msgid "Payment for order #"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1746
+msgid "Payment Instructions"
+msgstr "Fizetési instrukciók"
+
+#: includes/Helper/Helper.php:240 
+#: views/templates/emails/sampleOrder/email-order-details-border.php:65 
+#: views/templates/emails/sampleOrder/email-order-details.php:59
+msgid "Payment method:"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1332 
+#: includes/MailBuilder/Shortcodes.php:1744
+msgid "Payment page"
+msgstr ""
+
+#: includes/I18n.php:110
+msgid "payments"
+msgstr "FIZETÉSEK"
+
+#: includes/I18n.php:81
+msgid "Please check again"
+msgstr ""
+
+#: includes/I18n.php:55
+msgid "Please input container width!"
+msgstr "Kérjük, adja meg az konténer szélességét!"
+
+#: includes/I18n.php:67
+msgid "Please input imgage height!"
+msgstr "Kérjük, adja meg az kép magasságát!"
+
+#: includes/I18n.php:70
+msgid "Please input imgage width!"
+msgstr "Kérjük, adja meg az kép szélességét!"
+
+#: includes/I18n.php:83
+msgid ""
+"Please refresh page to apply Custom CSS. Make sure to save your changes "
+"before refreshing."
+msgstr ""
+
+#: includes/I18n.php:322
+msgid "Please save before send test"
+msgstr "Kérjük mentsen mielőtt tesztet elküldené."
+
+#: includes/Page/Source/DisplayNotice.php:16
+msgid "Please upgrade to YayMail Pro to customize emails with:"
+msgstr ""
+
+#: includes/Ajax.php:860
+msgid "Please upload 1 file to import."
+msgstr "Kérjük, töltsön fel 1 fájlt az importáláshoz."
+
+#. translators: %s: Plugin name.
+#: includes/YayCommerceMenu/views/other-plugins-content.php:151
+#, php-format
+msgctxt "plugin"
+msgid "Activate %s"
+msgstr ""
+
+#: includes/YayCommerceMenu/views/other-plugins-content.php:144
+msgctxt "plugin"
+msgid "Activated"
+msgstr "Aktiválva"
+
+#: includes/YayCommerceMenu/views/other-plugins-content.php:177
+msgctxt "plugin"
+msgid "Cannot Activate"
+msgstr ""
+
+#: includes/YayCommerceMenu/views/other-plugins-content.php:91
+msgctxt "plugin"
+msgid "Cannot Install"
+msgstr ""
+
+#: includes/YayCommerceMenu/views/other-plugins-content.php:127
+msgctxt "plugin"
+msgid "Cannot Update"
+msgstr ""
+
+#. translators: %s: Plugin name and version.
+#: includes/YayCommerceMenu/views/other-plugins-content.php:76 
+#: includes/YayCommerceMenu/views/other-plugins-content.php:84
+#, php-format
+msgctxt "plugin"
+msgid "Install %s now"
+msgstr "Telepítés %s"
+
+#: includes/YayCommerceMenu/views/other-plugins-content.php:183
+msgctxt "plugin"
+msgid "Installed"
+msgstr ""
+
+#. translators: %s: Plugin name.
+#: includes/YayCommerceMenu/views/other-plugins-content.php:164
+#, php-format
+msgctxt "plugin"
+msgid "Network Activate %s"
+msgstr ""
+
+#. translators: %s: Plugin name and version.
+#: includes/YayCommerceMenu/views/other-plugins-content.php:108 
+#: includes/YayCommerceMenu/views/other-plugins-content.php:119
+#, php-format
+msgctxt "plugin"
+msgid "Update %s now"
+msgstr ""
+
+#: includes/Ajax.php:220
+msgid "Plugin installation successful."
+msgstr ""
+
+#: includes/I18n.php:281
+msgid "Position"
+msgstr "Pozíció"
+
+#: includes/I18n.php:130
+msgid "Preview"
+msgstr "Előnézet"
+
+#: includes/Helper/Helper.php:236 includes/Helper/Helper.php:249 
+#: includes/I18n.php:214 
+#: views/templates/emails/email-order-details-border.php:154 
+#: views/templates/emails/email-order-details.php:156 
+#: views/templates/emails/sampleOrder/email-order-details-border.php:39 
+#: views/templates/emails/sampleOrder/email-order-details.php:33
+msgid "Price"
+msgstr "Ár"
+
+#: includes/I18n.php:178 includes/I18n.php:183
+msgid "Price title"
+msgstr "Ár címke"
+
+#: includes/Helper/Helper.php:233 includes/Helper/Helper.php:260 
+#: views/templates/emails/email-order-details-border.php:143 
+#: views/templates/emails/email-order-details.php:145 
+#: views/templates/emails/email-order-item-download.php:23 
+#: views/templates/emails/email-order-items-preview.php:30 
+#: views/templates/emails/email-order-items.php:30 
+#: views/templates/emails/sampleOrder/email-order-details-border.php:28 
+#: views/templates/emails/sampleOrder/email-order-details.php:27 
+#: views/templates/emails/sampleOrder/email-order-item-download.php:23
+msgid "Product"
+msgstr "Termék"
+
+#: includes/Templates/DefaultTemplate/BackInStockNotifier/NotifierInstockMail.php:24
+#:  
+#: includes/Templates/DefaultTemplate/BackInStockNotifier/NotifierSubscribeMail.php:24
+msgid "Product [yaymail_notifier_product_name] has back in stock"
+msgstr ""
+
+#: includes/I18n.php:333 
+#: views/templates/emails/email-order-items-preview.php:165 
+#: views/templates/emails/email-order-items-preview.php:171 
+#: views/templates/emails/email-order-items-preview.php:173 
+#: views/templates/emails/email-order-items.php:165 
+#: views/templates/emails/email-order-items.php:170
+msgid "Product image"
+msgstr "Termékkép"
+
+#: includes/I18n.php:61
+msgid "PRODUCT IMAGE POSITION"
+msgstr "TERMÉKKÉP POZÍCIÓ"
+
+#: includes/I18n.php:334
+msgid "Product name"
+msgstr "Termék név"
+
+#: includes/I18n.php:336
+msgid "Product original price"
+msgstr "Termék eredeti ár"
+
+#: includes/I18n.php:251
+msgid "Product original price color"
+msgstr "Termék eredeti ár szín"
+
+#: includes/I18n.php:335 includes/I18n.php:337
+msgid "Product price"
+msgstr "Termék ár"
+
+#: includes/I18n.php:250
+msgid "Product price color"
+msgstr "Termék ár szín"
+
+#: includes/I18n.php:221
+msgid "Product selections"
+msgstr "Termékválasztás"
+
+#: includes/I18n.php:175 includes/I18n.php:180
+msgid "Product title"
+msgstr "Termék név címke"
+
+#: includes/I18n.php:203
+msgid "Product type"
+msgstr "Termék típus"
+
+#: includes/I18n.php:207
+msgid "Products"
+msgstr "Termékek"
+
+#: includes/MailBuilder/Shortcodes.php:1793
+msgid "provided note"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/shipping_tax_shipment_tracking.php:18 
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:17 
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:28 
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:34 
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:37 
+#: views/templates/emails/shipping_tax_shipment_tracking.php:18 
+#: views/templates/emails/wc_shipment_tracking-info.php:17 
+#: views/templates/emails/wc_shipment_tracking-info.php:33 
+#: views/templates/emails/wc_shipment_tracking-info.php:52 
+#: views/templates/emails/wc_shipment_tracking-info.php:55
+msgid "Provider"
+msgstr ""
+
+#: includes/Helper/Helper.php:235 
+#: views/templates/emails/email-order-details-border.php:151 
+#: views/templates/emails/email-order-details.php:149 
+#: views/templates/emails/email-order-details.php:153 
+#: views/templates/emails/sampleOrder/email-order-details-border.php:36 
+#: views/templates/emails/sampleOrder/email-order-details.php:30
+msgid "Quantity"
+msgstr "Mennyiség"
+
+#: includes/I18n.php:177 includes/I18n.php:182
+msgid "Quantity title"
+msgstr "Mennyiség címke"
+
+#: includes/I18n.php:227 includes/MailBuilder/Shortcodes.php:1762 
+#: includes/MailBuilder/Shortcodes.php:1777
+msgid "Random"
+msgstr "Véletlenszerű"
+
+#: includes/I18n.php:163
+msgid "Rate Now"
+msgstr "Értékelés"
+
+#: includes/Fallback.php:12
+msgid "Read more details."
+msgstr ""
+
+#: includes/Page/Source/DisplayAddonNotice.php:211
+msgid ""
+"Recommended: You can use YayMail Addons to customize all email templates of:"
+msgstr ""
+
+#: includes/Helper/Helper.php:247
+msgid "Recurring total"
+msgstr ""
+
+#: includes/I18n.php:321
+msgid "Redo"
+msgstr ""
+
+#: includes/I18n.php:77
+msgid "Refresh"
+msgstr ""
+
+#: includes/I18n.php:154
+msgid "Refresh page?"
+msgstr "Oldalfrissítés?"
+
+#: includes/I18n.php:234
+msgid "Remove"
+msgstr "Eltávolítás"
+
+#: includes/I18n.php:341
+msgid "Repeat"
+msgstr ""
+
+#: includes/I18n.php:342
+msgid "Repeat-X"
+msgstr ""
+
+#: includes/I18n.php:343
+msgid "Repeat-Y"
+msgstr ""
+
+#: includes/I18n.php:92
+msgid "Reset"
+msgstr "Visszaállítás"
+
+#: includes/I18n.php:91
+msgid "RESET ALL TEMPLATES TO DEFAULT"
+msgstr "MINDEN SABLON ALAPÉRTELMEZETTRE ÁLLÍTÁSA"
+
+#: includes/I18n.php:86
+msgid "Reset default"
+msgstr ""
+
+#: includes/I18n.php:112
+msgid "reset password"
+msgstr "jelszó visszaállítása"
+
+#: includes/I18n.php:90
+msgid "Reset template"
+msgstr "Sablon visszaállítása"
+
+#: includes/I18n.php:89
+msgid "Reset Templates"
+msgstr "Sablonok visszaállítása"
+
+#: includes/I18n.php:355
+msgid "REVISIONS"
+msgstr "VÁLTOZÁSOK"
+
+#: includes/I18n.php:167
+msgid "Right"
+msgstr "Jobb"
+
+#: views/templates/emails/fooevents_ticket_details.php:99
+msgid "Row"
+msgstr ""
+
+#: includes/I18n.php:103
+msgid "Sample order to show"
+msgstr "Minta rendelési előnézet"
+
+#: includes/MailBuilder/Shortcodes.php:1811 
+#: includes/MailBuilder/Shortcodes.php:1812
+msgid "sample status"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:2836
+msgid "Saturday"
+msgstr "Szombat"
+
+#: includes/I18n.php:82
+msgid "Save"
+msgstr "Mentés"
+
+#: includes/I18n.php:356
+msgid "Save anyway"
+msgstr ""
+
+#: includes/I18n.php:145
+msgid "Save template?"
+msgstr ""
+
+#: includes/I18n.php:311
+msgid "saved by"
+msgstr ""
+
+#: includes/I18n.php:246
+msgid "Search"
+msgstr "Keresés"
+
+#: includes/I18n.php:303
+msgid "Search element"
+msgstr "Elemek keresése"
+
+#: includes/Page/Settings.php:138
+msgid "Search Email Template"
+msgstr "Email sablon keresés"
+
+#: views/templates/emails/fooevents_ticket_details.php:100
+msgid "Seat"
+msgstr ""
+
+#: includes/Page/Source/DisplayAddonNotice.php:222
+msgid "See Addons"
+msgstr "Kiegészítők megtekintése"
+
+#: includes/I18n.php:351
+msgid "Select a media"
+msgstr ""
+
+#: includes/I18n.php:300
+msgid "Select button number"
+msgstr "Gombok száma"
+
+#: includes/I18n.php:48
+msgid "Select Color"
+msgstr "Válasszon színt"
+
+#: includes/I18n.php:292 includes/I18n.php:301
+msgid "Select column number"
+msgstr "Oszlopok száma"
+
+#: includes/I18n.php:298
+msgid "Select social"
+msgstr ""
+
+#: includes/I18n.php:244
+msgid "Select template"
+msgstr "Sablon kiválasztása"
+
+#: includes/I18n.php:116
+msgid "Send Email"
+msgstr "Email küldés"
+
+#: includes/I18n.php:243
+msgid "Send test email"
+msgstr "teszt email küldése"
+
+#: includes/I18n.php:279
+msgid "Set as default"
+msgstr "Beállítás alapértelmezettként"
+
+#: includes/I18n.php:45
+msgid "SETTINGS"
+msgstr "BEÁLLÍTÁSOK"
+
+#: includes/Ajax.php:888 includes/Ajax.php:912 includes/Ajax.php:940 
+#: includes/Ajax.php:988
+msgid "Settings Failed!."
+msgstr ""
+
+#: includes/Ajax.php:886 includes/Ajax.php:910
+msgid "Settings saved."
+msgstr ""
+
+#. translators: %1$s: search number, %2$s: search total trackings
+#: views/templates/emails/ast-pro-tpi-email-order-details.php:107
+#, php-format
+msgid "Shipment %1$s (out of %2$s):"
+msgstr ""
+
+#: views/templates/emails/ast_pro_shipment_tracking-info.php:75 
+#: views/templates/emails/ast_pro_shipment_tracking-info.php:123 
+#: views/templates/emails/wc_advanced_shipment_tracking-info.php:69
+msgid "Shipped"
+msgstr ""
+
+#: views/templates/emails/ast_pro_shipment_tracking-info.php:80 
+#: views/templates/emails/ast_pro_shipment_tracking-info.php:87 
+#: views/templates/emails/ast_pro_shipment_tracking-info.php:128 
+#: views/templates/emails/ast_pro_shipment_tracking-info.php:135 
+#: views/templates/emails/wc_advanced_shipment_tracking-info.php:74 
+#: views/templates/emails/wc_advanced_shipment_tracking-info.php:81
+msgid "Shipped on"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/ast_pro_shipment_tracking-info.php:61 
+#: views/templates/emails/sampleOrder/ast_pro_shipment_tracking-info.php:101 
+#: views/templates/emails/sampleOrder/wc_advanced_shipment_tracking-info.php:72
+#:  
+#: views/templates/emails/sampleOrder/wc_advanced_shipment_tracking-info.php:112
+msgid "Shipped on:"
+msgstr ""
+
+#: includes/Ajax.php:433 includes/Page/Source/DefaultElement.php:12 
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/PartiallyShipped.php:26
+#:  
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/ShippedOrder.php:26
+#:  includes/Templates/DefaultTemplate/CancelledOrder.php:30 
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:50 
+#: includes/Templates/DefaultTemplate/CustomerCompletedOrder.php:28 
+#: includes/Templates/DefaultTemplate/CustomerInvoice.php:30 
+#: includes/Templates/DefaultTemplate/CustomerNote.php:29 
+#: includes/Templates/DefaultTemplate/CustomerOnHoldOrder.php:28 
+#: includes/Templates/DefaultTemplate/CustomerProcessingOrder.php:30 
+#: includes/Templates/DefaultTemplate/CustomerRefundedOrder.php:28 
+#: includes/Templates/DefaultTemplate/FailedOrder.php:29 
+#: includes/Templates/DefaultTemplate/NewOrder.php:27 
+#: views/templates/emails/email-billing-shipping-address-title.php:13 
+#: views/templates/emails/email-billing-shipping-address.php:21
+msgid "Shipping Address"
+msgstr "Szállítási cím"
+
+#: includes/I18n.php:194
+msgid "Shipping title"
+msgstr "Szállítási címke"
+
+#: includes/Helper/Helper.php:239
+msgid "Shipping:"
+msgstr "Szállítás:"
+
+#: includes/I18n.php:107
+msgid "shippings"
+msgstr "Szállítás"
+
+#: includes/I18n.php:104
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: includes/I18n.php:72
+msgid "SHOW PRODUCT DESCRIPTION"
+msgstr "TERMÉKLEÍRÁS MEGJELENÍTÉSE"
+
+#: includes/I18n.php:73
+msgid "SHOW PRODUCT HYPERLINKS"
+msgstr "TERMÉK LINK MEGJELENÍTÉSE"
+
+#: includes/I18n.php:60
+msgid "SHOW PRODUCT IMAGE"
+msgstr "TERMÉKKÉP MEGJELENÍTÉSE"
+
+#: includes/I18n.php:75
+msgid "SHOW PRODUCT ITEM COST"
+msgstr ""
+
+#: includes/I18n.php:74
+msgid "SHOW PRODUCT REGULAR PRICE"
+msgstr "TERMÉK NORMÁL ÁR MEGJELENÍTÉSE "
+
+#: includes/I18n.php:71
+msgid "SHOW PRODUCT SKU"
+msgstr "TERMÉK CIKKSZÁM MEGJELENÍTÉSE"
+
+#: includes/I18n.php:248
+msgid "Showing items"
+msgstr "Elemek megjelenítése"
+
+#: includes/MailBuilder/Shortcodes.php:3211
+msgid "Slot"
+msgstr ""
+
+#: includes/I18n.php:324
+msgid "Small"
+msgstr "Kicsi"
+
+#: includes/I18n.php:295
+msgid "Socials"
+msgstr ""
+
+#: includes/I18n.php:199
+msgid "Solid"
+msgstr "Sima"
+
+#: includes/I18n.php:344
+msgid "Solid Dark"
+msgstr ""
+
+#: includes/I18n.php:347
+msgid "Solid Light"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerResetPassword.php:26
+msgid "Someone has requested a new password for the following account on "
+msgstr ""
+
+#: includes/I18n.php:204
+msgid "Sorted by"
+msgstr "Rendezés"
+
+#: includes/Page/Settings.php:116
+msgid "Start Customizing"
+msgstr "Testreszabás megkezdése"
+
+#: includes/Helper/Helper.php:245
+msgid "Start date"
+msgstr ""
+
+#: views/templates/emails/fooevents_ticket_details.php:34 
+#: views/templates/emails/fooevents_ticket_details.php:48 
+#: views/templates/emails/fooevents_ticket_details.php:62
+msgid "Start time"
+msgstr ""
+
+#: views/templates/emails/chitchats_shipping_shipments.php:19 
+#: views/templates/emails/chitchats_shipping_shipments.php:42 
+#: views/templates/emails/ph_shipment_tracking_api_manager.php:31 
+#: views/templates/emails/sampleOrder/chitchats_shipping_shipments.php:18 
+#: views/templates/emails/sampleOrder/chitchats_shipping_shipments.php:28 
+#: views/templates/emails/sampleOrder/ph_shipment_tracking_api_manager.php:31 
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:45 
+#: views/templates/emails/wc_shipment_tracking-info.php:65
+msgid "Status"
+msgstr "Státusz"
+
+#: includes/I18n.php:274
+msgid "Styles theme"
+msgstr "Stílusok"
+
+#: includes/Helper/Helper.php:248
+msgid "Subscription"
+msgstr "Előfizetés"
+
+#: includes/I18n.php:191
+msgid "Subtitle"
+msgstr "Alcím"
+
+#: includes/I18n.php:192
+msgid "Subtitle size"
+msgstr "Alcím méret"
+
+#: includes/Helper/Helper.php:237 
+#: views/templates/emails/sampleOrder/email-order-details-border.php:57 
+#: views/templates/emails/sampleOrder/email-order-details.php:51
+msgid "Subtotal:"
+msgstr "Részösszeg:"
+
+#: includes/I18n.php:317
+msgid "Success"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:2830
+msgid "Sunday"
+msgstr "Vasárnap"
+
+#: includes/Helper/LogHelper.php:40
+msgid "SYSTEM ERROR:"
+msgstr "RENDSZERHIBA:"
+
+#: includes/I18n.php:220
+msgid "Tag selections"
+msgstr "Címke alapján"
+
+#: includes/I18n.php:206
+msgid "Tags"
+msgstr "Címkék"
+
+#: views/templates/emails/fooevents_ticket_details.php:74
+msgid "Telephone"
+msgstr "Telefon"
+
+#: includes/Ajax.php:330 includes/Ajax.php:604 includes/Ajax.php:658 
+#: includes/Ajax.php:661 includes/Ajax.php:744
+msgid "Template not Exists!."
+msgstr "Sablon nem létezik!."
+
+#: includes/Ajax.php:731 includes/Ajax.php:742
+msgid "Template reset successfully."
+msgstr "Sablon visszaállítása sikeres."
+
+#: includes/I18n.php:171
+msgid "Text color"
+msgstr "Szöveg szín"
+
+#: includes/I18n.php:87
+msgid "TEXT LINK COLOR"
+msgstr "SZÖVEGES HIVATKOZÁS SZÍN"
+
+#: includes/I18n.php:152
+msgid "Text padding"
+msgstr "Szöveg belső margó"
+
+#: includes/Templates/DefaultTemplate/CustomerOnHoldOrder.php:24 
+#: includes/Templates/DefaultTemplate/CustomerProcessingOrder.php:25
+msgid "Thank you for your order"
+msgstr "Köszönjük megrendelését"
+
+#: includes/Templates/DefaultTemplate/CustomerNewAccount.php:28
+msgid "Thanks for creating an account on "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CancelledOrder.php:29 
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:28 
+#: includes/Templates/DefaultTemplate/CustomerNote.php:28 
+#: includes/Templates/DefaultTemplate/CustomerResetPassword.php:29
+msgid "Thanks for reading."
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerCompletedOrder.php:24
+msgid "Thanks for shopping with us"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:39 
+#: includes/Templates/DefaultTemplate/CustomerCompletedOrder.php:27
+msgid "Thanks for shopping with us."
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:35 
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:47
+msgid "Thanks for using "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerInvoice.php:28 
+#: includes/Templates/DefaultTemplate/CustomerProcessingOrder.php:28
+msgid "Thanks for using {site_url}!"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerOnHoldOrder.php:26
+msgid ""
+"Thanks for your order. It's on-hold until we confirm that payment has been "
+"received. In the meantime, here's a reminder of what you ordered:"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:42
+msgid ""
+"Thanks for your renewal order. It's on-hold until we confirm that payment "
+"has been received. In the meantime, here's a reminder of your order:"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerNote.php:26
+msgid "The following note has been added to your order:"
+msgstr ""
+
+#: includes/I18n.php:357
+msgid ""
+"There are invalid values in your conditions, they will be removed when you "
+"proceed to save"
+msgstr ""
+
+#. translators: %s: param
+#: includes/License/EDD_SL_Plugin_Updater.php:280
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#. translators: %s: param
+#: includes/License/EDD_SL_Plugin_Updater.php:271
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: includes/I18n.php:304
+msgid "This email template can be fully customized with YayMail Premium Addon."
+msgstr ""
+"Ez az email sablon teljes mértékben testre szabható a YayMail Premium "
+"Addonnal."
+
+#: includes/I18n.php:305
+msgid "This email template is unavailable at the moment."
+msgstr "Ez az email sablon jelenleg nem érhető el."
+
+#: includes/I18n.php:149
+msgid "This feature is available in YayMail Pro"
+msgstr "Ez a funkció a YayMail Pro-ban érhető el"
+
+#: includes/YayCommerceMenu/views/other-plugins-content.php:246
+msgid "This plugin doesn&#8217;t work with your version of PHP."
+msgstr ""
+
+#: includes/YayCommerceMenu/views/other-plugins-content.php:237
+msgid "This plugin doesn&#8217;t work with your version of WordPress."
+msgstr ""
+
+#: includes/YayCommerceMenu/views/other-plugins-content.php:213
+msgid "This plugin doesn&#8217;t work with your versions of WordPress and PHP."
+msgstr ""
+
+#: includes/I18n.php:63
+msgid "Thumbnail"
+msgstr "Bélyegkép"
+
+#: includes/MailBuilder/Shortcodes.php:2834
+msgid "Thursday"
+msgstr "Csütörtök"
+
+#: includes/Templates/Elements/YayMail/FooEventsTicket.php:24
+msgid "Ticket Details"
+msgstr ""
+
+#: views/templates/emails/LatePoint/SampleTemplate/latepoint-booking-detail.php:21
+#:  views/templates/emails/LatePoint/latepoint-booking-detail.php:54 
+#: views/templates/emails/sampleOrder/jet-booking-details.php:28
+msgid "Time"
+msgstr ""
+
+#: includes/I18n.php:189
+msgid "Title"
+msgstr "Cím"
+
+#: includes/I18n.php:170
+msgid "Title color"
+msgstr "Cím szín"
+
+#: includes/I18n.php:190
+msgid "Title size"
+msgstr "Cím méret"
+
+#: includes/I18n.php:306
+msgid "to see if it can be customized with"
+msgstr ""
+
+#: includes/I18n.php:119
+msgid "To send emails to inbox, we recommend:"
+msgstr ""
+
+#: includes/I18n.php:165
+msgid "Top"
+msgstr "Fent"
+
+#: includes/I18n.php:249
+msgid "Top content"
+msgstr "Legfelső tartalom"
+
+#: includes/Helper/Helper.php:242 
+#: views/templates/emails/sampleOrder/email-order-details-border.php:73 
+#: views/templates/emails/sampleOrder/email-order-details.php:67
+msgid "Total:"
+msgstr ""
+
+#: views/templates/emails/chitchats_shipping_shipments.php:57 
+#: views/templates/emails/chitchats_shipping_shipments.php:58 
+#: views/templates/emails/sampleOrder/chitchats_shipping_shipments.php:37 
+#: views/templates/emails/sampleOrder/chitchats_shipping_shipments.php:38 
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:49 
+#: views/templates/emails/wc_shipment_tracking-info.php:72
+msgid "Track"
+msgstr ""
+
+#: includes/Templates/Elements/YayMail/ShippingTaxShipmentTracking.php:24
+msgid "Tracking"
+msgstr ""
+
+#: includes/I18n.php:275
+msgid "Tracking details"
+msgstr ""
+
+#: views/templates/emails/wc_shipment_tracking-title.php:12
+msgid "Tracking Information"
+msgstr ""
+
+#: views/templates/emails/ph_shipment_tracking_api_manager.php:21 
+#: views/templates/emails/sampleOrder/ph_shipment_tracking_api_manager.php:21
+msgid "Tracking No."
+msgstr ""
+
+#: views/templates/emails/chitchats_shipping_shipments.php:18 
+#: views/templates/emails/chitchats_shipping_shipments.php:29 
+#: views/templates/emails/ph_shipment_tracking_api_manager.php:28 
+#: views/templates/emails/sampleOrder/chitchats_shipping_shipments.php:17 
+#: views/templates/emails/sampleOrder/chitchats_shipping_shipments.php:25 
+#: views/templates/emails/sampleOrder/ph_shipment_tracking_api_manager.php:28 
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:18 
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:42 
+#: views/templates/emails/wc_shipment_tracking-info.php:18 
+#: views/templates/emails/wc_shipment_tracking-info.php:60
+msgid "Tracking Number"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/shipping_tax_shipment_tracking.php:19 
+#: views/templates/emails/shipping_tax_shipment_tracking.php:19
+msgid "Tracking number"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/tracking_more_info.php:10 
+#: views/templates/emails/tracking_more_info.php:105
+msgid "Tracking number is "
+msgstr ""
+
+#: views/templates/emails/tracking_more_info.php:24
+msgid "Tracking number:"
+msgstr ""
+
+#: includes/I18n.php:302
+msgid "Translate Integration Priority"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:2832
+msgid "Tuesday"
+msgstr "Kedd"
+
+#: includes/I18n.php:195
+msgid "Type"
+msgstr "Típus"
+
+#: includes/I18n.php:320
+msgid "Undo"
+msgstr "Visszavonás"
+
+#: includes/I18n.php:137
+msgid "Undo & Redo"
+msgstr ""
+
+#: includes/I18n.php:136
+msgid "Unlock full features and premium support"
+msgstr "Teljes körű funkciók és prémium támogatás"
+
+#: includes/I18n.php:299
+msgid "Update"
+msgstr "Frissítés"
+
+#: includes/YayCommerceMenu/views/other-plugins-content.php:110 
+#: includes/YayCommerceMenu/views/other-plugins-content.php:121
+msgid "Update Now"
+msgstr "Frissítés most"
+
+#: includes/YayCommerceMenu/OtherPluginsMenu.php:462
+msgid "Update success"
+msgstr "Sikeres frissítés"
+
+#: includes/Page/Source/DisplayNotice.php:25
+msgid "Upgrade Now"
+msgstr "Frissítés most"
+
+#: includes/I18n.php:230
+msgid "URL"
+msgstr "URL"
+
+#: includes/I18n.php:352
+msgid "Use this image"
+msgstr "Használd ezt a képet"
+
+#: includes/I18n.php:353
+msgid "Use this video"
+msgstr "Használd ezt a videót"
+
+#: includes/Templates/DefaultTemplate/CustomerResetPassword.php:28
+msgid "Username"
+msgstr "Felhasználónév"
+
+#: includes/I18n.php:109
+msgid "Vendor"
+msgstr ""
+
+#. translators: Version.
+#: views/templates/emails/software_add_on.php:22
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: includes/I18n.php:277
+msgid "Video url"
+msgstr "Videó URL"
+
+#: includes/Page/Settings.php:137
+msgid "View Email Template"
+msgstr "Email sablon megtekintése"
+
+#: includes/I18n.php:209
+msgid "View products"
+msgstr "Termékek"
+
+#: includes/Page/Settings.php:116
+msgid "View WooCommerce Email Builder"
+msgstr ""
+
+#: includes/I18n.php:318
+msgid "Warning"
+msgstr "Figyelmeztetés"
+
+#: includes/I18n.php:272
+msgid "Wc hook order item"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerCompletedOrder.php:26
+msgid "We have finished processing your order."
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:38
+msgid "We have finished processing your subscription renewal order."
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerRefundedOrder.php:27
+msgid "We hope to see you again soon."
+msgstr "Reméljük, hogy hamarosan újra találkozunk."
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:43 
+#: includes/Templates/DefaultTemplate/CustomerOnHoldOrder.php:27
+msgid "We look forward to fulfilling your order soon."
+msgstr "Örömmel várjuk, hogy megrendelését minél hamarabb teljesíthessük."
+
+#: includes/Templates/DefaultTemplate/CustomerNewAccount.php:29
+msgid "We look forward to seeing you soon."
+msgstr "Alig várjuk, hogy hamarosan találkozzunk."
+
+#: includes/MailBuilder/Shortcodes.php:2833
+msgid "Wednesday"
+msgstr "Szerda"
+
+#: includes/I18n.php:268
+msgid "Weight"
+msgstr "Vastagság"
+
+#: includes/Templates/DefaultTemplate/CustomerNewAccount.php:25
+msgid "Welcome to {site_title}"
+msgstr ""
+
+#: includes/I18n.php:231
+msgid "Width"
+msgstr "Szélesség"
+
+#: includes/I18n.php:51
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/Page/Source/DisplayNotice.php:60
+msgid "WooCommerce Admin Custom Order fields (PRO)"
+msgstr "WooCommerce Admin Custom Order fields (PRO)"
+
+#: includes/Page/Source/DisplayNotice.php:54
+msgid "WooCommerce Custom Email Templates (PRO)"
+msgstr "WooCommerce Custom Email Templates (PRO)"
+
+#: includes/I18n.php:46
+msgid "WooCommerce Email Customizer"
+msgstr "WooCommerce Email Customizer"
+
+#: includes/Page/Source/DisplayNotice.php:45
+msgid "WooCommerce Order Status Manager (PRO)"
+msgstr "WooCommerce Order Status Manager (PRO)"
+
+#: includes/I18n.php:141
+msgid "WooCommerce Shipment Tracking"
+msgstr "WooCommerce Shipment Tracking"
+
+#: includes/Page/Source/DisplayNotice.php:39
+msgid "WooCommerce Shipment Tracking (PRO)"
+msgstr "WooCommerce Shipment Tracking (PRO)"
+
+#: includes/Page/Source/DisplayNotice.php:33
+msgid "WooCommerce Subscriptions (PRO)"
+msgstr "WooCommerce Subscriptions (PRO)"
+
+#: includes/I18n.php:143
+msgid "WPML, Polylang, TranslatePress, and more!"
+msgstr ""
+
+#: includes/I18n.php:327
+msgid "XL"
+msgstr "XL"
+
+#: includes/I18n.php:328
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/I18n.php:118
+msgid "Yay! Email sent successfully."
+msgstr ""
+
+#: includes/I18n.php:134
+msgid "Yay! You've made the right choice!"
+msgstr ""
+
+#. Author of the plugin/theme
+#: includes/MailBuilder/Shortcodes.php:1756 
+#: includes/MailBuilder/Shortcodes.php:1770
+msgid "YayCommerce"
+msgstr "YayCommerce"
+
+#: includes/MailBuilder/Shortcodes.php:1269 
+#: includes/MailBuilder/Shortcodes.php:1275 
+#: includes/MailBuilder/Shortcodes.php:1277 
+#: includes/MailBuilder/Shortcodes.php:1707 
+#: includes/MailBuilder/Shortcodes.php:1713 
+#: includes/MailBuilder/Shortcodes.php:1715 includes/Page/Settings.php:162 
+#: includes/YayCommerceMenu/RegisterMenu.php:148
+msgid "YayMail"
+msgstr "YayMail"
+
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:29 
+#: views/templates/emails/sampleOrder/wc_shipment_tracking-info.php:38
+msgid "yaymail"
+msgstr "yaymail"
+
+#. Plugin Name of the plugin/theme
+msgid "YayMail Pro - WooCommerce Email Customizer"
+msgstr "YayMail Pro - WooCommerce Email Customizer"
+
+#: includes/MailBuilder/Shortcodes.php:1273 
+#: includes/MailBuilder/Shortcodes.php:1274 
+#: includes/MailBuilder/Shortcodes.php:1711 
+#: includes/MailBuilder/Shortcodes.php:1712
+msgid "yaymail@gmail.com"
+msgstr "yaymail@gmail.com"
+
+#: includes/MailBuilder/Shortcodes.php:1817
+msgid "yaymail_code"
+msgstr "yaymail_code"
+
+#: includes/I18n.php:120
+msgid "YaySMTP – Simple WP SMTP Mail"
+msgstr "YaySMTP – Simple WP SMTP Mail"
+
+#: includes/I18n.php:57
+msgid "Yes"
+msgstr "Igen"
+
+#: includes/I18n.php:93 includes/I18n.php:235
+msgid "Yes, sure!"
+msgstr "Igen, töröld!"
+
+#: includes/License/EDD_SL_Plugin_Updater.php:537
+msgid "You do not have permission to install plugin updates"
+msgstr "Nincs jogosultsága a plugin frissítések telepítésére"
+
+#: includes/I18n.php:310
+msgid "You have no revision."
+msgstr "Nincs revízió."
+
+#: includes/Templates/DefaultTemplate/CustomOrderStastus.php:30
+msgid "You have received a subscription renewal order from "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/NewOrder.php:25
+msgid "You've received the following order from "
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerInvoice.php:24
+msgid "Your invoice for order #{order_number}"
+msgstr ""
+
+#: includes/MailBuilder/Shortcodes.php:1549
+msgid "Your Order"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/PartiallyShipped.php:24
+msgid "Your Order is Partially Shipped"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/AdvancedShipmentTracking/ShippedOrder.php:24
+msgid "Your Order is Shipped"
+msgstr ""
+
+#: includes/Templates/DefaultTemplate/CustomerRefundedOrder.php:26
+msgid "Your order on "
+msgstr ""
+
+#: views/templates/emails/sampleOrder/tracking_more_info.php:9 
+#: views/templates/emails/tracking_more_info.php:104
+msgid "Your order was shipped via "
+msgstr ""
+
+#. translators: %s: Auto generated password
+#: includes/Templates/DefaultTemplate/CustomerNewAccount.php:34
+#, php-format
+msgid "Your password has been automatically generated: %s"
+msgstr ""
+
+#: views/templates/emails/sampleOrder/email-order-details-border.php:51 
+#: views/templates/emails/sampleOrder/email-order-details-border.php:60 
+#: views/templates/emails/sampleOrder/email-order-details-border.php:76 
+#: views/templates/emails/sampleOrder/email-order-details.php:45 
+#: views/templates/emails/sampleOrder/email-order-details.php:54 
+#: views/templates/emails/sampleOrder/email-order-details.php:70
+msgid "£18.00"
+msgstr ""
