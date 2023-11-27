@@ -76,6 +76,6 @@ A repómhoz kollaborációs lehetőség is van, de ehhez javasolt némi github i
 
 ### Hol tudok információt szerezni a fordítások frissítéséről, vagy új fordításokról? 
 
-A legjobb módja ennek, ha csatlakozol Discord közösségünkhöz. Github tracker, és fordítási társalgó csatornákat biztosítunk, ha pedig új fordítást töltünk fel, egyből pigenlünk.
+A legjobb módja ennek, ha csatlakozol Discord közösségünkhöz. Github tracker, és fordítási társalgó csatornákat biztosítunk, ha pedig új fordítást töltünk fel, egyből pingelünk.
 
 Discord szerver elérhetőség: https://discord.com/invite/hellowp
