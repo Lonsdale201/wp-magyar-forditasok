@@ -10,6 +10,7 @@ https://fluentbooking.com/
 Utoljára módosítva: 
 2023.11.27
 
+FluentBooking verzió: 1.2.1
 
 Fordította: Soczó Kristóf
 
