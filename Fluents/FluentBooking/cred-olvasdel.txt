@@ -1,5 +1,5 @@
 FluentBooking
-31% feletti fordítások
+33% feletti fordítások
 
 Teszt állapotban van. Jelezzétek az Issue szekcióban a felrefordításokat, vagy javaslatokat.
 
@@ -10,7 +10,7 @@ https://fluentbooking.com/
 Utoljára módosítva: 
 2023.11.27
 
-FluentBooking verzió: 1.2.1
+FluentBooking verzió: 1.2.2
 
 Fordította: Soczó Kristóf
 
