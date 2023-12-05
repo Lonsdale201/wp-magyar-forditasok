@@ -1,0 +1,478 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fluent Support Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-14 12:06+0000\n"
+"PO-Revision-Date: 2023-12-04 15:54+0000\n"
+"Last-Translator: Radics József Géza\n"
+"Language-Team: Magyar\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Domain: fluent-support-pro"
+
+#: app/Services/Integrations/RCPro.php:145
+msgid "Activated:"
+msgstr ""
+
+#: app/Services/AutoCloseService.php:188
+msgid "Add Custom Response when closing the ticket"
+msgstr "Egyéni válasz hozzáadása a ticket lezárásakor"
+
+#: app/Services/Integrations/BuddyBoss.php:23
+#: app/Services/Integrations/BuddyBoss.php:162
+msgid "BuddyBoss Groups"
+msgstr ""
+
+#: app/Services/Integrations/BuddyBoss.php:21
+msgid "BuddyBoss groups will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/Integrations/BuddyBoss.php:31
+msgid "BuddyBoss User Groups"
+msgstr ""
+
+#: app/Services/Integrations/BuddyBoss.php:29
+msgid "BuddyBoss user groups will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/AutoCloseService.php:162
+msgid "Close only if tickets are in the following tags"
+msgstr ""
+
+#: app/Services/AutoCloseService.php:176
+msgid "Close tickets silently (no email or events will be fired)"
+msgstr ""
+
+#: app/Http/Controllers/TicketFormController.php:163
+msgid "Content help message"
+msgstr ""
+
+#: app/Services/Integrations/LearnDash.php:154
+#: app/Services/Integrations/LifterLMS.php:148
+#: app/Services/Integrations/TutorLMS.php:144
+msgid "Course Name:"
+msgstr ""
+
+#: app/Services/Integrations/LearnDash.php:152
+#: app/Services/Integrations/LifterLMS.php:146
+#: app/Services/Integrations/TutorLMS.php:142
+msgid "Course Name: "
+msgstr ""
+
+#: app/Services/ProHelper.php:40
+msgid "Create a New Ticket"
+msgstr ""
+
+#: app/Services/ProHelper.php:38
+msgid "Create Ticket"
+msgstr "Új ticket"
+
+#: app/Http/Controllers/TicketFormController.php:166
+msgid "Create ticket button text"
+msgstr ""
+
+#: app/Http/Controllers/TicketFormController.php:167
+msgid "Create ticket page heading"
+msgstr ""
+
+#: app/Http/Controllers/CustomFieldsController.php:91
+msgid "Custom Data has been updated"
+msgstr ""
+
+#: app/Http/Controllers/CustomFieldsController.php:72
+msgid "Custom fields are successfully saved"
+msgstr ""
+
+#: app/Services/AutoCloseService.php:194
+msgid ""
+"Custom Response Text that will be sent to customer when closing the ticket "
+"automatically"
+msgstr ""
+
+#. Description of the plugin
+msgid "Customer Support and Ticketing System for WordPress"
+msgstr ""
+
+#: app/Http/Controllers/AutoCloseController.php:46
+msgid "Default fallback agent is required"
+msgstr ""
+
+#: app/Services/AutoCloseService.php:158
+msgid "Do not close if customer is waiting for response"
+msgstr ""
+
+#: app/Services/AutoCloseService.php:168
+msgid "Do Not close if tickets are in the following tags"
+msgstr ""
+
+#: app/Services/AutoCloseService.php:182
+msgid "Don't close bookmarked tickets"
+msgstr ""
+
+#: app/Services/Integrations/Edd.php:61
+msgid "EDD Orders"
+msgstr ""
+
+#: app/Services/Integrations/Edd.php:59
+msgid "EDD orders will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/Integrations/Edd.php:53
+msgid "EDD Products"
+msgstr ""
+
+#: app/Services/Integrations/Edd.php:51
+msgid "EDD products will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/Integrations/Edd.php:198
+msgid "EDD Purchases"
+msgstr ""
+
+#: app/Services/Integrations/TutorLMS.php:145
+msgid "Enrolled"
+msgstr ""
+
+#: fluent-support-pro.php:55
+msgid "Every Quarter Till Hour"
+msgstr ""
+
+#: fluent-support-pro.php:51
+msgid "Every Two Hours"
+msgstr ""
+
+#. Name of the plugin
+msgid "Fluent Support Pro"
+msgstr ""
+
+#: app/Http/Controllers/TicketFormController.php:162
+msgid "Form content heading"
+msgstr "Űrlap tartalom címe"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://fluentsupport.com"
+msgstr ""
+
+#: app/Services/AutoCloseService.php:150
+msgid "Inactive days for tickets that you want to close automatically"
+msgstr ""
+
+#: app/Services/Integrations/LearnDash.php:23
+#: app/Services/Integrations/LearnDash.php:163
+msgid "LearnDash Courses"
+msgstr ""
+
+#: app/Services/Integrations/LearnDash.php:21
+msgid "LearnDash Courses will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/Integrations/LearnDash.php:31
+msgid "LearnDash User Courses"
+msgstr ""
+
+#: app/Services/Integrations/LearnDash.php:29
+msgid "LearnDash User Courses will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/Integrations/LearnPress.php:96
+msgid "LearnPress Courses"
+msgstr ""
+
+#: app/Services/Integrations/LearnPress.php:94
+msgid "LearnPress Courses will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/Integrations/LearnPress.php:104
+msgid "LearnPress User Courses"
+msgstr ""
+
+#: app/Services/Integrations/LearnPress.php:102
+msgid "LearnPress User Courses will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/Integrations/PMPro.php:134
+#: app/Services/Integrations/RCPro.php:142
+#: app/Services/Integrations/WishListMember.php:135
+msgid "Level:"
+msgstr "Szint:"
+
+#: app/Services/Integrations/LifterLMS.php:158
+msgid "Lifter LMS Courses"
+msgstr ""
+
+#: app/Services/Integrations/LifterLMS.php:44
+msgid "LifterLMS Courses"
+msgstr ""
+
+#: app/Services/Integrations/LifterLMS.php:42
+msgid "LifterLMS Courses will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/Integrations/LifterLMS.php:52
+msgid "LifterLMS User Courses"
+msgstr ""
+
+#: app/Services/Integrations/LifterLMS.php:50
+msgid "LifterLMS User Courses will be shown at the ticket form"
+msgstr ""
+
+#: app/Http/Controllers/IncomingWebhookController.php:102
+msgid "Mailbox updated successfully"
+msgstr ""
+
+#: app/Services/Integrations/BuddyBoss.php:153
+msgid "Member From:"
+msgstr ""
+
+#: app/Services/Integrations/PMPro.php:137
+msgid "Membership End:"
+msgstr ""
+
+#: app/Services/Integrations/PMPro.php:135
+msgid "Membership Start:"
+msgstr ""
+
+#: app/Services/Integrations/BuddyBoss.php:152
+msgid "Name:"
+msgstr "Név:"
+
+#: app/Http/Controllers/IncomingWebhookController.php:108
+msgid "No incoming webhook found"
+msgstr ""
+
+#: app/Services/Integrations/Edd.php:106 app/Services/Integrations/Edd.php:116
+#: app/Services/Integrations/WooCommerce.php:102
+#: app/Services/Integrations/WooCommerce.php:113
+#, php-format
+msgid "Order #%d"
+msgstr ""
+
+#: app/Services/Integrations/Edd.php:82 app/Services/Integrations/Edd.php:249
+#: app/Services/Integrations/WooCommerce.php:57
+#: app/Services/Integrations/WooCommerce.php:442
+#, php-format
+msgid "Order #%d - %s"
+msgstr ""
+
+#: app/Services/Integrations/PMPro.php:147
+msgid "Paid Membership Pro"
+msgstr ""
+
+#: app/Services/Integrations/PMPro.php:23
+msgid "Paid Membership Pro Levels"
+msgstr ""
+
+#: app/Services/Integrations/PMPro.php:31
+msgid "Paid Membership Pro User Levels"
+msgstr ""
+
+#: app/Services/Integrations/PMPro.php:21
+msgid "Paid Membership Pro's levels will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/Integrations/PMPro.php:29
+msgid "Paid Membership Pro's User levels will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/ProHelper.php:35
+msgid "Please provide details about your problem"
+msgstr ""
+
+#: app/Http/Controllers/AutoCloseController.php:39
+msgid "Please use different tags in include and exclude tags field"
+msgstr ""
+
+#: app/Services/ProHelper.php:37
+msgid "Priority"
+msgstr "Priorítás"
+
+#: app/Http/Controllers/TicketFormController.php:165
+msgid "Priority heading"
+msgstr ""
+
+#: app/Http/Controllers/TicketFormController.php:164
+msgid "Product/Service heading"
+msgstr ""
+
+#: app/Services/Integrations/Edd.php:180
+msgid "Purchase Date: "
+msgstr "Vásárlás ideje:"
+
+#: app/Services/ProHelper.php:36
+msgid "Related Product/Service"
+msgstr ""
+
+#: app/Http/Controllers/AutoCloseController.php:52
+msgid "Response body is required"
+msgstr ""
+
+#: app/Services/Integrations/RCPro.php:155
+msgid "Restrict Content Pro"
+msgstr ""
+
+#: app/Services/Integrations/RCPro.php:24
+msgid "Restrict Content Pro Levels"
+msgstr ""
+
+#: app/Services/Integrations/RCPro.php:32
+msgid "Restrict Content Pro User Levels"
+msgstr ""
+
+#: app/Services/Integrations/RCPro.php:30
+msgid "Restrict Content Pro User levels will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/Integrations/RCPro.php:22
+msgid "Restrict Content Pro's levels will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/AutoCloseService.php:203
+msgid "Select default agent if the ticket has not assigned to any agent"
+msgstr ""
+
+#: app/Http/Controllers/WorkflowsController.php:208
+msgid "Selected workflow has been deleted"
+msgstr ""
+
+#: app/Http/Controllers/TicketFormController.php:49
+#: app/Http/Controllers/AutoCloseController.php:60
+msgid "Settings has been updated"
+msgstr ""
+
+#: app/Services/Integrations/RCPro.php:143
+#: app/Services/Integrations/LearnDash.php:155
+#: app/Services/Integrations/LifterLMS.php:149
+#: app/Services/Integrations/WishListMember.php:136
+#: app/Services/Integrations/TutorLMS.php:145
+msgid "Status:"
+msgstr "Állapot:"
+
+#: app/Services/ProHelper.php:33
+msgid "Subject"
+msgstr "Tárgy"
+
+#: app/Http/Controllers/TicketFormController.php:161
+msgid "Subject heading"
+msgstr ""
+
+#: app/Services/ProHelper.php:39
+msgid "Submit a Support Ticket"
+msgstr ""
+
+#: app/Services/Integrations/WooCommerce.php:151
+msgid "Support"
+msgstr ""
+
+#: app/Services/PluginManager/LicenseManager.php:78
+#, php-format
+msgid "The %s license needs to be activated. %sActivate Now%s"
+msgstr ""
+
+#: app/Services/ProTicketService.php:19
+#, php-format
+msgid "Ticket #%s has been merged with this ticket at %s"
+msgstr ""
+
+#: app/Http/Controllers/TicketFormController.php:168
+msgid "Ticket Create Call to Action"
+msgstr ""
+
+#: app/Services/ProHelper.php:34
+msgid "Ticket Details"
+msgstr "Ticket adatai"
+
+#: app/Services/AutoCloseService.php:103
+msgid "Ticket has been closed automatically by the system due to inactivity"
+msgstr ""
+
+#: app/Services/ProTicketService.php:41
+msgid "Tickets has been merged"
+msgstr ""
+
+#: app/Services/Integrations/TutorLMS.php:23
+#: app/Services/Integrations/TutorLMS.php:154
+msgid "Tutor LMS Courses"
+msgstr ""
+
+#: app/Services/Integrations/TutorLMS.php:21
+msgid "Tutor LMS Courses will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/Integrations/TutorLMS.php:31
+msgid "Tutor LMS User Courses"
+msgstr ""
+
+#: app/Services/Integrations/TutorLMS.php:29
+msgid "Tutor LMS User Courses will be shown at the ticket form"
+msgstr ""
+
+#: app/Http/Controllers/IncomingWebhookController.php:82
+msgid "Webhook updated successfully"
+msgstr ""
+
+#: app/Services/Integrations/WishListMember.php:145
+msgid "WishList Member"
+msgstr ""
+
+#: app/Services/Integrations/WishListMember.php:24
+msgid "WishListMember Levels"
+msgstr ""
+
+#: app/Services/Integrations/WishListMember.php:22
+msgid "WishListMember levels will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/Integrations/WishListMember.php:32
+msgid "WishListMember User Levels"
+msgstr ""
+
+#: app/Services/Integrations/WishListMember.php:30
+msgid "WishListMember user levels will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/Integrations/WooCommerce.php:32
+msgid "WooCommerce Orders"
+msgstr ""
+
+#: app/Services/Integrations/WooCommerce.php:30
+msgid "WooCommerce orders will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/Integrations/WooCommerce.php:24
+msgid "WooCommerce Products"
+msgstr ""
+
+#: app/Services/Integrations/WooCommerce.php:22
+msgid "WooCommerce products will be shown at the ticket form"
+msgstr ""
+
+#: app/Services/Integrations/WooCommerce.php:286
+#: app/Services/Integrations/WooCommerce.php:375
+msgid "WooCommerce Purchases"
+msgstr ""
+
+#: app/Http/Controllers/WorkflowsController.php:114
+msgid "Workflow has been updated"
+msgstr ""
+
+#: app/Http/Controllers/WorkflowsController.php:102
+msgid "Workflow title needs to be unique"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPManageNinja LLC"
+msgstr ""
+
+#: app/Http/Controllers/LicenseController.php:58
+msgid "Your license key has been successfully deactivated"
+msgstr ""
+
+#: app/Http/Controllers/LicenseController.php:41
+msgid "Your license key has been successfully updated"
+msgstr ""
