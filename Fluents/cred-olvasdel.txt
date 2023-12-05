@@ -6,6 +6,7 @@ Linkek:
 https://fluentsupport.com/
 https://wpmanageninja.com/ninja-tables/connect-wp-fluent-form-with-ninjatables/
 https://fluentcrm.com/
+https://fluentbooking.com/
 
 Utoljára módosítva: 
 
@@ -17,6 +18,12 @@ Utoljára módosítva:
 Verziók: ismeretlen
 
 Fordította: Ismeretlen
+
+== UPD ==
+2023.12.05
+
+FluentSupport továbbá FluentCRM - teljesen új javított fordítások lettek feltöltve. A két plugin fordítását és a karbantartását Radics József Géza végzi.
+A nemrég megjelent FluentBooking fordítását Soczó Kristóf készíti.
 
 Elérhetőség
 Discord: 
