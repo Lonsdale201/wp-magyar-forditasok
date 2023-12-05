@@ -1,0 +1,3622 @@
+# Copyright (C) 2023 WPDeveloper
+# This file is distributed under the GPL-3.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: BetterDocs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-25 06:05+0000\n"
+"PO-Revision-Date: 2023-08-23 09:32+0000\n"
+"Last-Translator: Radics József Géza\n"
+"Language-Team: Magyar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.3\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;"
+
+#: admin/partials/betterdocs-settings-sidebar.php:10
+#, php-format
+msgid "<a rel=\"nofollow\" href=\"%s\" target=\"_blank\">Manage License</a>"
+msgstr "<a rel=\"nofollow\" href=\"%s\" target=\"_blank\">Licensz kezelése</a>"
+
+#: admin/includes/betterdocs-settings-page-helper.php:590
+msgid ""
+"<strong>You can use:</strong> [betterdocs_category_box column=\"3\" "
+"terms=\"term_ID, term_ID\"]"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:581
+msgid ""
+"<strong>You can use:</strong> [betterdocs_category_grid "
+"post_counter=\"true\" icon=\"true\" masonry=\"true\" column=\"3\" "
+"posts_per_grid=\"5\" nested_subcategory=\"true\" terms=\"term_ID, term_ID\" "
+"kb_slug=\"\"]"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:599
+msgid ""
+"<strong>You can use:</strong> [betterdocs_category_list terms=\"term_ID, "
+"term_ID\"]"
+msgstr ""
+
+#: includes/class-betterdocs-helpers.php:149
+msgid "About"
+msgstr "Rólunk"
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:502
+msgid "Active Color Left Border"
+msgstr ""
+
+#: admin/customizer/customizer.php:3243 admin/customizer/customizer.php:3655
+msgid "Active Item Color"
+msgstr "Aktív elem szín"
+
+#: admin/customizer/customizer.php:5480
+msgid "Active List Item Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:4799
+msgid "Active Title Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:4819
+msgid "Active Title Border Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:4876
+msgid "Active Title Color"
+msgstr "Aktív cím színe"
+
+#: includes/class-betterdocs-docs-post-type.php:444
+#: includes/class-betterdocs-docs-post-type.php:523
+msgid "Add Image"
+msgstr "Kép hozzáadása"
+
+#: includes/class-betterdocs-docs-post-type.php:167
+#: admin/class-betterdocs-admin-screen.php:65
+#: admin/class-betterdocs-admin-screen.php:66
+msgid "Add New"
+msgstr "Új hozzáadása"
+
+#: admin/class-betterdocs-admin-screen.php:140
+msgid "Add New Doc"
+msgstr "Új dokumentum"
+
+#: includes/class-betterdocs-docs-post-type.php:183
+msgid "Add new doc from here"
+msgstr "Új dokumentum ide"
+
+#: includes/class-betterdocs-docs-post-type.php:168
+msgid "Add New Docs"
+msgstr "Új dokumentum"
+
+#: includes/class-betterdocs-docs-post-type.php:139
+msgid "Add New Docs Category"
+msgstr "Új kategória létrehozása"
+
+#: includes/class-betterdocs-docs-post-type.php:224
+msgid "Add New Tag"
+msgstr "Új Tag"
+
+#: includes/class-betterdocs-docs-post-type.php:227
+msgid "Add or remove tags"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-title.php:60
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: admin/includes/fields/betterdocs-adv_checkbox.php:11
+msgid "Advanced Design"
+msgstr "Design részletes beállítások"
+
+#: admin/includes/betterdocs-settings-page-helper.php:606
+msgid "Advanced Settings"
+msgstr "Részletes beállítások"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1323
+msgid "After"
+msgstr "Utána"
+
+#: includes/class-betterdocs-helpers.php:149
+msgid "ago"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-date.php:70
+#: includes/elementor/widgets/betterdocs-elementor-title.php:102
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:213
+#: includes/elementor/widgets/betterdocs-elementor-content.php:65
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:234
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:382
+#: includes/elementor/widgets/betterdocs-elementor-breadcrumbs.php:77
+msgid "Alignment"
+msgstr "Igazítás"
+
+#: admin/partials/betterdocs-admin-screen.php:46
+msgid "All Authors"
+msgstr "Minden szerző"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1454
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1596
+msgid "All Boxes Border"
+msgstr ""
+
+#: admin/partials/betterdocs-admin-screen.php:58
+msgid "All Categories"
+msgstr "Összes kategória"
+
+#: admin/partials/betterdocs-admin-screen.php:39
+msgid "All Dates"
+msgstr "Minden dátum"
+
+#: includes/class-betterdocs-docs-post-type.php:172
+#: admin/class-betterdocs-admin-screen.php:61
+msgid "All Docs"
+msgstr "Összes"
+
+#: includes/elementor/betterdocs-archive-condition.php:44
+msgid "All Docs Archive"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:476
+msgid "All Knowledge Base"
+msgstr ""
+
+#: includes/Core/Settings.php:1252
+msgid "All logged in users"
+msgstr ""
+
+#: includes/class-betterdocs-docs-post-type.php:219
+msgid "All Tags"
+msgstr "Minden címke"
+
+#: admin/customizer/customizer.php:5904
+msgid "Archive Content Border Radius"
+msgstr ""
+
+#: admin/customizer/customizer.php:6141
+msgid "Archive Description Margin"
+msgstr ""
+
+#: admin/customizer/customizer.php:5489
+#: admin/includes/betterdocs-settings-page-helper.php:505
+#: admin/includes/betterdocs-settings-page-helper.php:510
+msgid "Archive Page"
+msgstr "Archív oldal"
+
+#: admin/customizer/customizer.php:6000
+msgid "Archive Title Margin"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:535
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:760
+msgid "Area"
+msgstr "Terület"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:771
+msgid "Area Size"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1451
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1259
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1408
+msgid "Area Spacing"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-navigation.php:91
+msgid "Arrow Color"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:568
+msgid "Arrow Height"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:678
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:752
+msgid "Arrow Margin"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:666
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:740
+msgid "Arrow Padding"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:551
+msgid "Arrow Width"
+msgstr ""
+
+#: public/betterdocs-shortcodes.php:558
+#: admin/includes/class-betterdocs-db.php:35
+#: admin/includes/betterdocs-settings-page-helper.php:262
+#: includes/gutenberg/blocks/categorybox.php:81
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:226
+msgid "article"
+msgstr "cikk"
+
+#: public/betterdocs-shortcodes.php:560
+#: admin/includes/class-betterdocs-db.php:36
+#: admin/includes/betterdocs-settings-page-helper.php:256
+#: includes/gutenberg/blocks/categorybox.php:80
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:212
+msgid "articles"
+msgstr "cikkek"
+
+#: admin/partials/betterdocs-admin-screen.php:34
+msgid "Ascending"
+msgstr ""
+
+#: admin/customizer/customizer.php:212 admin/customizer/customizer.php:5618
+#: admin/customizer/customizer.php:7081
+msgid "Attachment"
+msgstr "Csatolás"
+
+#: admin/customizer/customizer.php:162 admin/customizer/customizer.php:5569
+#: admin/customizer/customizer.php:7030
+msgid "auto"
+msgstr "automatikus"
+
+#: admin/partials/betterdocs-admin-screen.php:71
+msgid "Auto Draft"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:317
+msgid "Background"
+msgstr "Háttér"
+
+#: admin/customizer/customizer.php:1139 admin/customizer/customizer.php:3349
+#: admin/customizer/customizer.php:4498 admin/customizer/customizer.php:5130
+#: admin/customizer/customizer.php:6965
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:166
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1374
+msgid "Background Color"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1517
+msgid "Background Color Hover"
+msgstr ""
+
+#: admin/customizer/customizer.php:116 admin/customizer/customizer.php:5526
+#: admin/customizer/customizer.php:6985
+msgid "Background Image"
+msgstr ""
+
+#: admin/customizer/customizer.php:7176
+msgid "Background Image Height"
+msgstr ""
+
+#: admin/customizer/customizer.php:7154
+msgid "Background Image Width"
+msgstr ""
+
+#: admin/customizer/customizer.php:135 admin/customizer/customizer.php:5544
+#: admin/customizer/customizer.php:7004
+msgid "Background Property"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1322
+msgid "Before"
+msgstr "Előtte"
+
+#: includes/class-betterdocs-usage-tracker.php:745
+msgid ""
+"Before you deactivate the plugin, would you quickly give us your reason for "
+"doing so?"
+msgstr "Mielőtt deaktiválod a Plugint, leírnád ennek okát?"
+
+#. Name of the plugin
+#: includes/class-betterdocs-docs-post-type.php:165
+#: admin/class-betterdocs-admin-screen.php:137
+#: includes/elementor/class-betterdocs-elementor.php:212
+#: includes/elementor/betterdocs-single-docs.php:115
+#: admin/customizer/customizer.php:8070
+#: public/partials/template-single/layout-5.php:167
+#: public/partials/template-single/layout-4.php:167
+#: public/partials/template-single/layout-1.php:174
+msgid "BetterDocs"
+msgstr "Betterdocs"
+
+#: includes/gutenberg/class-betterdocs-gutenberg-admin.php:93
+msgid "Betterdocs"
+msgstr "Betterdocs"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:26
+msgid "BetterDocs Category Box"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:26
+msgid "BetterDocs Category Grid"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:255
+msgid "BetterDocs Multiple KB"
+msgstr "BetterDocs Több tudásbázis"
+
+#: includes/elementor/class-betterdocs-elementor.php:560
+#: includes/elementor/class-betterdocs-elementor.php:694
+#: includes/elementor/class-betterdocs-elementor.php:768
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:70
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:77
+msgid "BetterDocs Order"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:76
+msgid "BetterDocs Root Slug"
+msgstr ""
+
+#: admin/includes/class-betterdocs-settings.php:28
+msgid "BetterDocs Settings"
+msgstr "BetterDocs beállítások"
+
+#: includes/elementor/betterdocs-template-source.php:31
+msgid "BetterDocs Templates"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-title.php:183
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:288
+msgid "Blend Mode"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:371
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:466
+msgid "Body"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:140
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:390
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:485
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:617
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:719
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:961
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1048
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1419
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1495
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:417
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:476
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:586
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:300
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:426
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:609
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:685
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:990
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1095
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1402
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1545
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1704
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1766
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:320
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:368
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:456
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:497
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:622
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:693
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:842
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:939
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1176
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1376
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1475
+msgid "Border"
+msgstr "Keret"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:331
+msgid "Border Bottom"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:372
+msgid "Border Bottom Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:971
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:455
+msgid "Border Bottom Hover"
+msgstr ""
+
+#: admin/customizer/customizer.php:1018
+msgid "Border Bottom Hover Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:994
+msgid "Border Bottom Hover Width"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:346
+msgid "Border Bottom Size"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:470
+msgid "Border Bottom Size Hover"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:336
+msgid "Border Color"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:496
+msgid "Border Color Hover"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:148
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:398
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:493
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:625
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:727
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:969
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1057
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1427
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1503
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:267
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:308
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:434
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:617
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:694
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1001
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1106
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:328
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:376
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:464
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:505
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:647
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:701
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:853
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:950
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1384
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1483
+msgid "Border Radius"
+msgstr ""
+
+#: admin/customizer/customizer.php:332 admin/customizer/customizer.php:640
+#: admin/customizer/customizer.php:1293 admin/customizer/customizer.php:1559
+#: admin/customizer/customizer.php:1775 admin/customizer/customizer.php:1876
+#: admin/customizer/customizer.php:2339 admin/customizer/customizer.php:2441
+#: admin/customizer/customizer.php:2713 admin/customizer/customizer.php:2813
+#: admin/customizer/customizer.php:2913 admin/customizer/customizer.php:3013
+#: admin/customizer/customizer.php:3431 admin/customizer/customizer.php:3529
+#: admin/customizer/customizer.php:3763 admin/customizer/customizer.php:4576
+#: admin/customizer/customizer.php:4980 admin/customizer/customizer.php:5077
+#: admin/customizer/customizer.php:5441 admin/customizer/customizer.php:5767
+#: admin/customizer/customizer.php:5864 admin/customizer/customizer.php:6057
+#: admin/customizer/customizer.php:6198 admin/customizer/customizer.php:6404
+#: admin/customizer/customizer.php:6761 admin/customizer/customizer.php:6924
+#: admin/customizer/customizer.php:7261 admin/customizer/customizer.php:7360
+#: admin/customizer/customizer.php:7565 admin/customizer/customizer.php:7976
+msgid "Bottom"
+msgstr ""
+
+#: admin/customizer/customizer.php:812 admin/customizer/customizer.php:2563
+#: admin/customizer/customizer.php:4692
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/customizer/customizer.php:792 admin/customizer/customizer.php:2543
+#: admin/customizer/customizer.php:4673
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:279
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:143
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:244
+msgid "Box"
+msgstr "Box"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1392
+msgid "Box Border"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1535
+msgid "Box Border Hover"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:201
+msgid "Box Border Radius"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:99
+msgid "Box Column"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1350
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1429
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1493
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1570
+msgid "Box Margin"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:127
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:299
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:189
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:270
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1362
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1441
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1505
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1582
+msgid "Box Padding"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:530
+msgid "Box Per Page"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1411
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1474
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:310
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:358
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1554
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1616
+msgid "Box Shadow Hover"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:115
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:287
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:177
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:258
+msgid "Box Spacing"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:47
+msgid "Box Style"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:151
+msgid "Box Width (%)"
+msgstr ""
+
+#: admin/customizer/customizer.php:3137
+msgid "Breadcrumb"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:396
+msgid "Breadcrumb Home Text"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:403
+msgid "Breadcrumb Home URL"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1368
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:309
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1280
+msgid "Button"
+msgstr "Gomb"
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1544
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1524
+msgid "Button Alignment"
+msgstr ""
+
+#: admin/customizer/customizer.php:2104
+msgid "Button Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:2146
+msgid "Button Border Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:2483
+msgid "Button Border Radius"
+msgstr ""
+
+#: admin/customizer/customizer.php:2253
+msgid "Button Border Width"
+msgstr ""
+
+#: admin/customizer/customizer.php:2228
+msgid "Button Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:2166
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:2206
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:2186
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:2381
+msgid "Button Margin"
+msgstr ""
+
+#: admin/customizer/customizer.php:2279
+msgid "Button Padding"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:283
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:71
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:261
+msgid "Button Text"
+msgstr ""
+
+#: admin/customizer/customizer.php:2125
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/class-betterdocs-docs-post-type.php:141
+#: admin/class-betterdocs-admin-screen.php:71
+#: admin/class-betterdocs-admin-screen.php:71
+msgid "Categories"
+msgstr "Kategóriák"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:496
+msgid "Category"
+msgstr "Kategória"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1907
+msgid "Category Article"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1928
+msgid "Category Article Color"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1977
+msgid "Category Article Hover Color"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1328
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1420
+msgid "Category Box"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1561
+msgid "Category Box Hover"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:585
+msgid "Category Box- Layout 2"
+msgstr ""
+
+#: admin/customizer/customizer.php:419
+msgid "Category Column Settings"
+msgstr ""
+
+#: admin/customizer/customizer.php:1037
+msgid "Category Content Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:934
+msgid "Category Description"
+msgstr ""
+
+#: admin/customizer/customizer.php:955
+msgid "Category Description Color"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:487
+msgid "Category Grid"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:576
+msgid "Category Grid- Layout 1"
+msgstr ""
+
+#: includes/class-betterdocs-docs-post-type.php:436
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1637
+msgid "Category Icon"
+msgstr "Kategória ikon"
+
+#: includes/class-betterdocs-docs-post-type.php:493
+msgid "Category Id"
+msgstr "Kategória ID"
+
+#: admin/customizer/customizer.php:1053
+msgid "Category Item Counter"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:594
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1115
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:130
+msgid "Category List"
+msgstr "Kategória lista"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1799
+msgid "Category Title"
+msgstr "Kategória címe"
+
+#: admin/customizer/customizer.php:917
+msgid "Category Title Border Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:859 admin/customizer/customizer.php:878
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1820
+msgid "Category Title Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:834
+msgid "Category Title Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:896
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1862
+msgid "Category Title Hover Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:468
+msgid "Category Title Padding Bottom"
+msgstr ""
+
+#: admin/customizer/customizer.php:438 admin/customizer/customizer.php:4725
+#: admin/customizer/customizer.php:5926
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:184
+msgid "Category Title Tag"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-date.php:78
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1527
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1552
+#: includes/elementor/widgets/betterdocs-elementor-title.php:110
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:221
+#: includes/elementor/widgets/betterdocs-elementor-content.php:73
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:242
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:390
+#: includes/elementor/widgets/betterdocs-elementor-breadcrumbs.php:85
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:807
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1507
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1532
+msgid "Center"
+msgstr "Közép"
+
+#: admin/customizer/customizer.php:253 admin/customizer/customizer.php:5657
+#: admin/customizer/customizer.php:7121
+msgid "center bottom"
+msgstr ""
+
+#: admin/customizer/customizer.php:252 admin/customizer/customizer.php:5656
+#: admin/customizer/customizer.php:7120
+msgid "center center"
+msgstr ""
+
+#: admin/customizer/customizer.php:251 admin/customizer/customizer.php:5655
+#: admin/customizer/customizer.php:7119
+msgid "center top"
+msgstr ""
+
+#: includes/class-betterdocs-docs-post-type.php:228
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: admin/includes/fields/betterdocs-text.php:9
+msgid "Click To Copy!"
+msgstr "Kattints ide a másoláshoz!"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:316
+msgid "Close Icon"
+msgstr "Bezárás ikon"
+
+#: admin/customizer/customizer.php:7719
+msgid "Close Icon Border Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:7698
+msgid "Close Icon Color"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1205
+msgid "Collapse Icon"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:121
+msgid "Collapsible on small devices"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:348
+msgid "Collapsible TOC on small devices"
+msgstr ""
+
+#: admin/customizer/customizer.php:3121 admin/customizer/customizer.php:3183
+#: admin/customizer/customizer.php:5195
+#: includes/elementor/widgets/betterdocs-elementor-doc-date.php:51
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:178
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:818
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:869
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:940
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1026
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1132
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1190
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1260
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1335
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1395
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1471
+#: includes/elementor/widgets/betterdocs-elementor-navigation.php:50
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:166
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:209
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:269
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:377
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:420
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:92
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:128
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:215
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:272
+#: includes/elementor/widgets/betterdocs-elementor-breadcrumbs.php:124
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:288
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:325
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:513
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:836
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:869
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:977
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1070
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1462
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1604
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:598
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:669
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:804
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:901
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:996
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1076
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1152
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1229
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1352
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1451
+msgid "Color"
+msgstr "Szín"
+
+#: admin/customizer/customizer.php:517 admin/customizer/customizer.php:538
+msgid "Column Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:732
+msgid "Column Border Radius"
+msgstr ""
+
+#: admin/customizer/customizer.php:558
+msgid "Column Hover Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:580
+msgid "Column Padding"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:208
+msgid "Comment Count"
+msgstr ""
+
+#: admin/customizer/customizer.php:165 admin/customizer/customizer.php:5572
+#: admin/customizer/customizer.php:7033
+msgid "contain"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:54
+msgid "Content"
+msgstr "Tartalom"
+
+#: admin/customizer/customizer.php:5670
+msgid "Content Area"
+msgstr ""
+
+#: admin/customizer/customizer.php:96 admin/customizer/customizer.php:2633
+#: admin/customizer/customizer.php:5689
+msgid "Content Area Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:3471 admin/customizer/customizer.php:5710
+msgid "Content Area Margin"
+msgstr ""
+
+#: admin/customizer/customizer.php:399
+msgid "Content Area Maximum Width"
+msgstr ""
+
+#: admin/customizer/customizer.php:271 admin/customizer/customizer.php:2653
+#: admin/customizer/customizer.php:2953 admin/customizer/customizer.php:3371
+#: admin/customizer/customizer.php:5807
+msgid "Content Area Padding"
+msgstr ""
+
+#: admin/customizer/customizer.php:375
+msgid "Content Area Width"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:341
+msgid "Content Offset"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:344
+msgid "content offset from top on scroll."
+msgstr ""
+
+#: admin/customizer/customizer.php:1361
+msgid "Content Space Between"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:204
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:63
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:59
+msgid "Controls"
+msgstr ""
+
+#: admin/customizer/customizer.php:8071
+msgid "Controls the design settings for the theme."
+msgstr ""
+
+#: public/class-betterdocs-public.php:119
+msgid "Copied"
+msgstr "Másolva"
+
+#: admin/class-betterdocs-admin.php:201
+msgid "Copied!"
+msgstr "Másolva!"
+
+#: public/class-betterdocs-public.php:423
+msgid "Copy URL"
+msgstr "URL másolás"
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:916
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:594
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:915
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:756
+msgid "Count"
+msgstr "Számláló"
+
+#: admin/includes/betterdocs-settings-page-helper.php:255
+msgid "Count Text"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:261
+msgid "Count Text Singular"
+msgstr ""
+
+#: admin/customizer/customizer.php:1441
+msgid "Counter"
+msgstr "Számláló"
+
+#: admin/customizer/customizer.php:1335
+msgid "Counter Size (Height, Width)"
+msgstr ""
+
+#: admin/customizer/customizer.php:164 admin/customizer/customizer.php:5571
+#: admin/customizer/customizer.php:7032
+msgid "cover"
+msgstr ""
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:84
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:86
+msgid "Create Categories"
+msgstr "Új kategória"
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:74
+msgid "Create Content"
+msgstr ""
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:90
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:92
+msgid "Create Docs"
+msgstr "Dokumentum létrehozása"
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:78
+msgid "Create Documentation Content"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create stunning Knowledge base for your WordPress website and reduce support "
+"pressure with the help of BetterDocs. Get access to amazing templates and "
+"create fully customizable KB within minutes."
+msgstr ""
+
+#: admin/partials/betterdocs-admin-screen.php:42
+msgid "Custom"
+msgstr "Egyedi"
+
+#: admin/customizer/customizer.php:7136
+msgid "Custom Background Image Size"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:89
+msgid "Custom Category Slug"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:95
+msgid "Custom Tag Slug"
+msgstr ""
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:103
+msgid "Customize"
+msgstr "Testreszabás"
+
+#: admin/includes/betterdocs-settings-page-helper.php:542
+msgid "Customize BetterDocs"
+msgstr "BetterDocs testreszabás"
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:117
+msgid "Customize Docs page, Docs, Archive page Live"
+msgstr ""
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:107
+msgid "Customize Everything"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:204
+msgid "Date"
+msgstr "Dátum"
+
+#: admin/partials/betterdocs-admin-screen.php:35
+msgid "Descending"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:558
+#: includes/elementor/class-betterdocs-elementor.php:692
+#: includes/elementor/class-betterdocs-elementor.php:766
+#: admin/customizer/customizer.php:1421
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:68
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:75
+msgid "Description"
+msgstr "Leírás"
+
+#: admin/customizer/customizer.php:6096
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1947
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1996
+msgid "Description Color"
+msgstr "Leírás színe"
+
+#: admin/customizer/customizer.php:6117
+msgid "Description Font Size"
+msgstr "Leírás betűtípus"
+
+#: admin/includes/betterdocs-settings-page-helper.php:533
+msgid "Design"
+msgstr "Design"
+
+#: admin/partials/betterdocs-field-display.php:11
+msgid "Design your templates and pages with live customizer."
+msgstr "Tervezd meg sablonjaidat és az oldalaidat."
+
+#: admin/includes/betterdocs-settings-page-helper.php:101
+msgid "Disable Root slug for KB Archives"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:690
+msgid ""
+"Display a list of articles or categories in a chat-like widget to give your "
+"visitors a chance of self-learning about your website."
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:158
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:209
+msgid "Div"
+msgstr "Div"
+
+#: includes/elementor/widgets/betterdocs-elementor-breadcrumbs.php:21
+msgid "Doc Breadcrumbs"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:24
+msgid "Doc Category Archive List"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-content.php:21
+msgid "Doc Content"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-content.php:103
+msgid "Doc Content Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:2753
+msgid "Doc Content Padding"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-date.php:19
+msgid "Doc Date"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:18
+msgid "Doc Feedback"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-navigation.php:18
+msgid "Doc Navigation"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:249
+msgid "Doc Reactions"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:23
+msgid "Doc Search Form"
+msgstr "Keresés űrlap"
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:21
+msgid "Doc Share"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:24
+msgid "Doc Sidebar"
+msgstr ""
+
+#: admin/partials/betterdocs-admin-screen.php:67
+msgid "Doc Status"
+msgstr "Dokumentum állapota"
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:24
+msgid "Doc Table of Contents"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-title.php:24
+#: includes/elementor/widgets/betterdocs-elementor-title-tag.php:15
+msgid "Doc Title"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:729
+msgid "doc_category (already used in permalink structure)"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:728
+msgid "doc_category added to permalink structure"
+msgstr ""
+
+#: includes/class-betterdocs-docs-post-type.php:166
+#: admin/includes/class-betterdocs-db.php:50
+msgid "Docs"
+msgstr ""
+
+#: includes/elementor/betterdocs-archive-condition.php:39
+#: includes/elementor/betterdocs-doc-archive.php:28
+#: includes/elementor/betterdocs-doc-archive.php:35
+msgid "Docs Archive"
+msgstr ""
+
+#: includes/class-betterdocs-docs-post-type.php:132
+#: includes/class-betterdocs-docs-post-type.php:134
+#: admin/includes/betterdocs-settings-page-helper.php:727
+msgid "Docs Categories"
+msgstr "Kategória"
+
+#: includes/class-betterdocs-docs-post-type.php:133
+msgid "Docs Category"
+msgstr "Dokumentum kategória"
+
+#: admin/customizer/customizer.php:1457
+msgid "Docs List"
+msgstr ""
+
+#: admin/customizer/customizer.php:1478
+msgid "Docs List Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1600
+msgid "Docs List Item Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1642
+msgid "Docs List Item Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:1620
+msgid "Docs List Item Hover Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1715
+msgid "Docs List Item Margin"
+msgstr ""
+
+#: admin/customizer/customizer.php:1816
+msgid "Docs List Item Padding"
+msgstr ""
+
+#: admin/customizer/customizer.php:6347
+msgid "Docs List Margin"
+msgstr ""
+
+#: admin/customizer/customizer.php:1499
+msgid "Docs List Padding"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:215
+msgid "Docs Order"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:197
+msgid "Docs Order By"
+msgstr ""
+
+#: includes/elementor/docs-page.php:31 admin/customizer/customizer.php:36
+#: admin/includes/betterdocs-settings-page-helper.php:81
+msgid "Docs Page"
+msgstr ""
+
+#: admin/customizer/customizer.php:1917 admin/customizer/customizer.php:6443
+msgid "Docs Subcategory Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1959 admin/customizer/customizer.php:6485
+msgid "Docs Subcategory Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:1937 admin/customizer/customizer.php:6463
+msgid "Docs Subcategory Hover Color"
+msgstr ""
+
+#: includes/class-betterdocs-docs-post-type.php:215
+msgid "Docs Tags"
+msgstr "Tag"
+
+#: admin/partials/betterdocs-settings-blocks.php:8
+#: admin/partials/betterdocs-settings-blocks.php:12
+msgid "Documentation"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:129
+#: admin/includes/betterdocs-settings-page-helper.php:134
+#: admin/includes/betterdocs-settings-page-helper.php:537
+msgid "Documentation Page"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:70
+msgid "Documentation Page Title"
+msgstr ""
+
+#: admin/partials/betterdocs-admin-screen.php:70
+msgid "Draft"
+msgstr "Piszkozat"
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:12
+msgid ""
+"Easily get started with this easy setup wizard and complete setting up your "
+"Knowledge Base."
+msgstr ""
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:116
+msgid "Easy To Customize"
+msgstr "Könnyen testreszabható"
+
+#: includes/class-betterdocs-docs-post-type.php:137
+msgid "Edit Category"
+msgstr "Kategória szerkesztése"
+
+#: includes/class-betterdocs-docs-post-type.php:170
+msgid "Edit Docs"
+msgstr "Dokumentum szerkesztése"
+
+#: includes/class-betterdocs-docs-post-type.php:222
+msgid "Edit Tag"
+msgstr "Tag szerkesztése"
+
+#: admin/includes/betterdocs-settings-page-helper.php:473
+msgid "Email Address"
+msgstr "E-mail cím"
+
+#: public/betterdocs-shortcodes.php:787
+msgid "Email:"
+msgstr "E-mail:"
+
+#: admin/includes/betterdocs-settings-page-helper.php:145
+msgid "Enable Advanced Search"
+msgstr "Részletes keresés engedélyezése"
+
+#: admin/includes/betterdocs-settings-page-helper.php:380
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:55
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:53
+msgid "Enable Built-in Documentation Page"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:409
+msgid "Enable Category on Breadcrumb"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:492
+msgid "Enable Comment"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:498
+msgid "Enable Credit"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:439
+msgid "Enable Email Feedback"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:267
+msgid "Enable Explore More Button"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:701
+msgid "Enable IA Live Preview"
+msgstr ""
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:65
+msgid "Enable Instant Answer"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:139
+msgid "Enable Live Search"
+msgstr "Engedélyezi az élő keresést"
+
+#: admin/includes/betterdocs-settings-page-helper.php:191
+msgid "Enable Masonry"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:48
+msgid "Enable Multiple Knowledge Base"
+msgstr "Több tudásbázis használat engedélyezés"
+
+#: admin/includes/betterdocs-settings-page-helper.php:486
+msgid "Enable Navigation"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:625
+msgid "Enable Nested Subcategory"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:249
+msgid "Enable Post Count"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:368
+msgid "Enable Post Title"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:427
+msgid "Enable Print Icon"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:421
+#: admin/includes/betterdocs-settings-page-helper.php:515
+msgid "Enable Sidebar Category List"
+msgstr ""
+
+#: admin/customizer/customizer.php:3947
+msgid "Enable Social Sharing?"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:335
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:220
+msgid "Enable Sticky TOC"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:300
+msgid "Enable Table of Contents (TOC)"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:433
+msgid "Enable Tags"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:415
+msgid "Enable Title on Breadcrumb"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:661
+#: admin/includes/betterdocs-settings-page-helper.php:695
+msgid "Enable/Disable"
+msgstr "Engedélyezés/Letiltás"
+
+#: admin/includes/betterdocs-settings-page-helper.php:679
+#: admin/includes/betterdocs-settings-page-helper.php:684
+msgid "Enable/Disable Instant Answer"
+msgstr ""
+
+#: admin/includes/class-betterdocs-notice.php:961
+msgid ""
+"Enjoy Holiday & get exclusive <strong>20% OFF</strong> with coupon code <em>"
+"<strong>‘Holiday’</strong></em> while upgrading to PRO. <a class=\"button "
+"button-small\" href=\"https://betterdocs.co/upgrade\" target=\"_blank\">"
+"Upgrade to PRO</a> "
+msgstr ""
+
+#: public/betterdocs-shortcodes.php:831
+msgid "Enter a valid email address."
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:74
+msgid "Enter button text"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:75
+msgid "Enter button text here"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-title.php:59
+msgid "Enter your title"
+msgstr ""
+
+#: admin/customizer/customizer.php:3871
+msgid "Entry Content"
+msgstr ""
+
+#: admin/customizer/customizer.php:4062
+msgid "Entry Footer"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:508
+msgid "Exclude"
+msgstr ""
+
+#: admin/includes/class-betterdocs-db.php:38
+#: admin/includes/betterdocs-settings-page-helper.php:284
+#: includes/gutenberg/blocks/categorygrid.php:97
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:266
+msgid "Explore More"
+msgstr ""
+
+#: admin/customizer/customizer.php:2084
+msgid "Explore More Button"
+msgstr ""
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:122
+msgid "Extensive Options Panel"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:221
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/customizer/customizer.php:4003
+msgid "Facebook Sharing"
+msgstr "Facebook megosztás"
+
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:163
+msgid "FeedBack Form"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:568
+msgid "Feedback Form"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:467
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:62
+msgid "Feedback Form Title"
+msgstr ""
+
+#: admin/customizer/customizer.php:4241
+msgid "Feedback Form Title Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:4216
+msgid "Feedback Form Title Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:4185
+msgid "Feedback Form Title Tag"
+msgstr ""
+
+#: admin/customizer/customizer.php:4103
+msgid "Feedback Icon"
+msgstr ""
+
+#: admin/customizer/customizer.php:4083
+msgid "Feedback Icon Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:4121
+msgid "Feedback Link Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:4163
+msgid "Feedback Link Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:4141
+msgid "Feedback Link Hover Color"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:455
+msgid "Feedback Link Text"
+msgstr ""
+
+#: public/betterdocs-shortcodes.php:842
+#, php-format
+msgid "Feedback message from %s"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:461
+msgid "Feedback URL"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:197
+msgid "Field Background Color"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:227
+msgid "Field Padding"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1273
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1309
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1649
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1683
+msgid "File Not Found"
+msgstr "A fájl nem található"
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:133
+msgid "Finalize"
+msgstr ""
+
+#: admin/setup-wizard/inc/class-betterdocs-setup-wizard.php:29
+msgid "Finish"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:106
+msgid "Fit to Screen"
+msgstr ""
+
+#: admin/customizer/customizer.php:221 admin/customizer/customizer.php:5626
+#: admin/customizer/customizer.php:7089
+msgid "fixed"
+msgstr ""
+
+#: admin/customizer/customizer.php:3917
+msgid "Font Color"
+msgstr "Betűszín"
+
+#: admin/customizer/customizer.php:1114 admin/customizer/customizer.php:3097
+#: admin/customizer/customizer.php:3158 admin/customizer/customizer.php:3892
+#: admin/customizer/customizer.php:5216
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:293
+msgid "Font Size"
+msgstr "Betűméret"
+
+#: admin/includes/betterdocs-settings-page-helper.php:38
+msgid "General"
+msgstr "Általános"
+
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:47
+msgid "General "
+msgstr "Általános"
+
+#: admin/includes/betterdocs-settings-page-helper.php:43
+msgid "General Settings"
+msgstr "Általános beálíltások"
+
+#: admin/partials/betterdocs-settings-blocks.php:11
+msgid ""
+"Get started by spending some time with the documentation to get familiar "
+"with BetterDocs. Build an awesome Knowledge Base for your customers with "
+"ease."
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:99
+msgid "Go Premium for More Features"
+msgstr ""
+
+#: admin/customizer/controls.php:471
+msgid "Go Pro"
+msgstr ""
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:114
+msgid "Go To Customizer"
+msgstr ""
+
+#: includes/Core/SetupWizard.php:153
+msgid "Go To Settings"
+msgstr "Vissza a beálíltásokhoz"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:105
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:283
+msgid "Grid"
+msgstr "Grid"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:117
+msgid "Grid Column"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:584
+msgid "Grid List Posts"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:392
+msgid "Grid Padding"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:521
+msgid "Grid Per Page"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:139
+msgid "Grid Space"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:405
+msgid "Grid Spacing"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:188
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:83
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:150
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:201
+msgid "H1"
+msgstr "H1"
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:189
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:84
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:151
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:202
+msgid "H2"
+msgstr "H2"
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:190
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:85
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:152
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:203
+msgid "H3"
+msgstr "H3"
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:191
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:86
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:153
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:204
+msgid "H4"
+msgstr "H4"
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:192
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:87
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:154
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:205
+msgid "H5"
+msgstr "H5"
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:193
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:88
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:155
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:206
+msgid "H6"
+msgstr "H6"
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:353
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:448
+msgid "Header"
+msgstr "Fejléc"
+
+#: admin/customizer/customizer.php:6634
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:207
+msgid "Heading"
+msgstr ""
+
+#: admin/customizer/customizer.php:6681
+msgid "Heading Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:6658
+msgid "Heading Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:6701
+msgid "Heading Margin"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:88
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:189
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1648
+msgid "Height"
+msgstr "Magasság"
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:224
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:236
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:248
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:260
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:223
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:100
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:112
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:124
+#: includes/elementor/widgets/betterdocs-elementor-content.php:56
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:103
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:125
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:137
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:172
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:184
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:334
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:458
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:157
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:170
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:185
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:224
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:240
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:252
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1294
+msgid "Hide"
+msgstr "Elrejt"
+
+#: admin/includes/class-betterdocs-db.php:51
+#: admin/includes/betterdocs-settings-page-helper.php:397
+msgid "Home"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:420
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:692
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:863
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1020
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1465
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:526
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:388
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:668
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:863
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1064
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1486
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1728
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1855
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1970
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:342
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:478
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:663
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:870
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1422
+msgid "Hover"
+msgstr ""
+
+#: admin/customizer/customizer.php:3201
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1143
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1271
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:177
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:281
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:388
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1007
+msgid "Hover Color"
+msgstr ""
+
+#: includes/class-betterdocs-helpers.php:515
+#: admin/includes/class-betterdocs-db.php:61
+#: admin/includes/betterdocs-settings-page-helper.php:468
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:64
+msgid "How can we help?"
+msgstr "Miben segíthetünk?"
+
+#: includes/elementor/widgets/betterdocs-elementor-title.php:82
+msgid "HTML Tag"
+msgstr "HTML elem"
+
+#. URI of the plugin
+msgid "https://betterdocs.co/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpdeveloper.com"
+msgstr ""
+
+#: admin/includes/class-betterdocs-notice.php:924
+msgid "I already did"
+msgstr ""
+
+#: includes/class-betterdocs-usage-tracker.php:753
+msgid "I couldn't get the plugin to work"
+msgstr ""
+
+#: includes/class-betterdocs-usage-tracker.php:750
+msgid "I found a better plugin"
+msgstr ""
+
+#: admin/includes/class-betterdocs-notice.php:940
+msgid "I need help"
+msgstr ""
+
+#: includes/class-betterdocs-usage-tracker.php:748
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:273
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:526
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1180
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1308
+#: includes/elementor/widgets/betterdocs-elementor-breadcrumbs.php:115
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:521
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:561
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:423
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1055
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1064
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1196
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1303
+msgid "Icon"
+msgstr "Ikon"
+
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:120
+msgid "Icon "
+msgstr "Ikon"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1673
+msgid "Icon Background Color"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1735
+msgid "Icon Background Hover Color"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1694
+msgid "Icon Border"
+msgstr "Ikon keret"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1756
+msgid "Icon Border Hover"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:311
+msgid "Icon Color"
+msgstr "Ikon szín"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1318
+msgid "Icon Position"
+msgstr "Ikon pozíció"
+
+#: admin/customizer/customizer.php:681 admin/customizer/customizer.php:706
+#: admin/customizer/customizer.php:4755
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:323
+msgid "Icon Size"
+msgstr "Ikon mérete"
+
+#: includes/elementor/class-betterdocs-elementor.php:557
+#: includes/elementor/class-betterdocs-elementor.php:691
+#: includes/elementor/class-betterdocs-elementor.php:765
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:67
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:74
+msgid "ID"
+msgstr "ID"
+
+#: includes/class-betterdocs-docs-post-type.php:509
+#: admin/customizer/customizer.php:1381
+msgid "Image"
+msgstr "Kép"
+
+#: includes/elementor/class-betterdocs-elementor.php:496
+msgid "Include"
+msgstr ""
+
+#: admin/partials/betterdocs-admin-screen.php:74
+msgid "Inherit"
+msgstr ""
+
+#: admin/customizer/customizer.php:167 admin/customizer/customizer.php:192
+#: admin/customizer/customizer.php:219 admin/customizer/customizer.php:5574
+#: admin/customizer/customizer.php:5598 admin/customizer/customizer.php:5624
+#: admin/customizer/customizer.php:7035 admin/customizer/customizer.php:7060
+#: admin/customizer/customizer.php:7087
+msgid "inherit"
+msgstr ""
+
+#: admin/customizer/customizer.php:166 admin/customizer/customizer.php:191
+#: admin/customizer/customizer.php:218 admin/customizer/customizer.php:5573
+#: admin/customizer/customizer.php:5597 admin/customizer/customizer.php:5623
+#: admin/customizer/customizer.php:7034 admin/customizer/customizer.php:7059
+#: admin/customizer/customizer.php:7086
+msgid "initial"
+msgstr ""
+
+#: admin/partials/betterdocs-settings-blocks.php:36
+msgid "Initiate a Chat"
+msgstr ""
+
+#: admin/customizer/customizer.php:1160 admin/customizer/customizer.php:5150
+msgid "Inner Circle Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1212
+msgid "Inner Circle Border Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1180
+msgid "Inner Circle Border Type"
+msgstr ""
+
+#: admin/customizer/customizer.php:1233
+msgid "Inner Circle Border Width"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:674
+msgid "Instant Answer"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:649
+#: admin/includes/betterdocs-settings-page-helper.php:654
+msgid "Internal Knowledge Base"
+msgstr "Belső tudásbázis"
+
+#: includes/class-betterdocs-usage-tracker.php:754
+msgid "It's a temporary deactivation"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:448
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:554
+msgid "Item"
+msgstr "Elem"
+
+#: admin/customizer/customizer.php:8056
+msgid "Item Background Hover Color"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:464
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:574
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:603
+msgid "Item Color"
+msgstr "Elem színe"
+
+#: admin/customizer/customizer.php:1073 admin/customizer/customizer.php:1092
+msgid "Item Count Color"
+msgstr ""
+
+#: admin/partials/betterdocs-settings-blocks.php:24
+msgid "Join Now"
+msgstr ""
+
+#: admin/partials/betterdocs-settings-blocks.php:20
+msgid "Join Our Community"
+msgstr ""
+
+#: admin/partials/betterdocs-settings-blocks.php:23
+msgid ""
+"Join the Facebook community and discuss with fellow developers and users. "
+"Best way to connect with people and get feedback on your projects."
+msgstr ""
+
+#: includes/class-betterdocs-usage-tracker.php:857
+msgid "Just Deactivate"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-date.php:86
+#: includes/elementor/widgets/betterdocs-elementor-title.php:118
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:229
+#: includes/elementor/widgets/betterdocs-elementor-content.php:81
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:250
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:398
+msgid "Justified"
+msgstr "Sorkizárt"
+
+#: includes/elementor/class-betterdocs-elementor.php:469
+msgid "Knowledge Bases"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:264
+msgid "Lable"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:205
+msgid "Last Modified Date"
+msgstr ""
+
+#: admin/customizer/customizer.php:4376
+msgid "Last Updated Time Color"
+msgstr "Utoljára módosítva idő színe"
+
+#: admin/customizer/customizer.php:4398
+msgid "Last Updated Time Font Size"
+msgstr "Utoljára módosítva idő betűméret"
+
+#: admin/includes/betterdocs-settings-page-helper.php:120
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:147
+msgid "Layout"
+msgstr "Elrendezés"
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:159
+msgid "Layout 1"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:160
+msgid "Layout 2"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:161
+msgid "Layout 3"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:162
+msgid "Layout 4"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:102
+msgid "Layout Mode"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:81
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:84
+msgid "Layout Options"
+msgstr "Elrendezés beálíltások"
+
+#: admin/partials/betterdocs-admin-screen.php:41
+msgid "Least Recent"
+msgstr ""
+
+#: admin/partials/betterdocs-settings-blocks.php:48
+msgid "Leave a Review"
+msgstr ""
+
+#: admin/customizer/customizer.php:352 admin/customizer/customizer.php:660
+#: admin/customizer/customizer.php:1313 admin/customizer/customizer.php:1579
+#: admin/customizer/customizer.php:1795 admin/customizer/customizer.php:1896
+#: admin/customizer/customizer.php:2359 admin/customizer/customizer.php:2461
+#: admin/customizer/customizer.php:2733 admin/customizer/customizer.php:2833
+#: admin/customizer/customizer.php:2933 admin/customizer/customizer.php:3033
+#: admin/customizer/customizer.php:3451 admin/customizer/customizer.php:3548
+#: admin/customizer/customizer.php:3783 admin/customizer/customizer.php:4595
+#: admin/customizer/customizer.php:4999 admin/customizer/customizer.php:5096
+#: admin/customizer/customizer.php:5460 admin/customizer/customizer.php:5786
+#: admin/customizer/customizer.php:5883 admin/customizer/customizer.php:6076
+#: admin/customizer/customizer.php:6217 admin/customizer/customizer.php:6423
+#: admin/customizer/customizer.php:6781 admin/customizer/customizer.php:6944
+#: admin/customizer/customizer.php:7280 admin/customizer/customizer.php:7380
+#: admin/customizer/customizer.php:7585 admin/customizer/customizer.php:7996
+#: includes/elementor/widgets/betterdocs-elementor-doc-date.php:74
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1523
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1548
+#: includes/elementor/widgets/betterdocs-elementor-title.php:106
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:217
+#: includes/elementor/widgets/betterdocs-elementor-content.php:69
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:238
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:386
+#: includes/elementor/widgets/betterdocs-elementor-breadcrumbs.php:81
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:803
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1503
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1528
+msgid "Left"
+msgstr "Bal"
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:464
+msgid "Left Border Line Color"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:445
+msgid "Left Border Line Positioning"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:426
+msgid "Left Border Line Space"
+msgstr ""
+
+#: admin/customizer/customizer.php:247 admin/customizer/customizer.php:5651
+#: admin/customizer/customizer.php:7115
+msgid "left bottom"
+msgstr ""
+
+#: admin/customizer/customizer.php:246 admin/customizer/customizer.php:5650
+#: admin/customizer/customizer.php:7114
+msgid "left center"
+msgstr ""
+
+#: admin/customizer/customizer.php:245 admin/customizer/customizer.php:5649
+#: admin/customizer/customizer.php:7113
+msgid "left top"
+msgstr ""
+
+#: admin/customizer/customizer.php:163 admin/customizer/customizer.php:5570
+#: admin/customizer/customizer.php:7031
+msgid "length"
+msgstr "hossz"
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:79
+msgid ""
+"Let's create some categories and articles. And then assign the articles to "
+"proper categories."
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-title.php:67
+msgid "Link"
+msgstr "Link"
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:245
+msgid "Linkedin"
+msgstr ""
+
+#: admin/customizer/customizer.php:4032
+msgid "Linkedin Sharing"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:977
+msgid "List"
+msgstr "Lista"
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1167
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1295
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1042
+msgid "List Area Padding"
+msgstr ""
+
+#: admin/customizer/customizer.php:5254
+msgid "List Background Color"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:513
+msgid "List Color"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:97
+msgid "List Hierarchy"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:525
+msgid "List Hover Color"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:200
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:411
+msgid "List Icon"
+msgstr ""
+
+#: admin/customizer/customizer.php:5338 admin/customizer/customizer.php:6237
+msgid "List Icon Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:5359 admin/customizer/customizer.php:6258
+msgid "List Icon Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:3615 admin/customizer/customizer.php:5274
+#: admin/customizer/customizer.php:6282
+msgid "List Item Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:3677 admin/customizer/customizer.php:5314
+#: admin/customizer/customizer.php:6322
+msgid "List Item Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:3635 admin/customizer/customizer.php:5293
+#: admin/customizer/customizer.php:6301
+msgid "List Item Hover Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1667
+msgid "List Item Icon Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1689
+msgid "List Item Icon Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:5384
+msgid "List Item Margin"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:548
+msgid "List Item Padding"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1154
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1282
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:536
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:188
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:399
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1018
+msgid "List Item Spacing"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:109
+msgid "List Number"
+msgstr ""
+
+#: admin/customizer/customizer.php:3804
+msgid "List Number Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:3825
+msgid "List Number Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:6604
+msgid "Live Search"
+msgstr "Élő keresés"
+
+#: admin/customizer/customizer.php:222 admin/customizer/customizer.php:5627
+#: admin/customizer/customizer.php:7090
+msgid "local"
+msgstr "helyi"
+
+#: admin/customizer/customizer.php:7201
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:164
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:552
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:735
+msgid "Margin"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:107
+msgid "Masonry"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:385
+msgid "Max Width"
+msgstr ""
+
+#: admin/includes/class-betterdocs-notice.php:932
+msgid "Maybe Later"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:209
+msgid "Menu Order"
+msgstr ""
+
+#: public/betterdocs-shortcodes.php:833
+msgid "Message was not sent. Try Again."
+msgstr ""
+
+#: public/betterdocs-shortcodes.php:792
+msgid "Message:"
+msgstr "Kérdésed, üzeneted:"
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:27
+msgid "Migration"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:152
+msgid "Minimum amount of Keywords Search"
+msgstr ""
+
+#: admin/partials/betterdocs-admin-screen.php:40
+msgid "Most Recent"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:553
+#: includes/elementor/class-betterdocs-elementor.php:687
+#: includes/elementor/class-betterdocs-elementor.php:761
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:63
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:70
+msgid "Name"
+msgstr "Név"
+
+#: public/betterdocs-shortcodes.php:782
+msgid "Name:"
+msgstr "Név:"
+
+#: admin/customizer/customizer.php:4329
+msgid "Navigation Arrow Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:4351
+msgid "Navigation Arrow Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:4262
+msgid "Navigation Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:4284
+msgid "Navigation Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:4308
+msgid "Navigation Hover Color"
+msgstr ""
+
+#: admin/partials/betterdocs-settings-blocks.php:32
+msgid "Need Help?"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1125
+msgid "Nested List"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:741
+msgid "Nested Posts Order"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:757
+msgid "Nested Posts Order By"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:651
+#: includes/elementor/class-betterdocs-elementor.php:717
+#: admin/includes/betterdocs-settings-page-helper.php:231
+#: admin/includes/betterdocs-settings-page-helper.php:521
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:100
+msgid "Nested Subcategory"
+msgstr ""
+
+#: admin/includes/class-betterdocs-notice.php:945
+msgid "Never show again"
+msgstr ""
+
+#: includes/class-betterdocs-docs-post-type.php:169
+msgid "New Docs"
+msgstr "Új dokumentum"
+
+#: includes/class-betterdocs-docs-post-type.php:140
+msgid "New Docs Name"
+msgstr "Új dokumentum címe"
+
+#: includes/class-betterdocs-docs-post-type.php:225
+msgid "New Tag Name"
+msgstr "Új címke neve"
+
+#: admin/setup-wizard/inc/class-betterdocs-setup-wizard.php:30
+#: admin/setup-wizard/inc/class-betterdocs-setup-wizard.php:271
+msgid "Next"
+msgstr "Következő"
+
+#: includes/elementor/class-betterdocs-elementor.php:628
+#: includes/elementor/class-betterdocs-elementor.php:654
+#: includes/elementor/class-betterdocs-elementor.php:720
+msgid "No"
+msgstr "Nem"
+
+#: includes/class-betterdocs-docs-post-type.php:175
+msgid "No docs found"
+msgstr ""
+
+#: includes/class-betterdocs-docs-post-type.php:176
+msgid "No docs found in trash"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:552
+#: includes/elementor/class-betterdocs-elementor.php:760
+#: admin/includes/betterdocs-settings-page-helper.php:200
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:62
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:69
+msgid "No order"
+msgstr ""
+
+#: includes/gutenberg/blocks/categorygrid.php:224
+#: includes/gutenberg/blocks/categorybox.php:163
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1269
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1305
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1644
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1679
+msgid "No posts found!"
+msgstr ""
+
+#: includes/class-betterdocs-usage-tracker.php:651
+msgid "No Thanks."
+msgstr ""
+
+#: admin/customizer/customizer.php:190 admin/customizer/customizer.php:5596
+#: admin/customizer/customizer.php:7058
+msgid "no-repeat"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:347
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:587
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:812
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:934
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1381
+#: includes/elementor/widgets/betterdocs-elementor-title.php:186
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:291
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:442
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:284
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:590
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:830
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:971
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1343
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1667
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1813
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1921
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:294
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:437
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:592
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:798
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1346
+msgid "Normal"
+msgstr "Normál"
+
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:113
+msgid ""
+"Note: This is the preview only for Elementor Editor. You will see the real "
+"view in the archive page itself."
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:85
+msgid ""
+"Note: You will need to insert BetterDocs Shortcode inside the page. This "
+"page will be used as docs permalink."
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:237
+msgid "Number of Columns"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:243
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:540
+msgid "Offset"
+msgstr ""
+
+#: admin/includes/class-betterdocs-notice.php:919
+msgid "Ok, you deserve it!"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1217
+msgid "Open Icon"
+msgstr ""
+
+#: includes/class-betterdocs-docs-post-type.php:431
+#: includes/class-betterdocs-docs-post-type.php:501
+#: includes/elementor/class-betterdocs-elementor.php:569
+#: includes/elementor/class-betterdocs-elementor.php:612
+#: includes/elementor/class-betterdocs-elementor.php:703
+#: admin/partials/betterdocs-admin-screen.php:33
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:79
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:86
+msgid "Order"
+msgstr "Sorrend"
+
+#: includes/elementor/class-betterdocs-elementor.php:549
+#: includes/elementor/class-betterdocs-elementor.php:602
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:59
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:66
+msgid "Order By"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:225
+msgid "Order Terms Alphabetically"
+msgstr ""
+
+#: includes/class-betterdocs-usage-tracker.php:756
+msgid "Other"
+msgstr "Egyéb"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:157
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:208
+msgid "P"
+msgstr ""
+
+#: admin/customizer/customizer.php:7301
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:293
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:637
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:849
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1439
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:370
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:146
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:484
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:632
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:540
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:721
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1396
+msgid "Padding"
+msgstr ""
+
+#: admin/customizer/customizer.php:5507
+msgid "Page Background Color"
+msgstr ""
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:58
+msgid "Page Slug"
+msgstr "Oldal alias"
+
+#: includes/elementor/class-betterdocs-elementor.php:559
+#: includes/elementor/class-betterdocs-elementor.php:693
+#: includes/elementor/class-betterdocs-elementor.php:767
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:69
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:76
+msgid "Parent"
+msgstr "Szülő"
+
+#: includes/class-betterdocs-docs-post-type.php:135
+msgid "Parent Docs Category"
+msgstr "Szülő kategória"
+
+#: includes/class-betterdocs-docs-post-type.php:136
+msgid "Parent Docs Category:"
+msgstr "Szülő kategória:"
+
+#: admin/includes/betterdocs-settings-page-helper.php:206
+msgid "Parent Id"
+msgstr "Szülő ID"
+
+#: admin/partials/betterdocs-admin-screen.php:69
+msgid "Pending"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:257
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/customizer/customizer.php:4046
+msgid "Pinterest Sharing"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:95
+msgid "Placeholder"
+msgstr ""
+
+#: public/betterdocs-shortcodes.php:830
+msgid "Please enter your name."
+msgstr ""
+
+#: includes/class-betterdocs-usage-tracker.php:757
+msgid "Please share the reason"
+msgstr ""
+
+#: includes/class-betterdocs-usage-tracker.php:751
+msgid "Please share which plugin"
+msgstr ""
+
+#: public/betterdocs-shortcodes.php:832
+msgid "Please write your message."
+msgstr ""
+
+#: admin/customizer/defaults.php:362
+msgid "Popular Docs"
+msgstr ""
+
+#: includes/class-betterdocs-docs-post-type.php:218
+msgid "Popular Tags"
+msgstr ""
+
+#: admin/customizer/customizer.php:239 admin/customizer/customizer.php:5644
+#: admin/customizer/customizer.php:7108
+msgid "Position"
+msgstr "Pozíció"
+
+#: admin/includes/betterdocs-settings-page-helper.php:202
+msgid "Post Author"
+msgstr ""
+
+#: admin/customizer/customizer.php:2853
+msgid "Post Content Padding"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:201
+msgid "Post ID"
+msgstr "Oldal ID"
+
+#: includes/elementor/class-betterdocs-elementor.php:593
+msgid "Post Per Page"
+msgstr "Bejegyzés per oldal"
+
+#: includes/elementor/class-betterdocs-elementor.php:637
+msgid "Post Per Subcategory"
+msgstr ""
+
+#: admin/customizer/customizer.php:3049
+msgid "Post Title"
+msgstr "Oldal címe"
+
+#: includes/elementor/class-betterdocs-elementor.php:684
+msgid "Posts Order By"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:729
+msgid "Posts Per Page"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:675
+msgid "Posts Per Tab"
+msgstr ""
+
+#: public/partials/template-single/layout-5.php:167
+#: public/partials/template-single/layout-4.php:167
+#: public/partials/template-single/layout-1.php:174
+msgid "Powered by "
+msgstr ""
+
+#: admin/customizer/customizer.php:4423
+msgid "Powered by Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:4445
+msgid "Powered By Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:4470
+msgid "Powered By Link Color"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:196
+msgid "Prefix"
+msgstr "Előtag"
+
+#: admin/setup-wizard/inc/class-betterdocs-setup-wizard.php:270
+msgid "Previous"
+msgstr "Előző"
+
+#: includes/elementor/widgets/betterdocs-elementor-content.php:53
+msgid "Print Button"
+msgstr ""
+
+#: admin/partials/betterdocs-admin-screen.php:73
+msgid "Private"
+msgstr "Privát"
+
+#: admin/partials/betterdocs-admin-screen.php:68
+msgid "Publish"
+msgstr "Publikál"
+
+#: includes/elementor/class-betterdocs-elementor.php:456
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:52
+msgid "Query"
+msgstr ""
+
+#: admin/class-betterdocs-admin-screen.php:40
+msgid "Quick Setup"
+msgstr "Gyors konfigurálás"
+
+#: admin/includes/betterdocs-settings-page-helper.php:207
+msgid "Random"
+msgstr "Véletlenszerű"
+
+#: includes/Core/Settings.php:1290
+msgid "Redirect URL"
+msgstr "URL átirányítás"
+
+#: includes/class-betterdocs-docs-post-type.php:447
+#: includes/class-betterdocs-docs-post-type.php:524
+msgid "Remove Image"
+msgstr "Kép törlése"
+
+#: admin/customizer/customizer.php:184 admin/customizer/customizer.php:5591
+#: admin/customizer/customizer.php:7053
+msgid "Repeat"
+msgstr ""
+
+#: admin/customizer/customizer.php:193 admin/customizer/customizer.php:5599
+#: admin/customizer/customizer.php:7061
+msgid "repeat"
+msgstr ""
+
+#: admin/customizer/customizer.php:194 admin/customizer/customizer.php:5600
+#: admin/customizer/customizer.php:7062
+msgid "repeat-x"
+msgstr ""
+
+#: admin/customizer/customizer.php:195 admin/customizer/customizer.php:5601
+#: admin/customizer/customizer.php:7063
+msgid "repeat-y"
+msgstr ""
+
+#: admin/customizer/controls.php:46 admin/customizer/controls.php:284
+#: admin/customizer/controls.php:375 admin/customizer/controls.php:413
+msgid "Reset"
+msgstr ""
+
+#: admin/customizer/customizer.php:312 admin/customizer/customizer.php:620
+#: admin/customizer/customizer.php:1273 admin/customizer/customizer.php:1539
+#: admin/customizer/customizer.php:1755 admin/customizer/customizer.php:1856
+#: admin/customizer/customizer.php:2319 admin/customizer/customizer.php:2421
+#: admin/customizer/customizer.php:2693 admin/customizer/customizer.php:2793
+#: admin/customizer/customizer.php:2893 admin/customizer/customizer.php:2993
+#: admin/customizer/customizer.php:3411 admin/customizer/customizer.php:3510
+#: admin/customizer/customizer.php:3743 admin/customizer/customizer.php:4557
+#: admin/customizer/customizer.php:4961 admin/customizer/customizer.php:5058
+#: admin/customizer/customizer.php:5422 admin/customizer/customizer.php:5748
+#: admin/customizer/customizer.php:5845 admin/customizer/customizer.php:6038
+#: admin/customizer/customizer.php:6179 admin/customizer/customizer.php:6385
+#: admin/customizer/customizer.php:6741 admin/customizer/customizer.php:6904
+#: admin/customizer/customizer.php:7241 admin/customizer/customizer.php:7341
+#: admin/customizer/customizer.php:7545 admin/customizer/customizer.php:7956
+#: includes/elementor/widgets/betterdocs-elementor-doc-date.php:82
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1531
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1556
+#: includes/elementor/widgets/betterdocs-elementor-title.php:114
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:225
+#: includes/elementor/widgets/betterdocs-elementor-content.php:77
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:246
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:394
+#: includes/elementor/widgets/betterdocs-elementor-breadcrumbs.php:89
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:811
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1511
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1536
+msgid "Right"
+msgstr "Jobb"
+
+#: admin/customizer/customizer.php:250 admin/customizer/customizer.php:5654
+#: admin/customizer/customizer.php:7118
+msgid "right bottom"
+msgstr ""
+
+#: admin/customizer/customizer.php:249 admin/customizer/customizer.php:5653
+#: admin/customizer/customizer.php:7117
+msgid "right center"
+msgstr ""
+
+#: admin/customizer/customizer.php:248 admin/customizer/customizer.php:5652
+#: admin/customizer/customizer.php:7116
+msgid "right top"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:611
+#: admin/includes/betterdocs-settings-page-helper.php:616
+msgid "Role Management"
+msgstr "Hozzáférések kezelése"
+
+#: admin/customizer/customizer.php:220 admin/customizer/customizer.php:5625
+#: admin/customizer/customizer.php:7088
+msgid "scroll"
+msgstr ""
+
+#: admin/partials/betterdocs-admin-screen.php:30
+#: admin/partials/betterdocs-admin-screen.php:77
+#: includes/gutenberg/blocks/searchbox.php:69
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:97
+msgid "Search"
+msgstr "Keresés"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:129
+msgid "Search Box"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:239
+msgid "Search Box Margin"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:87
+msgid "Search Content"
+msgstr ""
+
+#: includes/class-betterdocs-docs-post-type.php:173
+msgid "Search Docs"
+msgstr "Dokumentum keresés"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:189
+msgid "Search Field"
+msgstr ""
+
+#: admin/customizer/customizer.php:7418
+msgid "Search Field Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:7607
+msgid "Search Field Border Radius"
+msgstr ""
+
+#: admin/customizer/customizer.php:7440
+msgid "Search Field Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:7505
+msgid "Search Field Padding"
+msgstr ""
+
+#: admin/customizer/customizer.php:7398
+msgid "Search Field Settings"
+msgstr "Kereső mező beállítások"
+
+#: admin/includes/betterdocs-settings-page-helper.php:560
+msgid "Search Form"
+msgstr "Keresés űrlap"
+
+#: admin/customizer/customizer.php:6616
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:104
+msgid "Search Heading"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:279
+msgid "Search Icon"
+msgstr "Keresés ikon"
+
+#: admin/customizer/customizer.php:7657
+msgid "Search Icon Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:7677
+msgid "Search Icon Hover Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:7633
+msgid "Search Icon Size"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:172
+msgid "Search Not Found Text"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:159
+msgid "Search Placeholder"
+msgstr ""
+
+#: admin/customizer/customizer.php:7483
+msgid "Search Placeholder Color"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:184
+msgid "Search Result based on KB"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:355
+msgid "Search Result Box"
+msgstr ""
+
+#: admin/customizer/customizer.php:7806
+msgid "Search Result Box Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:7827
+msgid "Search Result Box Border Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:7782
+msgid "Search Result Box Maximum Width"
+msgstr ""
+
+#: admin/customizer/customizer.php:7757
+msgid "Search Result Box Width"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:178
+msgid "Search Result Image"
+msgstr ""
+
+#: admin/customizer/customizer.php:8017
+msgid "Search Result Item Border Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:7894
+msgid "Search Result Item Category Font Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:7874
+msgid "Search Result Item Font Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:8037
+msgid "Search Result Item Font Hover Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:7849
+msgid "Search Result Item Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:7916
+msgid "Search Result Item Padding"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:432
+msgid "Search Result List"
+msgstr ""
+
+#: admin/customizer/customizer.php:7736
+msgid "Search Result Settings"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:113
+msgid "Search Subheading"
+msgstr ""
+
+#: includes/class-betterdocs-docs-post-type.php:217
+msgid "Search Tags"
+msgstr ""
+
+#: admin/customizer/customizer.php:7465
+msgid "Search Text Color"
+msgstr ""
+
+#: admin/includes/class-betterdocs-db.php:25
+msgid "Search.."
+msgstr "Keresés.."
+
+#: admin/customizer/customizer.php:54
+msgid "Select Category Layout"
+msgstr ""
+
+#: admin/customizer/customizer.php:2591
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:88
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:91
+msgid "Select Layout"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:154
+msgid "Select layout"
+msgstr ""
+
+#: includes/Core/Settings.php:1330
+msgid "Select Reporting Day"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:146
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:197
+msgid "Select Tag"
+msgstr ""
+
+#: public/betterdocs-shortcodes.php:763
+msgid "Send"
+msgstr "Elküld"
+
+#: includes/class-betterdocs-docs-post-type.php:226
+msgid "Separate tags with commas"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:334
+msgid "Separator Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:3222
+msgid "Seperator Color"
+msgstr ""
+
+#: admin/class-betterdocs-admin-screen.php:45
+#: public/class-betterdocs-public.php:455
+msgid "Settings"
+msgstr "Beállítások"
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:49
+msgid "Setup Pages"
+msgstr ""
+
+#: admin/setup-wizard/inc/class-betterdocs-setup-wizard.php:594
+msgid "Share non-sensitive diagnostic data and plugin usage information."
+msgstr ""
+
+#: public/betterdocs-shortcodes.php:891 admin/customizer/defaults.php:174
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:213
+#: public/partials/template-single/layout-5.php:131
+#: public/partials/template-single/layout-4.php:131
+#: public/partials/template-single/layout-1.php:138
+msgid "Share This Article :"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:551
+#: admin/includes/betterdocs-settings-page-helper.php:555
+msgid "Shortcodes"
+msgstr "Shortcode"
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:223
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:235
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:247
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:259
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:222
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:99
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:111
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:123
+#: includes/elementor/widgets/betterdocs-elementor-content.php:55
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:102
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:124
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:136
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:171
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:183
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:333
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:457
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:156
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:169
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:184
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:223
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:239
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:251
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1293
+msgid "Show"
+msgstr "Mutassa"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:249
+msgid "Show Button"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:181
+msgid "Show Category Description"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:169
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:221
+msgid "Show Count"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:154
+msgid "Show Header"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:122
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:167
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1291
+msgid "Show Icon"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:480
+msgid "Show Last Update Time"
+msgstr "Utoljára módosítás megjelenítése"
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:237
+msgid "Show List"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:134
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:182
+msgid "Show Title"
+msgstr ""
+
+#: admin/partials/betterdocs-settings-blocks.php:44
+msgid "Show Your Love"
+msgstr ""
+
+#: admin/customizer/customizer.php:4480
+msgid "Sidebar"
+msgstr ""
+
+#: admin/customizer/customizer.php:4616
+msgid "Sidebar Border Radius"
+msgstr ""
+
+#: admin/customizer/customizer.php:5235
+msgid "Sidebar Content"
+msgstr ""
+
+#: admin/customizer/customizer.php:5111
+msgid "Sidebar Item Counter"
+msgstr ""
+
+#: admin/customizer/customizer.php:4519
+msgid "Sidebar Padding"
+msgstr ""
+
+#: admin/customizer/customizer.php:4707
+msgid "Sidebar Title"
+msgstr ""
+
+#: includes/elementor/betterdocs-single-docs.php:43
+#: admin/customizer/customizer.php:2573
+#: admin/includes/betterdocs-settings-page-helper.php:290
+#: admin/includes/betterdocs-settings-page-helper.php:295
+msgid "Single Doc"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:109
+msgid "Single Docs Permalink"
+msgstr ""
+
+#: admin/customizer/customizer.php:156 admin/customizer/customizer.php:5564
+#: admin/customizer/customizer.php:7025
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:305
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:534
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:989
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1201
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1317
+#: includes/elementor/widgets/betterdocs-elementor-navigation.php:69
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:220
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:431
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:136
+#: includes/elementor/widgets/betterdocs-elementor-breadcrumbs.php:136
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:251
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:299
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:543
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:570
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:937
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1027
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:521
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:775
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1087
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1240
+msgid "Size"
+msgstr "Méret"
+
+#: admin/customizer/customizer.php:5171
+msgid "Size (Height, Width)"
+msgstr ""
+
+#: admin/setup-wizard/inc/class-betterdocs-setup-wizard.php:278
+msgid "Skip This Step"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:554
+#: includes/elementor/class-betterdocs-elementor.php:688
+#: includes/elementor/class-betterdocs-elementor.php:762
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:64
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:71
+msgid "Slug"
+msgstr "Alias"
+
+#: admin/customizer/customizer.php:3932
+msgid "Social Share"
+msgstr ""
+
+#: admin/customizer/customizer.php:3965
+msgid "Social Sharing Title"
+msgstr ""
+
+#: includes/class-betterdocs-usage-tracker.php:744
+msgid "Sorry to see you go"
+msgstr ""
+
+#: public/betterdocs-tag-template.php:60
+#: admin/includes/class-betterdocs-db.php:26
+msgid "Sorry, no docs were found."
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:291
+msgid "Space"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:281
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:649
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:837
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1006
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1219
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1346
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:238
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:449
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:647
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:848
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1047
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1106
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1184
+msgid "Spacing"
+msgstr ""
+
+#: admin/customizer/customizer.php:494
+msgid "Spacing Between Columns"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:156
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:207
+msgid "Span"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:212
+msgid "Sticky TOC"
+msgstr ""
+
+#: admin/customizer/customizer.php:3324
+msgid "Sticky Toc Margin Top"
+msgstr ""
+
+#: admin/customizer/customizer.php:3280
+msgid "Sticky Toc Width"
+msgstr ""
+
+#: admin/customizer/customizer.php:3305
+msgid "Sticky Toc z-index"
+msgstr ""
+
+#: admin/includes/class-betterdocs-db.php:59
+#: admin/includes/betterdocs-settings-page-helper.php:456
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:56
+#: public/partials/template-single/feedback-form.php:29
+msgid "Still stuck? How can we help?"
+msgstr "Még mindig elakadt? Miben segíthetünk?"
+
+#: admin/partials/betterdocs-settings-blocks.php:35
+msgid "Stuck with something? Get help from live chat or support ticket."
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-date.php:43
+#: includes/elementor/widgets/betterdocs-elementor-navigation.php:42
+#: includes/elementor/widgets/betterdocs-elementor-content.php:45
+#: includes/elementor/widgets/betterdocs-elementor-breadcrumbs.php:50
+msgid "Style"
+msgstr "Stílus"
+
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:261
+msgid "Sub Category"
+msgstr "Al kategória"
+
+#: admin/customizer/customizer.php:6799
+msgid "Sub Heading"
+msgstr ""
+
+#: admin/customizer/customizer.php:6844
+msgid "Sub Heading Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:6821
+msgid "Sub Heading Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:6864
+msgid "Sub Heading Margin"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1243
+msgid "Sub-Category List"
+msgstr ""
+
+#: admin/customizer/customizer.php:2031 admin/customizer/customizer.php:6557
+msgid "Subcategory Docs List Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1984 admin/customizer/customizer.php:6510
+msgid "Subcategory Icon Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:2006 admin/customizer/customizer.php:6532
+msgid "Subcategory Icon Font Size"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:341
+msgid "Subcategory List"
+msgstr ""
+
+#: admin/customizer/customizer.php:2049 admin/customizer/customizer.php:6575
+msgid "Subcategory List Hover Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:2068 admin/customizer/customizer.php:6594
+msgid "Subcategory List Icon Color"
+msgstr ""
+
+#: includes/class-betterdocs-usage-tracker.php:857
+msgid "Submit and Deactivate"
+msgstr ""
+
+#: includes/class-betterdocs-usage-tracker.php:799
+msgid "Submitting form"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:209
+msgid "Suffix"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:223
+msgid "Suffix Singular"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:79
+msgid "Supported Heading Tags"
+msgstr ""
+
+#: includes/class-betterdocs-usage-tracker.php:650
+msgid "Sure, I'd like to help"
+msgstr ""
+
+#: admin/class-betterdocs-admin.php:138 admin/class-betterdocs-admin.php:199
+msgid "Switch to BetterDocs UI"
+msgstr "Váltás BetterDocs nézetre"
+
+#: admin/class-betterdocs-admin-screen.php:139
+msgid "Switch to Classic UI"
+msgstr "Váltás WP klasszikus nézetre"
+
+#: includes/elementor/class-betterdocs-elementor.php:666
+msgid "Tab List Posts"
+msgstr ""
+
+#: public/class-betterdocs-public.php:383 admin/customizer/customizer.php:3259
+#: admin/includes/class-betterdocs-db.php:41
+#: admin/includes/betterdocs-settings-page-helper.php:317
+msgid "Table of Contents"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:72
+msgid "Table of contents"
+msgstr ""
+
+#: includes/class-betterdocs-docs-post-type.php:216
+msgid "Tag"
+msgstr "Címke"
+
+#: includes/class-betterdocs-docs-post-type.php:229
+#: admin/class-betterdocs-admin-screen.php:75
+#: admin/class-betterdocs-admin-screen.php:75
+msgid "Tags"
+msgstr "Címkék"
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:123
+msgid "Take control of your pages with extensive settings options"
+msgstr ""
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:108
+msgid ""
+"Take control of your settings and customize your documentation page, "
+"articles and archive pages live, with the power of Customizer"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:555
+#: includes/elementor/class-betterdocs-elementor.php:689
+#: includes/elementor/class-betterdocs-elementor.php:763
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:65
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:72
+msgid "Term Group"
+msgstr ""
+
+#: includes/elementor/class-betterdocs-elementor.php:556
+#: includes/elementor/class-betterdocs-elementor.php:690
+#: includes/elementor/class-betterdocs-elementor.php:764
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:66
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:73
+msgid "Term ID"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:84
+msgid "Text"
+msgstr "Szöveg"
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1519
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:799
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1499
+msgid "Text Alignment"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-title.php:151
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:256
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:328
+#: includes/elementor/widgets/betterdocs-elementor-breadcrumbs.php:58
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:208
+msgid "Text Color"
+msgstr "Szöveg szín"
+
+#: public/betterdocs-shortcodes.php:834
+msgid "Thanks! Your message has been sent."
+msgstr "Köszönjük! Hamarosan kollégánk válaszol."
+
+#: admin/includes/betterdocs-settings-page-helper.php:476
+msgid "The email address where the Feedback from will be sent"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:172
+msgid "This layout is available in pro version only!"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:827
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:924
+msgid "Ticker Background"
+msgstr ""
+
+#: admin/customizer/customizer.php:1401
+#: admin/includes/betterdocs-settings-page-helper.php:203
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:170
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:211
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:802
+#: includes/elementor/widgets/betterdocs-elementor-title.php:47
+#: includes/elementor/widgets/betterdocs-elementor-title.php:54
+#: includes/elementor/widgets/betterdocs-elementor-title.php:143
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:248
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:746
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:571
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1136
+msgid "Title"
+msgstr "Cím"
+
+#: admin/customizer/customizer.php:4779
+msgid "Title Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:3569 admin/customizer/customizer.php:4839
+#: admin/customizer/customizer.php:5955
+msgid "Title Color"
+msgstr "Cím színe"
+
+#: admin/customizer/customizer.php:3591 admin/customizer/customizer.php:4898
+#: admin/customizer/customizer.php:5976
+msgid "Title Font Size"
+msgstr "Cím betűméret"
+
+#: admin/customizer/customizer.php:4856
+msgid "Title Hover Color"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:374
+msgid "Title Link Copy To Clipboard"
+msgstr ""
+
+#: admin/customizer/customizer.php:5020
+#: includes/elementor/widgets/betterdocs-elementor-title.php:229
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:328
+msgid "Title Margin"
+msgstr ""
+
+#: admin/customizer/customizer.php:4923
+#: includes/elementor/widgets/betterdocs-elementor-title.php:210
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:316
+msgid "Title Padding"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1839
+msgid "Title Spacing"
+msgstr ""
+
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1881
+msgid "Title Spacing Hover"
+msgstr ""
+
+#: admin/customizer/customizer.php:3066
+msgid "Title Tag"
+msgstr ""
+
+#: admin/customizer/customizer.php:3988
+msgid "Title Text Color"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:323
+msgid "TOC Hierarchy"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:363
+msgid "Toc List"
+msgstr ""
+
+#: admin/customizer/customizer.php:3703
+msgid "TOC List Margin"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:329
+msgid "TOC List Number"
+msgstr ""
+
+#: admin/customizer/customizer.php:3851
+msgid "TOC Margin Bottom"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:353
+msgid "TOC Supported Heading Tag"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:316
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:70
+msgid "TOC Title"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:232
+msgid "TOC Width"
+msgstr ""
+
+#: admin/customizer/customizer.php:292 admin/customizer/customizer.php:600
+#: admin/customizer/customizer.php:1253 admin/customizer/customizer.php:1519
+#: admin/customizer/customizer.php:1735 admin/customizer/customizer.php:1836
+#: admin/customizer/customizer.php:2299 admin/customizer/customizer.php:2401
+#: admin/customizer/customizer.php:2673 admin/customizer/customizer.php:2773
+#: admin/customizer/customizer.php:2873 admin/customizer/customizer.php:2973
+#: admin/customizer/customizer.php:3391 admin/customizer/customizer.php:3491
+#: admin/customizer/customizer.php:3723 admin/customizer/customizer.php:4538
+#: admin/customizer/customizer.php:4942 admin/customizer/customizer.php:5039
+#: admin/customizer/customizer.php:5403 admin/customizer/customizer.php:5729
+#: admin/customizer/customizer.php:5826 admin/customizer/customizer.php:6019
+#: admin/customizer/customizer.php:6160 admin/customizer/customizer.php:6366
+#: admin/customizer/customizer.php:6721 admin/customizer/customizer.php:6884
+#: admin/customizer/customizer.php:7221 admin/customizer/customizer.php:7321
+#: admin/customizer/customizer.php:7525 admin/customizer/customizer.php:7936
+msgid "Top"
+msgstr ""
+
+#: admin/customizer/customizer.php:752 admin/customizer/customizer.php:2503
+#: admin/customizer/customizer.php:4635
+msgid "Top Left"
+msgstr ""
+
+#: admin/customizer/customizer.php:772 admin/customizer/customizer.php:2523
+#: admin/customizer/customizer.php:4654
+msgid "Top Right"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:426
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:765
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:880
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:1078
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:532
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:394
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:709
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:881
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-box.php:1132
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:876
+#: includes/elementor/widgets/basic/betterdocs-elementor-category-grid.php:1428
+msgid "Transition"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:233
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/customizer/customizer.php:4018
+msgid "Twitter Sharing"
+msgstr "Twitter megosztás"
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:214
+msgid "Type share title here"
+msgstr ""
+
+#: public/betterdocs-shortcodes.php:250
+msgid "Uncategorised"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:106
+msgid "Unlock more possibilities"
+msgstr ""
+
+#: includes/class-betterdocs-docs-post-type.php:138
+msgid "Update Category"
+msgstr "Kategória módosítása"
+
+#: includes/class-betterdocs-docs-post-type.php:223
+msgid "Update Tag"
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-date.php:107
+#: public/partials/template-single/feedback-form.php:49
+#, php-format
+msgid "Updated on %s"
+msgstr "Utolsó módosítás: %s"
+
+#: includes/elementor/widgets/betterdocs-elementor-title.php:132
+msgid "View"
+msgstr "Megtekint"
+
+#: includes/class-betterdocs-docs-post-type.php:171
+msgid "View Docs"
+msgstr "Dokumentum megtekintése"
+
+#: admin/class-betterdocs-admin.php:396
+msgid "Visit Documentation"
+msgstr ""
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:144
+msgid "Visit Your Documentation Page"
+msgstr ""
+
+#: includes/class-betterdocs.php:196
+#, php-format
+msgid ""
+"Want to help make <strong>BetterDocs</strong> even more awesome? You can get "
+"a <strong>10% discount coupon</strong> for Premium extensions if you allow "
+"us to track the usage."
+msgstr ""
+
+#: includes/class-betterdocs-usage-tracker.php:380
+msgid ""
+"We can't detect any plugin information. This is most probably because you "
+"have not included the code in the plugin main file."
+msgstr ""
+
+#: includes/class-betterdocs.php:197
+msgid ""
+"We collect non-sensitive diagnostic data and plugin usage information.\n"
+"\t\t\tYour site URL, WordPress & PHP version, plugins & themes and email "
+"address to send you the\n"
+"\t\t\tdiscount coupon. This data lets us make sure this plugin always stays "
+"compatible with the most\n"
+"\t\t\tpopular plugins and themes. No spam, I promise."
+msgstr ""
+
+#: admin/setup-wizard/inc/class-betterdocs-setup-wizard.php:274
+msgid ""
+"We collect non-sensitive diagnostic data and plugin usage information. Your "
+"site URL, WordPress & PHP version, plugins & themes and email address to "
+"send you the discount coupon. This data lets us make sure this plugin always "
+"stays compatible with the most popular plugins and themes. No spam, we "
+"promise."
+msgstr ""
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:31
+msgid ""
+"We detected another Knowledge Base Plugin installed in this site. For "
+"BetterDocs to work efficiently, we will migrate the data from the plugin "
+"listed below, and deactivate the plgugin, to avoid conflict."
+msgstr ""
+
+#: admin/includes/class-betterdocs-notice.php:957
+msgid ""
+"We hope you're enjoying BetterDocs! Could you please do us a BIG favor and "
+"give it a 5-star rating on WordPress to help us spread the word and boost "
+"our motivation?"
+msgstr ""
+
+#: admin/partials/betterdocs-settings-blocks.php:47
+msgid ""
+"We love to have you in BetterDocs family. We are making it more awesome "
+"everyday. Take your 2 minutes to review the plugin and spread the love to "
+"encourage us to keep it going."
+msgstr ""
+
+#: includes/class-betterdocs-usage-tracker.php:649
+msgid "What we collect."
+msgstr ""
+
+#: admin/setup-wizard/inc/class-betterdocs-setup-wizard.php:275
+msgid "What We Collect?"
+msgstr ""
+
+#: admin/includes/betterdocs-settings-page-helper.php:639
+msgid "Who Can Check Analytics?"
+msgstr "Ki ellenőrizheti az analitikát?"
+
+#: admin/includes/betterdocs-settings-page-helper.php:630
+msgid "Who Can Edit Settings?"
+msgstr "Ki módosíthatja a beálíltásokat?"
+
+#: admin/includes/betterdocs-settings-page-helper.php:621
+msgid "Who Can Write Docs?"
+msgstr "Ki írhat dokumentumokat?"
+
+#: includes/elementor/widgets/betterdocs-elementor-doc-share.php:55
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:171
+#: includes/elementor/widgets/betterdocs-elementor-feedback.php:347
+#: includes/elementor/widgets/basic/betterdocs-elementor-search-form.php:363
+msgid "Width"
+msgstr "Szélesség"
+
+#: includes/elementor/widgets/betterdocs-elementor-toc.php:380
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:147
+#: includes/elementor/widgets/betterdocs-elementor-category-archive-list.php:358
+msgid "Word Wrap"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPDeveloper"
+msgstr "WPDeveloper"
+
+#: includes/elementor/class-betterdocs-elementor.php:627
+#: includes/elementor/class-betterdocs-elementor.php:653
+#: includes/elementor/class-betterdocs-elementor.php:719
+msgid "Yes"
+msgstr "Igen"
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:87
+msgid "You can create Categories from "
+msgstr ""
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:93
+msgid "You can create Docs from "
+msgstr ""
+
+#: admin/setup-wizard/betterdocs-setup-wizard-config.php:138
+msgid ""
+"Your documentation page is ready! Make sure to add more articles and assign "
+"them to proper categories and you are good to go."
+msgstr ""
+
+#: includes/elementor/widgets/betterdocs-elementor-sidebar.php:254
+msgid "Z index"
+msgstr ""
