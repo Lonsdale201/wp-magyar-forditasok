@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MainWP Cache Control Extension\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-07 17:23+0000\n"
+"PO-Revision-Date: 2023-11-07 17:25+0000\n"
+"Last-Translator: \n"
+"Language-Team: Magyar\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.2\n"
+"X-Domain: mainwp-cache-control-extension"
+
+#: class/class-mainwp-cache-control-purge-view.php:459
+#: class/class-mainwp-cache-control-purge-view.php:545
+msgid "Automatically purge cache"
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:642
+#: class/class-mainwp-cache-control-admin.php:147
+msgid "Cache Control"
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:452
+#: class/class-mainwp-cache-control-purge-view.php:539
+msgid "Cache Control Settings"
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:656
+#: class/class-mainwp-cache-control-purge-view.php:718
+msgid "Cache Solution"
+msgstr "Cache eszköz"
+
+#: class/class-mainwp-cache-control-purge-view.php:646
+msgid "Clear Cache"
+msgstr "Cache törlése"
+
+#: class/class-mainwp-cache-control-purge-view.php:670
+msgid "Close"
+msgstr "Bezárás"
+
+#: class/class-mainwp-cache-control-purge-view.php:720
+msgid "Cloudflare"
+msgstr "Cloudflare"
+
+#: class/class-mainwp-cache-control-purge-view.php:472
+#: class/class-mainwp-cache-control-purge-view.php:566
+msgid "Cloudflare API Credentials"
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:475
+#: class/class-mainwp-cache-control-purge-view.php:571
+msgid "Cloudflare API Email"
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:482
+#: class/class-mainwp-cache-control-purge-view.php:575
+msgid "Cloudflare API Key"
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:473
+msgid "Credentials for global Cloudflare account."
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:567
+msgid "Credentials for Individual Child Site."
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:562
+msgid "Enable to override global Cloudflare API Key"
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:460
+#: class/class-mainwp-cache-control-purge-view.php:552
+msgid "Enable to purge all cache after updates."
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:467
+msgid "Enable to use global Cloudflare API."
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:476
+msgid "Enter your Cloudflare API email address."
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:483
+msgid "Enter your Cloudflare API Key."
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:446
+#, php-format
+msgid "For additional help, review this %1$shelp document%2$s."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://mainwp.com"
+msgstr "https://mainwp.com"
+
+#: class/class-mainwp-cache-control-purge-view.php:409
+msgid "Jump to the site WP Admin"
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:660
+#: class/class-mainwp-cache-control-purge-view.php:719
+msgid "Last Purged"
+msgstr "Utolsó törlés"
+
+#: class/class-mainwp-cache-control-purge-view.php:721
+msgid "Log"
+msgstr "Napló"
+
+#: class/class-mainwp-cache-control-overview.php:52
+msgid "Logs"
+msgstr "Naplók"
+
+#. Author of the plugin
+msgid "MainWP"
+msgstr "MainWP"
+
+#: class/class-mainwp-cache-control-purge-view.php:667
+msgid "MainWP Cache Control"
+msgstr ""
+
+#. Description of the plugin
+#: class/class-mainwp-cache-control-purge-view.php:444
+msgid ""
+"MainWP Cache Control allows you to automatically purge the Cache on your "
+"child sites after performing an update of WP Core, Theme, or a Plugin "
+"through the MainWP Dashboard."
+msgstr ""
+
+#. Name of the plugin
+msgid "MainWP Cache Control Extension"
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:445
+msgid ""
+"MainWP Cache Control will NOT purge both Cloudflare Cache and Cache from one "
+"of the supported plugins. If MainWP detects that a Child site uses one of "
+"the supported Plugins, only its Cache will be automatically purged. If a "
+"supported Caching plugin is not detected by MainWP, then the Cloudflare "
+"cache will be purged."
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:436
+#: class/class-mainwp-cache-control-purge-view.php:516
+msgid "manage dashboard settings"
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:549
+msgid "No"
+msgstr "Nem"
+
+#: class/class-mainwp-cache-control-purge-view.php:821
+msgid "Nonce authentication failed. Please, try again."
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:403
+msgid "Open the site overview"
+msgstr ""
+
+#: mainwp-cache-control-extension.php:149
+msgid ""
+"requires <a href=\"https://mainwp.com/\" target=\"_blank\">MainWP Dashboard "
+"Plugin</a> to be activated in order to work. Please install and activate <a "
+"href=\"https://mainwp.com/\" target=\"_blank\">MainWP Dashboard Plugin</a> "
+"first."
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:485
+#: class/class-mainwp-cache-control-purge-view.php:578
+msgid "Retrieved from the backend after logging in"
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:490
+#: class/class-mainwp-cache-control-purge-view.php:584
+msgid "Save Settings"
+msgstr "Beállítások mentése"
+
+#: class/class-mainwp-cache-control-purge-view.php:709
+msgid "See the Cache Control feature logs."
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:453
+#, php-format
+msgid "See the list of supported %1$scaching systems%2$s."
+msgstr ""
+
+#: class/class-mainwp-cache-control-overview.php:51
+msgid "Settings"
+msgstr "Beállítások"
+
+#: class/class-mainwp-cache-control-purge-view.php:450
+#: class/class-mainwp-cache-control-purge-view.php:536
+msgid "Settings have been saved successfully!"
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:715
+msgid "Site"
+msgstr "Weboldal"
+
+#: class/class-mainwp-cache-control-purge-view.php:824
+msgid "Site ID not found. Please, try again."
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:717
+msgid "Status"
+msgstr "Állapot"
+
+#: class/class-mainwp-cache-control-admin.php:182
+msgid "Undefined site id. Please, try again."
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:559
+msgid "Use Cloudflare Cache API"
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:466
+msgid "Use Cloudflare Cache API."
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:550
+msgid "Use global setting"
+msgstr ""
+
+#: class/class-mainwp-cache-control-purge-view.php:650
+msgid "View Logs"
+msgstr "Naplók megtekintése"
+
+#: class/class-mainwp-cache-control-purge-view.php:548
+msgid "Yes"
+msgstr "Igen"
+
+#: class/class-mainwp-cache-control-purge-view.php:453
+msgid ""
+"You must Sync your MainWP Dashboard with Child Sites after saving these "
+"settings."
+msgstr ""
