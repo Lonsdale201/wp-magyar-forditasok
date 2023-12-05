@@ -1,16 +1,14 @@
 WpBookIngSystem Pro
-A fő fájl 72%-os fordítási állapotban.
+A fő fájl 65%-os fordítási állapotban.
 
 Link: https://www.wpbookingsystem.com/
 
-Addons fordítások:
-WP Booking System - Booking Manager
-WP Booking System - WooCommerce Add-on
+
 
 Fordította: Soczó Kristóf
 
-Utoljára módosítva: 2023.08.05.
-WpBookIngSystem Pro verzió: 5.8.9.1
+Utoljára módosítva: 2023.12.05.
+WpBookIngSystem Pro verzió: 5.8.11
 
 
 Elérhetőség
