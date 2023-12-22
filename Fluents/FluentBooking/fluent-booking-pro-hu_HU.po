@@ -1,0 +1,6002 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fluent Booking Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-13 21:19+0000\n"
+"PO-Revision-Date: 2023-12-22 12:56+0000\n"
+"Last-Translator: \n"
+"Language-Team: Magyar\n"
+"Language: hu-HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: fluent-booking-pro"
+
+#: app/Services/EditorShortCodeParser.php:102
+msgid " ago"
+msgstr ""
+
+#: app/Services/EditorShortCodeParser.php:104
+msgid " from now"
+msgstr ""
+
+#: app/Models/Booking.php:443
+#, php-format
+msgid "%1s Meeting between %2s and %3s"
+msgstr "%1s %2s és %3s között."
+
+#: app/Services/Integrations/ZoomMeeting/Bootstrap.php:125
+#, php-format
+msgid "%1s meeting with %2s"
+msgstr "%1s találkozó %2s szervezővel"
+
+#: app/Services/TransStrings.php:667 app/Services/TransStrings.php:668 
+#: app/Services/TransStrings.php:669 app/Services/TransStrings.php:670
+msgid "%d Hours"
+msgstr "%d Óra"
+
+#: app/Services/TransStrings.php:660 app/Services/TransStrings.php:661 
+#: app/Services/TransStrings.php:662 app/Services/TransStrings.php:663 
+#: app/Services/TransStrings.php:664 app/Services/TransStrings.php:665 
+#: app/Services/TransStrings.php:666
+msgid "%d Minutes"
+msgstr "%d Perc"
+
+#: app/Services/Integrations/FluentForms/FluentFormInit.php:78
+#, php-format
+msgid "%s field is required"
+msgstr "%s mező kitöltése kötelező"
+
+#: app/Http/Controllers/SchedulesController.php:177
+#, php-format
+msgid "%s has been updated"
+msgstr ""
+
+#: app/Http/Controllers/AvailabilityController.php:116 
+#: app/Http/Controllers/AvailabilityController.php:205
+#, php-format
+msgid "%s is already exist"
+msgstr ""
+
+#: app/Services/BookingFieldService.php:24
+#, php-format
+msgid "%s is required"
+msgstr "%s kötelező"
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:113 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:36
+msgid "(Connect Google Meet First)"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:36
+msgid "(Connect Outlook First)"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:49
+msgid "(Enable MS Teams From Outlook Settings)"
+msgstr ""
+
+#: app/Models/Booking.php:247
+msgid "(Host phone number)"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:211
+msgid ""
+"(Optional) The selected tags will be removed from the contact (if exist)"
+msgstr ""
+
+#: app/Services/TransStrings.php:452
+msgid "(Required Permission)"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:119 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:42
+msgid "(Set Google Event Creat First)"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:42
+msgid "(Set Outlook Event Creat First)"
+msgstr ""
+
+#: app/Services/TransStrings.php:552
+msgid "(Will Take Less Than a Minute!)"
+msgstr ""
+
+#: app/Services/TransStrings.php:303
+msgid "+ Add Another Limit"
+msgstr "+ További limit hozzáadása"
+
+#: app/Services/TransStrings.php:199
+msgid "+ Add Another Reminder"
+msgstr "+ További emlékeztető hozzáadása"
+
+#: app/Services/TransStrings.php:271
+msgid "+ Add more questions for invitees"
+msgstr "+ További kérdések hozzáadása a meghívottak számára"
+
+#: app/Services/TransStrings.php:185
+msgid "+ Add new option"
+msgstr "+ Új opció "
+
+#: app/Services/TransStrings.php:502
+msgid "+Add more questions for invitees"
+msgstr "+ További kérdések hozzáadása a meghívottak számára"
+
+#: app/Services/TransStrings.php:652
+msgid ""
+", you can configure the integration feed here. More integration will be "
+"available soon. For now, you may use webhook feed."
+msgstr ""
+",itt konfigurálhatjuk az integrációs feedet. Hamarosan több integráció is "
+"elérhető lesz. A továbbiakban a webhook feedet használhatja."
+
+#: app/Services/TransStrings.php:321
+msgid "- Administrator (Owner)"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/BaseCalendar.php:149 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:78
+msgid "1 minute"
+msgstr "1 perc"
+
+#: app/Services/Helper.php:1103 app/Services/Helper.php:1165 
+#: app/Services/Helper.php:1211
+msgid "10 Minutes"
+msgstr "10 Perc"
+
+#: app/Services/Integrations/Calendars/BaseCalendar.php:151 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:80
+msgid "10 minutes"
+msgstr "10 Perc"
+
+#: app/Services/Helper.php:1243
+msgid "105 Minutes"
+msgstr "105 perc"
+
+#: app/Services/Helper.php:1131 app/Services/Helper.php:1193 
+#: app/Services/Helper.php:1247
+msgid "120 Minutes"
+msgstr "120 Perc"
+
+#: app/Services/TransStrings.php:598
+msgid "12h"
+msgstr "12ó"
+
+#: app/Services/Helper.php:1073 app/Services/Helper.php:1107 
+#: app/Services/Helper.php:1169 app/Services/Helper.php:1215
+msgid "15 Minutes"
+msgstr "15 Perc"
+
+#: app/Services/Integrations/Calendars/BaseCalendar.php:152 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:81
+msgid "15 minutes"
+msgstr "15 Perc"
+
+#: app/Services/Helper.php:1135
+msgid "150 Minutes"
+msgstr "150 perc"
+
+#: app/Services/Helper.php:1139
+msgid "180 Minutes"
+msgstr "180 perc"
+
+#: app/Services/Helper.php:1173 app/Services/Helper.php:1219
+msgid "20 Minutes"
+msgstr "20 Perc"
+
+#: app/Services/Helper.php:1143
+msgid "240 Minutes"
+msgstr "240 perc"
+
+#: app/Services/TransStrings.php:599
+msgid "24h"
+msgstr "24ó"
+
+#: app/Services/Helper.php:1077 app/Services/Helper.php:1111 
+#: app/Services/Helper.php:1177 app/Services/Helper.php:1223
+msgid "30 Minutes"
+msgstr "30 Perc"
+
+#: app/Services/Helper.php:1081 app/Services/Helper.php:1115 
+#: app/Services/Helper.php:1181 app/Services/Helper.php:1227
+msgid "45 Minutes"
+msgstr "45 Perc"
+
+#: app/Services/Helper.php:1147
+msgid "480 Minutes"
+msgstr "480 perc"
+
+#: app/Services/Helper.php:1099 app/Services/Helper.php:1161 
+#: app/Services/Helper.php:1207
+msgid "5 Minutes"
+msgstr "5 Perc"
+
+#: app/Services/Integrations/Calendars/BaseCalendar.php:150 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:79
+msgid "5 minutes"
+msgstr "5 Perc"
+
+#: app/Services/Helper.php:1119
+#, fuzzy
+#| msgid " minutes"
+msgid "50 Minutes"
+msgstr "perc"
+
+#: app/Services/Helper.php:1085 app/Services/Helper.php:1123 
+#: app/Services/Helper.php:1185 app/Services/Helper.php:1231
+msgid "60 Minutes"
+msgstr "60 Perc"
+
+#: app/Services/Helper.php:1235
+msgid "75 Minutes"
+msgstr "75 Perc"
+
+#: app/Services/Helper.php:1127 app/Services/Helper.php:1189 
+#: app/Services/Helper.php:1239
+msgid "90 Minutes"
+msgstr "90 Perc"
+
+#: app/Services/BookingService.php:195
+msgid ""
+"A confirmation has been sent to your email address along with meeting "
+"location details."
+msgstr ""
+"A visszaigazolást elküldtük az e-mail címére a találkozó helyszínének "
+"részleteivel együtt."
+
+#: app/Services/Integrations/FluentForms/FluentFormInit.php:351
+#, php-format
+msgid ""
+"A new appointment has been created on FluentBooking. %1sView Booking "
+"Details%2s"
+msgstr ""
+
+#: app/Services/TransStrings.php:372
+msgid ""
+"A particular user can have one calendar with multiple events. Please select "
+"a user who does not have a calendar yet"
+msgstr ""
+"Egy adott felhasználónak egy naptárában több esemény is lehet. Kérjük, "
+"válasszon ki egy olyan felhasználót, akinek még nincs naptára."
+
+#: app/Services/TransStrings.php:117
+msgid "About"
+msgstr "Információk"
+
+#: app/Services/GlobalModules/GlobalModules.php:40
+msgid "Accept payment on your booking appointment with WooCommerce Checkout"
+msgstr "Fizetések fogadása a WooCommerce segítségével."
+
+#: app/Services/TransStrings.php:451
+msgid "Access Permissions for this user"
+msgstr "Hozzáférési engedélyek a felhasználó számára"
+
+#: app/Http/Controllers/AdminController.php:218
+msgid "Access Permissions has been updated successfully"
+msgstr "A hozzáférési engedélyek sikeresen frissültek"
+
+#: app/Services/Integrations/Calendars/Google/GoogleCalendar.php:112 
+#: app/Services/Integrations/Calendars/Outlook/OutlookCalendar.php:91
+msgid "Access Token Refreshed"
+msgstr ""
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:77
+msgid "Account SID"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/FluentCrmInit.php:145
+msgid "Action"
+msgstr ""
+
+#: app/Services/TransStrings.php:538
+msgid "Active"
+msgstr ""
+
+#: app/Services/TransStrings.php:131
+msgid "Add"
+msgstr " "
+
+#: app/Services/TransStrings.php:236
+msgid "Add a date override"
+msgstr ""
+
+#: app/Services/TransStrings.php:62
+msgid "Add Another Conditional Group"
+msgstr ""
+
+#: app/Services/TransStrings.php:250
+msgid "Add another location option"
+msgstr "További helyszín opció hozzáadása"
+
+#: app/Services/TransStrings.php:360
+msgid "Add Calendar to Gutenberg Block"
+msgstr "Gutenberg szerkesztő esetében használja a Flutent Booking blokkot"
+
+#: app/Services/TransStrings.php:89
+msgid "Add date overrides"
+msgstr "Dátum felülírások hozzáadása"
+
+#: app/Services/TransStrings.php:235
+msgid "Add dates when your availability changes from your weekly hours"
+msgstr ""
+"Adja hozzá azokat az időpontokat, amikor az elérhetősége megváltozik a heti "
+"munkaidejéhez képest."
+
+#: app/Services/TransStrings.php:213
+msgid "Add Location"
+msgstr ""
+
+#: app/Services/TransStrings.php:64
+msgid "Add More"
+msgstr ""
+
+#: app/Services/TransStrings.php:145
+msgid "Add more item"
+msgstr ""
+
+#: app/Services/TransStrings.php:71
+msgid "Add New"
+msgstr "Új hozzáadás"
+
+#: app/Services/TransStrings.php:80
+msgid "Add New Availability Schedule"
+msgstr ""
+
+#: app/Services/TransStrings.php:370
+msgid "Add New Booking"
+msgstr "Új foglalás"
+
+#: app/Services/TransStrings.php:371
+msgid "Add New Calendar Host"
+msgstr ""
+
+#: app/Services/TransStrings.php:369
+msgid "Add New Host"
+msgstr "Új szervező hozzáadása"
+
+#: app/Services/TransStrings.php:99
+msgid "Add New Integration"
+msgstr "Új integráció hozzáadása"
+
+#: app/Services/TransStrings.php:503
+#, fuzzy
+#| msgid "+Add new option"
+msgid "Add new option"
+msgstr "+ Új opció "
+
+#: app/Services/TransStrings.php:643
+msgid "Add New Schedule"
+msgstr "Új időbeosztás létrehozása"
+
+#: app/Services/TransStrings.php:174
+msgid "Add New Webhook"
+msgstr "Új Webhook hozzáadása"
+
+#: app/Services/TransStrings.php:570
+msgid "Add New Zoom User Account"
+msgstr ""
+
+#: app/Services/TransStrings.php:188
+msgid "Add Question"
+msgstr "Kérdés hozzáadása"
+
+#: app/Services/TransStrings.php:193
+msgid "Add Shortcodes"
+msgstr "Shortcodes hozzáadása"
+
+#: app/Services/TransStrings.php:454
+msgid "Add Team Member"
+msgstr "Új csapattag hozzáadása"
+
+#: app/Services/TransStrings.php:361
+msgid "Add to Block"
+msgstr "Gutenberg blokk"
+
+#: app/Views/public/booking_confirmation.php:80
+msgid "Add to calendar"
+msgstr "Adjuk hozzá a naptárhoz"
+
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:609
+msgid "Added to Google calendar"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:524
+msgid "Added to Outlook calendar"
+msgstr ""
+
+#: app/Services/BookingService.php:152
+msgid "Additional Note"
+msgstr ""
+
+#: app/Services/TransStrings.php:200
+msgid "Additional Recipients"
+msgstr "További címzettek"
+
+#: app/Services/TransStrings.php:537
+msgid "Additional Settings"
+msgstr "További beállítások"
+
+#: app/Services/BookingFieldService.php:124
+msgid "Address"
+msgstr ""
+
+#: app/Services/TransStrings.php:462
+msgid "Admin Email"
+msgstr "Admin Email"
+
+#: app/Services/TransStrings.php:574
+msgid "Administrator"
+msgstr ""
+
+#: app/Services/TransStrings.php:46
+msgid "Advanced Operators"
+msgstr ""
+
+#: app/Services/TransStrings.php:299
+msgid "After Event"
+msgstr "Esemény után"
+
+#: app/Services/TransStrings.php:580
+msgid "All"
+msgstr "Összes"
+
+#: app/Services/TransStrings.php:122
+msgid "All Active Booking Forms"
+msgstr "Összes elérhető foglalási űrlap"
+
+#: app/Services/TransStrings.php:564
+msgid ""
+"All connected zoom accounts by you and your team members. You can review who "
+"connected their zoom account from Host Settings and manage from here for all "
+"of your team members."
+msgstr ""
+"Az Ön és a csapattagok összes csatlakoztatott zoom-fiókja. A szervező "
+"beállítások menüpontban megtekintheti, hogy ki csatlakoztatta a zoom-fiókját,"
+" és innen kezelheti az összes csapattagját."
+
+#: app/Services/TransStrings.php:164
+msgid "All Data"
+msgstr ""
+
+#: app/Services/TransStrings.php:582
+msgid "All dates are shown in"
+msgstr "Minden dátum erre az időzónára vonatkozik: "
+
+#: app/Services/TransStrings.php:440
+msgid "All Events"
+msgstr "Összes esemény"
+
+#: app/Services/TransStrings.php:442
+msgid "All Meetings"
+msgstr "Összes találkozó"
+
+#: app/Services/TransStrings.php:70
+msgid "All Schedules"
+msgstr "Összes időbeosztás"
+
+#: app/Services/TransStrings.php:692
+msgid "Allow attendee to select duration"
+msgstr "Lehetővé teszi a résztvevők számára az időtartam kiválasztását"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:468
+msgid "AM"
+msgstr "DE"
+
+#: app/Services/TransStrings.php:641
+msgid "am"
+msgstr "de"
+
+#: app/Services/Helper.php:1062
+msgid "Amber"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/NewBookingTrigger.php:88 
+#: app/Services/Integrations/FluentCRM/CancelBookingTrigger.php:88 
+#: app/Services/Integrations/FluentCRM/BookingCompletedTrigger.php:88
+msgid "An Automated double-optin email will be sent for new subscribers"
+msgstr ""
+
+#: app/Services/TransStrings.php:127
+msgid "API Error:"
+msgstr "API Error:"
+
+#: app/Services/Integrations/PaymentMethods/Stripe/API/API.php:32
+msgid "API Error: "
+msgstr "API Error: "
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:100 
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:96
+msgid "App Specific Password"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:24
+msgid "Apple Calendar"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:345 
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:389 
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:437 
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:506
+msgid "Apple Calendar API Error"
+msgstr "Apple naptár API Error"
+
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:48
+msgid "Apple Calendar API Error:"
+msgstr "Apple naptár API Error:"
+
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:336
+msgid "Apple Calendar event created"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:382
+msgid "Apple calendar event has been deleted"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:430
+msgid "Apple calendar event has been updated"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:381
+msgid "Apple event has been deleted"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:429
+msgid "Apple event has been updated"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:95
+msgid "Apple ID (Email)"
+msgstr ""
+
+#: app/Services/TransStrings.php:240
+msgid "Apply"
+msgstr "Alkalmazás"
+
+#: app/Services/Integrations/Woo/Bootstrap.php:79
+msgid "Appointment"
+msgstr ""
+
+#: app/Services/Integrations/FluentForms/FluentFormInit.php:290
+msgid "Appointment could not be created"
+msgstr ""
+
+#: app/Services/Integrations/FluentForms/FluentFormInit.php:291
+msgid "Appointment could not be created because email is not given or invalid"
+msgstr ""
+
+#: app/Services/Integrations/FluentForms/BookingElement.php:69
+msgid "Appointment Date & Time is required"
+msgstr ""
+
+#: app/Services/TransStrings.php:616
+msgid "Apr"
+msgstr "Ápr"
+
+#: app/Services/TransStrings.php:629
+msgid "April"
+msgstr "Április"
+
+#: app/Services/TransStrings.php:509
+msgid "Are you sure to delete this Feed?"
+msgstr ""
+
+#: app/Services/TransStrings.php:175
+msgid "Are you sure to delete this webhook?"
+msgstr ""
+
+#: app/Services/TransStrings.php:25
+msgid "Are you sure to delete this?"
+msgstr ""
+
+#: app/Services/TransStrings.php:323
+msgid "Are you sure to disconnect this account?"
+msgstr ""
+
+#: app/Services/TransStrings.php:506
+msgid "Are you sure you want to delete this availability?"
+msgstr "Biztos, hogy törölni akarja ezt az elérhetőséget?"
+
+#: app/Services/TransStrings.php:547
+msgid ""
+"Are you sure you want to delete this booking type? All the associate "
+"bookings and data will be deleted"
+msgstr ""
+"Biztos, hogy törölni szeretné ezt a foglalási típust? Az összes társított "
+"foglalás és adat törlésre kerül."
+
+#: app/Services/TransStrings.php:429
+msgid "Are you sure you want to delete this booking?"
+msgstr "Biztos, hogy törölni szeretné ezt a foglalást?"
+
+#: app/Services/TransStrings.php:544
+msgid ""
+"Are you sure you want to delete this calendar? All the associate bookings "
+"and data will be deleted"
+msgstr ""
+"Biztos, hogy törölni szeretné ezt a naptárat? Minden társított foglalás és "
+"adat törlésre kerül."
+
+#: app/Services/TransStrings.php:514
+msgid ""
+"Are you sure you want to disconnect this calendar? This action can't be "
+"undone."
+msgstr ""
+
+#: app/Services/TransStrings.php:541
+msgid "Are you sure you want to disconnect this integration?"
+msgstr ""
+
+#: app/Services/TransStrings.php:562
+msgid "as group booking type"
+msgstr "- csoportos foglalás"
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:115
+msgid ""
+"Associate your FluentCRM merge tags to the appropriate Fluent Form fields by "
+"selecting the appropriate form field from the list."
+msgstr ""
+"Kapcsolja össze a FluentCRM címkéket a megfelelő Fluent Form mezőkhöz a "
+"megfelelő űrlapmező kiválasztásával a listából."
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:784 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:862
+msgid "Attendee Added in Google Calendar Event"
+msgstr ""
+
+#: app/Services/TransStrings.php:268
+msgid "Attendee address"
+msgstr "A résztvevő címe"
+
+#: app/Services/TransStrings.php:296
+msgid "Attendee can cancel booking"
+msgstr "A résztvevő lemondhatja a foglalást"
+
+#: app/Services/TransStrings.php:297
+msgid "Attendee can reschedule booking"
+msgstr "A résztvevő átütemezheti a foglalást"
+
+#: app/Services/Helper.php:1501 app/Services/Helper.php:1556
+msgid "Attendee Data"
+msgstr "Részvevők adatai"
+
+#: app/Services/TransStrings.php:295
+msgid "Attendee Permissions"
+msgstr "Résztvevői jogosultságok"
+
+#: app/Models/Calendar.php:158 app/Services/LocationService.php:56 
+#: app/Services/TransStrings.php:256 app/Hooks/Handlers/FrontEndHandler.php:461
+msgid "Attendee Phone Number"
+msgstr "Résztvevő telefonszám"
+
+#: app/Services/TransStrings.php:269
+msgid "Attendee phone number (with country code)"
+msgstr ""
+
+#: app/Services/TransStrings.php:266
+msgid "Attendee's Email"
+msgstr "A résztvevő e-mail címe"
+
+#: app/Services/TransStrings.php:265
+msgid "Attendee's Name"
+msgstr "A résztvevő neve"
+
+#: app/Services/TransStrings.php:267
+msgid "Attendee's Timezone"
+msgstr "A résztvevők időzónája"
+
+#: app/Services/TransStrings.php:620
+msgid "Aug"
+msgstr "Aug"
+
+#: app/Services/TransStrings.php:632
+msgid "August"
+msgstr "Augusztus"
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:82
+msgid "Auth Token"
+msgstr ""
+
+#: app/Services/TransStrings.php:67 app/Services/Helper.php:1362 
+#: app/Hooks/Handlers/AdminMenuHandler.php:76 
+#: app/Hooks/Handlers/AdminMenuHandler.php:77 
+#: app/Hooks/Handlers/AdminMenuHandler.php:131
+msgid "Availability"
+msgstr "Elérhetőség"
+
+#: app/Services/TransStrings.php:310
+msgid "Availability Range"
+msgstr ""
+
+#: app/Services/TransStrings.php:690
+msgid "Available Durations"
+msgstr "Elérhető időtartamok"
+
+#: app/Services/TransStrings.php:95
+msgid "Back"
+msgstr "Vissza"
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:276 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:298 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:309 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:690 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:712 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:723 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:150 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:167
+msgid "Back to Calendars Configuration"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/RemoteCalendarHelper.php:98
+msgid "Back to dashboard"
+msgstr "Vissza a vezérlőpultra"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:274
+msgid "Back to team"
+msgstr ""
+
+#: app/Services/TransStrings.php:298
+msgid "Before Event"
+msgstr "Esemény előtt"
+
+#: app/Services/LandingPage/LandingPageHandler.php:116
+msgid "Book a meeting with me for %d minutes"
+msgstr ""
+
+#: app/Views/landing/author_html.php:42
+msgid "Book Now"
+msgstr "Időpont foglalás"
+
+#: app/Services/TransStrings.php:555
+msgid "Booked"
+msgstr "Foglalt"
+
+#: app/Services/TransStrings.php:560
+msgid "booked a new meeting at"
+msgstr "lefoglalt egy új időpontot"
+
+#: app/Services/TransStrings.php:403
+msgid "Booked At"
+msgstr "Foglalás időpontja"
+
+#: app/Services/TransStrings.php:418
+msgid "Booked From"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/NewBookingTrigger.php:33 
+#: app/Services/Integrations/FluentCRM/CancelBookingTrigger.php:33 
+#: app/Services/Integrations/FluentCRM/BookingCompletedTrigger.php:33
+msgid "Booking"
+msgstr ""
+
+#: app/Services/Integrations/Woo/Bootstrap.php:278
+#, php-format
+msgid "Booking #%1s status changed to cancelled. %2sView Booking%3s"
+msgstr ""
+
+#: app/Services/Integrations/Woo/Bootstrap.php:244
+#, php-format
+msgid "Booking #%1s status changed to scheduled at %2s. %3sView Booking%4s"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/NewBookingTrigger.php:74 
+#: app/Services/Integrations/FluentCRM/CancelBookingTrigger.php:74 
+#: app/Services/Integrations/FluentCRM/BookingCompletedTrigger.php:74
+msgid "Booking Calendar"
+msgstr ""
+
+#: app/Http/Controllers/WebhookController.php:114 
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:197
+msgid "Booking Canceled"
+msgstr "Foglalás lemondva"
+
+#: app/Services/Helper.php:1526 app/Services/Helper.php:1583 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:97
+msgid "Booking Cancellation URL"
+msgstr "Foglalás lemondása URL"
+
+#: app/Services/TransStrings.php:512 
+#: app/Services/Integrations/FluentCRM/CancelBookingTrigger.php:34
+msgid "Booking Cancelled"
+msgstr ""
+
+#: app/Services/Helper.php:1460
+msgid "Booking Cancelled by Attendee (email to Organizer)"
+msgstr "A résztvevő által lemondott foglalás (e-mail a szervezőnek)"
+
+#: app/Services/Integrations/Twilio/TwilioHelper.php:142
+msgid "Booking Cancelled by Attendee (SMS to Organizer)"
+msgstr ""
+
+#: app/Services/Helper.php:1469
+msgid "Booking Cancelled by Organizer (email to Attendee)"
+msgstr "A szervező által lemondott foglalás (email a résztvevőnek)"
+
+#: app/Services/Integrations/Twilio/TwilioHelper.php:152
+msgid "Booking Cancelled by Organizer (SMS to Attendee)"
+msgstr ""
+
+#: app/Services/TransStrings.php:511 
+#: app/Http/Controllers/WebhookController.php:118 
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:196 
+#: app/Services/Integrations/FluentCRM/BookingCompletedTrigger.php:34
+msgid "Booking Completed"
+msgstr "Foglalás teljesítve"
+
+#: app/Services/Helper.php:1411
+msgid "Booking Confirmation Email to Attendee"
+msgstr "Foglalási visszaigazoló e-mail a résztvevőnek"
+
+#: app/Services/Helper.php:1420
+msgid "Booking Confirmation Email to Organizer (You)"
+msgstr "Foglalási visszaigazoló e-mail a szervezőnek (Ön)"
+
+#: app/Services/Integrations/Twilio/TwilioHelper.php:89
+msgid "Booking Confirmation SMS to Attendee"
+msgstr ""
+
+#: app/Services/Integrations/Twilio/TwilioHelper.php:99
+msgid "Booking Confirmation SMS to Organizer (You)"
+msgstr ""
+
+#: app/Services/TransStrings.php:510 
+#: app/Http/Controllers/WebhookController.php:110 
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:195
+msgid "Booking Confirmed"
+msgstr "Foglalás megerősítve"
+
+#: app/Services/Helper.php:1514 app/Services/Helper.php:1570
+msgid "Booking Data"
+msgstr "Foglalási adatok"
+
+#: app/Http/Controllers/SchedulesController.php:218
+msgid "Booking Deleted Successfully!"
+msgstr ""
+
+#: app/Services/Integrations/Woo/Bootstrap.php:122
+msgid "Booking Details"
+msgstr "A foglalás részletei"
+
+#: app/Services/Helper.php:1528 app/Services/Helper.php:1585 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:99
+msgid "Booking Details Admin URL"
+msgstr ""
+
+#: app/Models/CalendarSlot.php:549
+msgid "Booking Fee"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:118
+msgid "Booking Field"
+msgstr "Foglalási mező"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:454
+msgctxt "Booking form spot selection"
+msgid "Next"
+msgstr "Tovább"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:649
+msgid "Booking has been confirmed"
+msgstr ""
+
+#: app/Http/Controllers/BookingController.php:203
+msgid "Booking has been created"
+msgstr ""
+
+#: app/Services/Integrations/FluentForms/FluentFormInit.php:350
+msgid "Booking has been created on FluentBooking"
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:143
+msgid "Booking has been rescheduled"
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:314
+msgid "Booking hash is missing!"
+msgstr ""
+
+#: app/Services/Integrations/FluentForms/BookingElement.php:217
+msgid "Booking ID"
+msgstr "Foglalás ID"
+
+#: app/Services/TransStrings.php:516
+msgid "Booking Payment Items"
+msgstr ""
+
+#: app/Services/TransStrings.php:262
+msgid "Booking Questions"
+msgstr "Foglalással kapcsolatos kérdések"
+
+#: app/Services/Helper.php:1527 app/Services/Helper.php:1584 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:98
+msgid "Booking Reschedule URL"
+msgstr "Foglalás átütemezés URL"
+
+#: app/Services/Helper.php:1478 
+#: app/Services/Integrations/Twilio/TwilioHelper.php:162
+msgid "Booking Rescheduled by Attendee (email to Organizer)"
+msgstr "A résztvevő által átütemezett foglalás (e-mail a szervezőnek)"
+
+#: app/Services/Helper.php:1487 
+#: app/Services/Integrations/Twilio/TwilioHelper.php:172
+msgid "Booking Rescheduled by Organizer (email to Attendee)"
+msgstr "A szervező által átütemezett foglalás (e-mail a résztvevőnek)"
+
+#: app/Services/Integrations/FluentForms/BookingElement.php:221
+msgid "Booking Status"
+msgstr "Foglalási státusz"
+
+#: app/Services/TransStrings.php:23
+msgid "Booking Trends"
+msgstr "Foglalási tendenciák"
+
+#: app/Services/TransStrings.php:374
+msgid "Booking Type"
+msgstr "Foglalás típus hozzáadása"
+
+#: app/Services/TransStrings.php:533
+msgid "Booking Types"
+msgstr "Foglalási típusok"
+
+#: app/Services/TransStrings.php:400
+msgid "Booking URL"
+msgstr "Foglalási URL"
+
+#: app/Services/TransStrings.php:597 
+#: app/Hooks/Handlers/AdminMenuHandler.php:67 
+#: app/Hooks/Handlers/AdminMenuHandler.php:68 
+#: app/Hooks/Handlers/AdminMenuHandler.php:126 
+#: app/Services/Integrations/FluentCRM/FluentCrmInit.php:66
+msgid "Bookings"
+msgstr "Foglalás"
+
+#: app/Services/Integrations/PaymentMethods/CurrenciesHelper.php:384
+msgid "Burundian Franc"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/BaseCalendar.php:154 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:83
+msgid "Caching Time"
+msgstr ""
+
+#: app/Services/TransStrings.php:594
+msgid "Calendar Avatar"
+msgstr "Naptár Avatár"
+
+#: app/Http/Controllers/CalendarController.php:142
+msgid "Calendar could not be found. Please try again"
+msgstr "Naptár nem található. Kérjük próbálja meg ismét"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:408
+msgctxt "calendar day full"
+msgid "Friday"
+msgstr "Péntek"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:404
+msgctxt "calendar day full"
+msgid "Monday"
+msgstr "Hétfő"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:409
+msgctxt "calendar day full"
+msgid "Saturday"
+msgstr "Szombat"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:403
+msgctxt "calendar day full"
+msgid "Sunday"
+msgstr "Vasárnap"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:407
+msgctxt "calendar day full"
+msgid "Thursday"
+msgstr "Csütörtök"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:405
+msgctxt "calendar day full"
+msgid "Tuesday"
+msgstr "Kedd"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:406
+msgctxt "calendar day full"
+msgid "Wednesday"
+msgstr "Szerda"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:431
+msgctxt "calendar day short"
+msgid "Fri"
+msgstr "PÉN"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:427
+msgctxt "calendar day short"
+msgid "Mon"
+msgstr "HÉT"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:432
+msgctxt "calendar day short"
+msgid "Sat"
+msgstr "Szom"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:426
+msgctxt "calendar day short"
+msgid "Sun"
+msgstr "Vas"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:430
+msgctxt "calendar day short"
+msgid "Thu"
+msgstr "CSÜ"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:428
+msgctxt "calendar day short"
+msgid "Tue"
+msgstr "Kedd"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:429
+msgctxt "calendar day short"
+msgid "Wed"
+msgstr "SZER"
+
+#: app/Http/Controllers/CalendarController.php:746
+msgid "Calendar Deleted Successfully!"
+msgstr ""
+
+#: app/Services/TransStrings.php:546 app/Services/Helper.php:1549 
+#: app/Services/Helper.php:1606 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:108
+msgid "Calendar Description"
+msgstr "Naptár leírás"
+
+#: app/Http/Controllers/CalendarController.php:721
+msgid "Calendar Event has been deleted"
+msgstr ""
+
+#: app/Services/TransStrings.php:73
+msgid "calendar events are using this schedule"
+msgstr "naptári esemény használja ezt az időbeosztást"
+
+#: app/Http/Controllers/CalendarController.php:286
+msgid "Calendar has been updated successfully"
+msgstr "A naptár sikeresen frissült"
+
+#: app/Services/Helper.php:1547 app/Services/Helper.php:1604 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:106
+msgid "Calendar ID"
+msgstr "Naptár ID"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:415
+msgctxt "calendar month name full"
+msgid "April"
+msgstr "Április"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:419
+msgctxt "calendar month name full"
+msgid "August"
+msgstr "Augusztus"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:423
+msgctxt "calendar month name full"
+msgid "December"
+msgstr "December"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:413
+msgctxt "calendar month name full"
+msgid "February"
+msgstr "Február"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:412
+msgctxt "calendar month name full"
+msgid "January"
+msgstr "Január"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:418
+msgctxt "calendar month name full"
+msgid "July"
+msgstr "Július"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:417
+msgctxt "calendar month name full"
+msgid "June"
+msgstr "Június"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:414
+msgctxt "calendar month name full"
+msgid "March"
+msgstr "Március"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:416
+msgctxt "calendar month name full"
+msgid "May"
+msgstr "Május"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:422
+msgctxt "calendar month name full"
+msgid "November"
+msgstr "November"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:421
+msgctxt "calendar month name full"
+msgid "October"
+msgstr "Október"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:420
+msgctxt "calendar month name full"
+msgid "September"
+msgstr "Szeptember"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:438
+msgctxt "calendar month name short"
+msgid "Apr"
+msgstr "Ápr"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:442
+msgctxt "calendar month name short"
+msgid "Aug"
+msgstr "Aug"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:446
+msgctxt "calendar month name short"
+msgid "Dec"
+msgstr "Dec"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:436
+msgctxt "calendar month name short"
+msgid "Feb"
+msgstr "Feb"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:435
+msgctxt "calendar month name short"
+msgid "Jan"
+msgstr "Jan"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:441
+msgctxt "calendar month name short"
+msgid "Jul"
+msgstr "Júl"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:440
+msgctxt "calendar month name short"
+msgid "Jun"
+msgstr "Jún"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:437
+msgctxt "calendar month name short"
+msgid "Mar"
+msgstr "Márc"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:439
+msgctxt "calendar month name short"
+msgid "May"
+msgstr "Máj"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:445
+msgctxt "calendar month name short"
+msgid "Nov"
+msgstr "Nov"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:444
+msgctxt "calendar month name short"
+msgid "Oct"
+msgstr "Okt"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:443
+msgctxt "calendar month name short"
+msgid "Sep"
+msgstr "Szept"
+
+#: app/Http/Controllers/PaymentMethodController.php:130 
+#: app/Http/Controllers/BookingController.php:223 
+#: app/Hooks/Handlers/FrontEndHandler.php:174
+msgid "Calendar not found"
+msgstr "Naptár nem található"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:448
+msgctxt "calendar numeric system - Sequence must need to maintained"
+msgid "0_1_2_3_4_5_6_7_8_9"
+msgstr ""
+
+#: app/Services/TransStrings.php:332 
+#: app/Http/Controllers/CalendarController.php:221
+msgid "Calendar Settings"
+msgstr "Naptár beállítások"
+
+#: app/Services/TransStrings.php:463
+msgid "Calendar start from"
+msgstr "Naptár kezdete"
+
+#: app/Services/Helper.php:1548 app/Services/Helper.php:1605 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:107
+msgid "Calendar Title"
+msgstr "Naptár cím"
+
+#: app/Services/TransStrings.php:366 
+#: app/Hooks/Handlers/AdminMenuHandler.php:58 
+#: app/Hooks/Handlers/AdminMenuHandler.php:59 
+#: app/Hooks/Handlers/AdminMenuHandler.php:121
+msgid "Calendars"
+msgstr "Naptárak"
+
+#: app/Http/Controllers/AvailabilityController.php:257
+#, php-format
+msgid "Can't delete: %s events depend on this schedule"
+msgstr ""
+
+#: app/Services/TransStrings.php:24 app/Services/Helper.php:1414 
+#: app/Services/Helper.php:1432 app/Views/public/booking_confirmation.php:68
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: app/Views/public/booking_confirmation.php:59
+msgid "Cancel Booking"
+msgstr "Foglalás lemondása"
+
+#: app/Services/TransStrings.php:420
+msgid "Cancel Meeting"
+msgstr "Találkozó lemondása"
+
+#: app/Services/BookingService.php:144
+msgid "Cancellation Reason"
+msgstr "Lemondási ok"
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:346 
+#: app/Services/Integrations/Twilio/Bootstrap.php:367
+msgid "Cancellation SMS Sent Successfully"
+msgstr ""
+
+#: app/Services/TransStrings.php:391
+msgid "Cancelled"
+msgstr "Lemondott"
+
+#: app/Services/TransStrings.php:392 app/Services/BookingService.php:175
+msgid "cancelled"
+msgstr "lemondta"
+
+#: app/Services/EmailNotificationService.php:257
+msgid "Cancelled booking email sent to"
+msgstr ""
+
+#: app/Http/Controllers/ReportController.php:86
+msgid "Cancelled Bookings"
+msgstr "Lemondott foglalások"
+
+#: app/Services/Integrations/Woo/Bootstrap.php:274
+msgid "Cancelled by WooCommerce Order"
+msgstr ""
+
+#: app/Services/TransStrings.php:410
+msgid "Card Last 4"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/CurrenciesHelper.php:396
+msgid "Central African Cfa Franc"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/CurrenciesHelper.php:398
+msgid "Cfp Franc"
+msgstr ""
+
+#: app/Services/PluginManager/LicenseManager.php:54
+msgid "Check Update"
+msgstr "Frissítés keresése"
+
+#: app/Services/Helper.php:1329
+msgid "Checkbox"
+msgstr "Jelölőnégyzet"
+
+#: app/Services/Helper.php:1333
+msgid "Checkbox Group"
+msgstr "Csoportos jelölőnégyzet"
+
+#: app/Services/TransStrings.php:675
+msgid "Checkout Method"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/CurrenciesHelper.php:385
+msgid "Chilean Peso"
+msgstr ""
+
+#: app/Services/LandingPage/LandingPageHandler.php:120
+msgid "Choose your duration and book a meeting with me"
+msgstr ""
+
+#: app/Services/TransStrings.php:478
+msgid "Click here"
+msgstr ""
+
+#: app/Services/PluginManager/LicenseManager.php:339
+msgid "click here"
+msgstr ""
+
+#: app/Services/PluginManager/LicenseManager.php:341
+msgid "Click Here to purchase another license"
+msgstr ""
+
+#: app/Services/PluginManager/LicenseManager.php:358
+msgid "Click Here to Renew Your License"
+msgstr ""
+
+#: app/Services/TransStrings.php:476
+msgid "Click Here to Renew your License"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:47 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:211 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:73 
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:48 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:82
+msgid "Click Here to Review"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/BaseCalendar.php:131 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:60
+msgid "Client ID"
+msgstr ""
+
+#: app/Services/TransStrings.php:77
+msgid "Clone"
+msgstr "Másolás"
+
+#: app/Services/TransStrings.php:362
+msgid "Close"
+msgstr "Bezárás"
+
+#: app/Services/Integrations/PaymentMethods/CurrenciesHelper.php:389
+msgid "Comorian Franc"
+msgstr ""
+
+#: app/Services/TransStrings.php:390
+msgid "Completed"
+msgstr "Befejezett"
+
+#: app/Http/Controllers/ReportController.php:54
+msgid "Completed Bookings"
+msgstr "Teljesített foglalások"
+
+#: app/Services/TransStrings.php:101
+msgid "Conditional Logics is a Pro Feature"
+msgstr ""
+
+#: app/Models/Calendar.php:140
+msgid "Conferencing"
+msgstr "Konferencia"
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:43
+msgid "Configuration required!"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:100 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:147 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:120
+msgid "Configure Google Calendar/Meet to sync your events"
+msgstr "A Google Naptár/Találkozó beállítása az események szinkronizálásához"
+
+#: app/Services/Helper.php:1429 
+#: app/Services/Integrations/Twilio/TwilioHelper.php:109
+msgid "Configure Meeting Reminder to Attendee"
+msgstr "Meeting emlékeztető beállítása a résztvevők számára"
+
+#: app/Services/Helper.php:1444 
+#: app/Services/Integrations/Twilio/TwilioHelper.php:125
+msgid "Configure Meeting Reminder to Organizer (You)"
+msgstr "Meeting emlékeztető beállítása a szervezőhöz (Ön)"
+
+#: app/Services/TransStrings.php:326
+msgid ""
+"Configure stripe to accept payments on your booking events and monetize your "
+"time slots"
+msgstr ""
+"Konfigurálja a stripe-ot, hogy fogadjon el fizetéseket a foglalási "
+"eseményeken és monetizálja az időpontokat."
+
+#: app/Services/TransStrings.php:68
+msgid "Configure times when you are available for bookings."
+msgstr "Állítsa be azokat az időpontokat, amelyeknél lehet időpontot foglalni."
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:92
+msgid ""
+"Configure Twilio API to send SMS/WhatsApp notifications on booking events"
+msgstr ""
+"A Twilio API konfigurálása SMS/WhatsApp értesítések küldésére foglalási "
+"események esetében"
+
+#: app/Services/TransStrings.php:472
+msgid "Configure your email settings for booking related emails"
+msgstr ""
+"Az e-mail beállítások konfigurálása a foglalással kapcsolatos e-mailekhez"
+
+#: app/Services/TransStrings.php:26
+msgid "Confirm"
+msgstr ""
+
+#: app/Services/TransStrings.php:128
+msgid "Confirm Disconnect"
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:752
+msgid "Confirm Payment"
+msgstr ""
+
+#: app/Services/LandingPage/LandingPageHandler.php:409 
+#: app/Services/LandingPage/LandingPageHandler.php:410 
+#: app/Services/LandingPage/LandingPageHandler.php:411
+msgid "Confirm Reschedule"
+msgstr ""
+
+#: app/Services/TransStrings.php:328
+msgid "Confirm, Disconnect"
+msgstr ""
+
+#: app/Services/LandingPage/LandingPageHandler.php:316
+msgid "Confirmation: "
+msgstr ""
+
+#: app/Services/TransStrings.php:373
+msgid "Congratulations!"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:30
+msgid ""
+"Connect FluentCRM with Fluent Booking and subscribe a contact when a booking "
+"is created."
+msgstr ""
+
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:93
+msgid "Connect to Apple Server"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:97
+msgid "Connect to Nextcloud Server"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:97
+msgid "Connect with Apple Calendar"
+msgstr "Csatlakozás az Apple naptárhoz"
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:148
+msgid "Connect with Google Calendar"
+msgstr "Csatlakozás a Google naptárhoz"
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:101
+msgid "Connect with Nextcloud Calendar"
+msgstr ""
+
+#: app/Services/TransStrings.php:319
+msgid "Connect with stripe"
+msgstr "Stripe összekapcsolása"
+
+#: app/Services/TransStrings.php:98
+msgid ""
+"Connect your favourite tools with your booking scheduled, completed or "
+"cancelled actions"
+msgstr ""
+"Kapcsolja össze kedvenc eszközeit az ütemezett, befejezett vagy törölt "
+"foglalási műveletekkel"
+
+#: app/Services/TransStrings.php:608
+msgid "Connect Your Stripe Account to your website to accept Payments"
+msgstr ""
+"Csatlakoztassa weboldalát a Stripe fiókjához, hogy tudjon fogadni fizetéseket"
+
+#: app/Services/TransStrings.php:141
+msgid "Connect Your Zoom Account"
+msgstr "Csatlakoztassa Zoom fiókját"
+
+#: app/Services/TransStrings.php:140 app/Services/TransStrings.php:568
+msgid ""
+"Connect your Zoom account to create dynamic meeting in zoom for your "
+"bookings."
+msgstr ""
+"Csatlakoztassa Zoom-fiókját, hogy dinamikus megbeszélést hozzon létre a "
+"zoomban a foglalásokhoz."
+
+#: app/Services/TransStrings.php:138
+msgid "Connect your Zoom account to create meeting when a event is booked."
+msgstr ""
+"Csatlakoztassa Zoom-fiókját a találkozó létrehozásához, amikor egy eseményt "
+"lefoglalnak."
+
+#: app/Services/TransStrings.php:456
+msgid "Connected Zoom Account Email:"
+msgstr ""
+
+#: app/Services/TransStrings.php:569
+msgid "Connected Zoom Accounts"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:296
+msgid ""
+"Contact creation has been skipped because contact already exist in the "
+"database"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:379
+msgid "Contact has been created in FluentCRM. Contact ID: "
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:420
+msgid "Contact has been updated in FluentCRM. Contact ID: "
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:159
+msgid "Contact Tags"
+msgstr ""
+
+#: app/Services/TransStrings.php:39
+msgid "Contains"
+msgstr ""
+
+#: app/Services/TransStrings.php:38
+msgid "contains"
+msgstr ""
+
+#: app/Services/TransStrings.php:376
+msgid "Continue"
+msgstr "Tovább"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:751
+msgid "Continue to Payments"
+msgstr "Tovább a fizetéshez"
+
+#: app/Services/TransStrings.php:353
+msgid "Copied to clipboard"
+msgstr ""
+
+#: app/Services/TransStrings.php:357
+msgid "Copy"
+msgstr "Másolás"
+
+#: app/Services/TransStrings.php:355
+msgid "Copy and use the shortcode Page/Post of your website"
+msgstr ""
+"Másolja ki a Shortcode-ot, és illessze be bármelyik oldalba, vagy bejegyzésbe"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:450
+msgid "Country"
+msgstr ""
+
+#: app/Services/GlobalModules/GlobalModules.php:59
+msgid ""
+"Create beautiful booking forms using Fluent Forms with your booking field"
+msgstr ""
+"Készítsen elegáns foglalási űrlapokat a Fluent Forms használatával a "
+"foglalási mezővel"
+
+#: app/Services/TransStrings.php:367
+msgid "Create Booking"
+msgstr ""
+
+#: app/Services/TransStrings.php:368
+msgid "Create Booking Manually"
+msgstr "Foglalás létrehozása manuálisan"
+
+#: app/Services/TransStrings.php:132
+msgid "Create events on"
+msgstr ""
+
+#: app/Services/TransStrings.php:333
+msgid "Create New Event Type"
+msgstr "Új esemény típus létrehozása"
+
+#: app/Services/TransStrings.php:177
+msgid "create one!"
+msgstr ""
+
+#: app/Services/TransStrings.php:375
+msgid "Create Your Availability"
+msgstr ""
+
+#: app/Services/TransStrings.php:551
+msgid "Create Your First Booking Event"
+msgstr ""
+
+#: app/Http/Controllers/SchedulesController.php:282
+msgid "CRM Profile"
+msgstr ""
+
+#: app/Services/Helper.php:1626 
+#: app/Services/Integrations/PaymentMethods/Stripe/Stripe.php:416
+msgid "Currency"
+msgstr "Pénznem"
+
+#: app/Services/TransStrings.php:365
+msgid "Current DateTime:"
+msgstr "Jelenlegi dátum:"
+
+#: app/Services/TransStrings.php:651
+msgid "Currently FluentBooking has integration with FluentCRM. After install"
+msgstr ""
+"Jelenleg a FluentBooking a FluentCRM-el van integrálva. Miután telepítette a "
+
+#: app/Services/TransStrings.php:658
+msgid "Currently FluentBooking has integration with FluentCRM.After install"
+msgstr ""
+"Jelenleg a FluentBooking a FluentCRM-el van integrálva. Miután telepítette a "
+
+#: app/Models/Calendar.php:177 app/Services/Helper.php:1089
+msgid "Custom"
+msgstr "Egyéb"
+
+#: app/Services/LocationService.php:41
+msgid "Custom Icon"
+msgstr ""
+
+#: app/Services/TransStrings.php:521
+msgid "Custom Number"
+msgstr ""
+
+#: app/Views/public/receipt/input-fields.php:2
+msgid "Customer Details"
+msgstr ""
+
+#: app/Services/Helper.php:1050
+msgid "Cyan"
+msgstr ""
+
+#: app/Services/TransStrings.php:467
+msgid "Daily"
+msgstr "Napi"
+
+#: app/Services/TransStrings.php:685
+msgid "Dark"
+msgstr "Sötét"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:49 
+#: app/Hooks/Handlers/AdminMenuHandler.php:50 
+#: app/Hooks/Handlers/AdminMenuHandler.php:116
+msgid "Dashboard"
+msgstr "Vezérlőpult"
+
+#: app/Http/Controllers/CalendarController.php:491 
+#: app/Http/Controllers/CalendarController.php:517 
+#: app/Http/Controllers/CalendarController.php:548 
+#: app/Http/Controllers/CalendarController.php:565
+msgid "Data has been updated"
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:469
+msgid "Date"
+msgstr ""
+
+#: app/Services/Integrations/FluentForms/BookingElement.php:225
+msgid "Date & Time"
+msgstr ""
+
+#: app/Services/Integrations/Woo/Bootstrap.php:129
+msgid "Date & Time:"
+msgstr ""
+
+#: app/Services/TransStrings.php:246
+msgid "Date Overrides"
+msgstr "Dátum felülírások"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:451
+msgctxt "date time format switch"
+msgid "12h"
+msgstr "12ó"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:452
+msgctxt "date time format switch"
+msgid "24h"
+msgstr "24ó"
+
+#: app/Views/public/receipt/payment-info.php:17
+msgid "Date:"
+msgstr ""
+
+#: app/Services/TransStrings.php:219
+msgid "Days"
+msgstr "Nap"
+
+#: app/Services/TransStrings.php:198
+msgid "Days Before"
+msgstr ""
+
+#: app/Services/TransStrings.php:276
+msgid "Days into the future"
+msgstr "Nap múlva a jövőben"
+
+#: app/Services/TransStrings.php:625
+msgid "Dec"
+msgstr ""
+
+#: app/Services/TransStrings.php:636
+msgid "December"
+msgstr ""
+
+#: app/Services/Helper.php:1038
+msgid "Deep Lilac"
+msgstr ""
+
+#: app/Services/TransStrings.php:72
+msgid "Default"
+msgstr ""
+
+#: app/Services/TransStrings.php:316
+msgid "Default Country for Phone Field"
+msgstr "A telefonmező alapértelmezett országa"
+
+#: app/Services/TransStrings.php:691
+msgid "Default Duration"
+msgstr "Alapértelmezett időtartam"
+
+#: app/Http/Controllers/SettingsController.php:29
+msgid "Default Name that will be used to send email)"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:54
+msgid "Default Reply to Email (Optional)"
+msgstr "Alapértelmezett válasz email (opcionális)"
+
+#: app/Http/Controllers/SettingsController.php:46
+msgid "Default Reply to Name (Optional)"
+msgstr "Alapértelmezett válasz név (opcionális)"
+
+#: app/Services/TransStrings.php:83
+msgid "Default schedule"
+msgstr "Alapértelmezett időbeosztás"
+
+#: app/Http/Controllers/AvailabilityController.php:249
+msgid "Default Schedule can not be deleted"
+msgstr "Alapértelmezett időbeosztást nem lehet törölni"
+
+#: app/Services/TransStrings.php:505
+msgid "Default Time Format"
+msgstr "Alapértelmezett időformátum"
+
+#: app/Services/TransStrings.php:78
+msgid "Delete"
+msgstr "Törlés"
+
+#: app/Services/TransStrings.php:507
+msgid "Delete Availability"
+msgstr "Elérhetőség törlése"
+
+#: app/Services/TransStrings.php:548
+msgid "Delete Booking Type"
+msgstr ""
+
+#: app/Services/TransStrings.php:545
+msgid "Delete Calendar"
+msgstr ""
+
+#: app/Services/TransStrings.php:428
+msgid "Delete Meeting"
+msgstr ""
+
+#: app/Services/TransStrings.php:61
+msgid "Delete this group"
+msgstr ""
+
+#: app/Http/Controllers/AdminController.php:82
+msgid "Deleted User"
+msgstr ""
+
+#: app/Models/Availability.php:50 app/Http/Controllers/ZoomController.php:38
+msgid "Deleted user"
+msgstr ""
+
+#: app/Services/TransStrings.php:228
+msgid "Description"
+msgstr "Leírás"
+
+#: app/Services/TransStrings.php:348
+msgid "Disable"
+msgstr "Kikapcsolás"
+
+#: app/Services/TransStrings.php:343
+msgid "Disable Landing Page Feature"
+msgstr ""
+
+#: app/Services/TransStrings.php:242
+msgid "Disabled"
+msgstr "Kikapcsolva"
+
+#: app/Services/TransStrings.php:444
+msgid "Discard"
+msgstr ""
+
+#: app/Services/TransStrings.php:324
+msgid "Disconnect"
+msgstr ""
+
+#: app/Services/TransStrings.php:515
+msgid "Disconnect Calendar"
+msgstr ""
+
+#: app/Services/TransStrings.php:542
+msgid "Disconnect Integration"
+msgstr ""
+
+#: app/Services/TransStrings.php:251
+msgid "Display Description on booking page"
+msgstr "Leírás megjelenítése a foglalási oldalon"
+
+#: app/Services/TransStrings.php:253
+msgid "Display Link on booking page"
+msgstr ""
+
+#: app/Services/TransStrings.php:252
+msgid "Display Phone number on booking page"
+msgstr ""
+
+#: app/Services/TransStrings.php:232
+msgid "Display remaining spots on booking page"
+msgstr "A fennmaradó helyek megjelenítése a foglalási oldalon"
+
+#: app/Services/Integrations/PaymentMethods/CurrenciesHelper.php:386
+msgid "Djiboutian Franc"
+msgstr ""
+
+#: app/Services/TransStrings.php:40
+msgid "do not contains"
+msgstr ""
+
+#: app/Services/PluginManager/LicenseManager.php:52
+msgid "Docs"
+msgstr "Dokumentáció"
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:90 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:110
+msgid "documentation"
+msgstr "dokmentációt"
+
+#: app/Services/TransStrings.php:485
+msgid "Don't have a license key?"
+msgstr ""
+
+#: app/Services/Helper.php:1325
+msgid "Dropdown"
+msgstr "Legördülő (Dropdown)"
+
+#: app/Services/TransStrings.php:76
+msgid "Duplicate"
+msgstr "Duplikálás"
+
+#: app/Services/TransStrings.php:97
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: app/Services/TransStrings.php:245
+msgid "Edit Availability"
+msgstr "Elérhetőség szerkesztése"
+
+#: app/Services/TransStrings.php:212
+msgid "Edit Location"
+msgstr "Helyszín szerkesztése"
+
+#: app/Services/TransStrings.php:243
+msgid "Edit Notification"
+msgstr ""
+
+#: app/Services/TransStrings.php:450
+msgid "Edit Team Member"
+msgstr "Csapattag szerkesztése"
+
+#: app/Services/TransStrings.php:86
+msgid ""
+"Edit the schedule below so that you can apply to your event/booking types"
+msgstr ""
+"Szerkessze az alábbi időbeosztást, hogy alkalmazni tudja az "
+"esemény/foglalási típusoknál."
+
+#: app/Services/TransStrings.php:558
+msgid "Edit:"
+msgstr "Szerkesztés: "
+
+#: app/Services/TransStrings.php:214
+msgid "eg: 4"
+msgstr ""
+
+#: app/Services/ReceiptHelper.php:158 app/Services/TransStrings.php:401 
+#: app/Services/Helper.php:1301
+msgid "Email"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:122
+msgid "Email Address"
+msgstr "E-mail cím"
+
+#: app/Http/Controllers/SettingsController.php:39
+msgid "email as per your domain/SMTP settings"
+msgstr ""
+
+#: app/Services/TransStrings.php:192
+msgid "Email Body"
+msgstr "E-mail tartalom"
+
+#: app/Http/Controllers/SettingsController.php:73
+msgid "Email Footer for Booking related emails (Optional)"
+msgstr "Email lábléc a foglalással kapcsolatos e-mailekhez (nem kötelező)"
+
+#: app/Services/TransStrings.php:315
+msgid "Email Frequency?"
+msgstr ""
+
+#: app/Services/Integrations/CalendarIntegrationService.php:100
+msgid "Email is required"
+msgstr ""
+
+#: app/Services/Integrations/FluentForms/FluentFormInit.php:121
+msgid ""
+"Email is required for this appointment. Looks like this field does not have "
+"email field selected."
+msgstr ""
+"Ehhez a találkozóhoz e-mail szükséges. Úgy tűnik, hogy ebben a mezőben nincs "
+"e-mail mező kiválasztva."
+
+#: app/Services/Integrations/FluentForms/FluentFormInit.php:125
+msgid "Email is required for this appointment. Please provide a valid email"
+msgstr ""
+"Ehhez a foglaláshoz e-mail szükséges. Kérjük, adjon meg egy érvényes e-mailt"
+
+#: app/Services/Helper.php:1398
+msgid "Email Notification"
+msgstr "Email értesítések"
+
+#: app/Services/TransStrings.php:241
+msgid "Email Notification Settings"
+msgstr "Email értesítési beállítások"
+
+#: app/Services/TransStrings.php:314
+msgid "Email Notifications"
+msgstr "Email értesítések"
+
+#: app/Services/SummaryReportService.php:53
+msgid "Email Summary of Your Bookings (Last %d Days)"
+msgstr ""
+
+#: app/Services/BookingService.php:15
+msgid "Email, Start Time and timezone are required to create a booking"
+msgstr ""
+
+#: app/Services/TransStrings.php:471
+msgid "Emailing Settings"
+msgstr "E-mail beállítások"
+
+#: app/Services/Helper.php:1054
+msgid "Emerald Green"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:71
+msgid "Enable Apple Calendar Integration"
+msgstr "Apple naptár integráció engedélyezése"
+
+#: app/Services/TransStrings.php:464
+msgid "Enable Booking Summary Notification"
+msgstr "Engedélyezzük az összefoglaló emailek küldését"
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:180
+msgid "Enable Double opt-in for new contacts"
+msgstr "Dupla opt-in engedélyezése az új kontaktok számára"
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:186
+msgid ""
+"Enable Force Subscribe if contact is not in subscribed status (Existing "
+"contact only)"
+msgstr ""
+
+#: app/Services/TransStrings.php:329
+msgid "Enable Landing Page"
+msgstr "Landing oldal engedélyezése"
+
+#: app/Services/TransStrings.php:120
+msgid "Enable Landing Page Features for this calendar"
+msgstr "Landing oldal funkció engedélyezése ehhez a naptárhoz"
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:759
+msgid "Enable Microsoft Teams (Requires work/school account)"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:70
+msgid "Enable Nextcloud Calendar Integration"
+msgstr "NextCloud naptár engedélyezése"
+
+#: app/Services/Integrations/PaymentMethods/Stripe/Stripe.php:388
+msgid "Enable Stripe payment payment for booking payment"
+msgstr "Engedélyezze a Stripe-ot a foglalások fizetéséhez"
+
+#: app/Services/TransStrings.php:126
+msgid ""
+"Enable the calendars you want to check for conflicts to prevent double "
+"bookings."
+msgstr ""
+"Aktiválja azokat a naptárakat, amelyeket ellenőrizni szeretne az "
+"összeférhetőség szempontjából, hogy elkerülje a kettős foglalásokat."
+
+#: app/Services/TransStrings.php:349
+msgid "Enable this event"
+msgstr ""
+
+#: app/Services/TransStrings.php:144
+msgid "Enable this event as Paid and collect payment on booking"
+msgstr "Kapcsoljuk be a fizetési funkciót ehhez az eseményhez"
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:223
+msgid "Enable This feed"
+msgstr "Feed engedélyezése"
+
+#: app/Services/TransStrings.php:203
+msgid "Enable this notification email"
+msgstr "Engedélyezzük ezt az email értesítést"
+
+#: app/Services/TransStrings.php:527
+msgid "Enable this sms notification"
+msgstr "Engedélyezzük ezt az SMS értesítést"
+
+#: app/Services/TransStrings.php:172
+msgid "Enable this webhook feed"
+msgstr "Engedélyezzük a webhook feed-et"
+
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:78
+msgid "Enable/Disable Apple Calendar to sync your events"
+msgstr ""
+"Az Apple Naptár engedélyezése/letiltása az események szinkronizálásához"
+
+#: app/Services/TransStrings.php:577
+msgid "Enable/Disable FluentBooking Advanced features or integrations."
+msgstr ""
+"FluentBooking bővített funkciók és integrációk engedélyezése/letiltása."
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:82
+msgid "Enable/Disable Nextcloud Calendar to sync your events"
+msgstr ""
+
+#: app/Services/TransStrings.php:679
+msgid "Enabled"
+msgstr "Engedélyezve"
+
+#: app/Services/TransStrings.php:16
+msgid "End"
+msgstr "Befejezés"
+
+#: app/Services/TransStrings.php:15
+msgid "End date"
+msgstr "Bef dátum"
+
+#: app/Services/TransStrings.php:45
+msgid "Ends With"
+msgstr ""
+
+#: app/Services/TransStrings.php:44
+msgid "ends with"
+msgstr ""
+
+#: app/Services/TransStrings.php:52
+msgid "Enter a value"
+msgstr ""
+
+#: app/Services/TransStrings.php:118
+msgid "Enter description for this person / calendar"
+msgstr "Adjunk meg leírást ehhez a személyhez / naptárhoz"
+
+#: app/Services/TransStrings.php:227
+msgid "Enter Description here"
+msgstr "Leírás megadása"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:395
+msgid "Enter Details"
+msgstr "Részletek megadása"
+
+#: app/Services/TransStrings.php:201
+msgid "Enter email addresses separated by commas"
+msgstr ""
+
+#: app/Services/TransStrings.php:226
+msgid "Enter Event Title"
+msgstr "Adja meg az esemény címét"
+
+#: app/Services/TransStrings.php:51
+msgid "Enter length in number"
+msgstr ""
+
+#: app/Services/TransStrings.php:169
+msgid "Enter Name"
+msgstr ""
+
+#: app/Services/TransStrings.php:523
+msgid "Enter number with country code"
+msgstr ""
+
+#: app/Services/TransStrings.php:85
+msgid "Enter Schedule Title"
+msgstr "Időbeosztás neve"
+
+#: app/Services/TransStrings.php:113
+msgid "Enter the Host Phone Number"
+msgstr ""
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:78
+msgid "Enter Twilio Account SID"
+msgstr ""
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:83
+msgid "Enter Twilio API Auth Token"
+msgstr ""
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:68
+msgid "Enter Twilio Sender SMS Number"
+msgstr ""
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:73
+msgid "Enter Twilio Sender WhatsApp Number"
+msgstr ""
+
+#: app/Services/TransStrings.php:162
+msgid "Enter Value"
+msgstr ""
+
+#: app/Services/Integrations/ZoomMeeting/ZoomHelper.php:110
+msgid "Enter Your Account ID"
+msgstr ""
+
+#: app/Services/Integrations/ZoomMeeting/ZoomHelper.php:115
+msgid "Enter Your App Client ID"
+msgstr ""
+
+#: app/Services/Integrations/ZoomMeeting/ZoomHelper.php:120
+msgid "Enter Your App Secret Key"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/BaseCalendar.php:132 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:61
+msgid "Enter Your Client ID"
+msgstr ""
+
+#: app/Services/TransStrings.php:490
+msgid "Enter Your name here"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/BaseCalendar.php:142 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:71
+msgid "Enter Your Redirect URI"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/BaseCalendar.php:137 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:66
+msgid "Enter Your Secret Key"
+msgstr ""
+
+#: app/Services/TransStrings.php:28
+msgid "Equal"
+msgstr ""
+
+#: app/Services/TransStrings.php:29
+msgid "equal"
+msgstr ""
+
+#: app/Services/TransStrings.php:47
+msgid "Equal to Data Length"
+msgstr ""
+
+#: app/Services/PluginManager/Updater.php:320
+msgid "Error"
+msgstr "Hiba"
+
+#: app/Services/TransStrings.php:610
+msgid "Error on integration settings"
+msgstr "Hiba az integrációs beállításoknál"
+
+#: app/Services/PluginManager/LicenseManager.php:157
+msgid ""
+"Error when contacting with license server. Please check that your server "
+"have curl installed"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/FluentCrmInit.php:134
+msgid "Event"
+msgstr ""
+
+#: app/Services/Helper.php:1524 app/Services/Helper.php:1581 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:95
+msgid "Event Cancel Reason"
+msgstr "Esemény lemondásának oka"
+
+#: app/Services/Helper.php:1521 app/Services/Helper.php:1577 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:91
+msgid "Event Date Time (UTC)"
+msgstr "Esemény dátum időpont (UTC)"
+
+#: app/Services/Helper.php:1522
+msgid "Event Date time (with attendee timezone)"
+msgstr "Esemény dátum időpont (a résztvevő időzónával)"
+
+#: app/Services/Helper.php:1578 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:92
+msgid "Event Date time (with guest timezone)"
+msgstr "Esemény dátum időpont (a meghívott fél időzónával)"
+
+#: app/Services/Helper.php:1523 app/Services/Helper.php:1579 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:93
+msgid "Event Date time (with host timezone)"
+msgstr "Esemény dátum időpont (a szervező időzónával)"
+
+#: app/Services/Helper.php:1518 app/Services/Helper.php:1574 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:88
+msgid "Event Description"
+msgstr "Esemény leírás"
+
+#: app/Services/TransStrings.php:221 app/Services/Helper.php:1350
+msgid "Event Details"
+msgstr "Esemény részletek"
+
+#: app/Services/TransStrings.php:395
+msgid "Event Guests"
+msgstr "Esemény vendégei"
+
+#: app/Services/Helper.php:1546 app/Services/Helper.php:1603 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:105
+msgid "Event ID"
+msgstr "Esemény ID"
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:610
+msgid "Event in outlook has been updated with new dates"
+msgstr "Az esemény az Outlookban új dátumokkal frissült"
+
+#: app/Services/Helper.php:1580 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:94
+msgid "Event Location Details (HTML)"
+msgstr "Az esemény helyszínének részletei (HTML)"
+
+#: app/Services/Helper.php:1517 app/Services/Helper.php:1573 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:87
+msgid "Event Name"
+msgstr "Esemény neve"
+
+#: app/Services/TransStrings.php:225
+msgid "Event Name *"
+msgstr "Esemény neve *"
+
+#: app/Services/Helper.php:1530 app/Services/Helper.php:1587 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:101
+msgid "Event Reschedule Reason"
+msgstr "Esemény átütemezésének oka"
+
+#: app/Services/TransStrings.php:536
+msgid "Event Settings"
+msgstr ""
+
+#: app/Services/Helper.php:1525 app/Services/Helper.php:1582 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:96
+msgid "Event Start Time (ex: 2 hours from now)"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:200
+msgid "Event Trigger"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:202
+msgid "Event Trigger For This Feed"
+msgstr ""
+
+#: app/Services/Integrations/CalendarIntegrationService.php:104
+msgid "Event trigger is required"
+msgstr ""
+
+#: app/Services/TransStrings.php:171
+msgid "Event Triggers"
+msgstr "Esemény triggerek"
+
+#: app/Services/TransStrings.php:222
+msgid "Event Type"
+msgstr "Esemény  típus"
+
+#: app/Services/TransStrings.php:215
+msgid "ex: 60"
+msgstr ""
+
+#: app/Services/PluginManager/LicenseManager.php:357
+msgid "expired at"
+msgstr ""
+
+#: app/Services/TransStrings.php:397
+msgid "Export Hosts"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:273 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:687 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:147
+msgid "Failed to connect Calendar API"
+msgstr ""
+
+#: app/Services/Integrations/FluentForms/FluentFormInit.php:361
+msgid "Failed to create booking"
+msgstr ""
+
+#: app/Services/Integrations/ZoomMeeting/Bootstrap.php:204
+msgid "Failed to delete meeting with Zoom API"
+msgstr ""
+
+#: app/Services/TransStrings.php:327
+msgid "Failed to load this integration. Please reload this page and try again."
+msgstr ""
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:142
+msgid "Failed to send sms with Twilio API"
+msgstr ""
+
+#: app/Services/Integrations/Webhook/WebhookIntegration.php:146
+msgid "Failed to send webhook"
+msgstr ""
+
+#: app/Services/Integrations/Webhook/WebhookIntegration.php:135 
+#: app/Services/Integrations/Webhook/WebhookIntegration.php:139
+msgid "Failed to send webhook to"
+msgstr ""
+
+#: app/Services/Integrations/ZoomMeeting/Bootstrap.php:297
+msgid "Failed to update meeting with Zoom API"
+msgstr ""
+
+#: app/Services/TransStrings.php:595
+msgid "Featured Image"
+msgstr "Kiemelt kép"
+
+#: app/Services/TransStrings.php:614
+msgid "Feb"
+msgstr ""
+
+#: app/Services/TransStrings.php:627
+msgid "February"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:106
+msgid "Feed Name"
+msgstr "Feed neve"
+
+#: app/Services/Integrations/CalendarIntegrationService.php:86
+msgid "Feed name is required"
+msgstr ""
+
+#: app/Services/TransStrings.php:474
+msgid "Fetching License Information Please wait"
+msgstr ""
+
+#: app/Services/TransStrings.php:611
+msgid "Field Label"
+msgstr "Mező címke"
+
+#: app/Services/TransStrings.php:167
+msgid "Field Name"
+msgstr ""
+
+#: app/Services/TransStrings.php:518
+msgid "Field Type"
+msgstr "Mező típus"
+
+#: app/Services/TransStrings.php:168
+msgid "Field Value"
+msgstr "Mező érték"
+
+#: app/Http/Controllers/CalendarController.php:707
+msgid "Fields has been updated"
+msgstr ""
+
+#: app/Services/ReceiptHelper.php:150 
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:128
+msgid "First Name"
+msgstr "Keresztnév"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:38 
+#: app/Hooks/Handlers/AdminMenuHandler.php:39
+msgid "Fluent Booking"
+msgstr ""
+
+#. Name of the plugin
+msgid "Fluent Booking Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid "Fluent Booking WordPress Plugin"
+msgstr ""
+
+#: app/Services/GlobalModules/GlobalModules.php:58
+msgid "Fluent Forms"
+msgstr ""
+
+#: app/Services/Integrations/FluentForms/BookingElement.php:74
+msgid "FluentBooking Field"
+msgstr ""
+
+#: app/Services/GlobalModules/GlobalModules.php:48 
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:21
+msgid "FluentCRM"
+msgstr "FluentCRM"
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:285
+msgid "FluentCRM API called skipped because no valid email available"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:117 
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:142
+msgid "FluentCRM Field"
+msgstr "FluentCRM mező"
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:45
+msgid ""
+"FluentCRM is not configured yet! Please configure your FluentCRM api first"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:148
+msgid "FluentCRM Lists"
+msgstr "FluentCRM Listák"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:453
+msgctxt "for how many spots left for available booking"
+msgid "spots left"
+msgstr "hely elérhető"
+
+#: app/Services/TransStrings.php:566
+msgid "for step by step guide to know how connect zoom account."
+msgstr ""
+
+#: app/Services/TransStrings.php:573
+msgid ""
+"for step by step guide to know how you can get api credentials from Zoom "
+"Account"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:143
+msgid "Form Field"
+msgstr ""
+
+#: app/Services/TransStrings.php:589
+msgid "fri"
+msgstr "pén"
+
+#: app/Services/TransStrings.php:604
+msgid "Friday"
+msgstr "Péntek"
+
+#: app/Http/Controllers/SettingsController.php:37
+msgid "From Email Address"
+msgstr "Küldő e-mail címe"
+
+#: app/Http/Controllers/SettingsController.php:28
+msgid "From Name"
+msgstr "Küldő neve"
+
+#: app/Http/Controllers/SettingsController.php:27
+msgid "From Name for emails"
+msgstr "Adjuk meg a küldő nevét"
+
+#: app/Services/TransStrings.php:672
+msgid "from the event end time"
+msgstr "eltelt az esemény végétől számítva."
+
+#: app/Services/Helper.php:1519 app/Services/Helper.php:1575 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:89
+msgid "Full Start & End Time (with guest timezone)"
+msgstr "Teljes kezdeti és befejezési idő (a vendég időzónával)"
+
+#: app/Services/Helper.php:1520 app/Services/Helper.php:1576 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:90
+msgid "Full Start & End Time (with host timezone)"
+msgstr "Teljes kezdeti és befejezési idő (a szervező időzónával)"
+
+#: app/Services/TransStrings.php:108
+msgid "General Host Settings"
+msgstr "Általános szervezői beállítások"
+
+#: app/Services/TransStrings.php:27
+msgid "General Operators"
+msgstr ""
+
+#: app/Services/TransStrings.php:460
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:116
+msgid "Getting Started"
+msgstr ""
+
+#: app/Services/TransStrings.php:576
+msgid "Global Feature Modules"
+msgstr ""
+
+#: app/Services/GlobalModules/GlobalModules.php:20
+msgid "Global Modules"
+msgstr "Globális modulok"
+
+#: app/Services/TransStrings.php:492
+msgid "Global Settings"
+msgstr ""
+
+#: app/Services/TransStrings.php:147
+msgid "Go to Stripe Settings"
+msgstr ""
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:87
+msgid "Go to the documentation article"
+msgstr ""
+
+#: app/Services/TransStrings.php:339
+msgid "Good for: coffee chats, 1:1 interviews, etc."
+msgstr "Alkalmas: kávés beszélgetésekhez, személyes interjúkhoz stb."
+
+#: app/Services/TransStrings.php:340
+msgid "Good for: webinars, online classes, etc."
+msgstr "Alkalmas: webináriumok, online tanfolyamok stb."
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:306 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:720
+msgid "Google API Error"
+msgstr "Google API Error"
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:274 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:688
+msgid "Google API Response Error:"
+msgstr ""
+
+#: app/Services/BookingService.php:220 
+#: app/Http/Controllers/IntegrationSettingsController.php:43 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:146
+msgid "Google Calendar"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:27 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:99 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:25
+msgid "Google Calendar / Meet"
+msgstr "Google Naptár / találkozó"
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:460 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:532 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:610 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:629 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:749 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:774 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:827 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:852 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:292 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:372 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:461 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:503 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:563 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:596
+msgid "Google Calendar API Error"
+msgstr "Google naptár API Error"
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:211 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:73
+msgid "Google Calendar API Error:"
+msgstr "Google naptár API Error:"
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:559 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:399
+msgid "Google Calendar event created"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:648 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:522
+msgid "Google Calendar event updated"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:94 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:114
+msgid ""
+"Google Calendar/Meet integration is configured by wp-config.php constants. "
+"No action required here"
+msgstr ""
+
+#: app/Models/Booking.php:258 app/Services/LocationService.php:23 
+#: app/Services/TransStrings.php:259 
+#: app/Hooks/Handlers/FrontEndHandler.php:462 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:125 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:48
+msgid "Google Meet"
+msgstr ""
+
+#: app/Services/TransStrings.php:448
+msgid ""
+"Grant Team Members Access to FluentBookings for Calendar and Booking "
+"Management."
+msgstr ""
+"Adjon hozzáférést a csapattagoknak a FluentBookings szolgáltatáshoz a naptár "
+"és a foglalások kezeléséhez."
+
+#: app/Services/TransStrings.php:33
+msgid "Greater Than"
+msgstr ""
+
+#: app/Services/TransStrings.php:32
+msgid "greater than"
+msgstr ""
+
+#: app/Services/TransStrings.php:36
+msgid "greater than or equal"
+msgstr ""
+
+#: app/Services/TransStrings.php:49
+msgid "Greater than to Data Length"
+msgstr ""
+
+#: app/Services/TransStrings.php:224
+msgid "Group"
+msgstr "Csoportos"
+
+#: app/Services/TransStrings.php:338
+msgid "Group of invitees"
+msgstr "Több résztvevővel (group)"
+
+#: app/Services/TransStrings.php:94 app/Services/Helper.php:1507 
+#: app/Services/Helper.php:1562 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:82
+msgid "Guest Email"
+msgstr "Vendég email"
+
+#: app/Services/Integrations/FluentForms/BookingElement.php:112
+msgid "Guest Fields"
+msgstr ""
+
+#: app/Services/Helper.php:1504 app/Services/Helper.php:1559 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:79
+msgid "Guest First Name"
+msgstr "Vendég keresztnév"
+
+#: app/Services/Helper.php:1566 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:86
+msgid "Guest Form Submitted Data (HTML)"
+msgstr "Vendég űrlapon beküldött adatok (HTML)"
+
+#: app/Services/Helper.php:1506 app/Services/Helper.php:1561 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:81
+msgid "Guest Full Name"
+msgstr "Vendég teljes név"
+
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:610
+msgid "Guest has been added to Google calendar event"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:525
+msgid "Guest has been added to outlook calendar event"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:618
+msgid "Guest has been removed from Google calendar event"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:533
+msgid "Guest has been removed from outlook calendar event"
+msgstr ""
+
+#: app/Services/Helper.php:1505 app/Services/Helper.php:1560 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:80
+msgid "Guest Last Name"
+msgstr "Vendég vezetéknév"
+
+#: app/Services/Helper.php:1509 app/Services/Helper.php:1563 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:83
+msgid "Guest Main Phone Number (if provided)"
+msgstr "Vendég telefonszám (ha megadta)"
+
+#: app/Services/Helper.php:1508 app/Services/Helper.php:1564 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:84
+msgid "Guest Note"
+msgstr "Vendég megjegyzés"
+
+#: app/Services/Helper.php:1510 app/Services/Helper.php:1565 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:85
+msgid "Guest Timezone"
+msgstr "Vendég időzóna"
+
+#: app/Services/TransStrings.php:561
+msgid "guests with"
+msgstr "vendég és"
+
+#: app/Services/Integrations/PaymentMethods/CurrenciesHelper.php:387
+msgid "Guinean Franc"
+msgstr ""
+
+#: app/Services/TransStrings.php:477
+msgid "Have a new license Key?"
+msgstr ""
+
+#: app/Services/TransStrings.php:161
+msgid "Header Key"
+msgstr ""
+
+#: app/Services/TransStrings.php:159
+msgid "Header Name"
+msgstr ""
+
+#: app/Services/TransStrings.php:160
+msgid "Header Value"
+msgstr ""
+
+#: app/Views/emails/summary_report.php:138
+msgid "Hello There,"
+msgstr ""
+
+#: app/Services/PluginManager/LicenseManager.php:53
+msgid "Help & Support"
+msgstr "Segítség & ügyfélszolgálat"
+
+#: app/Services/TransStrings.php:359
+msgid "here"
+msgstr "itt"
+
+#: app/Services/TransStrings.php:270
+msgid "Hidden"
+msgstr ""
+
+#: app/Services/BookingService.php:132
+msgid "Host"
+msgstr "Szervező"
+
+#: app/Services/Helper.php:1534 app/Services/Helper.php:1591
+msgid "Host Data"
+msgstr "Szerverző adatok"
+
+#: app/Services/Helper.php:1538 app/Services/Helper.php:1595 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:103
+msgid "Host Email"
+msgstr "Szervező email"
+
+#: app/Services/Helper.php:1537 app/Services/Helper.php:1594 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:102
+msgid "Host Name"
+msgstr "Szervező név"
+
+#: app/Services/TransStrings.php:112
+msgid "Host Name / Calendar Title"
+msgstr "Szervező neve / naptár név"
+
+#: app/Services/TransStrings.php:520
+msgid "Host Number"
+msgstr "Szervező szám"
+
+#: app/Services/TransStrings.php:114
+msgid "Host Phone (with country code)"
+msgstr "Szervező telefonszáma (országkóddal)"
+
+#: app/Services/TransStrings.php:543
+msgid "Host Settings"
+msgstr "Szervező beállítások"
+
+#: app/Services/Helper.php:1539 app/Services/Helper.php:1596 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:104
+msgid "Host Timezone"
+msgstr "Szervező időzóna"
+
+#: app/Services/TransStrings.php:218
+msgid "Hours"
+msgstr "Óra"
+
+#: app/Services/TransStrings.php:197
+msgid "Hours Before"
+msgstr ""
+
+#: app/Services/TransStrings.php:279
+msgid "How do you want to offer your availability for this event type?"
+msgstr "Hogyan szeretne biztosítani elérhetőségét erre az eseménytípusra?"
+
+#: app/Services/TransStrings.php:465
+msgid "How often to send summary email?"
+msgstr "Milyen gyakorisággal küldjük az összesfoglalókat?"
+
+#: app/Services/Integrations/FluentForms/BookingElement.php:246
+msgid "HTML Response"
+msgstr ""
+
+#: app/Services/TransStrings.php:287
+msgid "https://example.com/redirect-to-my-success-page"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://fluentbooking.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpmanageninja.com"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/FluentCrmInit.php:130
+msgid "ID"
+msgstr ""
+
+#: app/Services/TransStrings.php:671
+msgid "if customer does not complete the payment for paid events."
+msgstr "eltelt úgy, hogy a felhasználó nem fejezte be az esemény kifizetését."
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:188
+msgid ""
+"If you enable this then contact will forcefully subscribed no matter in "
+"which status that contact had"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/NewBookingTrigger.php:60 
+#: app/Services/Integrations/FluentCRM/CancelBookingTrigger.php:60 
+#: app/Services/Integrations/FluentCRM/BookingCompletedTrigger.php:60
+msgid ""
+"If you enable this then this will run only once per customer otherwise, It "
+"will delete the existing automation flow and start new"
+msgstr ""
+
+#: app/Services/TransStrings.php:433
+msgid "Ignore Availability"
+msgstr "Figyelmen kívül hagyja az elérhetőséget"
+
+#: app/Models/Calendar.php:144
+msgid "In Person"
+msgstr "Személyes"
+
+#: app/Models/Calendar.php:147 app/Services/LocationService.php:39 
+#: app/Services/TransStrings.php:254 app/Hooks/Handlers/FrontEndHandler.php:459
+msgid "In Person (Attendee Address)"
+msgstr "Személyes (résztvevő címe)"
+
+#: app/Models/Calendar.php:150 app/Services/TransStrings.php:255 
+#: app/Hooks/Handlers/FrontEndHandler.php:460
+msgid "In Person (Organizer Address)"
+msgstr "Személyes (szervező címe)"
+
+#: app/Services/TransStrings.php:469
+msgid "In which day to send the email?"
+msgstr "Melyik napon küldjük el az e-mailt?"
+
+#: app/Services/TransStrings.php:539
+msgid "Inactive"
+msgstr ""
+
+#: app/Services/TransStrings.php:278
+msgid "Indefinitely into the future"
+msgstr "Határozatlan ideig a jövőben"
+
+#: app/Services/TransStrings.php:680
+msgid "Install"
+msgstr "Telepítés"
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:40
+msgid "Integration"
+msgstr ""
+
+#: app/Services/TransStrings.php:609
+msgid "Integration Feed"
+msgstr ""
+
+#: app/Http/Controllers/IntegrationSettingsController.php:188
+msgid "Integration Feed Settings could not be found. Driver missing!"
+msgstr ""
+
+#: app/Services/Integrations/CalendarIntegrationService.php:138
+msgid "Integration successfully saved"
+msgstr "Integráció sikeresen mentve"
+
+#: app/Services/TransStrings.php:96 
+#: app/Services/Integrations/pro_integrations.php:91
+msgid "Integrations"
+msgstr "Integrációk"
+
+#: app/Services/TransStrings.php:104
+msgid "Interest Group is a Pro Feature"
+msgstr ""
+
+#: app/Services/TransStrings.php:419
+msgid "Internal Note"
+msgstr ""
+
+#: app/Http/Controllers/SchedulesController.php:137
+msgid "Invalid column"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/NextCloud/NextCloudHelper.php:59 
+#: app/Services/Integrations/Calendars/AppleCalendar/AppleHelper.php:49
+msgid "Invalid credentials"
+msgstr ""
+
+#: app/Services/TimeSlotService.php:478
+msgid "Invalid date range"
+msgstr ""
+
+#: app/Http/Controllers/SchedulesController.php:142
+msgid "Invalid email address"
+msgstr "Érvénytelen e-mail cím"
+
+#: app/Http/Controllers/SchedulesController.php:235
+msgid "Invalid group id or the event is not a group event"
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:71
+msgid "Invalid rescheduling request"
+msgstr ""
+
+#: app/Http/Controllers/SchedulesController.php:154
+msgid "Invalid status"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/Stripe/ConnectConfig.php:74
+msgid "Invalid Stripe Request. Please configure stripe payment gateway again"
+msgstr ""
+
+#: app/Services/ReceiptHelper.php:32
+msgid "Invalid submission. No receipt found"
+msgstr ""
+
+#: app/Services/TransStrings.php:508
+msgid "Invalid Vue Element"
+msgstr ""
+
+#: app/Models/Booking.php:231
+msgid "Invitee Address:"
+msgstr ""
+
+#: app/Services/TransStrings.php:432
+msgid "Invitee Email"
+msgstr ""
+
+#: app/Services/TransStrings.php:431
+msgid "Invitee Name"
+msgstr ""
+
+#: app/Services/TransStrings.php:434
+msgid "Invitee Timezone"
+msgstr ""
+
+#: app/Services/TransStrings.php:274
+msgid "Invitees can schedule..."
+msgstr "A meghívottak ütemezhetnek az alábbiak szerint:"
+
+#: app/Services/TransStrings.php:284
+msgid "Invitees can't schedule within..."
+msgstr "A meghívottak nem ütemezhetnek..."
+
+#: app/Services/TransStrings.php:430
+msgid "Invitees Information"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/Stripe/Stripe.php:303
+msgid "Invoice for Order"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/Stripe/Stripe.php:179
+msgid "invoice not found"
+msgstr ""
+
+#: app/Views/public/receipt/order-items-table.php:13 
+#: app/Services/Integrations/PaymentMethods/PaymentHelper.php:46
+msgid "Item"
+msgstr ""
+
+#: app/Services/TransStrings.php:517
+msgid "Item Name"
+msgstr ""
+
+#: app/Services/ReceiptHelper.php:126
+msgid "Items Details"
+msgstr ""
+
+#: app/Services/TransStrings.php:612
+msgid "Jan"
+msgstr ""
+
+#: app/Services/TransStrings.php:613
+msgid "jan"
+msgstr ""
+
+#: app/Services/TransStrings.php:626
+msgid "January"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/CurrenciesHelper.php:388
+msgid "Japanese Yen"
+msgstr ""
+
+#: app/Services/TransStrings.php:619
+msgid "Jul"
+msgstr ""
+
+#: app/Services/TransStrings.php:631
+msgid "July"
+msgstr ""
+
+#: app/Services/TransStrings.php:618
+msgid "Jun"
+msgstr ""
+
+#: app/Services/TransStrings.php:630
+msgid "June"
+msgstr ""
+
+#: app/Services/TransStrings.php:181
+msgid "Label"
+msgstr ""
+
+#: app/Services/TransStrings.php:180
+msgid "Label *"
+msgstr "Címke *"
+
+#: app/Services/TransStrings.php:519
+msgid "Label field is required"
+msgstr "A címke mező kötelező"
+
+#: app/Services/TransStrings.php:356
+msgid "Landing Page"
+msgstr ""
+
+#: app/Http/Controllers/CalendarController.php:264
+msgid "Landing Page settings has been updated"
+msgstr ""
+
+#: app/Services/TransStrings.php:341
+msgid "Landing page URL"
+msgstr ""
+
+#: app/Services/TransStrings.php:344
+msgid "Landing Page Visibility"
+msgstr ""
+
+#: app/Services/TransStrings.php:559
+msgid "Last 3 months"
+msgstr "Az elmúlt 3 hónap"
+
+#: app/Services/TransStrings.php:557
+msgid "Last month"
+msgstr "Előző hónap"
+
+#: app/Services/ReceiptHelper.php:154 
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:132
+msgid "Last Name"
+msgstr "Vezetéknév"
+
+#: app/Services/TransStrings.php:556
+msgid "Last week"
+msgstr "Előző hét"
+
+#: app/Services/TransStrings.php:19
+msgid "Latest Booked Meetings"
+msgstr "Legutóbbi foglalt találkozók"
+
+#: app/Services/TransStrings.php:579
+msgid "Latest Bookings"
+msgstr "Legutóbbi foglalások"
+
+#: app/Services/TransStrings.php:35
+msgid "Less Than"
+msgstr ""
+
+#: app/Services/TransStrings.php:34
+msgid "less than"
+msgstr ""
+
+#: app/Http/Controllers/ReportController.php:282
+msgid "Less than last month"
+msgstr "Kevesebb, mint a múlt hónapban"
+
+#: app/Services/TransStrings.php:37
+msgid "less than or equal"
+msgstr ""
+
+#: app/Services/TransStrings.php:48
+msgid "Less than to Data length"
+msgstr ""
+
+#: app/Views/emails/summary_report.php:139
+msgid "Let's see how many events are booked in the last %d days."
+msgstr ""
+
+#: app/Services/TransStrings.php:493
+msgid "License"
+msgstr "Licenc"
+
+#: app/Services/PluginManager/LicenseManager.php:357
+msgid "license has been"
+msgstr ""
+
+#: app/Services/TransStrings.php:480
+msgid "License Key"
+msgstr "Licenc kulcs"
+
+#: app/Services/TransStrings.php:473
+msgid "License Management"
+msgstr ""
+
+#: app/Services/TransStrings.php:684
+msgid "Light"
+msgstr "Világos"
+
+#: app/Services/Helper.php:1058
+msgid "Lime Green"
+msgstr ""
+
+#: app/Services/TransStrings.php:289
+msgid "Limit booking frequency"
+msgstr "Korlátozza a foglalási időszakot"
+
+#: app/Services/TransStrings.php:293
+msgid "Limit future bookings"
+msgstr ""
+
+#: app/Services/TransStrings.php:294
+msgid "Limit how far in the future this event can be booked"
+msgstr ""
+
+#: app/Services/TransStrings.php:290
+msgid "Limit how many times this event can be booked"
+msgstr "Korlátozza, hogy hányszor foglalható le ez az esemény"
+
+#: app/Services/TransStrings.php:292
+msgid "Limit total amount of time that this event can be booked"
+msgstr "Korlátozza az esemény foglalásának teljes időtartamát"
+
+#: app/Services/TransStrings.php:291
+msgid "Limit total booking duration"
+msgstr "Korlátozza a teljes foglalási időtartamot"
+
+#: app/Services/TransStrings.php:273 app/Services/Helper.php:1374
+msgid "Limits"
+msgstr "Korlátozások"
+
+#: app/Views/public/receipt/order-items-table.php:16
+msgid "Line Total"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/Stripe/Stripe.php:396
+msgid "Live Mode"
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:466
+msgid "Loading Payment Processor..."
+msgstr ""
+
+#: app/Views/landing/booking.php:64
+msgid "Loading..."
+msgstr ""
+
+#: app/Views/public/team_page.php:39
+msgid "Loading...."
+msgstr ""
+
+#: app/Services/TransStrings.php:381 app/Services/BookingFieldService.php:93 
+#: app/Services/BookingFieldService.php:99
+msgid "Location"
+msgstr "Helyszín"
+
+#: app/Services/TransStrings.php:229
+msgid "Location *"
+msgstr "Helyszín *"
+
+#: app/Services/TransStrings.php:206
+msgid "Location Description"
+msgstr "Helyszín leírás"
+
+#: app/Services/TransStrings.php:207
+msgid "Location Description *"
+msgstr "Helyszín leírás"
+
+#: app/Services/TransStrings.php:380
+msgid "Location Description is required"
+msgstr "Helyszín leírás kötelező"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:456
+msgid "location options"
+msgstr ""
+
+#: app/Services/TransStrings.php:205
+msgid "Location Title"
+msgstr "Helyszín címe"
+
+#: app/Services/TransStrings.php:204
+msgid "Location Title *"
+msgstr "Helyszín címe *"
+
+#: app/Services/TransStrings.php:379
+msgid "Location Title is required"
+msgstr "A helyszín címe kötelező"
+
+#: app/Services/TransStrings.php:378
+#, fuzzy
+#| msgid "Location is required"
+msgid "Location Type is required"
+msgstr "Helyszín megadása kötelező!"
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:90 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:110
+msgid ""
+"Login to your Google account, go to Google Cloud Console, create a project, "
+"complete OAuth Consent screen process, click on Create Credentials, and you "
+"will get your client id and secret key. If you get the ID and Keys for "
+"Google Calendar, Google Meet will be integrated automatically. For full "
+"details read the"
+msgstr ""
+"Jelentkezzen be a Google-fiókjába, lépjen be a Google Cloud Console-ba, "
+"hozzon létre egy projektet, töltse ki az OAuth Consent képernyő folyamatát, "
+"kattintson a Create Credentials gombra, és megkapja az ügyfél azonosítóját "
+"és a titkos kulcsot. Ha megkapja a Google Naptár azonosítóját és kulcsát, a "
+"Google Meet automatikusan integrálódik. A teljes körű részletekért olvassa "
+"el a"
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:296 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:710 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:165
+msgid ""
+"Looks like you did not allow the required scopes. Please try again with the "
+"following scopes:"
+msgstr ""
+
+#: app/Services/TransStrings.php:567
+msgid ""
+"Looks like you did not connect FluentBooking with your Zoom Account yet!"
+msgstr "Úgy tűnik, még nem kapcsolta össze a FluentBookingot a Zoom fiókjával!"
+
+#: app/Services/TransStrings.php:475
+msgid "Looks like your license has been expired"
+msgstr ""
+
+#: app/Services/TransStrings.php:248
+msgid ""
+"Looks like your remote connection for this location is disabled. Please "
+"revise your location selection"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/CurrenciesHelper.php:391
+msgid "Malagasy Ariary"
+msgstr ""
+
+#: app/Services/PermissionManager.php:20
+msgid "Manage All Availabilities"
+msgstr ""
+
+#: app/Services/TransStrings.php:648
+msgid "manage all bookings"
+msgstr ""
+
+#: app/Services/TransStrings.php:109
+msgid "Manage general settings for this calendar"
+msgstr "A naptár általános beállításainak kezelése"
+
+#: app/Services/PermissionManager.php:14 app/Services/PermissionManager.php:154
+msgid "Manage only own Calendar, Events, Bookings & Availability"
+msgstr ""
+
+#: app/Services/TransStrings.php:650
+msgid "manage other availabilities"
+msgstr ""
+
+#: app/Services/TransStrings.php:646
+msgid "manage other calendars"
+msgstr ""
+
+#: app/Services/PermissionManager.php:18
+msgid "Manage Other Users Calendars"
+msgstr ""
+
+#: app/Services/TransStrings.php:644
+msgid "manage own calendar"
+msgstr ""
+
+#: app/Services/TransStrings.php:461
+msgid ""
+"Manage your settings related emails, notifications and other general settings"
+msgstr ""
+"Az e-mailekkel, értesítésekkel és egyéb általános beállításokkal kapcsolatos "
+"beállítások kezelése"
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:114
+msgid "Map Primary Fields"
+msgstr "Elősdleges mezők"
+
+#: app/Services/TransStrings.php:615
+msgid "Mar"
+msgstr ""
+
+#: app/Services/TransStrings.php:628
+msgid "March"
+msgstr ""
+
+#: app/Services/TransStrings.php:414
+msgid "Mark As Completed"
+msgstr ""
+
+#: app/Services/TransStrings.php:674
+msgid "Mark booking as cancelled automatically after"
+msgstr "Jelölje a foglalást automatikusan lemondottnak, miután"
+
+#: app/Services/TransStrings.php:673
+msgid "Mark booking as completed automatically after"
+msgstr "Jelölje a foglalást automatikusan befejezettnek, miután"
+
+#: app/Services/TransStrings.php:239
+msgid "Mark to Unavailable"
+msgstr "Jelöljük meg mint nem elérhető"
+
+#: app/Services/TransStrings.php:57
+msgid "Match all of"
+msgstr ""
+
+#: app/Services/TransStrings.php:56
+msgid "Match any Of"
+msgstr ""
+
+#: app/Services/TransStrings.php:58
+msgid "Match none of"
+msgstr ""
+
+#: app/Services/TransStrings.php:60
+msgid "Match Type"
+msgstr ""
+
+#: app/Services/TransStrings.php:231
+msgid "Max invitees in a spot"
+msgstr "Max meghívottak száma egy helyszínen"
+
+#: app/Services/TransStrings.php:617
+msgid "May"
+msgstr ""
+
+#: app/Services/TransStrings.php:65
+msgid "Meeting Activities"
+msgstr "Találkozó aktivitások"
+
+#: app/Services/Integrations/FluentCRM/FluentCrmInit.php:141
+msgid "Meeting At"
+msgstr ""
+
+#: app/Services/TransStrings.php:563
+msgid "meeting between"
+msgstr ""
+
+#: app/Services/TransStrings.php:234 
+#: app/Services/Integrations/FluentForms/BookingElement.php:229
+msgid "Meeting Duration"
+msgstr "Találkozó hossza"
+
+#: app/Services/TransStrings.php:233
+msgid "Meeting Duration *"
+msgstr "Találkozó hossza *"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:805
+msgid "Meeting has been cancelled"
+msgstr "A találkozót törölte"
+
+#: app/Models/Booking.php:424
+#, php-format
+msgid "Meeting has been cancelled by %s"
+msgstr ""
+
+#: app/Services/TransStrings.php:416 
+#: app/Services/Integrations/FluentForms/BookingElement.php:233
+msgid "Meeting Host"
+msgstr "Találkozó szervezője"
+
+#: app/Services/Integrations/Woo/Bootstrap.php:126
+msgid "Meeting Info:"
+msgstr ""
+
+#: app/Services/TransStrings.php:415
+msgid "Meeting Information"
+msgstr "Találkozó részletei"
+
+#: app/Services/TransStrings.php:529
+msgid "Meeting Link is required"
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:127
+msgid "Meeting Rescheduled"
+msgstr ""
+
+#. Author of the plugin
+msgid "Meeting scheduling made easy"
+msgstr ""
+
+#: app/Services/TransStrings.php:417
+msgid "Meeting Title"
+msgstr "Találkozó neve"
+
+#: app/Http/Controllers/AdminController.php:249
+msgid "Member has been deleted successful"
+msgstr ""
+
+#: app/Services/TransStrings.php:399
+msgid "Message"
+msgstr ""
+
+#: app/Services/BookingService.php:243
+msgid "Microsoft Office"
+msgstr ""
+
+#: app/Services/TransStrings.php:304
+msgid "Minimum Notice"
+msgstr ""
+
+#: app/Services/TransStrings.php:216
+msgid "Minutes"
+msgstr "Perc"
+
+#: app/Services/TransStrings.php:217 
+#: app/Hooks/Handlers/FrontEndHandler.php:394 
+#: app/Views/landing/author_html.php:37
+msgid "minutes"
+msgstr "perc"
+
+#: app/Services/TransStrings.php:196
+msgid "Minutes Before"
+msgstr ""
+
+#: app/Services/TransStrings.php:575
+msgid "minutes meeting with"
+msgstr ""
+
+#: app/Services/TransStrings.php:585
+msgid "mon"
+msgstr "hét"
+
+#: app/Services/TransStrings.php:600
+msgid "Monday"
+msgstr "Hétfő"
+
+#: app/Http/Controllers/ReportController.php:279
+msgid "More than last month"
+msgstr "Több, mint a múlt hónapban"
+
+#: app/Models/Booking.php:261 app/Services/LocationService.php:26 
+#: app/Services/TransStrings.php:260 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:56
+msgid "MS Teams"
+msgstr ""
+
+#: app/Services/TransStrings.php:441 
+#: app/Http/Controllers/AdminController.php:88
+msgid "My Meetings"
+msgstr "Találkozóim"
+
+#: app/Services/AvailabilityService.php:116 app/Services/TransStrings.php:69
+msgid "My Schedules"
+msgstr "Az én Időbeosztásaim"
+
+#: app/Services/TransStrings.php:149
+msgid "Name"
+msgstr "Név"
+
+#: app/Services/Helper.php:1414 app/Services/Helper.php:1432 
+#: app/Views/public/booking_confirmation.php:66
+msgid "Need to make a change?"
+msgstr "Módosítani szeretné?"
+
+#: app/Views/public/booking_confirmation.php:57
+msgid "Nevermind"
+msgstr "Mégsem"
+
+#: app/Services/Integrations/FluentCRM/NewBookingTrigger.php:34
+msgid "New Booking"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/NewBookingTrigger.php:69 
+#: app/Services/Integrations/FluentCRM/CancelBookingTrigger.php:69 
+#: app/Services/Integrations/FluentCRM/BookingCompletedTrigger.php:69
+msgid "New Booking Confirm Funnel"
+msgstr ""
+
+#: app/Services/TransStrings.php:330
+msgid "New Event Type"
+msgstr "Új esemény típus"
+
+#: app/Http/Controllers/CalendarController.php:432
+msgid "New Event Type has been created successfully"
+msgstr ""
+
+#: app/Http/Controllers/AdminController.php:230
+msgid "New member has been added with the selected access permissions"
+msgstr ""
+
+#: app/Services/TransStrings.php:18
+msgid "Next meeting not available"
+msgstr "Következő találkozó nem elérhető"
+
+#: app/Services/TransStrings.php:17
+msgid "Next Meetings"
+msgstr "Következő találkozók"
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:23
+msgid "Nextcloud Calendar"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:349 
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:393 
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:441 
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:510
+msgid "Nextcloud Calendar API Error"
+msgstr "Nextcloud Naptár API Error"
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:47
+msgid "Nextcloud Calendar API Error:"
+msgstr "Nextcloud Naptár API Error:"
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:341
+msgid "Nextcloud Calendar event created"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:386
+msgid "Nextcloud calendar event has been deleted"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:434
+msgid "Nextcloud calendar event has been updated"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:385
+msgid "Nextcloud event has been deleted"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:433
+msgid "Nextcloud event has been updated"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:99
+msgid "Nextcloud ID (Username/ Email)"
+msgstr ""
+
+#: app/Services/TransStrings.php:187
+msgid "No"
+msgstr "Nem"
+
+#: app/Services/PluginManager/LicenseManager.php:341
+msgid ""
+"No Activation Site left: You have activated all the sites that your license "
+"offer. Please go to wpmanageninja.com account and review your sites. You may "
+"deactivate your unused sites from wpmanageninja account or you can purchase "
+"another license."
+msgstr ""
+
+#: app/Services/TransStrings.php:66
+msgid "No activities has been recorded for this booking"
+msgstr "Ehhez a foglaláshoz nem rögzítettünk tevékenységet"
+
+#: app/Services/TransStrings.php:79
+msgid "No Availability found"
+msgstr ""
+
+#: app/Services/TransStrings.php:446
+msgid "No bookings found based on your filter"
+msgstr "A szűrő alapján nem találtunk foglalásokat"
+
+#: app/Services/Helper.php:1157
+msgid "No buffer time"
+msgstr "Nincs megadva"
+
+#: app/Services/TransStrings.php:500
+msgid "No Calendars found"
+msgstr ""
+
+#: app/Services/TransStrings.php:677
+msgid "No Data"
+msgstr "Nincsenek adatok"
+
+#: app/Services/TransStrings.php:497
+msgid "No Data Found"
+msgstr ""
+
+#: app/Services/TransStrings.php:676
+msgid "No Data match"
+msgstr ""
+
+#: app/Services/TransStrings.php:331
+msgid "No Event Found!"
+msgstr ""
+
+#: app/Services/TransStrings.php:74
+msgid "No events are using this schedule"
+msgstr ""
+
+#: app/Services/TransStrings.php:157
+msgid "No Headers"
+msgstr ""
+
+#: app/Services/TransStrings.php:398
+msgid "No Host Found"
+msgstr ""
+
+#: app/Services/TransStrings.php:20
+msgid "No Latest Booked Event Found"
+msgstr ""
+
+#: app/Services/PluginManager/LicenseManager.php:250
+msgid "No license key available"
+msgstr ""
+
+#: app/Services/PluginManager/LicenseManager.php:177
+msgid "No license key found"
+msgstr ""
+
+#: app/Services/TransStrings.php:459
+msgid "No Settings Found for this integration"
+msgstr ""
+
+#: app/Services/TransStrings.php:394
+msgid "No Show"
+msgstr ""
+
+#: app/Services/TransStrings.php:247
+msgid "No specific date overrides found for this schedule"
+msgstr "Ehhez az időbeosztáshoz nem található konkrét dátum felülírás."
+
+#: app/Services/TransStrings.php:106
+msgid ""
+"No Template found. Please make sure you are using latest version of Fluent "
+"Forms"
+msgstr ""
+
+#: app/Services/Integrations/ZoomMeeting/ZoomHelper.php:50
+msgid "No zoom credentials found"
+msgstr ""
+
+#: app/Services/TransStrings.php:423
+msgid "No, Don't cancel"
+msgstr ""
+
+#: app/Services/TransStrings.php:426
+msgid "No, Don't delete"
+msgstr ""
+
+#: app/Services/TransStrings.php:322
+msgid "No, Thanks"
+msgstr ""
+
+#: app/Services/TransStrings.php:596
+msgid "no_show"
+msgstr ""
+
+#: app/Services/TransStrings.php:41
+msgid "Not Contains"
+msgstr ""
+
+#: app/Services/TransStrings.php:31
+msgid "Not Equal"
+msgstr ""
+
+#: app/Services/TransStrings.php:30
+msgid "not equal"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:505 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:341 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:387
+msgid "Note: "
+msgstr ""
+
+#: app/Http/Controllers/TwilioController.php:50 
+#: app/Http/Controllers/CalendarController.php:652
+msgid "Notifications has been saved"
+msgstr ""
+
+#: app/Services/TransStrings.php:623 app/Services/TransStrings.php:624
+msgid "Nov"
+msgstr ""
+
+#: app/Services/TransStrings.php:635
+msgid "November"
+msgstr ""
+
+#: app/Services/Helper.php:1313
+msgid "Number"
+msgstr "Szám"
+
+#: app/Services/TransStrings.php:622
+msgid "Oct"
+msgstr ""
+
+#: app/Services/TransStrings.php:634
+msgid "October"
+msgstr ""
+
+#: app/Services/TransStrings.php:220
+msgid "of an event start time"
+msgstr "az esemény kezdési időpontja előtt"
+
+#: app/Services/TransStrings.php:335
+msgid "One host"
+msgstr "Egy szervező"
+
+#: app/Services/TransStrings.php:337
+msgid "One invitee"
+msgstr "egy résztvevővel"
+
+#: app/Services/TransStrings.php:223
+msgid "One to One"
+msgstr "Személyes"
+
+#: app/Services/TransStrings.php:334
+msgid "One-to-One"
+msgstr "Személyes"
+
+#: app/Models/Calendar.php:166
+msgid "Online"
+msgstr "Online"
+
+#: app/Models/Booking.php:267
+msgid "Online Joining URL"
+msgstr "Online csatlakozási link"
+
+#: app/Models/Booking.php:259 app/Models/Calendar.php:169 
+#: app/Services/LocationService.php:35 app/Services/TransStrings.php:258 
+#: app/Hooks/Handlers/FrontEndHandler.php:464
+msgid "Online Meeting"
+msgstr "Online találkozó"
+
+#: app/Services/TransStrings.php:210
+msgid "Online Meeting Link *"
+msgstr ""
+
+#: app/Services/TransStrings.php:384
+msgid "Only number in slug is not allowed"
+msgstr ""
+
+#: app/Services/TransStrings.php:123
+msgid "Only Selected Active Booking Types"
+msgstr "Csak a kiválasztott elérhető foglalási típusok"
+
+#: app/Services/TransStrings.php:183
+msgid "Options *"
+msgstr "Opció *"
+
+#: app/Views/public/booking_confirmation.php:70
+msgid "or"
+msgstr "vagy"
+
+#. 1: order number 2: order date 3: order status
+#: app/Services/Integrations/Woo/Bootstrap.php:314
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/Stripe/Stripe.php:225 
+#: app/Services/Integrations/PaymentMethods/Stripe/Stripe.php:362
+msgid "Order has been placed successfully"
+msgstr ""
+
+#: app/Views/public/receipt/payment-info.php:8
+msgid "Order ID:"
+msgstr ""
+
+#: app/Services/Integrations/Woo/Bootstrap.php:330
+msgid "Order Summary"
+msgstr ""
+
+#: app/Models/Calendar.php:161 app/Services/TransStrings.php:257 
+#: app/Hooks/Handlers/FrontEndHandler.php:458
+msgid "Organizer Phone Number"
+msgstr ""
+
+#: app/Models/Calendar.php:174 app/Services/Helper.php:1543 
+#: app/Services/Helper.php:1600
+msgid "Other"
+msgstr "Egyéb"
+
+#: app/Services/BookingService.php:256
+msgid "Other Calendar"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:139
+msgid "Other Fields"
+msgstr "Egyéb mezők"
+
+#: app/Services/BookingService.php:230
+msgid "Outlook"
+msgstr "Outlook"
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:148
+msgid "Outlook API Response Error:"
+msgstr "Outlook API Response Error:"
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:23
+msgid "Outlook Calendar / MS Teams"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:339 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:409 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:493 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:511 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:585 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:599 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:632 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:652
+msgid "Outlook Calendar API Error"
+msgstr "Outlook naptár API Error"
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:82
+msgid "Outlook Calendar API Error:"
+msgstr "Outlook naptár API Error:"
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:436
+msgid "Outlook Calendar event created"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:663
+msgid "Outlook calendar event has been deleted"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:662
+msgid "Outlook event has been deleted"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:609
+msgid "Outlook Event Updated"
+msgstr ""
+
+#: app/Services/TransStrings.php:12
+msgid "Overview"
+msgstr "Áttekintés"
+
+#: app/Services/TransStrings.php:638
+msgid "paid"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/CurrenciesHelper.php:392
+msgid "Paraguayan Guaraní"
+msgstr ""
+
+#: app/Services/TransStrings.php:689
+msgid "Pass Field Data Via Query String"
+msgstr "Mezőadatok átadása lekérdezési karakterláncon keresztül (Query String)"
+
+#: app/Services/TransStrings.php:581
+msgid "Past"
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:399
+msgid "Pay Now"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/Stripe/Stripe.php:379
+msgid "Pay with Stripe"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/BasePaymentMethod.php:350
+msgid "Pay with:"
+msgstr ""
+
+#: app/Services/Helper.php:1620
+msgid "Payment Data"
+msgstr ""
+
+#: app/Services/Helper.php:1627
+msgid "Payment Date"
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:397 
+#: app/Views/public/booking_confirmation.php:32
+msgid "Payment Details"
+msgstr "Fizetési adatok"
+
+#: app/Services/Integrations/PaymentMethods/Stripe/Stripe.php:116
+msgid "Payment for Order"
+msgstr ""
+
+#: app/Services/TransStrings.php:404
+msgid "Payment History"
+msgstr ""
+
+#: app/Services/TransStrings.php:408 app/Services/Helper.php:1625
+msgid "Payment Method"
+msgstr ""
+
+#: app/Views/public/receipt/payment-info.php:35
+msgid "Payment Method:"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/Stripe/Stripe.php:470
+msgid "Payment Modal is opening, Please complete the payment"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/Stripe/Stripe.php:393
+msgid "Payment Mode"
+msgstr ""
+
+#: app/Services/Helper.php:1632
+msgid "Payment Receipt (HTML)"
+msgstr ""
+
+#: app/Services/TransStrings.php:142 
+#: app/Services/Integrations/pro_integrations.php:67
+msgid "Payment Settings"
+msgstr "Fizetési beállítások"
+
+#: app/Services/TransStrings.php:412 app/Services/Helper.php:1624
+msgid "Payment Status"
+msgstr ""
+
+#: app/Views/public/receipt/payment-info.php:43
+msgid "Payment Status:"
+msgstr ""
+
+#: app/Services/BookingFieldService.php:178
+msgid "Payment Summary"
+msgstr ""
+
+#: app/Services/TransStrings.php:411 app/Services/Helper.php:1623
+msgid "Payment Total"
+msgstr ""
+
+#: app/Services/TransStrings.php:393
+msgid "Pending"
+msgstr "Függőben lévő"
+
+#: app/Services/TransStrings.php:640
+msgid "pending"
+msgstr ""
+
+#: app/Services/TransStrings.php:300
+msgid "Per day"
+msgstr "Naponta"
+
+#: app/Services/TransStrings.php:302
+msgid "Per month"
+msgstr "Havonta"
+
+#: app/Services/TransStrings.php:301
+msgid "Per week"
+msgstr "Hetente"
+
+#: app/Models/Calendar.php:155 app/Services/LocationService.php:55 
+#: app/Services/LocationService.php:58 app/Services/Helper.php:1317
+msgid "Phone"
+msgstr "Telefonszám"
+
+#: app/Services/LocationService.php:62
+msgid "Phone Call"
+msgstr ""
+
+#: app/Models/Booking.php:243 app/Models/Booking.php:247
+msgid "Phone Call:"
+msgstr ""
+
+#: app/Services/TransStrings.php:382
+msgid "Phone Number is required"
+msgstr ""
+
+#: app/Services/TransStrings.php:182
+msgid "Placeholder"
+msgstr "Helykitöltő"
+
+#: app/Services/TransStrings.php:571
+msgid "Please"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/BasePaymentMethod.php:342
+msgid "Please activate payment first!"
+msgstr "Kérjük, először aktiválja a fizetést!"
+
+#: app/Services/Integrations/PaymentMethods/BasePaymentMethod.php:361
+msgid "Please active at least one payment method!"
+msgstr "Kérjük, hogy legalább egy fizetési mód aktív legyen!"
+
+#: app/Services/TransStrings.php:421
+msgid ""
+"Please confirm that you would like to cancel this event. A cancellation "
+"email will also go out to the invitee"
+msgstr ""
+"Kérjük, erősítse meg, hogy le szeretné mondani ezt az eseményt. A "
+"meghívottnak is küldünk egy lemondó e-mailt."
+
+#: app/Http/Controllers/PaymentMethodController.php:44 
+#: app/Http/Controllers/PaymentMethodController.php:50
+msgid "Please connect your Stripe account first."
+msgstr ""
+
+#: app/Services/TransStrings.php:53
+msgid "Please enter a keyword"
+msgstr ""
+
+#: app/Http/Controllers/BookingController.php:77
+msgid "Please enter attendee's email address"
+msgstr ""
+
+#: app/Http/Controllers/BookingController.php:76
+msgid "Please enter attendee's name"
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:512
+msgid "Please enter provide a valid email address"
+msgstr "Kérjók adjon meg érvényes e-mail címet"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:511
+msgid "Please enter your email address"
+msgstr "Kérjük, adja meg az e-mail címét"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:510
+msgid "Please enter your name"
+msgstr "Kérjük adja meg a nevét"
+
+#: app/Services/BookingFieldService.php:40 
+#: app/Http/Controllers/BookingController.php:114 
+#: app/Hooks/Handlers/FrontEndHandler.php:559
+msgid "Please fill up the required data"
+msgstr "Kérjük töltse ki a kötelező mezőt"
+
+#: app/Services/TransStrings.php:487
+msgid "Please provide a license key"
+msgstr ""
+
+#: app/Services/TransStrings.php:484
+msgid "Please Provide a license key of"
+msgstr ""
+
+#: app/Services/TransStrings.php:377
+msgid "Please provide a location first"
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:785
+msgid "Please provide a reason for cancellation"
+msgstr "Kérjük indokolja meg döntését"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:57
+msgid "Please provide a rescheduling reason"
+msgstr ""
+
+#: app/Services/TransStrings.php:383
+msgid "Please provide a slug first"
+msgstr ""
+
+#: app/Http/Controllers/BookingController.php:78
+msgid "Please provide a valid email address"
+msgstr "Kérjük, adjon meg egy érvényes e-mail címet"
+
+#: app/Services/Integrations/FluentForms/FluentFormInit.php:158
+msgid "Please provide a valid location for this meeting"
+msgstr "Kérjük, adja meg a találkozó érvényes helyszínét"
+
+#: app/Http/Controllers/BookingController.php:90
+msgid "Please provide attendee's address"
+msgstr ""
+
+#: app/Http/Controllers/BookingController.php:87
+msgid "Please provide attendee's phone number"
+msgstr ""
+
+#: app/Views/public/booking_confirmation.php:52
+msgid "Please provide cancellation reason"
+msgstr "Kérjük indokolja meg döntését"
+
+#: app/Hooks/Handlers/DataExporter.php:22
+msgid "Please provide Group ID"
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:522
+msgid "Please provide your Address"
+msgstr "Kérjük, adja meg címét"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:533
+msgid "Please provide your address"
+msgstr "Kérjük, adja meg címét"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:519 
+#: app/Hooks/Handlers/FrontEndHandler.php:535
+msgid "Please provide your phone number"
+msgstr "Kérjük, adja meg telefonszámát"
+
+#: app/Services/TransStrings.php:565
+msgid "Please read the documentation"
+msgstr "Kérjük olvassa el a dokuemntációt"
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:87
+msgid ""
+"Please read the step-by-step documentation to setup Account SID and Auth "
+"Token and get the Sender Numbers for your app."
+msgstr ""
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:138 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:233 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:152 
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:134 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:205
+msgid "Please remove the connection and reconnect again."
+msgstr ""
+
+#: app/Http/Controllers/BookingController.php:80 
+#: app/Hooks/Handlers/FrontEndHandler.php:514
+msgid "Please select a date and time"
+msgstr ""
+
+#: app/Services/TransStrings.php:528
+msgid "Please select a date first"
+msgstr "Kérjük, először válasszon ki egy dátumot"
+
+#: app/Http/Controllers/PaymentMethodController.php:143
+msgid "Please select a payment method"
+msgstr "Kérjük, válasszon egy fizetési módot"
+
+#: app/Http/Controllers/PaymentMethodController.php:151
+msgid "Please select a product"
+msgstr "Kérjük, válasszon ki egy terméket"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:525
+msgid "Please select location"
+msgstr "Kérjük, válassza ki a helyszínt"
+
+#: app/Http/Controllers/BookingController.php:79
+msgid "Please select the timezone"
+msgstr "Kérjük, válassza ki az időzónát"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:513
+msgid "Please select timezone first"
+msgstr "Kérjük, először válassza ki az időzónát"
+
+#: app/Services/TransStrings.php:124
+msgid "Please select which Booking Forms to show in the page?"
+msgstr "Kérjük válassza ki a megjelenítendő űrlapokat"
+
+#: app/Services/TransStrings.php:522
+msgid "Please set the host phone number from"
+msgstr ""
+
+#: app/Services/TransStrings.php:102
+msgid "Please upgrade to pro to unlock this feature."
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:467
+msgid "PM"
+msgstr "DU"
+
+#: app/Services/TransStrings.php:642
+msgid "pm"
+msgstr "du"
+
+#: app/Services/TransStrings.php:406 
+#: app/Views/public/receipt/order-items-table.php:15 
+#: app/Services/Integrations/PaymentMethods/PaymentHelper.php:46
+msgid "Price"
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:400
+msgid "Processing"
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:465
+msgid "Processing..."
+msgstr ""
+
+#: app/Http/Controllers/PaymentMethodController.php:158
+msgid "Product not found. Please select a product"
+msgstr "Nem található termék. Kérjük, válasszon egy terméket"
+
+#: app/Services/TransStrings.php:488
+msgid "Profile"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:94
+msgid "Profile Photo"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:38
+msgid "Provide Valid Email Address that will be used to send emails"
+msgstr ""
+"Érvényes e-mail cím megadása, amelyet az e-mailek küldéséhez használunk"
+
+#: app/Services/TransStrings.php:202
+msgid "Provided email addresses will set as CC to this email notification"
+msgstr ""
+"A megadott e-mail címek CC-ként lesznek beállítva ehhez az e-mail "
+"értesítéshez."
+
+#: app/Services/Integrations/PaymentMethods/Stripe/Stripe.php:411
+msgid "Provider"
+msgstr ""
+
+#: app/Services/TransStrings.php:342
+msgid "Publicly Accessible"
+msgstr ""
+
+#: app/Services/TransStrings.php:486
+msgid "Purchase one here"
+msgstr ""
+
+#: app/Services/Helper.php:1042
+msgid "Purple"
+msgstr ""
+
+#: app/Services/TransStrings.php:405 
+#: app/Views/public/receipt/order-items-table.php:14
+msgid "Quantity"
+msgstr ""
+
+#: app/Services/Helper.php:1386
+msgid "Question Settings"
+msgstr "Kérdések"
+
+#: app/Services/Helper.php:1321
+msgid "Radio"
+msgstr ""
+
+#: app/Services/PermissionManager.php:19
+msgid "Read & Use Access of All Availabilities"
+msgstr ""
+
+#: app/Services/PermissionManager.php:16
+msgid "Read & Write Access to All Bookings"
+msgstr ""
+
+#: app/Services/PermissionManager.php:17
+msgid "Read Access of Other Users Calendars"
+msgstr ""
+
+#: app/Services/PermissionManager.php:15
+msgid "Read Access to All Bookings"
+msgstr ""
+
+#: app/Services/TransStrings.php:649
+msgid "read all bookings"
+msgstr ""
+
+#: app/Services/TransStrings.php:645
+msgid "read and use other availabilities"
+msgstr ""
+
+#: app/Services/TransStrings.php:495
+msgid "Read More"
+msgstr ""
+
+#: app/Services/TransStrings.php:647
+msgid "read other calendars"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:64 
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:65 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:106
+msgid "Read the documentation"
+msgstr "Dokuemtnáció áttekintése"
+
+#: app/Services/TransStrings.php:572
+msgid "read the documentation here"
+msgstr ""
+
+#: app/Services/TransStrings.php:422 
+#: app/Views/public/booking_confirmation.php:50
+msgid "Reason for cancellation"
+msgstr "Lemondásának oka"
+
+#: app/Services/LandingPage/LandingPageHandler.php:378
+msgid "Reason of rescheduling"
+msgstr "Átütemezés oka"
+
+#: app/Services/TransStrings.php:593
+msgid "Receiver *"
+msgstr ""
+
+#: app/Services/TransStrings.php:110
+msgid "Recommended Image Size: 600x600. Square Orientation"
+msgstr "Ajánlott kép méret: 600x600. Négyzet orientáció"
+
+#: app/Services/Helper.php:1034
+msgid "Red-Orange"
+msgstr ""
+
+#: app/Services/TransStrings.php:688
+msgid "Redirect after booking"
+msgstr "Átirányítás foglalás után"
+
+#: app/Services/TransStrings.php:687
+msgid "Redirect Query String"
+msgstr ""
+
+#: app/Services/TransStrings.php:286
+msgid "Redirect to a custom URL after a successful booking"
+msgstr "Átirányítás egy egyéni URL címre sikeres foglalás után"
+
+#: app/Services/Integrations/Woo/Bootstrap.php:63
+msgid "Redirect to WooCommerce checkout page"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/BaseCalendar.php:141 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:70
+msgid "Redirect URI"
+msgstr ""
+
+#: app/Services/TransStrings.php:686
+msgid "Redirect URL"
+msgstr "Átirányítási URL"
+
+#: app/Services/TransStrings.php:50
+msgid "Regex Match"
+msgstr ""
+
+#: app/Services/Integrations/FluentForms/FluentFormInit.php:434
+msgid "Related Form Data"
+msgstr ""
+
+#: app/Services/Integrations/FluentForms/FluentFormInit.php:418
+msgid "Related Payments"
+msgstr ""
+
+#: app/Services/EmailNotificationService.php:173
+msgid "Reminder Email Sent"
+msgstr ""
+
+#: app/Services/EmailNotificationService.php:175
+#, php-format
+msgid "Reminder email sent to %s."
+msgstr ""
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:284 
+#: app/Services/Integrations/Twilio/Bootstrap.php:304
+msgid "Reminder SMS Sent Successfully"
+msgstr ""
+
+#: app/Services/TransStrings.php:129
+msgid "Remote Calendar Sync Settings"
+msgstr "Külső naptár szinkronizációs beállítások"
+
+#: app/Services/Integrations/pro_integrations.php:38
+msgid "Remote Calendars"
+msgstr "Külső naptárak"
+
+#: app/Services/TransStrings.php:184
+msgid "Remove"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:209
+msgid "Remove Contact Tags"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:617
+msgid "Removed from Google calendar"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:532
+msgid "Removed from Outlook calendar"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:53
+msgid "Reply to Email (Optional)"
+msgstr "Válasz Email"
+
+#: app/Http/Controllers/SettingsController.php:44
+msgid "Reply to Name"
+msgstr "Válasz név"
+
+#: app/Http/Controllers/SettingsController.php:45
+msgid "Reply to Name (Optional)"
+msgstr "Válasz név (opcionális)"
+
+#: app/Services/TransStrings.php:163
+msgid "Request Body"
+msgstr ""
+
+#: app/Services/TransStrings.php:166
+msgid "Request Fields"
+msgstr ""
+
+#: app/Services/TransStrings.php:154
+msgid "Request Format"
+msgstr ""
+
+#: app/Services/TransStrings.php:155
+msgid "Request Header"
+msgstr ""
+
+#: app/Services/TransStrings.php:156
+msgid "Request Headers"
+msgstr ""
+
+#: app/Services/TransStrings.php:153
+msgid "Request Method"
+msgstr ""
+
+#: app/Services/TransStrings.php:151
+msgid "Request URL"
+msgstr ""
+
+#: app/Services/TransStrings.php:263
+msgid "Required"
+msgstr "Kötelező"
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:295 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:709 
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:164
+msgid "Required scopes missing"
+msgstr ""
+
+#: app/Services/TransStrings.php:425 app/Services/Helper.php:1414 
+#: app/Services/Helper.php:1432 app/Views/public/booking_confirmation.php:72
+msgid "Reschedule"
+msgstr "Átütemezés"
+
+#: app/Services/BookingService.php:178
+msgid "rescheduled"
+msgstr ""
+
+#: app/Services/EmailNotificationService.php:334
+msgid "Rescheduled booking email sent to"
+msgstr ""
+
+#: app/Services/EmailNotificationService.php:336
+#, php-format
+msgid "Rescheduling email sent to %s"
+msgstr ""
+
+#: app/Services/LandingPage/LandingPageHandler.php:379
+msgid "Rescheduling Reason"
+msgstr "Átütemezés megindoklása"
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:409 
+#: app/Services/Integrations/Twilio/Bootstrap.php:430
+msgid "Rescheduling SMS Sent Successfully"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/NewBookingTrigger.php:59 
+#: app/Services/Integrations/FluentCRM/CancelBookingTrigger.php:59 
+#: app/Services/Integrations/FluentCRM/BookingCompletedTrigger.php:59
+msgid ""
+"Run this automation only once per contact. If unchecked then it will over-"
+"write existing flow"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/CurrenciesHelper.php:393
+msgid "Rwandan Franc"
+msgstr ""
+
+#: app/Http/Controllers/ReportController.php:285
+msgid "Same as last month"
+msgstr ""
+
+#: app/Services/TransStrings.php:288
+msgid "Sample: email={guest.email}&phone={booking.phone}"
+msgstr ""
+
+#: app/Services/TransStrings.php:590
+msgid "sat"
+msgstr "szom"
+
+#: app/Services/TransStrings.php:605
+msgid "Saturday"
+msgstr "Szombat"
+
+#: app/Services/TransStrings.php:504
+msgid "Save"
+msgstr "Mentés"
+
+#: app/Services/TransStrings.php:458
+msgid "Save & Validate Credentials"
+msgstr ""
+
+#: app/Services/TransStrings.php:491
+msgid "Save Changes"
+msgstr "Változások mentése"
+
+#: app/Services/TransStrings.php:244
+msgid "Save Email"
+msgstr "Email mentése"
+
+#: app/Services/TransStrings.php:107
+msgid "Save Feed"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:102 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:122
+msgid "Save Google API Configuration"
+msgstr "Google API konfiguráció mentése"
+
+#: app/Services/TransStrings.php:125 
+#: app/Services/Integrations/Twilio/Bootstrap.php:99 
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:84 
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:80
+msgid "Save Settings"
+msgstr "Beállítások mentése"
+
+#: app/Services/TransStrings.php:531
+msgid "Save SMS"
+msgstr ""
+
+#: app/Http/Controllers/AvailabilityController.php:264
+msgid "Schedule Availability has been deleted successfully"
+msgstr ""
+
+#: app/Http/Controllers/AvailabilityController.php:164
+msgid "Schedule has been cloned successfully"
+msgstr ""
+
+#: app/Http/Controllers/AvailabilityController.php:144
+msgid "Schedule has been created successfully"
+msgstr ""
+
+#: app/Http/Controllers/AvailabilityController.php:191
+msgid "Schedule has been updated successfully"
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:750
+msgid "Schedule Meeting"
+msgstr "Foglalás véglegesítése"
+
+#: app/Services/TransStrings.php:272
+msgid "Schedule Settings"
+msgstr "Időzítési beállítások"
+
+#: app/Services/TransStrings.php:81
+msgid "Schedule Title *"
+msgstr "Időbeosztás címe *"
+
+#: app/Http/Controllers/AvailabilityController.php:215
+msgid "Schedule title has been updated successfully"
+msgstr ""
+
+#: app/Services/TransStrings.php:306
+msgid "Schedule Type"
+msgstr ""
+
+#: app/Services/TransStrings.php:554
+msgid "Scheduled"
+msgstr "Ütemezett"
+
+#: app/Services/TransStrings.php:553 app/Services/BookingService.php:181
+msgid "scheduled"
+msgstr "sikeresen lefoglalta"
+
+#: app/Services/TransStrings.php:312
+msgid "Scheduling conditions"
+msgstr "Ütemezési feltételek"
+
+#: app/Services/TransStrings.php:578
+msgid "Search & Select Product"
+msgstr ""
+
+#: app/Services/TransStrings.php:435
+msgid "Search Booking"
+msgstr "Foglalás keresése"
+
+#: app/Services/TransStrings.php:63
+msgid "Search contact"
+msgstr ""
+
+#: app/Services/TransStrings.php:396
+msgid "Search Host"
+msgstr "Szervező keresés"
+
+#: app/Services/TransStrings.php:494
+msgid "Search host and select"
+msgstr "Szervező kiválasztása"
+
+#: app/Services/Integrations/Calendars/BaseCalendar.php:136 
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:65
+msgid "Secret Key"
+msgstr ""
+
+#: app/Services/GlobalModules/GlobalModules.php:49
+msgid "Segment your guests, send bulk emails, run automations using FluentCRM"
+msgstr ""
+"Szegmentálja vendégeit, küldjön tömeges e-maileket, futtasson "
+"automatizálásokat a FluentCRM segítségével."
+
+#: app/Services/TransStrings.php:54
+msgid "Select"
+msgstr "Választ"
+
+#: app/Services/TransStrings.php:93
+msgid "Select a Field"
+msgstr ""
+
+#: app/Services/TransStrings.php:134
+msgid "Select a Remote Calendar"
+msgstr ""
+
+#: app/Services/Integrations/FluentForms/BookingElement.php:55
+msgid "Select Appointment Date & Time"
+msgstr ""
+
+#: app/Services/Integrations/FluentForms/BookingElement.php:108 
+#: app/Services/Integrations/FluentCRM/NewBookingTrigger.php:75 
+#: app/Services/Integrations/FluentCRM/CancelBookingTrigger.php:75 
+#: app/Services/Integrations/FluentCRM/BookingCompletedTrigger.php:75
+msgid "Select Calendar"
+msgstr ""
+
+#: app/Services/TransStrings.php:55
+msgid "Select Condition"
+msgstr ""
+
+#: app/Services/TransStrings.php:317
+msgid "Select Country"
+msgstr "Válassza ki az országot"
+
+#: app/Services/TransStrings.php:59
+msgid "Select data source and operator first"
+msgstr ""
+
+#: app/Services/TransStrings.php:22
+msgid "Select Date"
+msgstr "Válassza ki a dátumot"
+
+#: app/Services/TransStrings.php:470
+msgid "Select Day"
+msgstr ""
+
+#: app/Services/TransStrings.php:437
+msgid "Select Event"
+msgstr "Esemény kiválasztása"
+
+#: app/Services/TransStrings.php:436
+msgid "Select Event Types"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:149
+msgid "Select FluentCRM Lists"
+msgstr "Listák kiválasztása"
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:84
+msgid ""
+"Select for how many minutes the Google Calendar event API call will be "
+"cached. Recommended 5/10 minutes. If you add lots of manual events in google "
+"then you may lower the value"
+msgstr ""
+
+#: app/Services/TransStrings.php:466
+msgid "Select Frequency"
+msgstr ""
+
+#: app/Services/TransStrings.php:498
+msgid "Select Guest Email Field"
+msgstr ""
+
+#: app/Services/TransStrings.php:499
+msgid "Select Guest Name Field"
+msgstr ""
+
+#: app/Services/TransStrings.php:549
+msgid "Select Host"
+msgstr "Szerverző kiválasztása"
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:199
+msgid "Select in which booking stage you want to trigger this feed"
+msgstr ""
+"Válassza ki, hogy melyik foglalási szakaszban szeretné elindítani ezt a "
+"feedet."
+
+#: app/Services/TransStrings.php:455
+msgid "Select Member"
+msgstr "Felhasználó választása"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:455
+msgid "Select on the Next Step"
+msgstr ""
+
+#: app/Services/TransStrings.php:133
+msgid ""
+"Select remote calendar in where to add new events to when you're booked."
+msgstr ""
+
+#: app/Services/TransStrings.php:282
+msgid "Select Schedule"
+msgstr ""
+
+#: app/Services/TransStrings.php:438 
+#: app/Services/Integrations/FluentCRM/NewBookingTrigger.php:84 
+#: app/Services/Integrations/FluentCRM/CancelBookingTrigger.php:84 
+#: app/Services/Integrations/FluentCRM/BookingCompletedTrigger.php:84
+msgid "Select Status"
+msgstr "Státusz megadása"
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:160
+msgid "Select Tags"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:210
+msgid "Select Tags (remove from contact)"
+msgstr ""
+
+#: app/Services/TransStrings.php:311
+msgid "Select the available date range"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:150
+msgid "Select the FluentCRM Lists you would like to add your contacts to."
+msgstr ""
+
+#: app/Services/TransStrings.php:439
+msgid "Select Time"
+msgstr "Válassza ki az időpontot"
+
+#: app/Services/TransStrings.php:363
+msgid "Select Timezone"
+msgstr "Időzóna kiválasztása"
+
+#: app/Services/TransStrings.php:179
+msgid "Select Type"
+msgstr ""
+
+#: app/Services/TransStrings.php:195
+msgid "Select Unit"
+msgstr ""
+
+#: app/Services/TransStrings.php:170
+msgid "Select Value"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:140
+msgid ""
+"Select which Fluent Form fields pair with their<br /> respective FlunentCRM "
+"fields."
+msgstr ""
+"Válassza ki, hogy a Fluent Form mezők mely FluentCRM <br />mezőkkel "
+"kapcsolódjanak össze."
+
+#: app/Services/TransStrings.php:82
+msgid "Select Your Timezone *"
+msgstr "Időzóna kiválasztása *"
+
+#: app/Services/Integrations/PaymentMethods/Stripe/ConnectConfig.php:174
+msgid "Selected Account does not exist"
+msgstr ""
+
+#: app/Services/Integrations/FluentForms/BookingElement.php:144
+msgid "Selected Calendar could not be found"
+msgstr ""
+
+#: app/Services/TransStrings.php:165
+msgid "Selected Fields"
+msgstr ""
+
+#: app/Services/TransStrings.php:249
+msgid ""
+"Selected location seems disabled. Please revise your location selections"
+msgstr ""
+
+#: app/Http/Controllers/WebhookController.php:102
+msgid "Selected Webhook has been deleted"
+msgstr ""
+
+#: app/Services/TransStrings.php:526
+msgid "Send *"
+msgstr ""
+
+#: app/Services/TransStrings.php:621
+msgid "Sep"
+msgstr ""
+
+#: app/Services/TransStrings.php:633
+msgid "September"
+msgstr ""
+
+#: app/Services/TransStrings.php:75
+msgid "Set as Default"
+msgstr "Beállítás alapértelmezettnek"
+
+#: app/Services/TransStrings.php:283
+msgid "Set Custom Hours"
+msgstr "Egyéni munkaidő beállítása"
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:46
+msgid "Set FluentCRM"
+msgstr ""
+
+#: app/Services/TransStrings.php:130
+msgid ""
+"Set the calendars to check for conflicts to prevent double bookings and add "
+"events to your remote calendar."
+msgstr ""
+"Állítsa be a naptárakat a konfliktusok ellenőrzésére, hogy elkerülje a "
+"kettős foglalásokat, és adjon hozzá eseményeket a külső naptárához."
+
+#: app/Services/TransStrings.php:534 
+#: app/Hooks/Handlers/AdminMenuHandler.php:85 
+#: app/Hooks/Handlers/AdminMenuHandler.php:86 
+#: app/Hooks/Handlers/AdminMenuHandler.php:139
+msgid "Settings"
+msgstr "Beállítások"
+
+#: app/Http/Controllers/IntegrationController.php:38
+msgid "Settings has been successfully saved."
+msgstr "A beállítások sikeresen mentésre kerültek."
+
+#: app/Services/TransStrings.php:148
+msgid "Settings Page"
+msgstr ""
+
+#: app/Http/Controllers/PaymentMethodController.php:172 
+#: app/Http/Controllers/SettingsController.php:105 
+#: app/Http/Controllers/SettingsController.php:143
+msgid "Settings updated successfully"
+msgstr "A beállítások sikeresen frissültek"
+
+#: app/Services/TransStrings.php:540
+msgid "Settings updated!"
+msgstr "Beállítások frissítve!"
+
+#: app/Services/TransStrings.php:313
+msgid "Share"
+msgstr "Megosztás"
+
+#: app/Services/TransStrings.php:354
+msgid "Shortcode"
+msgstr ""
+
+#: app/Services/TransStrings.php:352
+msgid "Shortcode has been copied to your clipboard"
+msgstr ""
+
+#: app/Services/TransStrings.php:190
+msgid "Shortcodes"
+msgstr ""
+
+#: app/Services/TransStrings.php:116
+msgid "Should be same as the host name"
+msgstr "Meg kell egyeznie a szervező nevével"
+
+#: app/Services/TransStrings.php:496
+msgid "Show Video"
+msgstr ""
+
+#: app/Services/TransStrings.php:443
+msgid "Single"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:168
+msgid "Skip if contact already exist in FluentCRM"
+msgstr "Hagyja ki, ha a kontakt már létezik a FluentCRM-ben"
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:174
+msgid "Skip name update if existing contact have old data (per primary field)"
+msgstr ""
+"Névfrissítés kihagyása, ha a meglévő kapcsolat régi adatokkal rendelkezik "
+"(elsődleges mezőnként)"
+
+#: app/Services/TransStrings.php:591
+msgid "SMS"
+msgstr ""
+
+#: app/Services/TransStrings.php:525
+msgid "SMS Body"
+msgstr ""
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:31
+msgid "SMS by Twilio"
+msgstr ""
+
+#: app/Services/Integrations/pro_integrations.php:55
+msgid "SMS Notification"
+msgstr "SMS értesítések"
+
+#: app/Services/TransStrings.php:530
+msgid "SMS Notification Settings"
+msgstr "SMS értesítés beállításai"
+
+#: app/Services/TransStrings.php:535
+msgid "SMS Notifications"
+msgstr "SMS értesítések"
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:67
+msgid "SMS Number"
+msgstr "SMS szám"
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:227 
+#: app/Services/Integrations/Twilio/Bootstrap.php:248
+msgid "SMS Sent Successfully"
+msgstr "SMS sikeresen elküldve"
+
+#: app/Services/Integrations/IntegrationHelper.php:123
+msgid "Something went wrong"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/RemoteCalendarHelper.php:96
+msgid "Something went wrong. Please try again later."
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:777
+msgid "Sorry! meeting could not be found"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Google/GoogleHelper.php:148
+msgid ""
+"Sorry! There has an error when fetching data for google authentication. "
+"Please try again"
+msgstr ""
+"Elnézést! Hiba lépett fel a google hitelesítés adatainak lekérdezésekor. "
+"Kérjük, próbálja meg újra."
+
+#: app/Services/Integrations/Calendars/Outlook/OutlookHelper.php:87
+msgid ""
+"Sorry! There has an error when fetching data for outlook authentication. "
+"Please try again"
+msgstr ""
+"Elnézést! Hiba történt az outlook hitelesítés adatainak lekérdezésekor. "
+"Kérjük, próbálja meg újra."
+
+#: app/Hooks/Handlers/FrontEndHandler.php:771
+msgid "Sorry! you can not cancel this meeting"
+msgstr ""
+
+#: app/Http/Controllers/BookingController.php:24 
+#: app/Http/Controllers/BookingController.php:62 
+#: app/Http/Controllers/BookingController.php:215 
+#: app/Hooks/Handlers/FrontEndHandler.php:494 
+#: app/Hooks/Handlers/FrontEndHandler.php:664 
+#: app/Services/Integrations/FluentForms/FluentFormInit.php:90
+msgid "Sorry, the host is not accepting any new bookings at the moment."
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:77
+msgid "Sorry, you can not reschedule this meeting."
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:83
+msgid "Sorry, you can not reschedule to the same time."
+msgstr "Sajnáljuk, de nem lehet átütemezni ugyanarra az időpontra."
+
+#: app/Services/TransStrings.php:637
+msgid "Sorted by booked at date time"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/CurrenciesHelper.php:390
+msgid "South Korean Won"
+msgstr ""
+
+#: app/Services/TransStrings.php:308
+msgid "Specific Dates & Hours (coming soon)"
+msgstr ""
+
+#: app/Services/TransStrings.php:230
+msgid "spots left"
+msgstr ""
+
+#: app/Services/TransStrings.php:14
+msgid "Start"
+msgstr "Kezdés"
+
+#: app/Services/Integrations/Calendars/Google/GoogleCalendar.php:154 
+#: app/Services/Integrations/Calendars/Outlook/OutlookCalendar.php:127
+msgid "start and end data is required"
+msgstr ""
+
+#: app/Services/TransStrings.php:13
+msgid "Start date"
+msgstr "Kezd dátum"
+
+#: app/Services/TransStrings.php:43
+msgid "Starts With"
+msgstr ""
+
+#: app/Services/TransStrings.php:42
+msgid "starts with"
+msgstr ""
+
+#: app/Services/TransStrings.php:402 
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:221 
+#: app/Services/Integrations/FluentCRM/FluentCrmInit.php:137 
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:69 
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:70
+msgid "Status"
+msgstr "Státusz"
+
+#: app/Http/Controllers/AvailabilityController.php:237
+msgid "Status has been updated successfully"
+msgstr ""
+
+#: app/Services/Integrations/Woo/Bootstrap.php:133
+msgid "Status:"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/Stripe/Stripe.php:21 
+#: app/Services/Integrations/PaymentMethods/Stripe/Stripe.php:487
+msgid "Stripe"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/Stripe/API/ApiRequest.php:149
+msgid "Stripe General Error"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/Stripe/ConnectConfig.php:164
+msgid "Stripe mode is not active"
+msgstr ""
+
+#: app/Services/TransStrings.php:325
+msgid "Stripe Payments"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/Stripe/ConnectConfig.php:201
+msgid "Stripe settings has been disconnected"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/Stripe/Stripe.php:72
+msgid ""
+"Stripe's payments platform lets you accept credit cards, debit cards, and "
+"popular payment methods around the world—all with a single integration"
+msgstr ""
+"A Stripe fizetési platformja lehetővé teszi a hitelkártyák, bankkártyák és "
+"világszerte népszerű fizetési módok elfogadását - mindezt egyetlen "
+"integrációval."
+
+#: app/Views/public/receipt/order-items-table.php:52
+msgid "Sub-Total"
+msgstr ""
+
+#: app/Services/TransStrings.php:191
+msgid "Subject"
+msgstr "Tárgy"
+
+#: app/Views/public/receipt/payment-info.php:10
+msgid "Submission ID:"
+msgstr ""
+
+#: app/Services/TransStrings.php:445
+msgid "Submit"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/NewBookingTrigger.php:83 
+#: app/Services/Integrations/FluentCRM/CancelBookingTrigger.php:83 
+#: app/Services/Integrations/FluentCRM/BookingCompletedTrigger.php:83
+msgid "Subscription Status"
+msgstr ""
+
+#: app/Http/Controllers/CalendarIntegrationController.php:70
+msgid "Successfully deleted the Integration."
+msgstr "Sikeresen törölte az integrációt."
+
+#: app/Hooks/Handlers/FrontEndHandler.php:396
+msgid "Summary"
+msgstr ""
+
+#: app/Services/TransStrings.php:607
+msgid "Summary Email"
+msgstr "Összefoglaló Email"
+
+#: app/Services/TransStrings.php:584
+msgid "sun"
+msgstr "Vas"
+
+#: app/Services/TransStrings.php:606
+msgid "Sunday"
+msgstr "Vasárnap"
+
+#: app/Services/TransStrings.php:264
+msgid "System"
+msgstr "Rendszer"
+
+#: app/Services/TransStrings.php:683
+msgid "System Default"
+msgstr "Alapértelmezett"
+
+#: app/Services/TransStrings.php:678
+msgid "System Enabled"
+msgstr ""
+
+#: app/Services/TransStrings.php:447
+msgid "Team"
+msgstr "Csapat"
+
+#: app/Services/TransStrings.php:449
+msgid "Team Member"
+msgstr "Csapattag"
+
+#: app/Services/Integrations/PaymentMethods/Stripe/Stripe.php:395
+msgid "Test Mode"
+msgstr ""
+
+#: app/Services/Helper.php:1305
+msgid "Text"
+msgstr "Szöveges mező"
+
+#: app/Services/Integrations/FluentForms/BookingElement.php:251
+msgid "Text Response"
+msgstr ""
+
+#: app/Services/Helper.php:1309
+msgid "Textarea"
+msgstr "Szövegtartomány"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:159
+#, php-format
+msgid "Thank you for using <a href=\"%s\">FluentBooking</a>."
+msgstr ""
+
+#: app/Services/TransStrings.php:550
+msgid "Thank You or Choosing FluentBooking. Let’s -"
+msgstr ""
+
+#: app/Services/PluginManager/LicenseManager.php:111
+#, php-format
+msgid "The %s license needs to be activated. %sActivate Now%s"
+msgstr "A %s licencet aktiválni kell. %sAktiválás%s"
+
+#: app/Services/TransStrings.php:457
+msgid "The above app secret key will be encrypted and stored securely."
+msgstr ""
+"A fenti alkalmazás titkos kulcsa titkosítva és biztonságosan tárolva lesz."
+
+#: app/Http/Controllers/SchedulesController.php:161
+msgid "The booking has been cancelled"
+msgstr ""
+
+#: app/Http/Controllers/CalendarController.php:601
+msgid "The Event Type has been cloned successfully"
+msgstr ""
+
+#: app/Services/PluginManager/LicenseManager.php:343
+msgid ""
+"The given license key is not valid. Please verify that your license is "
+"correct. You may login to wpmanageninja.com account and get your valid "
+"license key for your purchase."
+msgstr ""
+
+#: app/Http/Controllers/CalendarController.php:57 
+#: app/Http/Controllers/CalendarController.php:120
+msgid "The provided slug is not available. Please choose a different one"
+msgstr ""
+
+#: app/Services/TransStrings.php:385
+msgid "The Slug need to be at least 4 characters"
+msgstr ""
+
+#: app/Http/Controllers/CalendarController.php:101
+msgid ""
+"The user already have a calendar. Please delete it first to create a new one"
+msgstr ""
+
+#: app/Services/TransStrings.php:682
+msgid "Theme"
+msgstr "Sablon"
+
+#: app/Services/Integrations/PaymentMethods/Stripe/API/ApiRequest.php:137 
+#: app/Services/Integrations/PaymentMethods/Stripe/API/ApiRequest.php:179
+msgid "There was a problem connecting to the Stripe API endpoint."
+msgstr ""
+
+#: app/Services/PluginManager/LicenseManager.php:335
+msgid ""
+"There was an error activating the license, please verify your license is "
+"correct and try again or contact support."
+msgstr ""
+
+#: app/Services/PluginManager/LicenseManager.php:197 
+#: app/Services/PluginManager/LicenseManager.php:212
+msgid ""
+"There was an error deactivating the license, please try again or login at "
+"wpmanageninja.com to manually deactivated the license"
+msgstr ""
+
+#: app/Models/Booking.php:403
+msgid "This booking is not cancellable."
+msgstr "Ez a foglalás nem mondható le."
+
+#: app/Views/emails/summary_report.php:174
+msgid "This email has been generated by fluent booking"
+msgstr ""
+
+#: app/Http/Controllers/BookingController.php:100 
+#: app/Hooks/Handlers/FrontEndHandler.php:547
+msgid "This field is required"
+msgstr "Ez a mező kötelező"
+
+#: app/Services/Integrations/FluentCRM/BookingCompletedTrigger.php:35 
+#: app/Services/Integrations/FluentCRM/BookingCompletedTrigger.php:70
+msgid ""
+"This Funnel will be initiated when a booking has been marked as completed "
+"(manually or automatically)"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/CancelBookingTrigger.php:35
+msgid "This Funnel will be initiated when a booking is cancelled"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/NewBookingTrigger.php:35
+msgid "This Funnel will be initiated when a new booking has been confirmed"
+msgstr ""
+
+#: app/Services/Integrations/FluentCRM/NewBookingTrigger.php:70 
+#: app/Services/Integrations/FluentCRM/CancelBookingTrigger.php:70
+msgid "This Funnel will be initiated when a new booking has been confirmed."
+msgstr ""
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:500 
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:496
+msgid "This is a group event."
+msgstr ""
+
+#: app/Services/TransStrings.php:105
+msgid "This is a Pro Feature"
+msgstr ""
+
+#: app/Services/TransStrings.php:178
+msgid "This is a system defined field. You can only edit labels"
+msgstr "Ez egy rendszer szinten definiált mező. Csak szerkeszteni lehet."
+
+#: app/Http/Controllers/AdminController.php:198
+msgid "This is an admin user. You can not change permissions"
+msgstr ""
+
+#: app/Services/TransStrings.php:513
+msgid "This number will be used for sending sms notification"
+msgstr "Ezt a számot fogjuk használni sms értesítés küldésére."
+
+#: app/Services/TransStrings.php:681
+msgid "This only applies to your public landing pages"
+msgstr "Ez csak a publikus landing oldalakra lesz érvényes"
+
+#: app/Http/Controllers/BookingController.php:186 
+#: app/Hooks/Handlers/FrontEndHandler.php:620 
+#: app/Services/Integrations/FluentForms/FluentFormInit.php:112
+msgid ""
+"This selected time slot is not available. Maybe someone booked the spot just "
+"a few seconds ago."
+msgstr ""
+
+#: app/Services/TransStrings.php:524
+msgid ""
+"This SMS will be sent to the attendee if phone number is provided during "
+"booking"
+msgstr ""
+
+#: app/Services/TransStrings.php:588
+msgid "thu"
+msgstr "csü"
+
+#: app/Services/TransStrings.php:603
+msgid "Thursday"
+msgstr "Csütörtök"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:470
+msgid "Time"
+msgstr ""
+
+#: app/Services/TransStrings.php:305
+msgid "Time-slot intervals"
+msgstr "Időintervallumok"
+
+#: app/Services/TransStrings.php:364 app/Hooks/Handlers/FrontEndHandler.php:393
+msgid "Timezone"
+msgstr "Időzóna"
+
+#: app/Services/TransStrings.php:583
+msgid "timezone"
+msgstr "időzóna"
+
+#: app/Services/TransStrings.php:87
+msgid "Timezone:"
+msgstr "Időzóna:"
+
+#: app/Services/TransStrings.php:194
+msgid "Timing"
+msgstr ""
+
+#: app/Services/TransStrings.php:387
+msgid "Title Field is required"
+msgstr "A cím megadása kötelező"
+
+#: app/Services/TransStrings.php:659
+msgid "To"
+msgstr "tól"
+
+#: app/Services/TransStrings.php:146
+msgid ""
+"To accept payment for your bookings, please activate Stripe from global "
+"settings."
+msgstr ""
+"A foglalásaiért történő fizetés elfogadásához aktiválja a Stripe-ot a "
+"globális beállításokban."
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:98
+msgid ""
+"To connect to Nextcloud Server, please enter your Nextcloud Email/Username "
+"and app specific password. Your credentials will be stored as encrypted."
+msgstr ""
+
+#: app/Services/TransStrings.php:358
+msgid "To get the landing page url, please enable from"
+msgstr "Ahhoz, hogy legyen a naptárhoz landing oldal URL, kérjük engedélyezze:"
+
+#: app/Services/PluginManager/LicenseManager.php:339
+msgid "to renew your license"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:65
+msgid ""
+"To use Apple Calendar Integration for your Booking forms, please enable the "
+"integration."
+msgstr ""
+"Az Apple Calendar integráció használatához a foglalási űrlapokhoz, kérjük, "
+"engedélyezze az integrációt."
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:64
+msgid ""
+"To use Nextcloud Calendar Integration for your Booking forms, please enable "
+"the integration."
+msgstr ""
+"A Nextcloud Naptár integráció használatához a foglalási űrlapokhoz, kérjük, "
+"engedélyezze az integrációt."
+
+#: app/Services/TransStrings.php:136
+msgid "To use Remote Calendar Sync feature please configure your apps first"
+msgstr ""
+"A Remote Naptár szinkronizálás funkció használatához kérjük, először "
+"konfigurálja az alkalmazásokat."
+
+#: app/Services/TransStrings.php:135
+msgid ""
+"To use Remote Calendar Sync feature please connect with one of the following "
+"calendar providers"
+msgstr ""
+"A külső naptárszinkronizálás funkció használatához csatlakozzon az alábbi "
+"szolgáltatások egyikéhez"
+
+#: app/Services/TransStrings.php:653
+msgid "Today"
+msgstr ""
+
+#: app/Services/TransStrings.php:655
+msgid "Tomorrow"
+msgstr ""
+
+#: app/Views/public/receipt/order-items-table.php:67
+msgid "Total"
+msgstr ""
+
+#: app/Http/Controllers/ReportController.php:44
+msgid "Total Bookings"
+msgstr "Összes foglalás"
+
+#: app/Http/Controllers/ReportController.php:99
+msgid "Total Guests"
+msgstr "Összes vendég"
+
+#: app/Views/emails/summary_report.php:150
+msgid "Total Meeting Completed"
+msgstr ""
+
+#: app/Views/emails/summary_report.php:149
+msgid "Total New Booked"
+msgstr "Összes új foglalás"
+
+#: app/Http/Controllers/ReportController.php:74 
+#: app/Hooks/Handlers/FrontEndHandler.php:398
+msgid "Total Payment"
+msgstr ""
+
+#: app/Services/TransStrings.php:407 
+#: app/Views/public/receipt/payment-info.php:27 
+#: app/Services/Integrations/PaymentMethods/PaymentHelper.php:51
+msgid "Total:"
+msgstr ""
+
+#: app/Services/TransStrings.php:409
+msgid "Transaction Details"
+msgstr ""
+
+#: app/Services/TransStrings.php:413
+msgid "Transaction ID"
+msgstr ""
+
+#: app/Services/TransStrings.php:586
+msgid "tue"
+msgstr "kedd"
+
+#: app/Services/TransStrings.php:601
+msgid "Tuesday"
+msgstr "Kedd"
+
+#: app/Services/TransStrings.php:350
+msgid "Turn On"
+msgstr ""
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:141
+msgid "Twilio API Error"
+msgstr "Twilio API Error"
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:91
+msgid "Twilio SMS Integration"
+msgstr "Twilio SMS integráció"
+
+#: app/Services/TransStrings.php:90
+msgid "Unavailable"
+msgstr "Nem elérhető"
+
+#: app/Services/Integrations/Calendars/Google/Client.php:272
+msgid "Unexpected error from google api"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Outlook/Client.php:247
+msgid "Unexpected error from outlook api"
+msgstr ""
+
+#: app/Services/Integrations/ZoomMeeting/Client.php:150 
+#: app/Services/Integrations/Twilio/Client.php:68
+msgid "Unexpected error from remote api"
+msgstr ""
+
+#: app/Services/Helper.php:1529 app/Services/Helper.php:1586 
+#: app/Services/Integrations/FluentCRM/CrmSmartCode.php:100
+msgid "Unique Booking Hash"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/RemoteCalendarHelper.php:95
+msgid "Unknown error"
+msgstr "Ismeretlen hiba"
+
+#: app/Services/Integrations/PaymentMethods/Stripe/API/API.php:46
+msgid "Unknown Stripe API request error"
+msgstr ""
+
+#: app/Services/TransStrings.php:639
+msgid "unpaid"
+msgstr "kifizetetlen"
+
+#: app/Services/TransStrings.php:389
+msgid "Upcoming"
+msgstr "Közelgő"
+
+#: app/Services/TransStrings.php:84
+msgid "Update"
+msgstr "Frissítés"
+
+#: app/Services/TransStrings.php:453
+msgid "Update Access Permissions"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:113
+msgid "Update Caching Time"
+msgstr ""
+
+#: app/Services/TransStrings.php:347
+msgid "Update Info"
+msgstr ""
+
+#: app/Services/TransStrings.php:189
+msgid "Update Question"
+msgstr "Kérdés frissítése"
+
+#: app/Services/TransStrings.php:143
+msgid "Update Settings"
+msgstr "Beállítások frissítése"
+
+#: app/Services/TransStrings.php:103
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: app/Services/TransStrings.php:351
+msgid "URL has been copied to your clipboard"
+msgstr ""
+
+#: app/Services/TransStrings.php:91
+msgid "Usages List"
+msgstr "Felhasználások listája"
+
+#: app/Services/TransStrings.php:280
+msgid "Use an Existing Schedule"
+msgstr "Meglévő ütemezés használata"
+
+#: app/Services/Helper.php:1203
+msgid "Use event length (default)"
+msgstr "Esemény időtartam használata (alapértelmezett)"
+
+#: app/Http/Controllers/SettingsController.php:66
+msgid "Use host email for reply-to value for booking emails to guests"
+msgstr ""
+"A szervező e-mail címének használata a vendégeknek küldött foglalási e-"
+"mailek válasz mezőben"
+
+#: app/Http/Controllers/SettingsController.php:59
+msgid "Use host name as From Name for booking emails to guests"
+msgstr ""
+"Használja a szervező nevét a vendégeknek küldött foglalási e-mailekben a "
+"Küldő neveként."
+
+#: app/Services/TransStrings.php:657
+msgid "Use Native Payment Methods by FluentBooking"
+msgstr "Natív fizetési módok a FluentBooking által"
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:111
+msgid "Use Outlook Calendar to sync your Fluent Booking events"
+msgstr ""
+"Az Outlook naptár használata a Fluent Booking eseményeinek szinkronizálásához"
+
+#: app/Services/TransStrings.php:656
+msgid "Use WooCommerce Checkout"
+msgstr "WooCommerce pénztár "
+
+#: app/Http/Controllers/CalendarController.php:95
+msgid "User not found"
+msgstr "Felhasználó nem találató"
+
+#: app/Services/Integrations/Woo/Bootstrap.php:64
+msgid "User redirected to Woo checkout page to comeplete the order."
+msgstr ""
+"A felhasználó átirányítva a Woo pénztár oldalra, hogy befejezze a rendelést."
+
+#: app/Services/Integrations/CalendarIntegrationService.php:87
+msgid "Validation Failed! Feed name is required"
+msgstr ""
+
+#: app/Services/Integrations/CalendarIntegrationService.php:108
+msgid "Validation Failed! Please fill up required fields"
+msgstr "A hitelesítés sikertelen! Kérjük, töltse ki a szükséges mezőket"
+
+#: app/Services/Integrations/PaymentMethods/CurrenciesHelper.php:395
+msgid "Vanuatu Vatu"
+msgstr ""
+
+#: app/Services/TransStrings.php:481
+msgid "Verify License"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/CurrenciesHelper.php:394
+msgid "Vietnamese Dong"
+msgstr ""
+
+#: app/Services/TransStrings.php:21
+#, fuzzy
+#| msgid "view "
+msgid "View "
+msgstr "megtekintés"
+
+#: app/Services/TransStrings.php:388
+msgid "View Details"
+msgstr "Részletek megtekintése"
+
+#: app/Services/TransStrings.php:92
+msgid "View Event"
+msgstr "Esemény megtekintése"
+
+#: app/Services/PluginManager/LicenseManager.php:52
+msgid "View FluentBooking documentation"
+msgstr ""
+
+#: app/Services/Integrations/FluentForms/FluentFormInit.php:430
+msgid "View Form Submission"
+msgstr ""
+
+#: app/Services/Integrations/Woo/Bootstrap.php:136
+msgid "View Full Meeting Details"
+msgstr ""
+
+#: app/Services/Integrations/Woo/Bootstrap.php:324
+msgid "View Order"
+msgstr "Rendelés megtekintése"
+
+#: app/Services/PluginManager/LicenseManager.php:53
+msgid "Visit Support"
+msgstr ""
+
+#: app/Services/Helper.php:1046
+msgid "Vivid Blue"
+msgstr ""
+
+#: app/Services/TransStrings.php:285
+msgid "Want to add buffer time before or after your events?"
+msgstr "Szeretne pufferidőt biztosítani az események előtt vagy után?"
+
+#: app/Services/TransStrings.php:483
+msgid "Want to deactivate this license?"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/Google/BootstrapX.php:307 
+#: app/Services/Integrations/Calendars/Google/Bootstrap.php:721
+msgid "We could not authenticate your account. Please try again later."
+msgstr ""
+
+#: app/Services/TransStrings.php:150
+msgid "WebHook Feed Name"
+msgstr ""
+
+#: app/Services/TransStrings.php:173
+msgid "Webhook Feeds"
+msgstr ""
+
+#: app/Http/Controllers/WebhookController.php:66
+msgid "WebHook not found"
+msgstr ""
+
+#: app/Services/Integrations/Webhook/WebhookIntegration.php:146
+msgid "Webhook sent successfully"
+msgstr "Webhook sikeresen elküldve"
+
+#: app/Services/Integrations/Webhook/WebhookIntegration.php:137
+msgid "Webhook sent successfully to"
+msgstr ""
+
+#: app/Http/Controllers/WebhookController.php:89
+msgid "WebHook Successfully Created"
+msgstr "WebHook sikeresen létrehozva"
+
+#: app/Http/Controllers/WebhookController.php:73
+msgid "WebHook Successfully Updated"
+msgstr "WebHook sikeresen frissítve"
+
+#: app/Services/TransStrings.php:152
+msgid "WebHook URL"
+msgstr "WebHook URL"
+
+#: app/Services/TransStrings.php:318 
+#: app/Services/Integrations/pro_integrations.php:79
+msgid "Webhooks Feeds"
+msgstr ""
+
+#: app/Services/TransStrings.php:587
+msgid "wed"
+msgstr "szer"
+
+#: app/Services/TransStrings.php:602
+msgid "Wednesday"
+msgstr "Szerda"
+
+#: app/Services/TransStrings.php:468
+msgid "Weekly"
+msgstr "Heti"
+
+#: app/Services/TransStrings.php:88
+msgid "Weekly Hours"
+msgstr "Heti órák"
+
+#: app/Services/TransStrings.php:307
+msgid "Weekly Hours By Day"
+msgstr "Heti órák napok szerint"
+
+#: app/Services/TransStrings.php:309
+msgid "Weekly Hours Schedules"
+msgstr ""
+
+#: app/Services/Integrations/PaymentMethods/CurrenciesHelper.php:397
+msgid "West African Cfa Franc"
+msgstr ""
+
+#: app/Services/BookingService.php:123
+msgid "What"
+msgstr "Mire"
+
+#: app/Services/TransStrings.php:237
+msgid "What hours are you available?"
+msgstr "Milyen időpontokban áll rendelkezésre?"
+
+#: app/Services/TransStrings.php:238 app/Services/BookingFieldService.php:79
+msgid "What is this meeting about?"
+msgstr "Miről szól ez a találkozó?"
+
+#: app/Services/TransStrings.php:592
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:72
+msgid "WhatsApp Number (Optional)"
+msgstr ""
+
+#: app/Services/BookingService.php:127
+msgid "When"
+msgstr "Mikor"
+
+#: app/Services/BookingService.php:135
+msgid "Where"
+msgstr "Hol"
+
+#: app/Services/TransStrings.php:121
+msgid "Which Booking Forms to Show?"
+msgstr "Melyik foglalási típus megjelenítését használjuk?"
+
+#: app/Services/TransStrings.php:501
+msgid "Which Schedule Do You Want to Use ?"
+msgstr "Melyik időbeosztást szeretné használni ?"
+
+#: app/Services/TransStrings.php:281
+msgid "Which Schedule Do You Want to Use?"
+msgstr "Melyik időbeosztást szeretné használni ?"
+
+#: app/Services/BookingService.php:131
+msgid "Who"
+msgstr "Ki"
+
+#: app/Services/EditorShortCodeParser.php:195
+msgid "will be available soon"
+msgstr ""
+
+#: app/Services/TransStrings.php:111
+msgid "Will be shown on landing page social share meta or profile block"
+msgstr ""
+"A kiemelt kép a landing oldal közösségi megosztás meta vagy profil "
+"blokkjában jelenik meg."
+
+#: app/Services/TransStrings.php:119
+msgid "Will be shown on your calendar landing page / team block UI"
+msgstr "Ez fog megjelenni a naptár landing oldalon / team block UI"
+
+#: app/Services/TransStrings.php:336 
+#: app/Services/LandingPage/LandingPageHandler.php:242 
+#: app/Services/LandingPage/LandingPageHandler.php:316
+msgid "with"
+msgstr "-"
+
+#: app/Services/TransStrings.php:158
+msgid "With Headers"
+msgstr ""
+
+#: app/Services/TransStrings.php:277
+msgid "Within a date range"
+msgstr "Egy adott időintervallumon belül"
+
+#: app/Services/TransStrings.php:275
+msgid "Within future days"
+msgstr "A következő napokon belül"
+
+#: app/Services/Integrations/Woo/Bootstrap.php:288
+msgid "Woo: Booking status changed to cancelled"
+msgstr ""
+
+#: app/Services/Integrations/Woo/Bootstrap.php:221
+msgid "Woo: Booking status changed to scheduled"
+msgstr ""
+
+#: app/Services/Integrations/Woo/Bootstrap.php:201
+msgid "Woo: Booking status could not be changed"
+msgstr ""
+
+#: app/Services/GlobalModules/GlobalModules.php:39
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: app/Http/Controllers/PaymentMethodController.php:181
+msgid "WooCommerce is not installed"
+msgstr "WooCommerce nincs telepítve"
+
+#: app/Services/TransStrings.php:186
+msgid "Yes"
+msgstr "Igen"
+
+#: app/Services/TransStrings.php:424
+msgid "Yes, Cancel"
+msgstr ""
+
+#: app/Services/TransStrings.php:427
+msgid "Yes, Delete"
+msgstr "Igen, törlés"
+
+#: app/Services/TransStrings.php:654
+msgid "Yesterday"
+msgstr "Tegnap"
+
+#: app/Services/Integrations/Woo/Bootstrap.php:57
+msgid "You are redirecting to checkout page to complete the appointment."
+msgstr ""
+
+#: app/Services/LandingPage/LandingPageHandler.php:418
+msgid "You are rescheduling the booking: "
+msgstr "Az alábbi foglalása átütemezése: "
+
+#: app/Services/BookingService.php:170
+#, php-format
+msgid "You are scheduled with %s"
+msgstr "Időpontot foglalt: %s "
+
+#: app/Services/TransStrings.php:532
+msgid "You didn't configure twilio yet. Please configure from"
+msgstr "Még nem állította be a twilio-t. Beállítások kezelése "
+
+#: app/Http/Controllers/ZoomController.php:212
+msgid "You do not have permission to access this user's Zoom credentials"
+msgstr ""
+
+#: app/Hooks/Handlers/DataExporter.php:16
+msgid "You do not have permission to export data"
+msgstr "Nincs jogosultsága az adatok exportálására"
+
+#: app/Services/PluginManager/Updater.php:320
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: app/Services/TransStrings.php:176
+msgid "You don't have any feeds configured. Let's go"
+msgstr ""
+
+#: app/Services/TransStrings.php:100
+msgid ""
+"You haven't added any integration feed yet. Add new integration to connect "
+"your favourite tools with your calendar"
+msgstr ""
+"Még nem adott hozzá integrációs feed-et. Új integráció hozzáadása, hogy "
+"kedvenc eszközeit összekapcsolja a naptárával"
+
+#: app/Services/TransStrings.php:482
+msgid "You license key is valid and activated"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:74
+msgid ""
+"You may include your business name, address etc here, for example: <br />You "
+"have received this email because signed up for an event or made a booking on "
+"our website."
+msgstr ""
+"Itt például megadhatja vállalkozásának nevét, címét. Például: <br />  Azért "
+"kapta ezt az e-mailt, mert feliratkozott egy eseményre vagy bejelentkezett "
+"egy foglalásra a weboldalunkon."
+
+#: app/Views/emails/summary_report.php:125
+#, php-format
+msgid "Your %s Booking Summary"
+msgstr ""
+
+#: app/Services/BookingFieldService.php:119
+msgid "Your Address"
+msgstr ""
+
+#: app/Hooks/Handlers/FrontEndHandler.php:457
+msgid "Your address"
+msgstr ""
+
+#: app/Services/TransStrings.php:386
+msgid ""
+"Your booking slug only accepts alpha-numeric values. Please do not provide "
+"any space or special characters"
+msgstr ""
+"A foglalási slug csak alfanumerikus értékeket fogad el. Kérjük, ne adjon meg "
+"szóközt vagy speciális karaktereket."
+
+#: app/Http/Controllers/IntegrationSettingsController.php:163
+msgid ""
+"Your credential could not be saved. Please make sure the credntial is valid"
+msgstr ""
+
+#: app/Services/Integrations/Calendars/NextCloud/Bootstrap.php:597 
+#: app/Services/Integrations/Calendars/AppleCalendar/Bootstrap.php:591
+msgid "Your credential has been saved"
+msgstr ""
+
+#: app/Services/BookingFieldService.php:67 
+#: app/Services/BookingFieldService.php:73
+msgid "Your Email"
+msgstr "Az Ön e-mail címe"
+
+#: app/Services/Integrations/FluentCRM/Bootstrap.php:108
+msgid "Your Feed Name"
+msgstr ""
+
+#: app/Services/TransStrings.php:345
+msgid "Your First Name"
+msgstr "Az ön keresztneve"
+
+#: app/Services/TransStrings.php:346
+msgid "Your Last Name"
+msgstr "Az ön vezetékneve"
+
+#: app/Services/PluginManager/LicenseManager.php:339
+msgid "Your license has been expired at "
+msgstr ""
+
+#: app/Services/TransStrings.php:479
+msgid "Your License Key"
+msgstr "Az Ön licenckulcsa"
+
+#: app/Http/Controllers/LicenseController.php:60
+msgid "Your license key has been successfully deactivated"
+msgstr ""
+
+#: app/Http/Controllers/LicenseController.php:42
+msgid "Your license key has been successfully updated"
+msgstr ""
+
+#: app/Services/BookingService.php:190
+#, php-format
+msgid "Your meeting has been %s"
+msgstr "A találkozót %s"
+
+#: app/Hooks/Handlers/FrontEndHandler.php:134
+msgid "Your meeting has been rescheduled"
+msgstr "A találkozót sikeresen átütemezte"
+
+#: app/Services/TransStrings.php:211
+msgid "Your Meeting Link"
+msgstr "A találkozó linkje"
+
+#: app/Services/TransStrings.php:489 app/Services/BookingFieldService.php:55 
+#: app/Services/BookingFieldService.php:61
+msgid "Your Name"
+msgstr "Az ön neve"
+
+#: app/Services/Integrations/Calendars/Outlook/Bootstrap.php:106
+msgid ""
+"Your outlook API configaration is already. You can connect your outlook "
+"calendar from your host settings."
+msgstr ""
+"Az OutlookAPI konfigurációja már működik. Csatlakoztathatja az outlook "
+"naptárát a hálózati beállításokból."
+
+#: app/Services/TransStrings.php:209 app/Services/BookingFieldService.php:107
+msgid "Your Phone Number"
+msgstr ""
+
+#: app/Services/TransStrings.php:208
+msgid "Your Phone Number * (with country code)"
+msgstr ""
+
+#: app/Http/Controllers/IntegrationSettingsController.php:203
+msgid "Your selected integration feed has been disconnected"
+msgstr ""
+
+#: app/Http/Controllers/IntegrationSettingsController.php:153
+msgid "Your selected remote calendar has been disconnected"
+msgstr ""
+
+#: app/Http/Controllers/IntegrationSettingsController.php:114 
+#: app/Http/Controllers/IntegrationSettingsController.php:128 
+#: app/Http/Controllers/IntegrationSettingsController.php:140
+msgid "Your settings has been updated"
+msgstr ""
+
+#: app/Services/TransStrings.php:320
+msgid "Your Stripe Account is connected"
+msgstr ""
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:97
+msgid "Your Twilio API integration is up and running."
+msgstr ""
+
+#: app/Services/Integrations/Twilio/Bootstrap.php:98
+msgid "Your Twilio API Key is not valid."
+msgstr ""
+
+#: app/Services/TransStrings.php:139
+msgid ""
+"Your Zoom Account is connected. Please don't forget to set the meeting "
+"location as \"Zoom Video\" if you want to create meeting in zoom."
+msgstr ""
+
+#: app/Services/Integrations/ZoomMeeting/Bootstrap.php:59
+msgid "Zoom"
+msgstr "Zoom"
+
+#: app/Http/Controllers/ZoomController.php:118
+msgid "Zoom account email is empty"
+msgstr ""
+
+#: app/Services/Integrations/ZoomMeeting/ZoomHelper.php:109
+msgid "Zoom Account ID"
+msgstr ""
+
+#: app/Services/Integrations/ZoomMeeting/Bootstrap.php:135 
+#: app/Services/Integrations/ZoomMeeting/Bootstrap.php:203 
+#: app/Services/Integrations/ZoomMeeting/Bootstrap.php:296
+msgid "Zoom API Error"
+msgstr "Zoom API Error"
+
+#: app/Services/Integrations/ZoomMeeting/ZoomHelper.php:114
+msgid "Zoom App Client ID"
+msgstr ""
+
+#: app/Services/Integrations/ZoomMeeting/ZoomHelper.php:119
+msgid "Zoom App Secret Key"
+msgstr ""
+
+#: app/Http/Controllers/ZoomController.php:78
+msgid "Zoom credentials already exist for this user"
+msgstr ""
+
+#: app/Http/Controllers/ZoomController.php:176
+msgid "Zoom credentials has been disconnected & deleted"
+msgstr ""
+
+#: app/Http/Controllers/ZoomController.php:128
+msgid "Zoom credentials has been validated and saved securely"
+msgstr ""
+
+#: app/Http/Controllers/ZoomController.php:161
+msgid "Zoom credentials not found"
+msgstr ""
+
+#: app/Services/LocationService.php:38 app/Services/LocationService.php:48
+msgid "Zoom Icon"
+msgstr ""
+
+#: app/Services/Integrations/ZoomMeeting/Bootstrap.php:76
+msgid "Zoom Integration"
+msgstr "Zoom Integráció"
+
+#: app/Services/TransStrings.php:137
+msgid "Zoom Integrations Settings"
+msgstr "Zoom integrációs beállítások"
+
+#: app/Services/TransStrings.php:261 app/Hooks/Handlers/FrontEndHandler.php:463
+msgid "Zoom Meeting"
+msgstr "Zoom Meeting"
+
+#: app/Services/Integrations/ZoomMeeting/Bootstrap.php:154
+msgid "Zoom Meeting has been created"
+msgstr ""
+
+#: app/Services/Integrations/ZoomMeeting/Bootstrap.php:213 
+#: app/Services/Integrations/ZoomMeeting/Bootstrap.php:214
+msgid "Zoom Meeting has been deleted"
+msgstr ""
+
+#: app/Services/Integrations/ZoomMeeting/Bootstrap.php:312
+msgid "Zoom Meeting has been updated"
+msgstr ""
+
+#: app/Services/Integrations/ZoomMeeting/Bootstrap.php:313
+msgid "Zoom Meeting has been updated with the new data"
+msgstr ""
+
+#: app/Models/Booking.php:260 app/Services/LocationService.php:29 
+#: app/Services/Integrations/ZoomMeeting/Bootstrap.php:46
+msgid "Zoom Video"
+msgstr ""
