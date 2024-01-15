@@ -3,17 +3,17 @@ msgstr ""
 "Project-Id-Version: WP Booking System\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-17 08:55+0000\n"
-"PO-Revision-Date: 2023-12-05 14:04+0000\n"
+"PO-Revision-Date: 2024-01-15 17:59+0100\n"
 "Last-Translator: \n"
 "Language-Team: Magyar\n"
-"Language: hu-HU\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: hu_HU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Loco https://localise.biz/\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.4.2\n"
 "X-Loco-Version: 2.6.6; wp-6.4.1\n"
-"X-Domain: wp-booking-system"
+"X-Domain: wp-booking-system\n"
 
 #: includes/modules/pricing/functions-part-payments.php:511
 msgid " &#8211; Final Payment Link"
@@ -21,11 +21,11 @@ msgstr ""
 
 #: includes/modules/pricing/functions-part-payments.php:507
 msgid " &#8211; Final Payment Method"
-msgstr "&#8211;  Végleges fizetési mód"
+msgstr " &#8211; Végső fizetési mód"
 
 #: includes/modules/pricing/functions-part-payments.php:486
 msgid " &#8211; Payment Link"
-msgstr ""
+msgstr " &#8211; Fizetési link"
 
 #: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:23
 msgid "\"Edit Order\" Link"
@@ -59,7 +59,7 @@ msgstr ""
 #: includes/base/admin/booking/functions.php:164
 #, php-format
 msgid "...and %s more"
-msgstr ""
+msgstr "...és %s még több"
 
 #. Description of the plugin
 msgid "A set-and-forget booking calendar for your rental business."
@@ -95,7 +95,7 @@ msgid ""
 "with Mollie."
 msgstr ""
 
-#: includes/base/admin/booking/class-bookings-outputter.php:85 
+#: includes/base/admin/booking/class-bookings-outputter.php:85
 #: includes/base/admin/calendar/class-list-table-calendars.php:293
 msgid "Accepted"
 msgstr "Elfogadva"
@@ -112,21 +112,20 @@ msgstr ""
 msgid "Activate"
 msgstr "Aktiválás"
 
-#: includes/base/admin/form/class-list-table-forms.php:132 
-#: includes/base/admin/calendar/class-list-table-calendars.php:131 
+#: includes/base/admin/form/class-list-table-forms.php:132
+#: includes/base/admin/calendar/class-list-table-calendars.php:131
 #: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:10
-#:  
 #: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:10
 msgid "Active"
 msgstr "Aktív"
 
-#: includes/base/admin/booking/class-bookings-outputter.php:191 
+#: includes/base/admin/booking/class-bookings-outputter.php:191
 #: includes/base/admin/booking/views/view-add-booking.php:12
 msgid "Add Booking"
 msgstr "Foglalás hozzáadása"
 
-#: includes/base/admin/calendar/functions-shortcode-generator.php:34 
-#: includes/base/admin/calendar/views/view-shortcode-generator.php:15 
+#: includes/base/admin/calendar/functions-shortcode-generator.php:34
+#: includes/base/admin/calendar/views/view-shortcode-generator.php:15
 #: includes/base/admin/calendar/views/view-add-calendar.php:64
 msgid "Add Calendar"
 msgstr "Naptár hozzáadása"
@@ -141,23 +140,23 @@ msgstr "Létrehozás"
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:437
 msgid "Add iCal URL"
-msgstr "iCal URL hozzáadása"
+msgstr "ICal URL hozzáadása"
 
 #: includes/base/admin/calendar/views/view-add-edit-legend-item.php:8
 msgid "Add Legend Item"
 msgstr ""
 
-#: includes/base/admin/calendar/views/view-add-calendar.php:23 
+#: includes/base/admin/calendar/views/view-add-calendar.php:23
 #: includes/base/admin/calendar/views/view-calendars.php:12
 msgid "Add New Calendar"
 msgstr "Új naptár létrehozása"
 
-#: includes/base/admin/form/views/view-add-form.php:20 
+#: includes/base/admin/form/views/view-add-form.php:20
 #: includes/base/admin/form/views/view-forms.php:12
 msgid "Add New Form"
 msgstr "Új űrlap hozzáadása"
 
-#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:6 
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:6
 #: includes/base/admin/calendar/views/view-legend.php:14
 msgid "Add New Legend Item"
 msgstr ""
@@ -174,7 +173,7 @@ msgstr "Új megjegyzés hozzáadása"
 msgid "Add New Template"
 msgstr "Új sablon hozzáadása"
 
-#: includes/base/admin/booking/views/view-modal-notes.php:45 
+#: includes/base/admin/booking/views/view-modal-notes.php:45
 #: includes/base/admin/calendar/views/view-edit-calendar.php:293
 msgid "Add Note"
 msgstr "Megjegyzés hozzáadása"
@@ -189,29 +188,29 @@ msgstr "Adó hozzáadása"
 
 #: includes/base/admin/addons/class-submenu-page-addons.php:35
 msgid "Add-on successfully activated."
-msgstr "Kiegészítő sikeresen akvitálva"
+msgstr "Kiegészítő sikeresen aktiválva."
 
 #: includes/base/admin/addons/class-submenu-page-addons.php:32
 msgid "Add-on successfully installed."
-msgstr "Kiegészítő sikeresen telepítve"
+msgstr "Kiegészítő sikeresen telepítve."
 
-#: includes/base/admin/addons/functions.php:46 
-#: includes/base/admin/addons/functions.php:47 
+#: includes/base/admin/addons/functions.php:46
+#: includes/base/admin/addons/functions.php:47
 #: includes/base/admin/addons/views/view-addons.php:11
 msgid "Add-ons"
-msgstr ""
+msgstr "Kiegészítők"
 
 #: includes/base/admin/addons/views/view-addons.php:17
 msgid "Add-ons are only available with a valid licence key."
-msgstr "A kiegészítők csak érvényes licence kulcsal érhetőek el"
+msgstr "A kiegészítők csak érvényes licenckulcsal érhetőek el."
 
-#: includes/base/admin/booking/functions-ajax.php:442 
-#: includes/base/admin/calendar/functions-notes.php:54 
+#: includes/base/admin/booking/functions-ajax.php:442
+#: includes/base/admin/calendar/functions-notes.php:54
 #: includes/base/admin/booking/views/view-modal-notes.php:20
 msgid "Added on"
-msgstr ""
+msgstr "Hozzáadva"
 
-#: includes/base/admin/form/class-submenu-page-form.php:90 
+#: includes/base/admin/form/class-submenu-page-form.php:90
 #: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:7
 msgid "Admin Notification"
 msgstr "Admin értesítések"
@@ -234,7 +233,7 @@ msgstr ""
 
 #: includes/base/form/class-form-outputter.php:1066
 msgid "Agreed"
-msgstr ""
+msgstr "Elfogadom"
 
 #: includes/base/admin/settings/class-submenu-page-settings.php:32
 msgid "All bookings and booking related data were successfully removed."
@@ -242,8 +241,8 @@ msgstr ""
 "Az összes foglalást és a foglalásokkal kapcsolatos adatot sikeresen "
 "eltávolítottuk."
 
-#: includes/base/class-widget-overview-calendar.php:137 
-#: includes/modules/elementor/widgets/overview-calendar.php:131 
+#: includes/base/class-widget-overview-calendar.php:137
+#: includes/modules/elementor/widgets/overview-calendar.php:131
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:20
 msgid "All Calendars"
 msgstr "Összes naptár"
@@ -279,18 +278,18 @@ msgstr ""
 "Lehetővé teszi a foglalások létrehozását bármilyen időpontra, még akkor is, "
 "ha validációs szabályokat állított be."
 
-#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:97 
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:97
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:108
 msgid "Amount"
 msgstr "Összeg"
 
 #: includes/modules/pricing/functions-part-payments.php:609
 msgid "Amount Billed"
-msgstr ""
+msgstr "Számlázott összeg"
 
 #: includes/modules/pricing/functions-part-payments.php:629
 msgid "Amount Billed Label"
-msgstr "Számlázott összeg címke "
+msgstr "Számlázott összeg címke"
 
 #: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:24
 msgid ""
@@ -306,7 +305,7 @@ msgstr "Az ártbálázat felett jelenik meg."
 
 #: includes/modules/pricing/functions-part-payments.php:635
 msgid "Appears in the Pricing Table"
-msgstr "Az ártbálázatban jelenik meg."
+msgstr "Az ártbálázatban jelenik meg"
 
 #: includes/modules/pricing/functions-part-payments.php:640
 msgid ""
@@ -321,9 +320,7 @@ msgid ""
 msgstr ""
 
 #: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:28
-#:  
 #: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:32
-#:  
 #: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:36
 msgid "Appears in the pricing table."
 msgstr "Megjelenik az ártáblázatban."
@@ -336,7 +333,7 @@ msgstr "Megjelenik a fizetési felületen."
 msgid "Applicability"
 msgstr "Alkalmazás"
 
-#: includes/modules/pricing/functions-pricing.php:102 
+#: includes/modules/pricing/functions-pricing.php:102
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:146
 msgid "Applicable Period"
 msgstr "Érvényes időszak"
@@ -353,15 +350,13 @@ msgstr "Változások alkalmazása"
 msgid "Apply tax to"
 msgstr "Adó alkalmazása"
 
-#: includes/base/class-widget-overview-calendar.php:184 
-#: includes/base/class-widget-calendar.php:266 
-#: includes/modules/elementor/widgets/overview-calendar.php:205 
-#: includes/modules/elementor/widgets/single-calendar.php:241 
+#: includes/base/class-widget-overview-calendar.php:184
+#: includes/base/class-widget-calendar.php:266
+#: includes/modules/elementor/widgets/overview-calendar.php:205
+#: includes/modules/elementor/widgets/single-calendar.php:241
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:108
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:97
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:51 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:51
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:29
 msgid "April"
 msgstr "Április"
@@ -376,7 +371,7 @@ msgstr "Biztos, hogy törölni szeretné ezt az űrlapot?"
 
 #: includes/base/admin/calendar/class-list-table-legend-items.php:196
 msgid "Are you sure you want to delete this legend item?"
-msgstr ""
+msgstr "Biztos, hogy törölni akarja ezt a elemet?"
 
 #: includes/base/admin/backup/views/view-backup.php:65
 msgid "Are you sure you want to import data from the file?"
@@ -415,17 +410,15 @@ msgstr "Növekvő"
 
 #: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:178
 msgid "Attach an iCalendar event file to the email."
-msgstr ""
+msgstr "Csatoljon egy iCalendar eseményfájlt az e-mailhez."
 
-#: includes/base/class-widget-overview-calendar.php:188 
-#: includes/base/class-widget-calendar.php:270 
-#: includes/modules/elementor/widgets/overview-calendar.php:209 
-#: includes/modules/elementor/widgets/single-calendar.php:245 
+#: includes/base/class-widget-overview-calendar.php:188
+#: includes/base/class-widget-calendar.php:270
+#: includes/modules/elementor/widgets/overview-calendar.php:209
+#: includes/modules/elementor/widgets/single-calendar.php:245
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:112
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:101
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:55 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:55
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:33
 msgid "August"
 msgstr "Augusztus"
@@ -434,29 +427,26 @@ msgstr "Augusztus"
 msgid "Authorized"
 msgstr "Engedélyezett"
 
-#: includes/base/class-widget-overview-calendar.php:253 
-#: includes/base/class-widget-calendar.php:249 
+#: includes/base/class-widget-overview-calendar.php:253
+#: includes/base/class-widget-calendar.php:249
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:128
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:162
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:68 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:68
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:46
 msgid "Auto (let WP choose)"
 msgstr "Automatikus (WP Alapértelmezett)"
 
 #: includes/base/admin/calendar/class-list-table-legend-items.php:81
 msgid "Auto Accept as"
-msgstr ""
+msgstr "Automatikus elfogadás mint"
 
 #: includes/base/admin/booking/views/view-add-booking.php:57
 msgid "Auto Accept Booking"
 msgstr "Foglalás automatikus elfogadása"
 
-#: includes/base/class-widget-calendar.php:379 
-#: includes/modules/elementor/widgets/single-calendar.php:407 
+#: includes/base/class-widget-calendar.php:379
+#: includes/modules/elementor/widgets/single-calendar.php:407
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:306
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:263
 msgid "Auto Accept Bookings"
 msgstr "Foglalások automatikus elfogadása"
@@ -464,7 +454,7 @@ msgstr "Foglalások automatikus elfogadása"
 #: includes/base/admin/calendar/class-submenu-page-calendar.php:91
 #, php-format
 msgid "Auto Accept for %s was updated."
-msgstr ""
+msgstr "A %s automatikus elfogadása frissült."
 
 #: includes/base/admin/addons/functions.php:173
 msgid "Automatically email your customers to remind them about their bookings."
@@ -479,14 +469,15 @@ msgid ""
 "Name}'. This only works if the Auto Accept option is enabled."
 msgstr ""
 "A foglaláskor automatikusan kitölti az esemény leírása mezőt. Használhatja "
-"az e-mail címkéket a dinamikus űrlapértékek feltöltéséhez, pl. '{1:Your Name}"
-"'. Ez csak akkor működik, ha az Automatikus elfogadás opció engedélyezve van."
+"az e-mail címkéket a dinamikus űrlapértékek feltöltéséhez, pl. '{1:Your "
+"Name}'. Ez csak akkor működik, ha az Automatikus elfogadás opció "
+"engedélyezve van."
 
 #: includes/base/admin/form/views/view-edit-form-tab-general-options.php:75
 msgid ""
 "Automatically fill in the event tooltip field when a booking is made. You "
-"can use Email Tags to populate with dynamic form values, eg. '{1:Your Name}'."
-" This only works if the Auto Accept option is enabled."
+"can use Email Tags to populate with dynamic form values, eg. '{1:Your "
+"Name}'. This only works if the Auto Accept option is enabled."
 msgstr ""
 "Automatikusan kitölti az esemény tooltip mezőt, amikor a foglalás "
 "megtörténik. Használhatja az e-mail címkéket a dinamikus űrlapértékek "
@@ -502,8 +493,8 @@ msgid ""
 "Automatically load the contents of an email template in the email form, "
 "wihtout having to select it from the dropdown."
 msgstr ""
-"Automatikusan betölti egy e-mail sablon tartalmát az e-mail űrlapba, anélkül,"
-" hogy ki kellene választania a legördülő listából."
+"Automatikusan betölti egy e-mail sablon tartalmát az e-mail űrlapba, "
+"anélkül, hogy ki kellene választania a legördülő listából."
 
 #: includes/base/admin/calendar/class-calendar-editor-outputter.php:262
 msgid "Availability"
@@ -521,13 +512,13 @@ msgstr "Vissza az összes naptárhoz"
 msgid "Back to all forms"
 msgstr "Vissza az összes űrlaphoz"
 
-#: includes/base/admin/calendar/views/view-csv-export.php:20 
-#: includes/base/admin/calendar/views/view-ical-import-export.php:27 
+#: includes/base/admin/calendar/views/view-csv-export.php:20
+#: includes/base/admin/calendar/views/view-ical-import-export.php:27
 #: includes/base/admin/calendar/views/view-legend.php:18
 msgid "Back to Calendar"
 msgstr "Vissza a naptárhoz"
 
-#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:46 
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:46
 #: includes/base/admin/calendar/views/view-add-edit-legend-item.php:157
 msgid "Back to Legend"
 msgstr ""
@@ -536,14 +527,14 @@ msgstr ""
 msgid "Backend Start Day"
 msgstr "Backend első napja"
 
-#: includes/base/admin/backup/functions.php:40 
-#: includes/base/admin/backup/functions.php:41 
+#: includes/base/admin/backup/functions.php:40
+#: includes/base/admin/backup/functions.php:41
 #: includes/base/admin/backup/views/view-backup.php:11
 msgid "Backup/Restore"
 msgstr "Mentés/visszaállítás"
 
-#: includes/modules/pricing/functions-bank-transfer.php:18 
-#: includes/modules/pricing/functions-bank-transfer.php:30 
+#: includes/modules/pricing/functions-bank-transfer.php:18
+#: includes/modules/pricing/functions-bank-transfer.php:30
 #: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:5
 msgid "Bank Transfer"
 msgstr "Banki átutalás"
@@ -560,12 +551,11 @@ msgstr "Általános űrlap elemek"
 msgid "Basic Options"
 msgstr "Alapvető beállítások"
 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:76 
-#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:60 
-#: includes/base/admin/booking/views/view-modal-email-customer.php:30 
-#: includes/base/admin/booking/views/view-modal-manage-booking.php:79 
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:76
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:60
+#: includes/base/admin/booking/views/view-modal-email-customer.php:30
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:79
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:90
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:100
 msgid "BCC"
 msgstr "BCC"
@@ -578,7 +568,7 @@ msgstr "Foglalható"
 msgid "Booked"
 msgstr "Foglalt"
 
-#: includes/base/admin/form/functions.php:563 
+#: includes/base/admin/form/functions.php:563
 #: includes/base/admin/form/functions.php:636
 msgid "Booked On"
 msgstr "Foglalás leadva"
@@ -593,38 +583,37 @@ msgstr "Foglalás #"
 
 #: includes/base/admin/booking/views/view-modal-email-logs.php:24
 msgid "Booking Accept/Delete Email"
-msgstr ""
+msgstr "Foglalás elfogadása/törlése Email"
 
 #: includes/base/admin/booking/views/view-modal-email-logs.php:23
 msgid "Booking Custom Email"
-msgstr ""
+msgstr "Foglalás egyedi e-mal"
 
 #: includes/base/admin/booking/views/view-modal-booking-details.php:5
 msgid "Booking Data"
-msgstr "Foglalási adatok"
+msgstr "Foglalás adatok"
 
 #: includes/base/admin/booking/class-booking-detail-outputter.php:80
 msgid "Booking Details"
 msgstr "Foglalás részletei"
 
-#: includes/base/class-widget-calendar.php:441 
-#: includes/modules/elementor/widgets/single-calendar.php:485 
+#: includes/base/class-widget-calendar.php:441
+#: includes/modules/elementor/widgets/single-calendar.php:485
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:390
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:315
 msgid "Booking End Day"
 msgstr "Foglalás befejező nap"
 
 #: includes/base/admin/settings/views/view-settings-tab-general.php:26
 msgid "Booking History Color"
-msgstr ""
+msgstr "Foglalás előzmények színek"
 
 #: includes/base/admin/settings/views/view-settings-tab-general.php:37
 msgid "Booking Hover Color"
 msgstr "Foglalás egér ráhúzási szín"
 
-#: includes/base/admin/form/functions.php:562 
-#: includes/base/admin/form/functions.php:624 
+#: includes/base/admin/form/functions.php:562
+#: includes/base/admin/form/functions.php:624
 #: includes/base/admin/booking/class-booking-detail-outputter.php:179
 msgid "Booking ID"
 msgstr "Foglalási  azonosító (ID)"
@@ -633,10 +622,9 @@ msgstr "Foglalási  azonosító (ID)"
 msgid "Booking Selection Color"
 msgstr "Foglalás kiválasztási szín"
 
-#: includes/base/class-widget-calendar.php:425 
-#: includes/modules/elementor/widgets/single-calendar.php:466 
+#: includes/base/class-widget-calendar.php:425
+#: includes/modules/elementor/widgets/single-calendar.php:466
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:367
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:306
 msgid "Booking Start Day"
 msgstr "Foglalás kezdőnapja"
@@ -645,8 +633,8 @@ msgstr "Foglalás kezdőnapja"
 msgid "Booking successfully deleted."
 msgstr "Foglalás sikeresen törölve."
 
-#: includes/base/admin/calendar/class-list-table-calendars.php:87 
-#: includes/modules/upgrader/views/view-upgrader.php:54 
+#: includes/base/admin/calendar/class-list-table-calendars.php:87
+#: includes/modules/upgrader/views/view-upgrader.php:54
 #: includes/base/admin/calendar/views/view-edit-calendar.php:93
 msgid "Bookings"
 msgstr "Foglalások"
@@ -655,22 +643,17 @@ msgstr "Foglalások"
 msgid "bookings"
 msgstr "foglalások"
 
-#: includes/base/class-widget-overview-calendar.php:170 
-#: includes/base/class-widget-calendar.php:198 
-#: includes/base/class-widget-calendar.php:372 
-#: includes/modules/elementor/widgets/overview-calendar.php:179 
-#: includes/modules/elementor/widgets/single-calendar.php:205 
-#: includes/modules/elementor/widgets/single-calendar.php:397 
+#: includes/base/class-widget-overview-calendar.php:170
+#: includes/base/class-widget-calendar.php:198
+#: includes/base/class-widget-calendar.php:372
+#: includes/modules/elementor/widgets/overview-calendar.php:179
+#: includes/modules/elementor/widgets/single-calendar.php:205
+#: includes/modules/elementor/widgets/single-calendar.php:397
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:59
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:297
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:67
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:134
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:259
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:67
 msgid "Bottom"
 msgstr "Lent"
@@ -733,12 +716,12 @@ msgstr ""
 msgid "Calculation"
 msgstr "Kalkuláció"
 
-#: includes/base/class-widget-calendar.php:162 
-#: includes/base/admin/booking/class-booking-detail-outputter.php:186 
-#: includes/modules/elementor/widgets/single-calendar.php:114 
-#: includes/modules/elementor/widgets/single-calendar.php:128 
+#: includes/base/class-widget-calendar.php:162
+#: includes/base/admin/booking/class-booking-detail-outputter.php:186
+#: includes/modules/elementor/widgets/single-calendar.php:114
+#: includes/modules/elementor/widgets/single-calendar.php:128
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:16
-#:  includes/base/admin/calendar/views/view-edit-calendar.php:319 
+#: includes/base/admin/calendar/views/view-edit-calendar.php:319
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:98
 msgid "Calendar"
 msgstr "Naptár"
@@ -755,7 +738,7 @@ msgstr "Naptár - Szegély szín"
 msgid "Calendar - Text Color"
 msgstr "Naptár - Szöveg szín"
 
-#: includes/modules/pricing/functions-part-payments.php:94 
+#: includes/modules/pricing/functions-part-payments.php:94
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:136
 msgid "Calendar and Form Prices"
 msgstr "Naptár és űrlap árak"
@@ -766,16 +749,16 @@ msgstr "Naptár sikeresen létrehozva."
 
 #: includes/modules/facetwp/functions-integration-facet-wp.php:21
 msgid "Calendar Dates"
-msgstr ""
+msgstr "Naptári dátumok"
 
-#: includes/base/class-shortcodes.php:170 
+#: includes/base/class-shortcodes.php:170
 #: includes/base/class-shortcodes.php:174
 msgid "Calendar does not exist."
 msgstr "Naptár nem létezik."
 
 #: includes/modules/upgrader/views/view-upgrader.php:52
 msgid "Calendar Events"
-msgstr ""
+msgstr "Naptár események"
 
 #: includes/base/admin/calendar/class-submenu-page-calendar.php:49
 msgid "Calendar has been successfully deleted."
@@ -789,9 +772,9 @@ msgstr "A naptárat sikeresen duplikáltuk."
 msgid "Calendar has been successfully restored."
 msgstr "A naptár sikeresen helyreállításra került."
 
-#: includes/base/admin/calendar/views/view-csv-export.php:16 
-#: includes/base/admin/calendar/views/view-ical-import-export.php:23 
-#: includes/base/admin/calendar/views/view-legend.php:13 
+#: includes/base/admin/calendar/views/view-csv-export.php:16
+#: includes/base/admin/calendar/views/view-ical-import-export.php:23
+#: includes/base/admin/calendar/views/view-legend.php:13
 #: includes/base/admin/calendar/views/view-edit-calendar.php:50
 #, php-format
 msgid "Calendar ID: %d"
@@ -801,26 +784,26 @@ msgstr "Naptár ID: %d"
 msgid "Calendar Legend"
 msgstr ""
 
-#: includes/base/admin/calendar/views/view-ical-import-export.php:319 
+#: includes/base/admin/calendar/views/view-ical-import-export.php:319
 #: includes/base/admin/calendar/views/view-add-calendar.php:32
 msgid "Calendar Name"
 msgstr "Naptár neve"
 
-#: includes/modules/elementor/widgets/overview-calendar.php:154 
-#: includes/modules/elementor/widgets/single-calendar.php:166 
-#: includes/base/admin/booking/views/view-add-booking.php:18 
+#: includes/modules/elementor/widgets/overview-calendar.php:154
+#: includes/modules/elementor/widgets/single-calendar.php:166
+#: includes/base/admin/booking/views/view-add-booking.php:18
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:7
 msgid "Calendar Options"
 msgstr "Naptár beállítások"
 
-#: includes/modules/pricing/functions-part-payments.php:95 
+#: includes/modules/pricing/functions-part-payments.php:95
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:137
 msgid "Calendar Price Only"
 msgstr "Naptár árak csak"
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:8
 msgid "Calendar Selection"
-msgstr ""
+msgstr "Naptár kiválasztás"
 
 #: includes/base/admin/booking/views/view-add-booking.php:42
 msgid "Calendar Selection Style"
@@ -834,61 +817,61 @@ msgstr "Naptár sikeresen áthelyezve a Lomtárba."
 msgid "Calendar updated successfully."
 msgstr "A naptár sikeresen frissült."
 
-#: includes/modules/pricing/functions-part-payments.php:147 
-#: includes/base/admin/calendar/functions.php:88 
-#: includes/base/admin/calendar/functions.php:89 
-#: includes/modules/upgrader/views/view-upgrader.php:51 
-#: includes/modules/elementor/widgets/overview-calendar.php:114 
-#: includes/modules/elementor/widgets/overview-calendar.php:141 
-#: includes/base/admin/calendar/views/view-calendars.php:11 
+#: includes/modules/pricing/functions-part-payments.php:147
+#: includes/base/admin/calendar/functions.php:88
+#: includes/base/admin/calendar/functions.php:89
+#: includes/modules/upgrader/views/view-upgrader.php:51
+#: includes/modules/elementor/widgets/overview-calendar.php:114
+#: includes/modules/elementor/widgets/overview-calendar.php:141
+#: includes/base/admin/calendar/views/view-calendars.php:11
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:202
 msgid "Calendars"
 msgstr "Naptárak"
 
-#: includes/base/admin/form/views/view-add-form.php:36 
-#: includes/base/admin/booking/views/view-modal-booking-details.php:39 
-#: includes/base/admin/booking/views/view-modal-booking-details.php:83 
+#: includes/base/admin/form/views/view-add-form.php:36
+#: includes/base/admin/booking/views/view-modal-booking-details.php:39
+#: includes/base/admin/booking/views/view-modal-booking-details.php:83
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:423
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:186
-#:  includes/base/admin/calendar/views/view-add-calendar.php:63 
+#: includes/base/admin/calendar/views/view-add-calendar.php:63
 #: includes/modules/pricing/booking/views/view-modal-payment-details-content.php:60
 msgid "Cancel"
 msgstr "Mégsem"
 
 #: includes/base/admin/booking/class-bookings-outputter.php:495
 msgid "Cancelled"
-msgstr ""
+msgstr "Lemondva"
 
-#: includes/modules/pricing/functions-part-payments.php:169 
+#: includes/modules/pricing/functions-part-payments.php:169
 #: includes/modules/pricing/functions-part-payments.php:508
 msgid "Cash on arrival"
 msgstr "Készpénzben érkezéskor"
 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:68 
-#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:52 
-#: includes/base/admin/booking/views/view-modal-email-customer.php:22 
-#: includes/base/admin/booking/views/view-modal-manage-booking.php:71 
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:68
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:52
+#: includes/base/admin/booking/views/view-modal-email-customer.php:22
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:71
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:82
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:92
 msgid "CC"
 msgstr "CC"
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:335
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:286
 msgid ""
 "Change the way the selection of dates looks. Normal will highlight days "
 "entirely, while Split will make the first and last day of the selection "
 "appear as half days."
 msgstr ""
+"Változtassa meg a dátumok kiválasztásának megjelenését. A Normál a napokat "
+"teljesen kiemeli, míg az Osztott a kiválasztás első és utolsó napját fél "
+"napként jeleníti meg."
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:318
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:277
 msgid "Change the way the visitor selects dates in the calendar."
 msgstr ""
+"Változtassa meg, hogy a látogató hogyan válassza ki a dátumokat a naptárban."
 
 #: includes/base/legend/functions.php:218
 msgid "Changeover 1"
@@ -920,11 +903,11 @@ msgstr "Jelölőnégyzet link"
 
 #: includes/base/class-customizer.php:487
 msgid "Checkbox/Radio - Background Color"
-msgstr ""
+msgstr "Jelölőnégyzet/Választó - Háttérszín"
 
 #: includes/base/class-customizer.php:506
 msgid "Checkbox/Radio - Hover Background Color"
-msgstr ""
+msgstr "Jelölőnégyzet/Jelölő - Egér ráhúzás háttérszín"
 
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:168
 msgid ""
@@ -938,16 +921,16 @@ msgstr ""
 
 #: includes/base/admin/booking/views/view-modal-email-logs.php:25
 msgid "Classic Reminder"
-msgstr ""
+msgstr "Klasszikus emlékeztető"
 
 #: includes/base/form/class-form-outputter.php:1156
 msgid "Clear"
-msgstr ""
+msgstr "Törlés"
 
 #: includes/base/admin/calendar/views/view-edit-calendar.php:439
 msgid ""
-"Clicking the \"Undo\" link will undo the last bulk edit action you have made,"
-" just in case you have made a mistake."
+"Clicking the \"Undo\" link will undo the last bulk edit action you have "
+"made, just in case you have made a mistake."
 msgstr ""
 "A \"Visszavonás\" linkre kattintva a legutóbb elvégzett tömeges szerkesztési "
 "művelet visszavonható, arra az esetre, ha hibát követett volna el."
@@ -956,7 +939,7 @@ msgstr ""
 msgid "Code (eg. USD, GBP)"
 msgstr "Országkód (pl:. USD, GBP, HUF)"
 
-#: includes/base/admin/calendar/class-list-table-legend-items.php:76 
+#: includes/base/admin/calendar/class-list-table-legend-items.php:76
 #: includes/base/admin/calendar/views/view-add-edit-legend-item.php:81
 msgid "Color"
 msgstr "Szín"
@@ -971,7 +954,7 @@ msgstr "Művelet típus"
 
 #: includes/modules/upgrader/views/view-upgrader.php:75
 msgid "Continue to plugin"
-msgstr ""
+msgstr "Tovább a pluginhoz"
 
 #: includes/base/admin/calendar/class-list-table-legend-items.php:80
 msgid ""
@@ -983,7 +966,7 @@ msgstr ""
 #: includes/base/admin/calendar/views/view-add-calendar.php:52
 #, php-format
 msgid "Copy from calendar #%d (%s)"
-msgstr ""
+msgstr "Másolás a naptárból #%d (%s)"
 
 #: includes/base/admin/calendar/views/view-add-calendar.php:47
 msgid "Copy Legend"
@@ -995,7 +978,7 @@ msgid ""
 "availability"
 msgstr ""
 "Összegző naptár, amely megjeleníti az összes kiválasztott naptárat és azok "
-"elérhetőségét."
+"elérhetőségét"
 
 #: includes/base/admin/settings/views/view-settings-tab-email.php:184
 msgid ""
@@ -1013,6 +996,8 @@ msgid ""
 "Create discounts and coupon codes that are applied to the checkout form "
 "based on specific conditions."
 msgstr ""
+"Hozzon létre kedvezményeket és kuponkódokat, amelyek meghatározott "
+"feltételek alapján kerülnek alkalmazásra a pénztár űrlapon."
 
 #: includes/base/admin/backup/views/view-backup.php:21
 msgid "Create export file"
@@ -1021,17 +1006,20 @@ msgstr "Export fájl készítése"
 #: includes/base/admin/addons/functions.php:253
 msgid "Create PDF contracts or agreements and email them to your customers."
 msgstr ""
+"Készítsen PDF formátumú szerződéseket vagy megállapodásokat, és küldje el "
+"azokat e-mailben ügyfeleinek."
 
 #: includes/base/admin/addons/functions.php:219
 msgid "Creates a dashboard with reports and statistics for your bookings."
 msgstr ""
+"Műszerfalat hoz létre a foglalásokról szóló jelentésekkel és statisztikákkal."
 
 #: includes/base/admin/settings/class-submenu-page-settings.php:34
 msgid "Cron jobs successfully regenerated."
 msgstr "A Cron-feladatok sikeresen regenerálódtak."
 
-#: includes/base/admin/calendar/views/view-csv-export.php:16 
-#: includes/base/admin/calendar/views/view-edit-calendar.php:502 
+#: includes/base/admin/calendar/views/view-csv-export.php:16
+#: includes/base/admin/calendar/views/view-edit-calendar.php:502
 #: includes/base/admin/calendar/views/view-edit-calendar.php:508
 msgid "CSV Export"
 msgstr "CSV Export"
@@ -1048,28 +1036,24 @@ msgstr "Pénznem formátum"
 msgid "Currency Position"
 msgstr "Pénznem pozició"
 
-#: includes/base/class-widget-overview-calendar.php:180 
-#: includes/base/class-widget-calendar.php:262 
-#: includes/modules/elementor/widgets/overview-calendar.php:201 
-#: includes/modules/elementor/widgets/single-calendar.php:237 
+#: includes/base/class-widget-overview-calendar.php:180
+#: includes/base/class-widget-calendar.php:262
+#: includes/modules/elementor/widgets/overview-calendar.php:201
+#: includes/modules/elementor/widgets/single-calendar.php:237
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:104
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:93
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:47 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:47
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:25
 msgid "Current Month"
 msgstr "Aktuális hónap"
 
-#: includes/base/class-widget-overview-calendar.php:201 
-#: includes/base/class-widget-calendar.php:283 
-#: includes/modules/elementor/widgets/overview-calendar.php:190 
-#: includes/modules/elementor/widgets/single-calendar.php:226 
+#: includes/base/class-widget-overview-calendar.php:201
+#: includes/base/class-widget-calendar.php:283
+#: includes/modules/elementor/widgets/overview-calendar.php:190
+#: includes/modules/elementor/widgets/single-calendar.php:226
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:89
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:78
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:40 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:40
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:18
 msgid "Current Year"
 msgstr "Aktuális év"
@@ -1088,7 +1072,7 @@ msgstr "Egyedi CSS Osztály"
 
 #: includes/base/class-customizer.php:13
 msgid "Customize the look of the WP Booking System calendar."
-msgstr ""
+msgstr "A WP Booking System naptár megjelenésének testreszabása."
 
 #: includes/base/admin/settings/views/view-settings-tab-general.php:105
 msgid "Daily"
@@ -1096,7 +1080,7 @@ msgstr "Naponta"
 
 #: includes/base/class-customizer.php:61
 msgid "Dark Theme"
-msgstr ""
+msgstr "Sötét mód"
 
 #: includes/base/admin/backup/class-submenu-page-backup.php:30
 msgid "Data from the file has been imported successfully."
@@ -1108,13 +1092,13 @@ msgstr ""
 "Az 5. verziónál alacsonyabb verziókra vonatkozó adatok nem kerülnek "
 "eltávolításra."
 
-#: includes/modules/pricing/functions-payment-on-arrival.php:143 
-#: includes/modules/pricing/functions-bank-transfer.php:142 
+#: includes/modules/pricing/functions-payment-on-arrival.php:143
+#: includes/modules/pricing/functions-bank-transfer.php:142
 #: includes/base/admin/booking/class-bookings-outputter.php:260
 msgid "Date"
 msgstr "Dátum"
 
-#: includes/base/admin/form/class-list-table-forms.php:89 
+#: includes/base/admin/form/class-list-table-forms.php:89
 #: includes/base/admin/calendar/class-list-table-calendars.php:88
 msgid "Date Created"
 msgstr "Létrehozás dátuma"
@@ -1123,15 +1107,14 @@ msgstr "Létrehozás dátuma"
 msgid "Date Format"
 msgstr "Dátum formátum"
 
-#: includes/base/admin/form/class-list-table-forms.php:90 
+#: includes/base/admin/form/class-list-table-forms.php:90
 #: includes/base/admin/calendar/class-list-table-calendars.php:89
 msgid "Date Modified"
 msgstr "Utoljára módosítva"
 
-#: includes/base/class-widget-calendar.php:392 
-#: includes/modules/elementor/widgets/single-calendar.php:423 
+#: includes/base/class-widget-calendar.php:392
+#: includes/modules/elementor/widgets/single-calendar.php:423
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:321
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:276
 msgid "Date Range"
 msgstr "Dátum tartomány (Date range)"
@@ -1146,15 +1129,15 @@ msgstr ""
 
 #: includes/base/class-customizer.php:326
 msgid "Dates - Border Radius"
-msgstr ""
+msgstr "Dátumok - Keret sugara"
 
 #: includes/base/class-customizer.php:285
 msgid "Dates - Other Month Dates Background"
-msgstr ""
+msgstr "Dátumok - Egyéb hónap dátumok Háttérszíne"
 
 #: includes/base/class-customizer.php:305
 msgid "Dates - Week Numbers Background"
-msgstr ""
+msgstr "Dátumok - Heti számok Háttérszíne"
 
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:69
 msgid "days before the booking starts"
@@ -1164,15 +1147,13 @@ msgstr ""
 msgid "days from the current date"
 msgstr "a jelenlegi dátumtól számított napok"
 
-#: includes/base/class-widget-overview-calendar.php:192 
-#: includes/base/class-widget-calendar.php:274 
-#: includes/modules/elementor/widgets/overview-calendar.php:213 
-#: includes/modules/elementor/widgets/single-calendar.php:249 
+#: includes/base/class-widget-overview-calendar.php:192
+#: includes/base/class-widget-calendar.php:274
+#: includes/modules/elementor/widgets/overview-calendar.php:213
+#: includes/modules/elementor/widgets/single-calendar.php:249
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:116
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:105
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:59 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:59
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:37
 msgid "December"
 msgstr "December"
@@ -1211,7 +1192,7 @@ msgstr "Alapértemezett ország"
 
 #: includes/modules/pricing/functions-part-payments.php:131
 msgid "Default Option"
-msgstr ""
+msgstr "Alapértelmezett beállítás"
 
 #: includes/modules/pricing/functions-pricing.php:366
 msgid "Default Price"
@@ -1225,7 +1206,7 @@ msgstr "Alapértelmezett ár"
 msgid "Default Theme"
 msgstr "Alapértelmezett sablon"
 
-#: includes/base/admin/form/functions.php:242 
+#: includes/base/admin/form/functions.php:242
 #: includes/base/admin/form/functions.php:243
 msgid "Default Value"
 msgstr "Alapértelmezett érték"
@@ -1238,24 +1219,24 @@ msgstr "Törlés"
 msgid "Delete Booking"
 msgstr "Foglalás törlése"
 
-#: includes/base/admin/booking/functions-ajax.php:445 
+#: includes/base/admin/booking/functions-ajax.php:445
 #: includes/base/admin/booking/views/view-modal-notes.php:24
 msgid "delete note"
 msgstr "megjegyzés törlése"
 
-#: includes/base/admin/form/class-list-table-forms.php:231 
+#: includes/base/admin/form/class-list-table-forms.php:231
 #: includes/base/admin/calendar/class-list-table-calendars.php:249
 msgid "Delete Permanently"
 msgstr "Törlés véglegesen"
 
-#: includes/base/admin/booking/class-bookings-outputter.php:89 
+#: includes/base/admin/booking/class-bookings-outputter.php:89
 #: includes/base/admin/calendar/class-list-table-calendars.php:294
 msgid "Deleted"
 msgstr "Törölve"
 
-#: includes/modules/pricing/functions-part-payments.php:137 
-#: includes/modules/pricing/functions-part-payments.php:426 
-#: includes/modules/pricing/functions-part-payments.php:492 
+#: includes/modules/pricing/functions-part-payments.php:137
+#: includes/modules/pricing/functions-part-payments.php:426
+#: includes/modules/pricing/functions-part-payments.php:492
 #: includes/modules/pricing/functions-part-payments.php:610
 msgid "Deposit"
 msgstr "Előleg"
@@ -1292,20 +1273,19 @@ msgstr "Weboldal lecsatlakoztatása"
 msgid "Descending"
 msgstr "Csökkenő"
 
-#: includes/base/admin/form/functions.php:245 
-#: includes/base/admin/calendar/class-calendar-editor-outputter.php:267 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:230 
-#: includes/base/admin/booking/views/view-modal-manage-booking.php:21 
-#: includes/base/admin/calendar/views/view-edit-calendar.php:414 
+#: includes/base/admin/form/functions.php:245
+#: includes/base/admin/calendar/class-calendar-editor-outputter.php:267
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:230
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:21
+#: includes/base/admin/calendar/views/view-edit-calendar.php:414
 #: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:56
-#:  
 #: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:56
 msgid "Description"
 msgstr "Leírás"
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:205
 msgid "Description Import"
-msgstr ""
+msgstr "Leírás Import"
 
 #: includes/base/admin/settings/views/view-settings-tab-email.php:106
 msgid "Disable Fancy Emails"
@@ -1313,44 +1293,42 @@ msgstr "Fancy e-mailek kikapcsolása"
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:259
 msgid "Disable iCalendar Links"
-msgstr ""
+msgstr "ICalendar linkek letiltása"
 
 #: includes/modules/elementor/widgets/overview-calendar.php:128
 msgid "Display"
-msgstr ""
+msgstr "Megjelenítés"
 
 #: includes/base/admin/addons/functions.php:264
 msgid ""
 "Display all your bookings from all the calendars in a dashboard style layout."
 msgstr ""
+"Az összes naptárból származó összes foglalás megjelenítése egy műszerfal "
+"stílusú elrendezésben."
 
-#: includes/base/class-widget-overview-calendar.php:214 
-#: includes/base/class-widget-calendar.php:296 
-#: includes/modules/elementor/widgets/overview-calendar.php:225 
-#: includes/modules/elementor/widgets/single-calendar.php:292 
+#: includes/base/class-widget-overview-calendar.php:214
+#: includes/base/class-widget-calendar.php:296
+#: includes/modules/elementor/widgets/overview-calendar.php:225
+#: includes/modules/elementor/widgets/single-calendar.php:292
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:200
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:124
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:209
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:92
 msgid "Display booking history"
-msgstr ""
+msgstr "Foglalási előzmények megjelenítése"
 
-#: includes/modules/elementor/widgets/single-calendar.php:174 
+#: includes/modules/elementor/widgets/single-calendar.php:174
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:30
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:114
 msgid "Display Calendar Title"
 msgstr "Naptár címének mutatása"
 
-#: includes/base/class-widget-overview-calendar.php:134 
+#: includes/base/class-widget-overview-calendar.php:134
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:17
 msgid "Display Calendars"
 msgstr "Naptárak megjelenítése"
 
-#: includes/modules/elementor/widgets/single-calendar.php:258 
+#: includes/modules/elementor/widgets/single-calendar.php:258
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:162
 msgid "Display Dropdown"
 msgstr "Megjelenítés lenyíló stílusban"
@@ -1359,25 +1337,21 @@ msgstr "Megjelenítés lenyíló stílusban"
 msgid "Display dropdown"
 msgstr ""
 
-#: includes/modules/elementor/widgets/overview-calendar.php:162 
-#: includes/modules/elementor/widgets/single-calendar.php:187 
+#: includes/modules/elementor/widgets/overview-calendar.php:162
+#: includes/modules/elementor/widgets/single-calendar.php:187
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:42
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:51
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:122
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:55
 msgid "Display Legend"
 msgstr ""
 
-#: includes/base/class-widget-overview-calendar.php:156 
+#: includes/base/class-widget-overview-calendar.php:156
 #: includes/base/class-widget-calendar.php:183
 msgid "Display legend"
 msgstr ""
 
 #: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:28
-#:  
 #: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:28
 msgid "Display name"
 msgstr "Név megjelenítése"
@@ -1387,30 +1361,26 @@ msgid "Display Only"
 msgstr "Megjelenítés"
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:173
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:186
 msgid "Display Selection Dropdown"
 msgstr ""
 
 #: includes/base/class-widget-calendar.php:173
 msgid "Display title"
-msgstr ""
+msgstr "Cím megjelenítése"
 
-#: includes/modules/elementor/widgets/overview-calendar.php:236 
-#: includes/modules/elementor/widgets/single-calendar.php:303 
+#: includes/modules/elementor/widgets/overview-calendar.php:236
+#: includes/modules/elementor/widgets/single-calendar.php:303
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:215
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:134
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:217
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:100
 msgid "Display Tooltips"
 msgstr "Tooltipek megjelenítése"
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:216
 msgid "Do not import the description"
-msgstr ""
+msgstr "Ne importálja a leírást"
 
 #: includes/base/admin/form/views/view-edit-form-tab-general-options.php:53
 msgid "Do not include the &lt;script&gt; tags."
@@ -1423,7 +1393,7 @@ msgstr ""
 
 #: includes/base/admin/backup/views/view-backup.php:34
 msgid "Download Export File"
-msgstr " Export fájl letöltése"
+msgstr "Export fájl letöltése"
 
 #: includes/base/admin/calendar/class-list-table-calendars.php:237
 msgid "Duplicate Calendar"
@@ -1433,7 +1403,7 @@ msgstr "Naptár duplikálása"
 msgid "Duplicate form"
 msgstr "Űrlap duplikálása"
 
-#: includes/base/admin/form/functions-actions-form.php:412 
+#: includes/base/admin/form/functions-actions-form.php:412
 #: includes/base/admin/calendar/functions-actions-calendar.php:404
 msgid "Duplicate of"
 msgstr ""
@@ -1442,23 +1412,22 @@ msgstr ""
 msgid "Dynamic Population"
 msgstr ""
 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:43 
-#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:31 
-#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:3 
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:43
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:31
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:3
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:57
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:57
 msgid "Dynamic Tags"
 msgstr "Dinamikus címkék"
 
-#: includes/base/admin/calendar/class-list-table-legend-items.php:193 
-#: includes/base/admin/booking/views/view-modal-booking-details.php:32 
-#: includes/base/admin/booking/views/view-modal-booking-details.php:80 
+#: includes/base/admin/calendar/class-list-table-legend-items.php:193
+#: includes/base/admin/booking/views/view-modal-booking-details.php:32
+#: includes/base/admin/booking/views/view-modal-booking-details.php:80
 #: includes/modules/pricing/booking/views/view-modal-payment-details-content.php:53
 msgid "Edit"
 msgstr "Szerkesztés"
 
-#: includes/base/admin/calendar/class-list-table-calendars.php:235 
+#: includes/base/admin/calendar/class-list-table-calendars.php:235
 #: includes/base/admin/calendar/views/view-edit-calendar.php:50
 msgid "Edit Calendar"
 msgstr "Szerkesztés"
@@ -1493,7 +1462,7 @@ msgstr ""
 
 #: includes/modules/pricing/functions-pricing.php:847
 msgid "edit order"
-msgstr ""
+msgstr "sorrend szerkesztése"
 
 #: includes/base/admin/booking/views/view-modal-manage-booking.php:3
 msgid "Edit the calendar availability"
@@ -1523,7 +1492,7 @@ msgstr "Email naplók"
 msgid "Email Notifications"
 msgstr "Email értesítők"
 
-#: includes/modules/pricing/functions-part-payments.php:180 
+#: includes/modules/pricing/functions-part-payments.php:180
 #: includes/base/admin/booking/class-booking-detail-outputter.php:249
 msgid "Email Reminder"
 msgstr "Email emlékeztető"
@@ -1544,8 +1513,8 @@ msgstr "Email Sablon #"
 msgid "Email Type"
 msgstr "Email típusa"
 
-#: includes/base/admin/booking/class-booking-detail-outputter.php:251 
-#: includes/base/admin/booking/class-booking-detail-outputter.php:293 
+#: includes/base/admin/booking/class-booking-detail-outputter.php:251
+#: includes/base/admin/booking/class-booking-detail-outputter.php:293
 #: includes/base/admin/booking/class-booking-detail-outputter.php:336
 msgid "Email will be sent only if the booking is Accepted."
 msgstr "Csak akkor küldünk e-mailt, ha a foglalást elfogadták."
@@ -1560,12 +1529,11 @@ msgstr "Email naplózás engedélyezése"
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:261
 msgid "Enable iCalendar Links"
-msgstr ""
+msgstr "ICalendar linkek engedélyezése"
 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:26 
-#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:14 
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:26
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:14
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:40
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:40
 msgid "Enable Notification"
 msgstr "Értesítés engedélyezése"
@@ -1605,9 +1573,9 @@ msgstr ""
 "az összes árból, és a részösszeg megjelenése után megjeleníti az "
 "ártáblázatban."
 
-#: includes/base/admin/form/functions.php:565 
-#: includes/base/admin/form/functions.php:632 
-#: includes/base/admin/booking/class-booking-detail-outputter.php:202 
+#: includes/base/admin/form/functions.php:565
+#: includes/base/admin/form/functions.php:632
+#: includes/base/admin/booking/class-booking-detail-outputter.php:202
 #: includes/base/admin/calendar/views/view-edit-calendar.php:357
 msgid "End Date"
 msgstr "Befejezési dátum"
@@ -1624,7 +1592,7 @@ msgstr "Tört nap vége"
 msgid "Ending Day"
 msgstr "Befejezési dátum"
 
-#: includes/base/admin/booking/class-bookings-outputter.php:491 
+#: includes/base/admin/booking/class-bookings-outputter.php:491
 #: includes/base/admin/booking/class-bookings-outputter.php:501
 msgid "Error"
 msgstr "HIBA"
@@ -1637,7 +1605,7 @@ msgstr "Esemény leírás"
 msgid "Event Tooltip"
 msgstr "Esemény Tooltip"
 
-#: includes/base/admin/calendar/views/view-csv-export.php:41 
+#: includes/base/admin/calendar/views/view-csv-export.php:41
 #: includes/base/admin/calendar/views/view-ical-import-export.php:48
 msgid "Export"
 msgstr "Exportálás"
@@ -1652,7 +1620,7 @@ msgstr "Exportálási formátum"
 
 #: includes/base/admin/calendar/views/view-csv-export.php:86
 msgid "Export Period"
-msgstr ""
+msgstr "Időszak export"
 
 #: includes/base/admin/calendar/views/view-edit-calendar.php:160
 msgid "External"
@@ -1662,44 +1630,42 @@ msgstr "Külső  weboldal"
 msgid "FAILED"
 msgstr "SIKERTELEN"
 
-#: includes/base/class-widget-overview-calendar.php:182 
-#: includes/base/class-widget-calendar.php:264 
-#: includes/modules/elementor/widgets/overview-calendar.php:203 
-#: includes/modules/elementor/widgets/single-calendar.php:239 
+#: includes/base/class-widget-overview-calendar.php:182
+#: includes/base/class-widget-calendar.php:264
+#: includes/modules/elementor/widgets/overview-calendar.php:203
+#: includes/modules/elementor/widgets/single-calendar.php:239
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:106
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:95
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:49 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:49
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:27
 msgid "February"
 msgstr "Február"
 
 #: includes/base/class-customizer.php:368
 msgid "Field - Background Color"
-msgstr ""
+msgstr "Mező - Háttérszín"
 
 #: includes/base/class-customizer.php:388
 msgid "Field - Border Color"
-msgstr ""
+msgstr "Mező - Keret színe"
 
 #: includes/base/class-customizer.php:467
 msgid "Field - Border Radius"
-msgstr ""
+msgstr "Mező - Keret sugár"
 
 #: includes/base/class-customizer.php:446
 msgid "Field - Description Text Color"
-msgstr ""
+msgstr "Mező - Leírás Szöveg színe"
 
 #: includes/base/class-customizer.php:428
 msgid "Field - Placeholder Text Color"
-msgstr ""
+msgstr "Mező - Palaceholder szöveg színe"
 
 #: includes/base/class-customizer.php:408
 msgid "Field - Text Color"
-msgstr ""
+msgstr "Mező - Szöveg színe"
 
-#: includes/modules/pricing/functions-part-payments.php:435 
+#: includes/modules/pricing/functions-part-payments.php:435
 #: includes/modules/pricing/functions-part-payments.php:499
 msgid "Final Payment"
 msgstr ""
@@ -1724,25 +1690,25 @@ msgstr ""
 msgid "Final Payment Method"
 msgstr "Végleges fizetési mód"
 
-#: includes/modules/pricing/form/functions.php:29 
+#: includes/modules/pricing/form/functions.php:29
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:33
 msgid "Final Payment Reminder Notification"
 msgstr ""
 
-#: includes/modules/pricing/form/functions.php:30 
+#: includes/modules/pricing/form/functions.php:30
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:33
 msgid "Final Payment Success Notification"
 msgstr ""
 
 #: includes/modules/upgrader/views/view-upgrader.php:56
 msgid "Finished"
-msgstr ""
+msgstr "Befejeződött"
 
 #: includes/modules/upgrader/views/view-upgrader.php:48
 msgid "Finishing up..."
-msgstr ""
+msgstr "Befejezés..."
 
-#: includes/modules/pricing/functions-part-payments.php:63 
+#: includes/modules/pricing/functions-part-payments.php:63
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:90
 msgid "Fixed Amount"
 msgstr "Fix összeg"
@@ -1764,46 +1730,43 @@ msgid "Follow up SMS"
 msgstr ""
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:390
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:320
 msgid "Force the booking to end on a specific day."
 msgstr ""
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:367
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:311
 msgid "Force the booking to start on a specific day."
 msgstr ""
 
-#: includes/base/class-widget-calendar.php:357 
-#: includes/base/admin/settings/class-submenu-page-settings.php:50 
-#: includes/modules/elementor/widgets/single-calendar.php:140 
-#: includes/modules/elementor/widgets/single-calendar.php:154 
-#: includes/base/admin/booking/views/view-add-booking.php:26 
+#: includes/base/class-widget-calendar.php:357
+#: includes/base/admin/settings/class-submenu-page-settings.php:50
+#: includes/modules/elementor/widgets/single-calendar.php:140
+#: includes/modules/elementor/widgets/single-calendar.php:154
+#: includes/base/admin/booking/views/view-add-booking.php:26
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:279
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:106
 msgid "Form"
 msgstr "Űrlap"
 
 #: includes/base/class-customizer.php:623
 msgid "Form - Error Message Color"
-msgstr ""
+msgstr "Űrlap - Hibaüzenet színe"
 
 #: includes/base/class-customizer.php:684
 msgid "Form - Maximum Width"
-msgstr ""
+msgstr "Űrlap - Maximális szélesség"
 
 #: includes/base/class-customizer.php:643
 msgid "Form - Payment Method Description Background"
 msgstr ""
 
-#: includes/base/admin/form/class-submenu-page-form.php:60 
+#: includes/base/admin/form/class-submenu-page-form.php:60
 #: includes/base/admin/form/views/view-edit-form-tab-form-builder.php:8
 msgid "Form Builder"
 msgstr "Űrlap"
 
-#: includes/base/admin/form/class-submenu-page-form.php:87 
+#: includes/base/admin/form/class-submenu-page-form.php:87
 #: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:15
 msgid "Form Confirmation"
 msgstr "Művelet küldés után"
@@ -1830,31 +1793,30 @@ msgstr "Az űrlap sikeresen törlésre került."
 
 #: includes/base/admin/form/class-submenu-page-form.php:45
 msgid "Form has been successfully duplicated."
-msgstr ""
+msgstr "Az űrlap sikeresen duplikálva."
 
 #: includes/base/admin/form/class-submenu-page-form.php:36
 msgid "Form has been successfully restored."
-msgstr ""
+msgstr "Az űrlap sikeresen visszaállítva."
 
 #: includes/base/admin/form/views/view-edit-form.php:58
 #, php-format
 msgid "Form ID: %d"
-msgstr ""
+msgstr "Űrlap ID: %d"
 
 #: includes/base/admin/form/views/view-add-form.php:29
 msgid "Form Name"
 msgstr "Űrlap neve"
 
-#: includes/base/admin/form/class-submenu-page-form.php:61 
-#: includes/modules/elementor/widgets/single-calendar.php:386 
+#: includes/base/admin/form/class-submenu-page-form.php:61
+#: includes/modules/elementor/widgets/single-calendar.php:386
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:266
 msgid "Form Options"
 msgstr "Űrlap beállítások"
 
-#: includes/base/class-widget-calendar.php:369 
-#: includes/modules/elementor/widgets/single-calendar.php:394 
+#: includes/base/class-widget-calendar.php:369
+#: includes/modules/elementor/widgets/single-calendar.php:394
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:294
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:255
 msgid "Form Position"
 msgstr "Űrlap pozició"
@@ -1867,8 +1829,8 @@ msgstr "Árlap árak csak"
 msgid "Form Settings"
 msgstr "Űrlap beállítások"
 
-#: includes/base/admin/settings/class-submenu-page-settings.php:73 
-#: includes/base/admin/form/class-submenu-page-form.php:63 
+#: includes/base/admin/settings/class-submenu-page-settings.php:73
+#: includes/base/admin/form/class-submenu-page-form.php:63
 #: includes/base/admin/settings/views/view-settings-tab-strings-form.php:10
 msgid "Form Strings"
 msgstr "Űrlap szövegek"
@@ -1883,59 +1845,54 @@ msgstr "Űrlap címkék"
 
 #: includes/base/admin/form/class-submenu-page-form.php:42
 msgid "Form updated successfully."
-msgstr ""
+msgstr "Az űrlap módosítása sikeres."
 
-#: includes/base/admin/form/functions.php:50 
-#: includes/base/admin/form/functions.php:51 
-#: includes/modules/upgrader/views/view-upgrader.php:53 
+#: includes/base/admin/form/functions.php:50
+#: includes/base/admin/form/functions.php:51
+#: includes/modules/upgrader/views/view-upgrader.php:53
 #: includes/base/admin/form/views/view-forms.php:11
 msgid "Forms"
 msgstr "Űrlapok"
 
-#: includes/base/functions.php:78 includes/base/class-widget-calendar.php:221 
-#: includes/base/class-widget-calendar.php:433 
-#: includes/base/class-widget-calendar.php:449 
-#: includes/modules/elementor/widgets/single-calendar.php:278 
-#: includes/modules/elementor/widgets/single-calendar.php:474 
-#: includes/modules/elementor/widgets/single-calendar.php:493 
+#: includes/base/functions.php:78 includes/base/class-widget-calendar.php:221
+#: includes/base/class-widget-calendar.php:433
+#: includes/base/class-widget-calendar.php:449
+#: includes/modules/elementor/widgets/single-calendar.php:278
+#: includes/modules/elementor/widgets/single-calendar.php:474
+#: includes/modules/elementor/widgets/single-calendar.php:493
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:163
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:375
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:398
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:80 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:80
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:91
 msgid "Friday"
 msgstr "Péntek"
 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:96 
-#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:80 
-#: includes/base/admin/booking/views/view-modal-email-customer.php:49 
-#: includes/base/admin/booking/views/view-modal-manage-booking.php:98 
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:96
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:80
+#: includes/base/admin/booking/views/view-modal-email-customer.php:49
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:98
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:110
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:120
 msgid "From Email"
 msgstr "Feladó email címe"
 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:86 
-#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:70 
-#: includes/base/admin/booking/views/view-modal-email-customer.php:40 
-#: includes/base/admin/booking/views/view-modal-manage-booking.php:89 
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:86
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:70
+#: includes/base/admin/booking/views/view-modal-email-customer.php:40
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:89
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:100
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:110
 msgid "From Name"
 msgstr "Feladó neve"
 
 #: includes/modules/pricing/functions-part-payments.php:138
 msgid "Full Amount"
-msgstr ""
+msgstr "Teljes összeg"
 
 #: includes/base/admin/calendar/class-list-table-legend-items.php:312
 msgid "Full Day"
-msgstr ""
+msgstr "Egész nap"
 
 #: includes/modules/pricing/functions-part-payments.php:1051
 msgid "Full Payment Option"
@@ -1945,25 +1902,25 @@ msgstr ""
 msgid "Full width"
 msgstr "Teljes szélesség"
 
-#: includes/base/admin/settings/class-submenu-page-settings.php:48 
+#: includes/base/admin/settings/class-submenu-page-settings.php:48
 #: includes/base/admin/calendar/views/view-add-edit-legend-item.php:56
 msgid "General"
 msgstr "Általános"
 
-#: includes/base/admin/form/class-submenu-page-form.php:86 
+#: includes/base/admin/form/class-submenu-page-form.php:86
 #: includes/base/admin/form/views/view-edit-form-tab-general-options.php:10
 msgid "General Options"
 msgstr "Általános beállítások"
 
-#: includes/modules/pricing/settings/functions.php:40 
-#: includes/base/admin/settings/views/view-settings-tab-general.php:21 
+#: includes/modules/pricing/settings/functions.php:40
+#: includes/base/admin/settings/views/view-settings-tab-general.php:21
 #: includes/modules/pricing/settings/views/view-payment-settings-general.php:1
 msgid "General Settings"
 msgstr "Általános Beállítások"
 
 #: includes/modules/upgrader/views/view-upgrader.php:55
 msgid "General settings"
-msgstr ""
+msgstr "Általános beállítások"
 
 #: includes/base/admin/form/functions.php:511
 msgid "General Tags"
@@ -1998,11 +1955,11 @@ msgstr ""
 
 #: includes/base/admin/settings/views/view-settings-tab-form.php:99
 msgid "Google reCAPTCHA"
-msgstr ""
+msgstr "Google reCAPTCHA"
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:89
 msgid "Group Events by Description"
-msgstr ""
+msgstr "Események csoportosítása leírás szerint"
 
 #: includes/base/admin/form/functions.php:269
 msgid "Half width - Left"
@@ -2012,14 +1969,14 @@ msgstr "50% széles - Balra"
 msgid "Half width - Right"
 msgstr "50% széles - Jobbra"
 
-#: includes/base/class-customizer.php:125 
+#: includes/base/class-customizer.php:125
 #: includes/base/class-customizer.php:145
 msgid "Header - Arrow Background Color"
-msgstr ""
+msgstr "Fejléc - Nyíl háttérszíne"
 
 #: includes/base/class-customizer.php:85
 msgid "Header - Background Color"
-msgstr ""
+msgstr "Fejléc - Háttérszín"
 
 #: includes/base/class-customizer.php:165
 msgid "Header - Dropdown Background Color"
@@ -2035,7 +1992,7 @@ msgstr ""
 
 #: includes/base/class-customizer.php:105
 msgid "Header - Text Color"
-msgstr ""
+msgstr "Fejléc - Szöveg színe"
 
 #: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:70
 msgid "Hide Free Line Items"
@@ -2047,16 +2004,15 @@ msgstr "Címke elrejtése"
 
 #: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:71
 msgid "Hide line items that are equal to 0 from the pricing table."
-msgstr "A 0-val egyenlő tételek elrejtése az ártáblázatból"
+msgstr "A 0-val egyenlő tételek elrejtése az ártáblázatból."
 
 #: includes/base/admin/booking/class-bookings-outputter.php:256
 msgid "Hide past bookings"
 msgstr "Múltbeli foglalások elrejtése"
 
-#: includes/base/class-widget-calendar.php:335 
-#: includes/modules/elementor/widgets/single-calendar.php:317 
+#: includes/base/class-widget-calendar.php:335
+#: includes/modules/elementor/widgets/single-calendar.php:317
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:228
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:229
 msgid "Highlight Today"
 msgstr "Aktuális nap kiemelése"
@@ -2072,7 +2028,7 @@ msgstr "Óra"
 #. URI of the plugin
 #. Author URI of the plugin
 msgid "https://www.wpbookingsystem.com/"
-msgstr ""
+msgstr "https://www.wpbookingsystem.com/"
 
 #: includes/base/admin/settings/views/view-settings-tab-general.php:115
 msgid "iCal Custom Refresh Time"
@@ -2080,7 +2036,7 @@ msgstr "iCal egyéni frissítési idő"
 
 #: includes/base/admin/calendar/class-submenu-page-calendar.php:112
 msgid "iCal events imported successfully into the calendar."
-msgstr ""
+msgstr "az iCal események sikeresen importálva a naptárba."
 
 #: includes/base/admin/calendar/class-submenu-page-calendar.php:115
 msgid "iCal feed URL added successfully."
@@ -2094,11 +2050,11 @@ msgstr ""
 msgid "iCal feeds refreshed successfully."
 msgstr ""
 
-#: includes/base/admin/calendar/views/view-ical-import-export.php:23 
-#: includes/base/admin/calendar/views/view-edit-calendar.php:487 
+#: includes/base/admin/calendar/views/view-ical-import-export.php:23
+#: includes/base/admin/calendar/views/view-edit-calendar.php:487
 #: includes/base/admin/calendar/views/view-edit-calendar.php:493
 msgid "iCal Import/Export"
-msgstr ""
+msgstr "iCal importálás/exportálás"
 
 #: includes/base/admin/settings/views/view-settings-tab-general.php:98
 msgid "iCal Refresh Times"
@@ -2110,7 +2066,7 @@ msgstr ""
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:150
 msgid "iCalendar File"
-msgstr ""
+msgstr "iCalendar fájl"
 
 #: includes/base/admin/calendar/functions-actions-ical.php:35
 msgid "iCalendar library missing"
@@ -2118,7 +2074,7 @@ msgstr ""
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:56
 msgid "iCalendar Link"
-msgstr ""
+msgstr "iCalendar Link"
 
 #: includes/base/admin/calendar/class-submenu-page-calendar.php:106
 msgid "iCalendar private link reset successful."
@@ -2126,18 +2082,18 @@ msgstr ""
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:330
 msgid "iCalendar URL"
-msgstr ""
+msgstr "iCalendar URL-cím"
 
 #: includes/base/admin/calendar/functions-actions-ical.php:444
 msgid "iCalendarReader library missing"
 msgstr ""
 
-#: includes/modules/pricing/functions-payment-on-arrival.php:144 
-#: includes/modules/pricing/functions-bank-transfer.php:143 
-#: includes/base/admin/form/class-list-table-forms.php:88 
+#: includes/modules/pricing/functions-payment-on-arrival.php:144
+#: includes/modules/pricing/functions-bank-transfer.php:143
+#: includes/base/admin/form/class-list-table-forms.php:88
 #: includes/base/admin/calendar/class-list-table-calendars.php:86
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:90
 msgid ""
@@ -2152,7 +2108,6 @@ msgid ""
 msgstr ""
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:185
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:200
 msgid ""
 "If set to yes and if the calendar displays multiple months, when the user "
@@ -2174,9 +2129,7 @@ msgstr ""
 "tartalmazza. Például a hétfő esetében H fog megjelenni."
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:240
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:242
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:117
 msgid ""
 "If set to yes, it will display at the beginning of each week the week's "
@@ -2186,7 +2139,6 @@ msgstr ""
 "számított heti szám."
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:173
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:191
 msgid ""
 "If set to yes, the calendar will display a month and year drop-down select "
@@ -2196,7 +2148,6 @@ msgstr ""
 "mezőt jeleníti meg navigációs alternatívként."
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:408
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:329
 msgid ""
 "If set to yes, the dates selected in the calendar will appear in the form as "
@@ -2210,7 +2161,6 @@ msgid "If set to yes, the price will be displayed below each calendar date."
 msgstr "Ha a beállítás igen, az ár minden naptári dátum alatt megjelenik."
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:306
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:268
 msgid ""
 "If set to yes, when a booking is made, the dates in the calendar will "
@@ -2234,10 +2184,11 @@ msgid ""
 "If you select the same users in other calendars, they will be able to also "
 "edit those calendars."
 msgstr ""
-"Ha bizonyos felhasználók számára engedélyezni kívánja a naptár szerkesztését,"
-" válassza ki őket az alábbi mezőben. A kiválasztott felhasználók csak ezt a "
-"naptárat szerkeszthetik. Ha ugyanazokat a felhasználókat más naptáraknál is "
-"kijelöli, akkor azokat a naptárakat is szerkeszthetik."
+"Ha bizonyos felhasználók számára engedélyezni kívánja a naptár "
+"szerkesztését, válassza ki őket az alábbi mezőben. A kiválasztott "
+"felhasználók csak ezt a naptárat szerkeszthetik. Ha ugyanazokat a "
+"felhasználókat más naptáraknál is kijelöli, akkor azokat a naptárakat is "
+"szerkeszthetik."
 
 #: includes/modules/user-restrictions/views/view-edit-form-main-fields.php:54
 msgid ""
@@ -2246,10 +2197,11 @@ msgid ""
 "select the same users in other forms, they will be able to also edit those "
 "forms."
 msgstr ""
-"Ha bizonyos felhasználók számára engedélyezni kívánja az űrlap szerkesztését,"
-" válassza ki őket az alábbi mezőben. A kiválasztott felhasználók csak ezt az "
-"űrlapot szerkeszthetik. Ha ugyanazokat a felhasználókat más űrlapokon is "
-"kiválasztja, akkor azokat az űrlapokat is szerkeszthetik."
+"Ha bizonyos felhasználók számára engedélyezni kívánja az űrlap "
+"szerkesztését, válassza ki őket az alábbi mezőben. A kiválasztott "
+"felhasználók csak ezt az űrlapot szerkeszthetik. Ha ugyanazokat a "
+"felhasználókat más űrlapokon is kiválasztja, akkor azokat az űrlapokat is "
+"szerkeszthetik."
 
 #: includes/base/admin/calendar/views/view-add-calendar.php:47
 msgid ""
@@ -2282,20 +2234,20 @@ msgstr "Adatok importálása fájlból"
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:140
 msgid "Import from File"
-msgstr ""
+msgstr "Importálás fájlból"
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:255
 msgid "Import from iCal URL"
 msgstr ""
 
-#: includes/base/admin/calendar/views/view-ical-import-export.php:162 
+#: includes/base/admin/calendar/views/view-ical-import-export.php:162
 #: includes/base/admin/calendar/views/view-ical-import-export.php:342
 msgid "Import iCal Events As"
 msgstr ""
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:227
 msgid "Import iCal File"
-msgstr ""
+msgstr "ICal fájl importálása"
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:215
 msgid "Import in both description and tooltip fields"
@@ -2309,10 +2261,10 @@ msgstr ""
 msgid "Import only in the tooltip field"
 msgstr ""
 
-#: includes/modules/tools/views/view-tools.php:12 
+#: includes/modules/tools/views/view-tools.php:12
 #: includes/modules/tools/views/view-tools.php:39
 msgid "Important!"
-msgstr "FIGYELEM!"
+msgstr "Fontos!"
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:141
 msgid ""
@@ -2335,7 +2287,7 @@ msgid "In this column you can see the bookings associated with each date."
 msgstr ""
 "Ebben az oszlopban láthatja az egyes időpontokhoz kapcsolódó foglalásokat."
 
-#: includes/base/admin/booking/views/view-modal-email-customer.php:97 
+#: includes/base/admin/booking/views/view-modal-email-customer.php:97
 #: includes/base/admin/booking/views/view-modal-manage-booking.php:146
 msgid "Include Booking Details"
 msgstr "Tartalmazza a foglalás részleteit"
@@ -2360,7 +2312,7 @@ msgstr ""
 msgid "Insert a WP Booking System Overview Calendar"
 msgstr ""
 
-#: includes/base/admin/calendar/functions-shortcode-generator.php:59 
+#: includes/base/admin/calendar/functions-shortcode-generator.php:59
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:422
 msgid "Insert Calendar"
 msgstr "Naptár beszúrása"
@@ -2375,14 +2327,13 @@ msgstr "Naptárösszesítő hozzáadása"
 
 #: includes/base/admin/addons/views/view-addons.php:45
 msgid "Install"
-msgstr ""
+msgstr "Telepítés"
 
 #: includes/base/admin/addons/views/view-addons.php:40
 msgid "Installed"
-msgstr ""
+msgstr "Telepítve"
 
 #: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:85
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:89
 msgid ""
 "Instructions on how and where to send the money. Bank name, account number, "
@@ -2429,8 +2380,8 @@ msgstr "Érvénytelen szám - Min"
 msgid "Invalid Order ID."
 msgstr "Érvénytelen rendelési azonosító(ID)."
 
-#: includes/modules/pricing/functions-part-payments.php:669 
-#: includes/modules/pricing/functions-part-payments.php:678 
+#: includes/modules/pricing/functions-part-payments.php:669
+#: includes/modules/pricing/functions-part-payments.php:678
 #: includes/modules/pricing/functions-part-payments.php:698
 msgid "Invalid Payment ID."
 msgstr "Érvénytelen fizetési azonosító(ID)."
@@ -2449,7 +2400,7 @@ msgstr "IP-cím"
 
 #: includes/base/admin/settings/views/view-settings-tab-form.php:82
 msgid "ipinfo.io Token"
-msgstr ""
+msgstr "ipinfo.io Token"
 
 #: includes/base/form/class-form-validator.php:373
 msgid ""
@@ -2459,10 +2410,9 @@ msgstr ""
 "Úgy tűnik, hogy nem elérhető vagy érvénytelen dátumot választott ki. Kérjük, "
 "frissítse a naptárat, és próbálja meg újra."
 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:15 
-#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:3 
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:15
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:3
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:29
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:29
 msgid ""
 "It appears you made changes to the form. Make sure you save the form before "
@@ -2472,33 +2422,29 @@ msgstr ""
 "hogy elmentette az űrlapot, mielőtt bármilyen módosítást végez ezen az "
 "oldalon, hogy az összes e-mail címke naprakész legyen."
 
-#: includes/modules/pricing/functions-pricing.php:844 
+#: includes/modules/pricing/functions-pricing.php:844
 #: includes/modules/pricing/class-payment.php:331
 msgid "Item"
 msgstr "Tétel"
 
-#: includes/base/class-widget-overview-calendar.php:181 
-#: includes/base/class-widget-calendar.php:263 
-#: includes/modules/elementor/widgets/overview-calendar.php:202 
-#: includes/modules/elementor/widgets/single-calendar.php:238 
+#: includes/base/class-widget-overview-calendar.php:181
+#: includes/base/class-widget-calendar.php:263
+#: includes/modules/elementor/widgets/overview-calendar.php:202
+#: includes/modules/elementor/widgets/single-calendar.php:238
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:105
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:94
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:48 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:48
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:26
 msgid "January"
 msgstr "Január"
 
-#: includes/base/class-widget-overview-calendar.php:187 
-#: includes/base/class-widget-calendar.php:269 
-#: includes/modules/elementor/widgets/overview-calendar.php:208 
-#: includes/modules/elementor/widgets/single-calendar.php:244 
+#: includes/base/class-widget-overview-calendar.php:187
+#: includes/base/class-widget-calendar.php:269
+#: includes/modules/elementor/widgets/overview-calendar.php:208
+#: includes/modules/elementor/widgets/single-calendar.php:244
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:111
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:100
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:54 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:54
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:32
 msgid "July"
 msgstr "Július"
@@ -2507,40 +2453,35 @@ msgstr "Július"
 msgid "Jump Switch"
 msgstr ""
 
-#: includes/base/class-widget-overview-calendar.php:186 
-#: includes/base/class-widget-calendar.php:268 
-#: includes/modules/elementor/widgets/overview-calendar.php:207 
-#: includes/modules/elementor/widgets/single-calendar.php:243 
+#: includes/base/class-widget-overview-calendar.php:186
+#: includes/base/class-widget-calendar.php:268
+#: includes/modules/elementor/widgets/overview-calendar.php:207
+#: includes/modules/elementor/widgets/single-calendar.php:243
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:110
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:99
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:53 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:53
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:31
 msgid "June"
 msgstr "Június"
 
-#: includes/modules/pricing/functions-part-payments.php:1048 
+#: includes/modules/pricing/functions-part-payments.php:1048
 #: includes/base/admin/form/functions.php:237
 msgid "Label"
 msgstr "Címke"
 
-#: includes/base/class-widget-overview-calendar.php:244 
-#: includes/base/class-widget-calendar.php:240 
-#: includes/base/admin/booking/class-booking-detail-outputter.php:220 
-#: includes/modules/elementor/widgets/overview-calendar.php:281 
-#: includes/modules/elementor/widgets/single-calendar.php:374 
+#: includes/base/class-widget-overview-calendar.php:244
+#: includes/base/class-widget-calendar.php:240
+#: includes/base/admin/booking/class-booking-detail-outputter.php:220
+#: includes/modules/elementor/widgets/overview-calendar.php:281
+#: includes/modules/elementor/widgets/single-calendar.php:374
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:124
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:158
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:170
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:121
 msgid "Language"
 msgstr "Nyelv"
 
-#: includes/base/admin/settings/class-submenu-page-settings.php:49 
+#: includes/base/admin/settings/class-submenu-page-settings.php:49
 #: includes/base/admin/settings/views/view-settings-tab-languages.php:8
 msgid "Languages"
 msgstr "Nyelvek"
@@ -2548,7 +2489,7 @@ msgstr "Nyelvek"
 #: includes/base/admin/calendar/views/view-ical-import-export.php:293
 #, php-format
 msgid "Last updated: %s"
-msgstr ""
+msgstr "Utolsó frissítés: %s"
 
 #: includes/base/admin/form/functions.php:267
 msgid "Layout"
@@ -2566,7 +2507,7 @@ msgstr "Balra (pl. 100.00Ft)"
 msgid "Legend"
 msgstr ""
 
-#: includes/base/admin/booking/views/view-modal-manage-booking.php:15 
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:15
 #: includes/base/admin/calendar/views/view-edit-calendar.php:389
 msgid "Legend Item"
 msgstr ""
@@ -2611,23 +2552,20 @@ msgstr ""
 msgid "Legend Items to Export as Booked"
 msgstr ""
 
-#: includes/base/class-widget-overview-calendar.php:166 
-#: includes/base/class-widget-calendar.php:193 
-#: includes/modules/elementor/widgets/overview-calendar.php:175 
-#: includes/modules/elementor/widgets/single-calendar.php:200 
+#: includes/base/class-widget-overview-calendar.php:166
+#: includes/base/class-widget-calendar.php:193
+#: includes/modules/elementor/widgets/overview-calendar.php:175
+#: includes/modules/elementor/widgets/single-calendar.php:200
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:54
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:63
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:130
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:63
 msgid "Legend Position"
 msgstr ""
 
 #: includes/modules/upgrader/views/view-upgrader.php:71
 msgid "Let's start!"
-msgstr ""
+msgstr "Kezdjük el!"
 
 #: includes/base/admin/calendar/views/view-edit-calendar.php:141
 msgid "Link Calendar"
@@ -2637,7 +2575,7 @@ msgstr "Naptár linkelése"
 msgid "Link Type"
 msgstr "Link típus"
 
-#: includes/base/admin/booking/views/view-modal-email-customer.php:82 
+#: includes/base/admin/booking/views/view-modal-email-customer.php:82
 #: includes/base/admin/booking/views/view-modal-manage-booking.php:131
 msgid "Load Template"
 msgstr "Sablon betöltése"
@@ -2673,7 +2611,7 @@ msgstr "Foglalás kezelése"
 
 #: includes/base/form/class-form-mailer.php:197
 msgid "Manage Booking in WP Admin"
-msgstr ""
+msgstr "Foglalások kezelése a WP admin felületen"
 
 #: includes/modules/pricing/functions-part-payments.php:122
 msgid "Mandatory - Always use part payments"
@@ -2681,43 +2619,39 @@ msgstr "Kötelező - Mindig használjon előleg fizetést"
 
 #: includes/base/admin/booking/class-bookings-outputter.php:454
 msgid "Manual Booking"
-msgstr ""
+msgstr "Foglalás rögzítése"
 
 #: includes/modules/update-checker/views/view-register-website.php:33
 msgid "Manual Update Check"
 msgstr "Manuális frissítés futtatása"
 
-#: includes/base/class-widget-overview-calendar.php:183 
-#: includes/base/class-widget-calendar.php:265 
-#: includes/modules/elementor/widgets/overview-calendar.php:204 
-#: includes/modules/elementor/widgets/single-calendar.php:240 
+#: includes/base/class-widget-overview-calendar.php:183
+#: includes/base/class-widget-calendar.php:265
+#: includes/modules/elementor/widgets/overview-calendar.php:204
+#: includes/modules/elementor/widgets/single-calendar.php:240
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:107
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:96
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:50 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:50
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:28
 msgid "March"
 msgstr "Március"
 
-#: includes/modules/pricing/functions-pricing.php:587 
-#: includes/modules/pricing/functions-part-payments.php:580 
+#: includes/modules/pricing/functions-pricing.php:587
+#: includes/modules/pricing/functions-part-payments.php:580
 #: includes/modules/pricing/functions-part-payments.php:590
 msgid "mark as paid"
 msgstr "kifizetettnek jelölni"
 
-#: includes/modules/pricing/functions-pricing.php:586 
-#: includes/modules/pricing/functions-part-payments.php:579 
+#: includes/modules/pricing/functions-pricing.php:586
+#: includes/modules/pricing/functions-part-payments.php:579
 #: includes/modules/pricing/functions-part-payments.php:589
 msgid "mark as unpaid"
-msgstr ""
-"Nincs kifizetve\n"
+msgstr "megjelölés nincs fizetve"
 
-#: includes/base/class-widget-calendar.php:417 
-#: includes/base/admin/form/functions.php:607 
-#: includes/modules/elementor/widgets/single-calendar.php:456 
+#: includes/base/class-widget-calendar.php:417
+#: includes/base/admin/form/functions.php:607
+#: includes/modules/elementor/widgets/single-calendar.php:456
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:356
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:298
 msgid "Maximum Days"
 msgstr "Maximális napok"
@@ -2726,28 +2660,25 @@ msgstr "Maximális napok"
 msgid "Maximum Value"
 msgstr "Maximális érték"
 
-#: includes/base/class-widget-overview-calendar.php:185 
-#: includes/base/class-widget-calendar.php:267 
-#: includes/modules/elementor/widgets/overview-calendar.php:206 
-#: includes/modules/elementor/widgets/single-calendar.php:242 
+#: includes/base/class-widget-overview-calendar.php:185
+#: includes/base/class-widget-calendar.php:267
+#: includes/modules/elementor/widgets/overview-calendar.php:206
+#: includes/modules/elementor/widgets/single-calendar.php:242
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:109
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:98
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:52 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:52
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:30
 msgid "May"
 msgstr "Május"
 
-#: includes/base/admin/settings/views/view-settings-tab-email.php:236 
-#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:35 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:147 
+#: includes/base/admin/settings/views/view-settings-tab-email.php:236
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:35
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:147
 #: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:109
-#:  includes/base/admin/booking/views/view-modal-email-customer.php:73 
-#: includes/base/admin/booking/views/view-modal-email-logs.php:8 
-#: includes/base/admin/booking/views/view-modal-manage-booking.php:122 
+#: includes/base/admin/booking/views/view-modal-email-customer.php:73
+#: includes/base/admin/booking/views/view-modal-email-logs.php:8
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:122
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:160
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:170
 msgid "Message"
 msgstr "Üzenet"
@@ -2758,29 +2689,28 @@ msgstr "Üzenet sablonok"
 
 #: includes/modules/upgrader/views/view-upgrader.php:46
 msgid "Migrating bookings..."
-msgstr ""
+msgstr "Foglalások migrálása..."
 
 #: includes/modules/upgrader/views/view-upgrader.php:44
 msgid "Migrating calendar events..."
-msgstr ""
+msgstr "Naptár események migrálása..."
 
 #: includes/modules/upgrader/views/view-upgrader.php:43
 msgid "Migrating calendars..."
-msgstr ""
+msgstr "Naptárak migrálása..."
 
 #: includes/modules/upgrader/views/view-upgrader.php:45
 msgid "Migrating forms..."
-msgstr ""
+msgstr "Űrlapok migrálása..."
 
 #: includes/modules/upgrader/views/view-upgrader.php:47
 msgid "Migrating general settings..."
-msgstr ""
+msgstr "Migrálás általános beállítások…"
 
-#: includes/base/class-widget-calendar.php:409 
-#: includes/base/admin/form/functions.php:603 
-#: includes/modules/elementor/widgets/single-calendar.php:446 
+#: includes/base/class-widget-calendar.php:409
+#: includes/base/admin/form/functions.php:603
+#: includes/modules/elementor/widgets/single-calendar.php:446
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:347
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:290
 msgid "Minimum Days"
 msgstr "Minimális napok"
@@ -2795,7 +2725,7 @@ msgstr "Perc"
 
 #: includes/modules/pricing/functions-part-payments.php:661
 msgid "Missing Payment ID."
-msgstr ""
+msgstr "Hiányzó fizetési ID."
 
 #: includes/modules/pricing/booking/views/view-modal-payment-details-content.php:56
 msgid ""
@@ -2805,26 +2735,22 @@ msgstr ""
 "Az árak módosítása közvetlenül frissíti az adatbázisban lévő értékeket, "
 "számítások vagy validációk elvégzése nélkül. Kérjük, óvatosan használja."
 
-#: includes/base/functions.php:74 includes/base/class-widget-calendar.php:217 
-#: includes/base/class-widget-calendar.php:429 
-#: includes/base/class-widget-calendar.php:445 
-#: includes/modules/elementor/widgets/single-calendar.php:274 
-#: includes/modules/elementor/widgets/single-calendar.php:470 
-#: includes/modules/elementor/widgets/single-calendar.php:489 
+#: includes/base/functions.php:74 includes/base/class-widget-calendar.php:217
+#: includes/base/class-widget-calendar.php:429
+#: includes/base/class-widget-calendar.php:445
+#: includes/modules/elementor/widgets/single-calendar.php:274
+#: includes/modules/elementor/widgets/single-calendar.php:470
+#: includes/modules/elementor/widgets/single-calendar.php:489
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:159
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:371
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:394
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:76 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:76
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:87
 msgid "Monday"
 msgstr "Hétfő"
 
-#: includes/modules/elementor/widgets/single-calendar.php:214 
+#: includes/modules/elementor/widgets/single-calendar.php:214
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:72
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:138
 msgid "Months to Display"
 msgstr "Megjelenítendő hónapok"
@@ -2833,7 +2759,7 @@ msgstr "Megjelenítendő hónapok"
 msgid "Months to display"
 msgstr "Megjelenítendő hónapok"
 
-#: includes/modules/pricing/functions-pricing.php:101 
+#: includes/modules/pricing/functions-pricing.php:101
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:182
 msgid "Multiplication"
 msgstr "Szorzás"
@@ -2858,110 +2784,85 @@ msgstr ""
 "Szorozza meg az adót egy űrlapmező értékével. Ez csak akkor működik, ha a "
 "foglalásokat azon az űrlapon végzi, amelyhez a kiválasztott mező tartozik."
 
-#: includes/base/admin/form/class-list-table-forms.php:87 
-#: includes/base/admin/calendar/class-list-table-legend-items.php:77 
-#: includes/base/admin/calendar/class-list-table-calendars.php:85 
-#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:62 
+#: includes/base/admin/form/class-list-table-forms.php:87
+#: includes/base/admin/calendar/class-list-table-legend-items.php:77
+#: includes/base/admin/calendar/class-list-table-calendars.php:85
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:62
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:63
 msgid "Name"
 msgstr "Név"
 
 #: includes/base/admin/booking/class-bookings-outputter.php:441
 msgid "New"
-msgstr "ÚJ"
+msgstr "Új"
 
 #: includes/base/admin/booking/functions.php:137
 msgid "New Booking"
-msgstr ""
+msgstr "Új foglalás"
 
 #: includes/base/admin/booking/functions.php:140
 msgid "New Bookings"
-msgstr ""
+msgstr "Új foglalások"
 
-#: includes/base/class-widget-overview-calendar.php:160 
-#: includes/base/class-widget-overview-calendar.php:225 
-#: includes/base/class-widget-overview-calendar.php:236 
-#: includes/base/class-widget-calendar.php:177 
-#: includes/base/class-widget-calendar.php:187 
-#: includes/base/class-widget-calendar.php:208 
-#: includes/base/class-widget-calendar.php:307 
-#: includes/base/class-widget-calendar.php:318 
-#: includes/base/class-widget-calendar.php:328 
-#: includes/base/class-widget-calendar.php:338 
-#: includes/base/class-widget-calendar.php:349 
-#: includes/base/class-widget-calendar.php:383 
-#: includes/base/class-widget-calendar.php:460 
-#: includes/modules/elementor/widgets/overview-calendar.php:166 
-#: includes/modules/elementor/widgets/overview-calendar.php:239 
-#: includes/modules/elementor/widgets/overview-calendar.php:254 
-#: includes/modules/elementor/widgets/single-calendar.php:178 
-#: includes/modules/elementor/widgets/single-calendar.php:191 
-#: includes/modules/elementor/widgets/single-calendar.php:262 
-#: includes/modules/elementor/widgets/single-calendar.php:306 
-#: includes/modules/elementor/widgets/single-calendar.php:320 
-#: includes/modules/elementor/widgets/single-calendar.php:334 
-#: includes/modules/elementor/widgets/single-calendar.php:347 
-#: includes/modules/elementor/widgets/single-calendar.php:411 
-#: includes/modules/elementor/widgets/single-calendar.php:508 
-#: includes/base/admin/booking/views/view-add-booking.php:65 
+#: includes/base/class-widget-overview-calendar.php:160
+#: includes/base/class-widget-overview-calendar.php:225
+#: includes/base/class-widget-overview-calendar.php:236
+#: includes/base/class-widget-calendar.php:177
+#: includes/base/class-widget-calendar.php:187
+#: includes/base/class-widget-calendar.php:208
+#: includes/base/class-widget-calendar.php:307
+#: includes/base/class-widget-calendar.php:318
+#: includes/base/class-widget-calendar.php:328
+#: includes/base/class-widget-calendar.php:338
+#: includes/base/class-widget-calendar.php:349
+#: includes/base/class-widget-calendar.php:383
+#: includes/base/class-widget-calendar.php:460
+#: includes/modules/elementor/widgets/overview-calendar.php:166
+#: includes/modules/elementor/widgets/overview-calendar.php:239
+#: includes/modules/elementor/widgets/overview-calendar.php:254
+#: includes/modules/elementor/widgets/single-calendar.php:178
+#: includes/modules/elementor/widgets/single-calendar.php:191
+#: includes/modules/elementor/widgets/single-calendar.php:262
+#: includes/modules/elementor/widgets/single-calendar.php:306
+#: includes/modules/elementor/widgets/single-calendar.php:320
+#: includes/modules/elementor/widgets/single-calendar.php:334
+#: includes/modules/elementor/widgets/single-calendar.php:347
+#: includes/modules/elementor/widgets/single-calendar.php:411
+#: includes/modules/elementor/widgets/single-calendar.php:508
+#: includes/base/admin/booking/views/view-add-booking.php:65
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:34
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:46
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:177
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:189
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:218
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:232
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:244
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:257
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:310
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:412
-#:  includes/base/admin/calendar/views/view-ical-import-export.php:294 
+#: includes/base/admin/calendar/views/view-ical-import-export.php:294
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:55
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:137
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:151
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:118
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:126
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:166
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:190
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:199
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:222
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:233
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:241
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:250
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:267
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:328
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:59
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:105
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:116
 msgid "No"
 msgstr "Nem"
 
-#: includes/base/class-widget-overview-calendar.php:91 
-#: includes/base/class-shortcodes.php:280 
+#: includes/base/class-widget-overview-calendar.php:91
+#: includes/base/class-shortcodes.php:280
 #: includes/base/admin/calendar/class-list-table-calendars.php:341
 msgid "No calendars found."
 msgstr "Nincsenek naptárak."
@@ -2974,7 +2875,7 @@ msgstr "Nincs kiválasztva dátum"
 msgid "No Dates Selected"
 msgstr "Nincsenek kiválasztva dátumok"
 
-#: includes/base/form/class-form-outputter.php:695 
+#: includes/base/form/class-form-outputter.php:695
 #: includes/base/form/class-form-outputter.php:779
 msgid ""
 "No default price is defined for this calendar. Please define a default price "
@@ -2989,9 +2890,9 @@ msgstr ""
 msgid "No events matched your criteria."
 msgstr ""
 
-#: includes/base/class-widget-calendar.php:360 
+#: includes/base/class-widget-calendar.php:360
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:282
-#:  includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:26
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:26
 msgid "No Form"
 msgstr "NIncs űrlap"
 
@@ -3001,7 +2902,7 @@ msgstr "Nem találtunk űrlapokat."
 
 #: includes/base/admin/booking/functions.php:134
 msgid "No New Bookings"
-msgstr ""
+msgstr "Nincs új foglalás"
 
 #: includes/base/admin/booking/views/view-modal-notes.php:33
 msgid "No notes found for this booking."
@@ -3015,11 +2916,11 @@ msgstr ""
 msgid "No payment methods are available."
 msgstr ""
 
-#: includes/base/form/class-email-tags.php:232 
-#: includes/base/form/class-email-tags.php:249 
-#: includes/base/form/class-email-tags.php:267 
-#: includes/base/form/class-email-tags.php:281 
-#: includes/base/form/class-email-tags.php:294 
+#: includes/base/form/class-email-tags.php:232
+#: includes/base/form/class-email-tags.php:249
+#: includes/base/form/class-email-tags.php:267
+#: includes/base/form/class-email-tags.php:281
+#: includes/base/form/class-email-tags.php:294
 #: includes/modules/pricing/booking/functions.php:53
 msgid "No payment was received for this booking."
 msgstr ""
@@ -3027,7 +2928,7 @@ msgstr ""
 #: includes/base/admin/booking/class-bookings-outputter.php:321
 #, php-format
 msgid "No results for %s."
-msgstr ""
+msgstr "Nincs találat %s."
 
 #: includes/base/admin/form/functions.php:532
 msgid "no-label"
@@ -3038,26 +2939,25 @@ msgstr ""
 msgid "Nonce validation failed. %sClick here to find out how to fix this.%s"
 msgstr ""
 
-#: includes/base/class-widget-calendar.php:402 
-#: includes/modules/elementor/widgets/single-calendar.php:436 
-#: includes/base/admin/booking/views/view-add-booking.php:49 
+#: includes/base/class-widget-calendar.php:402
+#: includes/modules/elementor/widgets/single-calendar.php:436
+#: includes/base/admin/booking/views/view-add-booking.php:49
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:338
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:285
 msgid "Normal"
 msgstr "Normál"
 
-#: includes/base/admin/booking/class-bookings-outputter.php:516 
+#: includes/base/admin/booking/class-bookings-outputter.php:516
 #: includes/base/admin/booking/class-bookings-outputter.php:522
 msgid "Not Paid"
 msgstr "Nincs kifizetve"
 
 #: includes/base/admin/booking/class-booking-detail-outputter.php:404
 msgid "Not signed"
-msgstr ""
+msgstr "Nincs aláírva"
 
-#: includes/base/admin/booking/class-booking-detail-outputter.php:83 
-#: includes/base/admin/booking/views/view-modal-notes.php:5 
+#: includes/base/admin/booking/class-booking-detail-outputter.php:83
+#: includes/base/admin/booking/views/view-modal-notes.php:5
 #: includes/base/admin/calendar/views/view-edit-calendar.php:280
 msgid "Notes"
 msgstr "Megjegyzések"
@@ -3070,28 +2970,24 @@ msgstr ""
 "A megjegyzések csak a weboldal adminisztrátorai számára láthatók, az "
 "ügyfélnek nem küldi el őket."
 
-#: includes/base/class-widget-overview-calendar.php:191 
-#: includes/base/class-widget-calendar.php:273 
-#: includes/modules/elementor/widgets/overview-calendar.php:212 
-#: includes/modules/elementor/widgets/single-calendar.php:248 
+#: includes/base/class-widget-overview-calendar.php:191
+#: includes/base/class-widget-calendar.php:273
+#: includes/modules/elementor/widgets/overview-calendar.php:212
+#: includes/modules/elementor/widgets/single-calendar.php:248
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:115
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:104
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:58 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:58
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:36
 msgid "November"
 msgstr "November"
 
-#: includes/base/class-widget-overview-calendar.php:190 
-#: includes/base/class-widget-calendar.php:272 
-#: includes/modules/elementor/widgets/overview-calendar.php:211 
-#: includes/modules/elementor/widgets/single-calendar.php:247 
+#: includes/base/class-widget-overview-calendar.php:190
+#: includes/base/class-widget-calendar.php:272
+#: includes/modules/elementor/widgets/overview-calendar.php:211
+#: includes/modules/elementor/widgets/single-calendar.php:247
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:114
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:103
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:57 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:57
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:35
 msgid "October"
 msgstr "Október"
@@ -3130,20 +3026,19 @@ msgid ""
 "amount"
 msgstr ""
 "Választható - Lehetővé teszi az ügyfél számára, hogy kiválassza, hogy "
-"előleget vagy a teljes összeget kívánja-e fizetni."
+"előleget vagy a teljes összeget kívánja-e fizetni"
 
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:147
 msgid "Optional. The period in which the tax is applied."
 msgstr "Opcionális. Az időszak, amelyre az adót alkalmazzuk."
 
-#: includes/modules/pricing/functions-pricing.php:97 
-#: includes/base/admin/form/functions.php:239 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:61 
-#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:45 
-#: includes/base/admin/booking/views/view-modal-email-customer.php:15 
-#: includes/base/admin/booking/views/view-modal-manage-booking.php:64 
+#: includes/modules/pricing/functions-pricing.php:97
+#: includes/base/admin/form/functions.php:239
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:61
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:45
+#: includes/base/admin/booking/views/view-modal-email-customer.php:15
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:64
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:75
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:85
 msgid "Options"
 msgstr "Beállítások"
@@ -3176,15 +3071,15 @@ msgstr "Oldal"
 msgid "Pages to enqueue scripts on"
 msgstr "Szkriptek meghívása a következő oldalakon"
 
-#: includes/base/admin/booking/class-bookings-outputter.php:484 
+#: includes/base/admin/booking/class-bookings-outputter.php:484
 #: includes/base/admin/booking/class-bookings-outputter.php:528
 msgid "Paid"
 msgstr "Fizetve"
 
-#: includes/modules/pricing/functions-pricing.php:586 
+#: includes/modules/pricing/functions-pricing.php:586
 #: includes/modules/pricing/functions-part-payments.php:563
 msgid "paid"
-msgstr "Fizetve"
+msgstr "fizetve"
 
 #: includes/modules/pricing/functions-part-payments.php:1045
 msgid "Part Payment Applicability Field"
@@ -3222,7 +3117,7 @@ msgstr "Fizetés megerősítése"
 msgid "Payment Details"
 msgstr "Fizetési adatok"
 
-#: includes/modules/pricing/functions-payment-on-arrival.php:142 
+#: includes/modules/pricing/functions-payment-on-arrival.php:142
 #: includes/modules/pricing/functions-bank-transfer.php:141
 msgid "Payment Gateway"
 msgstr "Fizetési mód"
@@ -3235,14 +3130,14 @@ msgstr "Fizetési információk"
 msgid "Payment Instructions"
 msgstr "Fizetési instrukciók"
 
-#: includes/modules/pricing/functions-payment-on-arrival.php:18 
-#: includes/modules/pricing/functions-payment-on-arrival.php:30 
-#: includes/base/admin/booking/class-bookings-outputter.php:486 
+#: includes/modules/pricing/functions-payment-on-arrival.php:18
+#: includes/modules/pricing/functions-payment-on-arrival.php:30
+#: includes/base/admin/booking/class-bookings-outputter.php:486
 #: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:5
 msgid "Payment on Arrival"
 msgstr "Fizetés érkezéskor"
 
-#: includes/modules/pricing/form/functions.php:67 
+#: includes/modules/pricing/form/functions.php:67
 #: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:18
 msgid "Payment Options"
 msgstr "Fizetési opciók"
@@ -3260,7 +3155,7 @@ msgstr ""
 msgid "Payment Status"
 msgstr ""
 
-#: includes/modules/pricing/settings/functions.php:61 
+#: includes/modules/pricing/settings/functions.php:61
 #: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:51
 msgid "Payment Strings"
 msgstr "Fizetési szövegek"
@@ -3277,23 +3172,23 @@ msgstr "Fizetési címkék"
 msgid "Payment Type"
 msgstr ""
 
-#: includes/base/admin/booking/class-bookings-outputter.php:81 
-#: includes/base/admin/booking/class-bookings-outputter.php:508 
+#: includes/base/admin/booking/class-bookings-outputter.php:81
+#: includes/base/admin/booking/class-bookings-outputter.php:508
 #: includes/base/admin/calendar/class-list-table-calendars.php:292
 msgid "Pending"
 msgstr "Elfogadásra vár"
 
-#: includes/modules/pricing/functions-pricing.php:100 
+#: includes/modules/pricing/functions-pricing.php:100
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:122
 msgid "Per Booking - Only add once per booking"
 msgstr "Foglalásonként - Foglalásonként csak egyszer adható hozzá"
 
-#: includes/modules/pricing/functions-pricing.php:100 
+#: includes/modules/pricing/functions-pricing.php:100
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:123
 msgid "Per Day - Multiply by the number of booked days"
-msgstr "Naponta - szorozza meg a lefoglalt napok számával."
+msgstr "Naponta - szorozza meg a lefoglalt napok számával"
 
-#: includes/modules/pricing/functions-part-payments.php:62 
+#: includes/modules/pricing/functions-part-payments.php:62
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:89
 msgid "Percentage"
 msgstr "Százalékos"
@@ -3318,26 +3213,26 @@ msgstr "Telefonszám mező stilizált UI"
 msgid "Placeholder"
 msgstr "Helykitöltő szöveg"
 
-#: includes/base/admin/calendar/functions-actions-legend-item.php:29 
+#: includes/base/admin/calendar/functions-actions-legend-item.php:29
 #: includes/base/admin/calendar/functions-actions-legend-item.php:125
 msgid "Please add a name for your legend item."
 msgstr ""
 
 #: includes/base/admin/calendar/functions-actions-calendar.php:20
 msgid "Please add a name for your new calendar."
-msgstr ""
+msgstr "Kérjük, adj nevet az új naptárának."
 
 #: includes/base/admin/form/functions-actions-form.php:23
 msgid "Please add a name for your new form."
-msgstr "Kérjük, adjon nevet az új űrlapnak"
+msgstr "Kérjük, adj nevet az új űrlapnak."
 
 #: includes/base/admin/calendar/functions-actions-ical.php:579
 msgid "Please add the iCal feed URL."
-msgstr ""
+msgstr "Kérjük, adja meg az iCal feed URL-címét."
 
 #: includes/base/form/class-form-outputter.php:664
 msgid "Please add your reCAPTCHA API keys in the Settings page."
-msgstr ""
+msgstr "Kérjük, add hozzá a reCAPTCHA API kulcsokat a Beállítások oldalon."
 
 #: includes/base/admin/form/functions.php:561
 msgid "Please check the fields below for errors."
@@ -3375,7 +3270,7 @@ msgstr "Kérjük, győződjön meg róla, hogy a kiválasztott fájl formátuma 
 msgid "Please provide a name for your iCal calendar."
 msgstr ""
 
-#: includes/modules/update-checker/functions.php:97 
+#: includes/modules/update-checker/functions.php:97
 #: includes/modules/update-checker/functions.php:115
 msgid "Please provide a serial key."
 msgstr "Kérjük, adja meg a licence kulcsot."
@@ -3406,20 +3301,20 @@ msgstr "Kérjük, legfeljebb %s napot válasszon."
 msgid "Please select a minimum of %s days."
 msgstr "Kérjük, legalább %s napot válasszon."
 
-#: includes/base/admin/calendar/functions-actions-legend-item.php:39 
+#: includes/base/admin/calendar/functions-actions-legend-item.php:39
 #: includes/base/admin/calendar/functions-actions-legend-item.php:135
 msgid "Please select a type for your legend item."
 msgstr ""
 
 #: includes/base/admin/calendar/functions-actions-ical.php:381
 msgid "Please select an iCal file."
-msgstr ""
+msgstr "Kérjük, válasszon ki egy iCal fájlt."
 
 #: includes/base/admin/calendar/functions-actions-csv.php:32
 msgid "Please select at least one legend item to export."
 msgstr ""
 
-#: includes/base/admin/calendar/functions-actions-legend-item.php:53 
+#: includes/base/admin/calendar/functions-actions-legend-item.php:53
 #: includes/base/admin/calendar/functions-actions-legend-item.php:149
 msgid "Please select the color for your legend item."
 msgstr ""
@@ -3466,7 +3361,7 @@ msgstr ""
 
 #: includes/modules/upgrader/views/view-upgrader.php:72
 msgid "Please wait..."
-msgstr ""
+msgstr "Kérlek várj..."
 
 #: includes/base/admin/settings/views/view-settings-tab-form.php:33
 msgid "Plugin Styling"
@@ -3474,14 +3369,14 @@ msgstr "Bővítmény stílus"
 
 #: includes/base/admin/calendar/class-submenu-page-calendar.php:109
 msgid "Preferences saved successfully."
-msgstr ""
+msgstr "A beállítások sikeresen mentve."
 
 #: includes/base/class-customizer.php:56
 msgid "Presets"
 msgstr ""
 
-#: includes/modules/pricing/functions-pricing.php:49 
-#: includes/modules/pricing/functions-pricing.php:98 
+#: includes/modules/pricing/functions-pricing.php:49
+#: includes/modules/pricing/functions-pricing.php:98
 #: includes/modules/pricing/functions-pricing.php:421
 msgid "Price"
 msgstr "Ár"
@@ -3523,22 +3418,21 @@ msgid "Processing payment, please wait..."
 msgstr "Folyamatban van a fizetés, kérjük várjon..."
 
 #: includes/modules/pricing/settings/views/view-payment-settings-general.php:66
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:26
 msgid "Product Name"
 msgstr "Terméknév"
 
 #: includes/base/admin/settings/views/view-settings-tab-form.php:104
 msgid "reCAPTCHA Type"
-msgstr ""
+msgstr "reCAPTCHA típus"
 
 #: includes/base/admin/settings/views/view-settings-tab-form.php:109
 msgid "reCAPTCHA v2 Tickbox"
-msgstr ""
+msgstr "reCAPTCHA v2 jelölőnégyzet"
 
 #: includes/base/admin/settings/views/view-settings-tab-form.php:110
 msgid "reCAPTCHA v3"
-msgstr ""
+msgstr "reCAPTCHA v3"
 
 #: includes/base/admin/booking/views/view-modal-email-logs.php:7
 msgid "Recepient"
@@ -3546,7 +3440,7 @@ msgstr "Címzett"
 
 #: includes/modules/pricing/functions-pricing.php:103
 msgid "Recurring - Between the selected dates, but each year"
-msgstr "Ismétlődő - A kiválasztott időpontok között, de minden évben."
+msgstr "Ismétlődő - A kiválasztott időpontok között, de minden évben"
 
 #: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:27
 msgid "Redirect to a Page"
@@ -3558,7 +3452,7 @@ msgstr "Átirányítási URL"
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:434
 msgid "Refresh iCal Data"
-msgstr ""
+msgstr "ICal adatok frissítése"
 
 #: includes/modules/tools/views/view-tools.php:66
 msgid "Regenerate Part Payment Email Cron Jobs"
@@ -3568,7 +3462,7 @@ msgstr ""
 msgid "Regenerate Payment Reminder Email cron jobs"
 msgstr "Fizetési emlékeztető e-mail cron folyamatok újragenerálása"
 
-#: includes/modules/update-checker/functions.php:62 
+#: includes/modules/update-checker/functions.php:62
 #: includes/modules/update-checker/views/view-register-website.php:21
 msgid "Register Website"
 msgstr "Weboldal regisztrálás"
@@ -3579,11 +3473,10 @@ msgstr ""
 
 #: includes/base/admin/booking/class-booking-detail-outputter.php:270
 msgid "Reminder SMS"
-msgstr ""
+msgstr "Emlékeztető SMS"
 
-#: includes/base/admin/settings/views/view-settings-tab-email.php:218 
-#: includes/base/admin/calendar/views/view-ical-import-export.php:303 
-#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:56 
+#: includes/base/admin/settings/views/view-settings-tab-email.php:218
+#: includes/base/admin/calendar/views/view-ical-import-export.php:303
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:56
 msgid "Remove"
 msgstr "Eltávolítás"
@@ -3594,28 +3487,24 @@ msgstr "eltávolítás"
 
 #: includes/base/admin/settings/views/view-settings-tab-email.php:132
 msgid "remove image"
-msgstr "Kép törlése"
+msgstr "kép eltávolítása"
 
-#: includes/base/class-widget-overview-calendar.php:215 
-#: includes/base/class-widget-calendar.php:297 
-#: includes/modules/elementor/widgets/overview-calendar.php:226 
-#: includes/modules/elementor/widgets/single-calendar.php:293 
+#: includes/base/class-widget-overview-calendar.php:215
+#: includes/base/class-widget-calendar.php:297
+#: includes/modules/elementor/widgets/overview-calendar.php:226
+#: includes/modules/elementor/widgets/single-calendar.php:293
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:201
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:125
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:210
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:93
 msgid "Replace booking history with the default legend item"
 msgstr ""
 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:107 
-#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:91 
-#: includes/base/admin/booking/views/view-modal-email-customer.php:58 
-#: includes/base/admin/booking/views/view-modal-manage-booking.php:107 
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:107
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:91
+#: includes/base/admin/booking/views/view-modal-email-customer.php:58
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:107
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:120
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:130
 msgid "Reply To"
 msgstr "Válasz neki"
@@ -3634,38 +3523,35 @@ msgstr ""
 
 #: includes/base/admin/booking/class-booking-detail-outputter.php:147
 msgid "Restore Booking"
-msgstr ""
+msgstr "Foglalás visszaállítása"
 
 #: includes/base/admin/calendar/class-list-table-calendars.php:248
 msgid "Restore Calendar"
-msgstr ""
+msgstr "Naptár visszaállítása"
 
 #: includes/base/admin/form/class-list-table-forms.php:230
 msgid "Restore form"
-msgstr ""
+msgstr "Űrlap visszaállítása"
 
 #: includes/modules/pricing/settings/views/view-payment-settings-general.php:56
 msgid "Right (eg. 100.00£)"
 msgstr "Jobbra (pl. 100.00Ft)"
 
-#: includes/modules/pricing/functions-part-payments.php:170 
+#: includes/modules/pricing/functions-part-payments.php:170
 #: includes/modules/pricing/functions-part-payments.php:508
 msgid "Same as initial payment"
 msgstr "Ugyanaz, mint a kezdeti kifizetés(initial payment)"
 
-#: includes/base/functions.php:79 includes/base/class-widget-calendar.php:222 
-#: includes/base/class-widget-calendar.php:434 
-#: includes/base/class-widget-calendar.php:450 
-#: includes/modules/elementor/widgets/single-calendar.php:279 
-#: includes/modules/elementor/widgets/single-calendar.php:475 
-#: includes/modules/elementor/widgets/single-calendar.php:494 
+#: includes/base/functions.php:79 includes/base/class-widget-calendar.php:222
+#: includes/base/class-widget-calendar.php:434
+#: includes/base/class-widget-calendar.php:450
+#: includes/modules/elementor/widgets/single-calendar.php:279
+#: includes/modules/elementor/widgets/single-calendar.php:475
+#: includes/modules/elementor/widgets/single-calendar.php:494
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:164
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:376
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:399
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:81 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:81
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:92
 msgid "Saturday"
 msgstr "Szombat"
@@ -3678,19 +3564,19 @@ msgstr ""
 "Az ügyfélnek küldött összes e-mail naplójának mentése. A naplók a Foglalási "
 "modal felugró ablakban lesznek elérhetők."
 
-#: includes/base/admin/calendar/views/view-edit-calendar.php:59 
+#: includes/base/admin/calendar/views/view-edit-calendar.php:59
 #: includes/base/admin/calendar/views/view-edit-calendar.php:536
 msgid "Save Calendar"
 msgstr "Naptár mentése"
 
-#: includes/base/admin/booking/views/view-add-booking.php:113 
-#: includes/base/admin/booking/views/view-modal-booking-details.php:38 
-#: includes/base/admin/booking/views/view-modal-booking-details.php:82 
+#: includes/base/admin/booking/views/view-add-booking.php:113
+#: includes/base/admin/booking/views/view-modal-booking-details.php:38
+#: includes/base/admin/booking/views/view-modal-booking-details.php:82
 #: includes/modules/pricing/booking/views/view-modal-payment-details-content.php:59
 msgid "Save Changes"
 msgstr "Változások mentése"
 
-#: includes/base/admin/form/views/view-edit-form.php:67 
+#: includes/base/admin/form/views/view-edit-form.php:67
 #: includes/base/admin/form/views/view-edit-form.php:157
 msgid "Save Form"
 msgstr "Űrlap mentése"
@@ -3701,26 +3587,26 @@ msgstr ""
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:110
 msgid "Save Preferences"
-msgstr ""
+msgstr "Beállítások mentése"
 
-#: includes/base/admin/settings/views/view-settings-tab-general.php:203 
-#: includes/base/admin/settings/views/view-settings-tab-languages.php:42 
-#: includes/base/admin/settings/views/view-settings-tab-form.php:184 
-#: includes/base/admin/settings/views/view-settings-tab-email.php:273 
-#: includes/base/admin/settings/views/view-settings-tab-strings.php:58 
+#: includes/base/admin/settings/views/view-settings-tab-general.php:203
+#: includes/base/admin/settings/views/view-settings-tab-languages.php:42
+#: includes/base/admin/settings/views/view-settings-tab-form.php:184
+#: includes/base/admin/settings/views/view-settings-tab-email.php:273
+#: includes/base/admin/settings/views/view-settings-tab-strings.php:58
 #: includes/modules/pricing/settings/views/view-payment-settings.php:75
 msgid "Save Settings"
 msgstr "Beállítások mentése"
 
-#: includes/base/admin/booking/class-booking-detail-outputter.php:250 
-#: includes/base/admin/booking/class-booking-detail-outputter.php:271 
-#: includes/base/admin/booking/class-booking-detail-outputter.php:292 
-#: includes/base/admin/booking/class-booking-detail-outputter.php:313 
-#: includes/base/admin/booking/class-booking-detail-outputter.php:335 
+#: includes/base/admin/booking/class-booking-detail-outputter.php:250
+#: includes/base/admin/booking/class-booking-detail-outputter.php:271
+#: includes/base/admin/booking/class-booking-detail-outputter.php:292
+#: includes/base/admin/booking/class-booking-detail-outputter.php:313
+#: includes/base/admin/booking/class-booking-detail-outputter.php:335
 #: includes/base/admin/booking/class-booking-detail-outputter.php:356
 #, php-format
 msgid "Scheduled to be sent on <strong>%s</strong>."
-msgstr ""
+msgstr "Az ütemezés szerint küldésre kerül <strong>%s</strong>."
 
 #: includes/base/admin/booking/class-bookings-outputter.php:283
 msgid "Search bookings"
@@ -3740,7 +3626,7 @@ msgstr "Másodlagos fizetési oldal"
 
 #: includes/base/admin/calendar/views/view-add-calendar.php:49
 msgid "Select calendar..."
-msgstr ""
+msgstr "Naptár kiválasztása..."
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:29
 msgid "Select Calendars"
@@ -3841,37 +3727,35 @@ msgstr ""
 "Válassza ki, hogy melyik naptárat szeretné beilleszteni, és a beállítások "
 "segítségével testre szabhatja az igényeinek megfelelően."
 
-#: includes/base/admin/settings/views/view-settings-tab-general.php:173 
-#: includes/base/admin/calendar/views/view-ical-import-export.php:169 
-#: includes/base/admin/calendar/views/view-ical-import-export.php:192 
-#: includes/base/admin/calendar/views/view-ical-import-export.php:212 
-#: includes/base/admin/calendar/views/view-ical-import-export.php:348 
-#: includes/base/admin/calendar/views/view-ical-import-export.php:390 
-#: includes/base/admin/calendar/views/view-ical-import-export.php:412 
-#: includes/base/admin/calendar/views/view-edit-calendar.php:185 
+#: includes/base/admin/settings/views/view-settings-tab-general.php:173
+#: includes/base/admin/calendar/views/view-ical-import-export.php:169
+#: includes/base/admin/calendar/views/view-ical-import-export.php:192
+#: includes/base/admin/calendar/views/view-ical-import-export.php:212
+#: includes/base/admin/calendar/views/view-ical-import-export.php:348
+#: includes/base/admin/calendar/views/view-ical-import-export.php:390
+#: includes/base/admin/calendar/views/view-ical-import-export.php:412
+#: includes/base/admin/calendar/views/view-edit-calendar.php:185
 #: includes/base/admin/calendar/views/view-edit-calendar.php:212
 msgid "Select..."
 msgstr "Válassza ki..."
 
-#: includes/base/class-widget-overview-calendar.php:138 
-#: includes/base/class-widget-overview-calendar.php:144 
-#: includes/modules/elementor/widgets/overview-calendar.php:132 
+#: includes/base/class-widget-overview-calendar.php:138
+#: includes/base/class-widget-overview-calendar.php:144
+#: includes/modules/elementor/widgets/overview-calendar.php:132
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:21
 msgid "Selected Calendars"
 msgstr "Kiválasztott naptárak"
 
-#: includes/base/class-widget-calendar.php:399 
-#: includes/modules/elementor/widgets/single-calendar.php:433 
+#: includes/base/class-widget-calendar.php:399
+#: includes/modules/elementor/widgets/single-calendar.php:433
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:335
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:281
 msgid "Selection Style"
 msgstr "Kiválasztása stílusa"
 
-#: includes/base/class-widget-calendar.php:389 
-#: includes/modules/elementor/widgets/single-calendar.php:420 
+#: includes/base/class-widget-calendar.php:389
+#: includes/modules/elementor/widgets/single-calendar.php:420
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:318
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:272
 msgid "Selection Type"
 msgstr "Kiválasztás típusa"
@@ -3932,25 +3816,22 @@ msgid ""
 "final payment."
 msgstr ""
 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:52 
-#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:41 
-#: includes/base/admin/booking/views/view-modal-email-customer.php:10 
-#: includes/base/admin/booking/views/view-modal-manage-booking.php:59 
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:52
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:41
+#: includes/base/admin/booking/views/view-modal-email-customer.php:10
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:59
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:66
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:76
 msgid "Send To"
 msgstr "Címzett"
 
-#: includes/base/class-widget-overview-calendar.php:189 
-#: includes/base/class-widget-calendar.php:271 
-#: includes/modules/elementor/widgets/overview-calendar.php:210 
-#: includes/modules/elementor/widgets/single-calendar.php:246 
+#: includes/base/class-widget-overview-calendar.php:189
+#: includes/base/class-widget-calendar.php:271
+#: includes/modules/elementor/widgets/overview-calendar.php:210
+#: includes/modules/elementor/widgets/single-calendar.php:246
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:113
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:102
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:56 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:56
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:34
 msgid "September"
 msgstr "Szeptember"
@@ -3984,15 +3865,15 @@ msgstr ""
 msgid "Set Up A Legend Item"
 msgstr ""
 
-#: includes/base/admin/settings/functions.php:40 
-#: includes/base/admin/settings/functions.php:41 
+#: includes/base/admin/settings/functions.php:40
+#: includes/base/admin/settings/functions.php:41
 #: includes/base/admin/settings/views/view-settings.php:19
 msgid "Settings"
 msgstr "Beállítások"
 
 #: includes/base/admin/form/functions.php:277
 msgid "Settings Page"
-msgstr ""
+msgstr "Beállítások oldal"
 
 #: includes/base/admin/settings/class-submenu-page-settings.php:28
 msgid "Settings saved successfully."
@@ -4002,83 +3883,73 @@ msgstr "A beállítások sikeresen mentve."
 msgid "Show a Message"
 msgstr "Üzenet megjelenítése"
 
-#: includes/base/class-widget-calendar.php:457 
+#: includes/base/class-widget-calendar.php:457
 #: includes/modules/elementor/widgets/single-calendar.php:504
 msgid "Show Date Selection"
 msgstr "Kiválasztott dátumok megjelenítése"
 
-#: includes/base/class-widget-overview-calendar.php:233 
+#: includes/base/class-widget-overview-calendar.php:233
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:147
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:112
 msgid "Show Day Abbreviations"
 msgstr "Napok mutatása rövidítve"
 
-#: includes/modules/elementor/widgets/overview-calendar.php:222 
-#: includes/modules/elementor/widgets/single-calendar.php:289 
+#: includes/modules/elementor/widgets/overview-calendar.php:222
+#: includes/modules/elementor/widgets/single-calendar.php:289
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:197
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:121
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:204
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:87
 msgid "Show History"
 msgstr "Múltbeli dátumok megjelenítése"
 
-#: includes/base/class-widget-overview-calendar.php:211 
+#: includes/base/class-widget-overview-calendar.php:211
 #: includes/base/class-widget-calendar.php:293
 msgid "Show history"
-msgstr ""
+msgstr "Előzmények megjelenítése"
 
-#: includes/base/class-widget-calendar.php:346 
-#: includes/modules/elementor/widgets/single-calendar.php:343 
+#: includes/base/class-widget-calendar.php:346
+#: includes/modules/elementor/widgets/single-calendar.php:343
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:253
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:246
 msgid "Show Prices"
 msgstr "Árak mutatása"
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:408
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:324
 msgid "Show Selected Dates"
-msgstr ""
+msgstr "Kiválasztott időpontok megjelenítése"
 
-#: includes/base/class-widget-overview-calendar.php:222 
+#: includes/base/class-widget-overview-calendar.php:222
 #: includes/base/class-widget-calendar.php:304
 msgid "Show Tooltip"
-msgstr ""
+msgstr "Tooltip megjelenítése"
 
-#: includes/base/class-widget-calendar.php:315 
-#: includes/modules/elementor/widgets/single-calendar.php:330 
+#: includes/base/class-widget-calendar.php:315
+#: includes/modules/elementor/widgets/single-calendar.php:330
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:240
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:237
 msgid "Show Week Numbers"
-msgstr ""
+msgstr "Hét számának megjelenítése"
 
 #: includes/modules/elementor/widgets/overview-calendar.php:250
 msgid "Show Weekday Abbreviations"
-msgstr ""
+msgstr "Hétköznapi rövidítések megjelenítése"
 
-#: includes/base/class-widget-calendar.php:196 
-#: includes/base/class-widget-calendar.php:373 
-#: includes/modules/elementor/widgets/single-calendar.php:203 
-#: includes/modules/elementor/widgets/single-calendar.php:398 
+#: includes/base/class-widget-calendar.php:196
+#: includes/base/class-widget-calendar.php:373
+#: includes/modules/elementor/widgets/single-calendar.php:203
+#: includes/modules/elementor/widgets/single-calendar.php:398
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:57
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:298
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:134
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:259
 msgid "Side"
 msgstr "Oldalt"
 
 #: includes/base/admin/booking/class-booking-detail-outputter.php:404
 msgid "Signed"
-msgstr ""
+msgstr "Aláírt"
 
 #: includes/base/admin/calendar/views/view-add-edit-legend-item.php:73
 msgid "Single"
@@ -4086,12 +3957,11 @@ msgstr "Teljes"
 
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:10
 msgid "Single Calendar"
-msgstr ""
+msgstr "Egyetlen naptár"
 
-#: includes/base/class-widget-calendar.php:393 
-#: includes/modules/elementor/widgets/single-calendar.php:424 
+#: includes/base/class-widget-calendar.php:393
+#: includes/modules/elementor/widgets/single-calendar.php:424
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:322
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:276
 msgid "Single Day"
 msgstr "Egyetlen nap"
@@ -4100,8 +3970,8 @@ msgstr "Egyetlen nap"
 msgid "Skip"
 msgstr ""
 
-#: includes/base/admin/booking/class-booking-detail-outputter.php:272 
-#: includes/base/admin/booking/class-booking-detail-outputter.php:314 
+#: includes/base/admin/booking/class-booking-detail-outputter.php:272
+#: includes/base/admin/booking/class-booking-detail-outputter.php:314
 #: includes/base/admin/booking/class-booking-detail-outputter.php:357
 msgid "SMS will be sent only if the booking is Accepted."
 msgstr ""
@@ -4114,7 +3984,7 @@ msgstr ""
 msgid "Something went wrong. Could not add the legend item. Please try again."
 msgstr ""
 
-#: includes/modules/update-checker/functions.php:95 
+#: includes/modules/update-checker/functions.php:95
 #: includes/modules/update-checker/functions.php:113
 msgid "Something went wrong. Could not complete the operation."
 msgstr ""
@@ -4141,15 +4011,15 @@ msgstr ""
 "Valami rosszul sült el. Nem sikerült létrehozni az űrlapot. Kérjük, próbálja "
 "meg újra."
 
-#: includes/base/admin/calendar/functions-actions-legend-item.php:216 
-#: includes/base/admin/calendar/functions-actions-legend-item.php:231 
+#: includes/base/admin/calendar/functions-actions-legend-item.php:216
+#: includes/base/admin/calendar/functions-actions-legend-item.php:231
 #: includes/base/admin/calendar/functions-actions-legend-item.php:246
 msgid ""
 "Something went wrong. Could not delete the legend item. Please try again."
 msgstr ""
 
-#: includes/base/admin/calendar/functions-actions-ical.php:421 
-#: includes/base/admin/calendar/functions-actions-ical.php:435 
+#: includes/base/admin/calendar/functions-actions-ical.php:421
+#: includes/base/admin/calendar/functions-actions-ical.php:435
 #: includes/base/admin/calendar/functions-actions-ical.php:661
 msgid "Something went wrong. Could not import the iCal file."
 msgstr ""
@@ -4158,18 +4028,18 @@ msgstr ""
 msgid "Something went wrong. Could not import the iCal URL."
 msgstr ""
 
-#: includes/base/admin/calendar/functions-actions-ical.php:833 
+#: includes/base/admin/calendar/functions-actions-ical.php:833
 #: includes/base/admin/calendar/functions-actions-ical.php:847
 msgid "Something went wrong. Could not refresh the iCal feeds."
 msgstr ""
 
-#: includes/base/admin/calendar/functions-actions-ical.php:707 
-#: includes/base/admin/calendar/functions-actions-ical.php:717 
+#: includes/base/admin/calendar/functions-actions-ical.php:707
+#: includes/base/admin/calendar/functions-actions-ical.php:717
 #: includes/base/admin/calendar/functions-actions-ical.php:734
 msgid "Something went wrong. Could not remove the iCal URL."
 msgstr ""
 
-#: includes/base/admin/calendar/functions-actions-ical.php:284 
+#: includes/base/admin/calendar/functions-actions-ical.php:284
 #: includes/base/admin/calendar/functions-actions-ical.php:304
 msgid "Something went wrong. Could not reset the private link."
 msgstr ""
@@ -4207,10 +4077,10 @@ msgstr "Rendezés"
 msgid "Sort order"
 msgstr "Rendezés sorrendje"
 
-#: includes/base/class-widget-calendar.php:403 
-#: includes/modules/elementor/widgets/single-calendar.php:437 
+#: includes/base/class-widget-calendar.php:403
+#: includes/modules/elementor/widgets/single-calendar.php:437
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:339
-#:  includes/base/admin/calendar/views/view-add-edit-legend-item.php:74 
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:74
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:285
 msgid "Split"
 msgstr "Tört"
@@ -4223,7 +4093,7 @@ msgstr ""
 msgid "Split Day Start"
 msgstr ""
 
-#: includes/base/admin/booking/views/view-add-booking.php:50 
+#: includes/base/admin/booking/views/view-add-booking.php:50
 #: includes/base/admin/calendar/views/view-ical-import-export.php:294
 msgid "Split Days"
 msgstr "Napokra bontva"
@@ -4236,9 +4106,9 @@ msgstr ""
 "Kezdje el az űrlap felépítését egy űrlapelem hozzáadásával. Kattintson a "
 "jobb oldali elemek bármelyikére a hozzáadáshoz!"
 
-#: includes/base/admin/form/functions.php:564 
-#: includes/base/admin/form/functions.php:628 
-#: includes/base/admin/booking/class-booking-detail-outputter.php:194 
+#: includes/base/admin/form/functions.php:564
+#: includes/base/admin/form/functions.php:628
+#: includes/base/admin/booking/class-booking-detail-outputter.php:194
 #: includes/base/admin/calendar/views/view-edit-calendar.php:351
 msgid "Start Date"
 msgstr "Kezdeti dátum"
@@ -4249,22 +4119,19 @@ msgstr "Kezdeti dátum"
 
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:172
 msgid "Start Date only"
-msgstr "Csak a kezdési dátum "
+msgstr "Csak a kezdeti dátum"
 
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:173
 msgid "Start Date or End Date"
 msgstr "Kezdési, vagy befejezési dátum"
 
-#: includes/base/class-widget-overview-calendar.php:177 
-#: includes/base/class-widget-calendar.php:259 
-#: includes/modules/elementor/widgets/overview-calendar.php:198 
-#: includes/modules/elementor/widgets/single-calendar.php:234 
+#: includes/base/class-widget-overview-calendar.php:177
+#: includes/base/class-widget-calendar.php:259
+#: includes/modules/elementor/widgets/overview-calendar.php:198
+#: includes/modules/elementor/widgets/single-calendar.php:234
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:101
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:90
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:154
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:79
 msgid "Start Month"
 msgstr "Kezdeti hónap"
@@ -4279,16 +4146,13 @@ msgstr ""
 msgid "Start writing your note here..."
 msgstr "Kezdje el írni a jegyzetét..."
 
-#: includes/base/class-widget-overview-calendar.php:198 
-#: includes/base/class-widget-calendar.php:280 
-#: includes/modules/elementor/widgets/overview-calendar.php:188 
-#: includes/modules/elementor/widgets/single-calendar.php:224 
+#: includes/base/class-widget-overview-calendar.php:198
+#: includes/base/class-widget-calendar.php:280
+#: includes/modules/elementor/widgets/overview-calendar.php:188
+#: includes/modules/elementor/widgets/single-calendar.php:224
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:86
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:75
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:146
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:71
 msgid "Start Year"
 msgstr "Kezdeti év"
@@ -4309,21 +4173,20 @@ msgstr "Szövegek & Fordítások"
 msgid "Styling"
 msgstr "Stílus"
 
-#: includes/base/admin/settings/views/view-settings-tab-email.php:225 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:118 
+#: includes/base/admin/settings/views/view-settings-tab-email.php:225
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:118
 #: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:100
-#:  includes/base/admin/booking/views/view-modal-email-customer.php:66 
-#: includes/base/admin/booking/views/view-modal-manage-booking.php:115 
+#: includes/base/admin/booking/views/view-modal-email-customer.php:66
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:115
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:131
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:141
 msgid "Subject"
 msgstr "Tárgy"
 
-#: includes/base/form/class-form-outputter.php:1419 
+#: includes/base/form/class-form-outputter.php:1419
 #: includes/base/admin/form/functions-actions-form.php:52
 msgid "Submit"
-msgstr ""
+msgstr "Elküld"
 
 #: includes/base/admin/form/views/view-edit-form-tab-general-options.php:17
 msgid "Submit Button Label"
@@ -4335,21 +4198,18 @@ msgstr "Részösszeg"
 
 #: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:197
 msgid "Summary"
-msgstr ""
+msgstr "Összegzés"
 
-#: includes/base/functions.php:80 includes/base/class-widget-calendar.php:223 
-#: includes/base/class-widget-calendar.php:435 
-#: includes/base/class-widget-calendar.php:451 
-#: includes/modules/elementor/widgets/single-calendar.php:280 
-#: includes/modules/elementor/widgets/single-calendar.php:476 
-#: includes/modules/elementor/widgets/single-calendar.php:495 
+#: includes/base/functions.php:80 includes/base/class-widget-calendar.php:223
+#: includes/base/class-widget-calendar.php:435
+#: includes/base/class-widget-calendar.php:451
+#: includes/modules/elementor/widgets/single-calendar.php:280
+#: includes/modules/elementor/widgets/single-calendar.php:476
+#: includes/modules/elementor/widgets/single-calendar.php:495
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:165
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:377
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:400
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:82 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:82
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:93
 msgid "Sunday"
 msgstr "Vasárnap"
@@ -4360,23 +4220,23 @@ msgstr "Szimbólum (pl. $, £, Ft)"
 
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:55
 msgid "Tax"
-msgstr ""
+msgstr "Adó"
 
-#: includes/modules/pricing/settings/functions.php:41 
+#: includes/modules/pricing/settings/functions.php:41
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:24
 msgid "Taxes"
 msgstr "Adók"
 
 #: includes/base/admin/settings/views/view-settings-tab-email.php:201
 msgid "Template #"
-msgstr ""
+msgstr "Sablon #"
 
-#: includes/base/class-customizer.php:348 
+#: includes/base/class-customizer.php:348
 #: includes/base/admin/calendar/views/view-add-edit-legend-item.php:91
 msgid "Text Color"
 msgstr "Szöveg szín"
 
-#: includes/base/admin/form/functions.php:604 
+#: includes/base/admin/form/functions.php:604
 #: includes/base/admin/form/functions.php:608
 #, php-format
 msgid ""
@@ -4384,7 +4244,7 @@ msgid ""
 "shortcode."
 msgstr ""
 
-#: includes/base/admin/form/functions.php:612 
+#: includes/base/admin/form/functions.php:612
 #: includes/base/admin/form/functions.php:616
 #, php-format
 msgid ""
@@ -4419,7 +4279,7 @@ msgstr "A naptári dátumok színe a kijelölés után."
 
 #: includes/base/admin/settings/views/view-settings-tab-general.php:37
 msgid "The color of the calendar dates when hovering over them."
-msgstr "A naptári dátumok színe, amikor föléjük húzzuk az egeret"
+msgstr "A naptári dátumok színe, amikor föléjük húzzuk az egeret."
 
 #: includes/modules/pricing/functions-part-payments.php:232
 msgid ""
@@ -4441,15 +4301,15 @@ msgstr ""
 
 #: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:231
 msgid "The event description."
-msgstr ""
+msgstr "Az esemény leírása."
 
 #: includes/base/admin/backup/views/view-backup.php:28
 msgid ""
 "The export file will contain all information saved by the plugin, including "
 "calendars, bookings and general settings."
 msgstr ""
-"Az exportált fájl tartalmazza a bővítmény által elmentett összes információt,"
-" beleértve a naptárakat, foglalásokat és általános beállításokat."
+"Az exportált fájl tartalmazza a bővítmény által elmentett összes "
+"információt, beleértve a naptárakat, foglalásokat és általános beállításokat."
 
 #: includes/base/admin/backup/functions-actions-backup.php:83
 msgid ""
@@ -4463,20 +4323,20 @@ msgid ""
 "plugin."
 msgstr ""
 
-#: includes/modules/pricing/functions-part-payments.php:236 
-#: includes/modules/pricing/functions-part-payments.php:770 
+#: includes/modules/pricing/functions-part-payments.php:236
+#: includes/modules/pricing/functions-part-payments.php:770
 #: includes/base/admin/form/functions-actions-form.php:54
 msgid "The form was successfully submitted."
 msgstr "Az űrlapot sikeresen elküldtük."
 
-#: includes/base/admin/calendar/functions-actions-ical.php:626 
+#: includes/base/admin/calendar/functions-actions-ical.php:626
 #: includes/base/admin/calendar/functions-actions-ical.php:637
 msgid "The iCal feed URL is not valid or could not be opened."
 msgstr ""
 
 #: includes/base/admin/calendar/functions-actions-ical.php:614
 msgid "The iCal feed URL is not valid."
-msgstr ""
+msgstr "Az iCal feed URL nem érvényes."
 
 #: includes/base/admin/calendar/functions-actions-ical.php:460
 msgid "The iCal file has no events to import."
@@ -4495,7 +4355,6 @@ msgid "The loading message while the payment is being processed."
 msgstr ""
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:356
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:302
 msgid ""
 "The maximum number of days of a booking. If you are using the \"Split\" "
@@ -4516,7 +4375,6 @@ msgstr ""
 "kiválasztva."
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:347
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:294
 msgid ""
 "The minimum number of days of a booking. If you are using the \"Split\" "
@@ -4531,13 +4389,11 @@ msgid ""
 msgstr ""
 
 #: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:57
-#:  
 #: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:57
 msgid "The payment method description that appears on the booking form."
 msgstr "A foglalási űrlapon megjelenő fizetési mód leírása."
 
 #: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:29
-#:  
 #: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:29
 msgid "The payment method name that appears on the booking form."
 msgstr "A foglalási űrlapon megjelenő fizetési mód neve."
@@ -4553,18 +4409,18 @@ msgstr ""
 
 #: includes/modules/pricing/settings/views/view-payment-settings-general.php:67
 msgid ""
-"The product name to show in the price calculator for date selections. For eg."
-" \"Days\". If the users selects 4 days in the calendar, the price "
+"The product name to show in the price calculator for date selections. For "
+"eg. \"Days\". If the users selects 4 days in the calendar, the price "
 "calculation will show \"Days &times; 4: 100 EUR\""
 msgstr ""
 "Az árkalkulátorban a dátumválasztásnál megjelenítendő terméknév. Például "
 "\"Nap\". Ha a felhasználó 4 napot választ ki a naptárban, akkor az "
-"árkalkulációban a \"Nap &times; 4: 100 EUR\" fog megjelenni. "
+"árkalkulációban a \"Nap &times; 4: 100 EUR\" fog megjelenni."
 
 #: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:27
 msgid ""
-"The product name to show in the price calculator for date selections. For eg."
-" \"Days\". If the users selects 4 days in the calendar, the price "
+"The product name to show in the price calculator for date selections. For "
+"eg. \"Days\". If the users selects 4 days in the calendar, the price "
 "calculation will show \"Days &times; 4: 100 EUR\". "
 msgstr ""
 "Az árkalkulátorban a dátumválasztásnál megjelenítendő terméknév. Például "
@@ -4610,11 +4466,11 @@ msgstr "Sablon stílus"
 
 #: includes/modules/user-restrictions/views/view-edit-calendar-main-fields.php:68
 msgid "There are no users that can be assigned to the calendar."
-msgstr "A naptárhoz nincsenek még  felhasználók hozzárendelve"
+msgstr "A naptárhoz nincsenek még felhasználók hozzárendelve."
 
 #: includes/modules/user-restrictions/views/view-edit-form-main-fields.php:71
 msgid "There are no users that can be assigned to the form."
-msgstr "Az űrlaphoz nincsenek még  felhasználók hozzárendelve"
+msgstr "Az űrlaphoz nincsenek még felhasználók hozzárendelve."
 
 #: includes/base/admin/settings/views/view-settings-tab-strings-form.php:13
 msgid ""
@@ -4638,8 +4494,8 @@ msgstr ""
 "Ez a bővítmény lehetővé teszi egy kereső widget létrehozását, hogy a "
 "weboldal látogatói keresni tudjanak a naptárak között."
 
-#: includes/base/admin/form/functions.php:625 
-#: includes/base/admin/form/functions.php:629 
+#: includes/base/admin/form/functions.php:625
+#: includes/base/admin/form/functions.php:629
 #: includes/base/admin/form/functions.php:633
 msgid "This appears in the email if the {All Fields} tag is used."
 msgstr "Akkor jelenik meg az e-mailben, ha az {All Fields} használja."
@@ -4686,11 +4542,8 @@ msgstr ""
 "kerül."
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:197
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:121
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:213
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:96
 msgid ""
 "This option lets you decide how past dates are being displayed for the user "
@@ -4731,8 +4584,9 @@ msgstr ""
 
 #: includes/base/admin/calendar/class-list-table-calendars.php:237
 msgid ""
-"This will duplicate the calendar and copy legend items, events, availability,"
-" prices and inventory. It will not copy bookings or any iCalendar feeds."
+"This will duplicate the calendar and copy legend items, events, "
+"availability, prices and inventory. It will not copy bookings or any "
+"iCalendar feeds."
 msgstr ""
 
 #: includes/modules/tools/views/view-tools.php:43
@@ -4759,26 +4613,24 @@ msgstr ""
 "Ez eltávolítja az összes foglalást, foglalási és fizetési adatot. A "
 "foglalási azonosítókat is visszaállítja 1-re."
 
-#: includes/base/functions.php:77 includes/base/class-widget-calendar.php:220 
-#: includes/base/class-widget-calendar.php:432 
-#: includes/base/class-widget-calendar.php:448 
-#: includes/modules/elementor/widgets/single-calendar.php:277 
-#: includes/modules/elementor/widgets/single-calendar.php:473 
-#: includes/modules/elementor/widgets/single-calendar.php:492 
+#: includes/base/functions.php:77 includes/base/class-widget-calendar.php:220
+#: includes/base/class-widget-calendar.php:432
+#: includes/base/class-widget-calendar.php:448
+#: includes/modules/elementor/widgets/single-calendar.php:277
+#: includes/modules/elementor/widgets/single-calendar.php:473
+#: includes/modules/elementor/widgets/single-calendar.php:492
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:162
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:374
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:397
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:79 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:79
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:90
 msgid "Thursday"
 msgstr "Csütörtök"
 
 #: includes/base/admin/calendar/views/view-edit-calendar.php:506
 msgid "To configure the CSV export settings please click the button below. "
-msgstr "To configure the CSV export settings please click the button below."
+msgstr ""
+"A CSV-export beállításainak konfigurálásához kattints az alábbi gombra. "
 
 #: includes/base/admin/calendar/views/view-edit-calendar.php:491
 msgid ""
@@ -4845,27 +4697,24 @@ msgstr "Aktuális nap kiemelt szín"
 msgid "Tools"
 msgstr "Eszközök"
 
-#: includes/base/admin/calendar/class-calendar-editor-outputter.php:268 
-#: includes/base/admin/booking/views/view-modal-manage-booking.php:25 
+#: includes/base/admin/calendar/class-calendar-editor-outputter.php:268
+#: includes/base/admin/booking/views/view-modal-manage-booking.php:25
 #: includes/base/admin/calendar/views/view-edit-calendar.php:420
 msgid "Tooltip"
-msgstr ""
+msgstr "Súgótip"
 
-#: includes/base/class-widget-overview-calendar.php:169 
-#: includes/base/class-widget-calendar.php:197 
-#: includes/modules/elementor/widgets/overview-calendar.php:178 
-#: includes/modules/elementor/widgets/single-calendar.php:204 
+#: includes/base/class-widget-overview-calendar.php:169
+#: includes/base/class-widget-calendar.php:197
+#: includes/modules/elementor/widgets/overview-calendar.php:178
+#: includes/modules/elementor/widgets/single-calendar.php:204
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:58
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:66
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:134
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:67
 msgid "Top"
 msgstr "Fent"
 
-#: includes/modules/pricing/functions-pricing.php:842 
+#: includes/modules/pricing/functions-pricing.php:842
 #: includes/modules/pricing/class-payment.php:891
 msgid "Total"
 msgstr "Összesen"
@@ -4886,74 +4735,60 @@ msgstr ""
 msgid "Translate calendar title"
 msgstr "Naptár címének fordítása"
 
-#: includes/modules/pricing/functions-part-payments.php:237 
-#: includes/base/admin/settings/views/view-settings-tab-strings-form.php:36 
-#: includes/base/admin/settings/views/view-settings-tab-email.php:163 
-#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:39 
-#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:67 
-#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:42 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:122 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:151 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:203 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:236 
-#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:21 
-#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:111 
-#: includes/base/admin/calendar/views/view-edit-calendar.php:194 
-#: includes/base/admin/calendar/views/view-edit-calendar.php:244 
+#: includes/modules/pricing/functions-part-payments.php:237
+#: includes/base/admin/settings/views/view-settings-tab-strings-form.php:36
+#: includes/base/admin/settings/views/view-settings-tab-email.php:163
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:39
+#: includes/base/admin/form/views/view-edit-form-tab-form-confirmation.php:67
+#: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:42
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:122
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:151
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:203
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:236
+#: includes/base/admin/form/views/view-edit-form-tab-general-options.php:21
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:111
+#: includes/base/admin/calendar/views/view-edit-calendar.php:194
+#: includes/base/admin/calendar/views/view-edit-calendar.php:244
 #: includes/modules/pricing/settings/views/view-payment-settings-general.php:72
-#:  
 #: includes/modules/pricing/settings/views/view-settings-tab-strings-payment.php:64
-#:  
 #: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:34
-#:  
 #: includes/modules/pricing/settings/views/view-payment-settings-payment-on-arrival.php:62
-#:  includes/modules/pricing/settings/views/view-payment-settings-taxes.php:66 
-#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:273 
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:66
+#: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:273
 #: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:34
-#:  
 #: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:62
-#:  
 #: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:91
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:135
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:164
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:145
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:174
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:32
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:95
 msgid "Translations"
 msgstr "Fordítások"
 
-#: includes/base/admin/form/class-list-table-forms.php:133 
-#: includes/base/admin/form/class-list-table-forms.php:220 
-#: includes/base/admin/calendar/class-list-table-calendars.php:132 
+#: includes/base/admin/form/class-list-table-forms.php:133
+#: includes/base/admin/form/class-list-table-forms.php:220
+#: includes/base/admin/calendar/class-list-table-calendars.php:132
 #: includes/base/admin/calendar/class-list-table-calendars.php:238
 msgid "Trash"
 msgstr "Lomtár"
 
-#: includes/base/functions.php:75 includes/base/class-widget-calendar.php:218 
-#: includes/base/class-widget-calendar.php:430 
-#: includes/base/class-widget-calendar.php:446 
-#: includes/modules/elementor/widgets/single-calendar.php:275 
-#: includes/modules/elementor/widgets/single-calendar.php:471 
-#: includes/modules/elementor/widgets/single-calendar.php:490 
+#: includes/base/functions.php:75 includes/base/class-widget-calendar.php:218
+#: includes/base/class-widget-calendar.php:430
+#: includes/base/class-widget-calendar.php:446
+#: includes/modules/elementor/widgets/single-calendar.php:275
+#: includes/modules/elementor/widgets/single-calendar.php:471
+#: includes/modules/elementor/widgets/single-calendar.php:490
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:160
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:372
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:395
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:77 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:77
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:88
 msgid "Tuesday"
 msgstr "Kedd"
 
-#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:70 
+#: includes/base/admin/calendar/views/view-add-edit-legend-item.php:70
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:86
 msgid "Type"
 msgstr "Típus"
@@ -4990,7 +4825,7 @@ msgstr "Foglalás frissítése"
 
 #: includes/base/admin/addons/views/view-addons.php:37
 msgid "Upgrade your licence"
-msgstr ""
+msgstr "Frissítd licenszed"
 
 #: includes/base/admin/settings/views/view-settings-tab-email.php:131
 msgid "Upload Image"
@@ -4998,7 +4833,7 @@ msgstr "Képfeltöltés"
 
 #: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:9
 msgid "Use Custom Strings"
-msgstr ""
+msgstr "Egyedi karakterláncok használata"
 
 #: includes/base/admin/form/views/view-edit-form-tab-form-strings.php:10
 msgid ""
@@ -5007,25 +4842,21 @@ msgid ""
 msgstr ""
 
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:185
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:195
 msgid "Use Jump Switch"
 msgstr ""
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:364
 msgid "Use Split Days"
-msgstr ""
+msgstr "Használja az osztott napokat"
 
-#: includes/base/class-widget-overview-calendar.php:216 
-#: includes/base/class-widget-calendar.php:298 
-#: includes/modules/elementor/widgets/overview-calendar.php:227 
-#: includes/modules/elementor/widgets/single-calendar.php:294 
+#: includes/base/class-widget-overview-calendar.php:216
+#: includes/base/class-widget-calendar.php:298
+#: includes/modules/elementor/widgets/overview-calendar.php:227
+#: includes/modules/elementor/widgets/single-calendar.php:294
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:202
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:126
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:211
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:94
 msgid "Use the Booking History Color from the Settings"
 msgstr "Használjuk a Beállításokban megadott színt"
@@ -5040,17 +4871,17 @@ msgstr ""
 
 #: includes/modules/user-restrictions/views/view-edit-calendar-main-fields.php:50
 msgid "User Assign"
-msgstr "felhasználó hozzárendelése"
+msgstr "Felhasználó hozzárendelése"
 
 #: includes/modules/user-restrictions/views/view-edit-form-main-fields.php:53
 msgid "User Editing Permissions"
 msgstr "Felhasználói szerkesztési jogosultságok"
 
-#: includes/base/admin/form/class-submenu-page-form.php:91 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:19 
+#: includes/base/admin/form/class-submenu-page-form.php:91
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:19
 #: includes/base/admin/booking/views/view-modal-email-logs.php:22
 msgid "User Notification"
-msgstr ""
+msgstr "Felhasználói értesítés"
 
 #: includes/modules/user-restrictions/views/view-settings-tab-general-fields.php:14
 msgid "User Role Permissions"
@@ -5070,19 +4901,19 @@ msgstr ""
 
 #: includes/base/admin/settings/views/view-settings-tab-form.php:133
 msgid "v2 Secret Key"
-msgstr ""
+msgstr "v2 Secret kulcs"
 
 #: includes/base/admin/settings/views/view-settings-tab-form.php:122
 msgid "v2 Site Key"
-msgstr ""
+msgstr "v2 Site Key"
 
 #: includes/base/admin/settings/views/view-settings-tab-form.php:160
 msgid "v3 Secret Key"
-msgstr ""
+msgstr "v3 Secret kulcs"
 
 #: includes/base/admin/settings/views/view-settings-tab-form.php:149
 msgid "v3 Site Key"
-msgstr ""
+msgstr "v3 Site Key"
 
 #: includes/base/admin/form/functions.php:582
 msgid "Validation Errors"
@@ -5092,7 +4923,7 @@ msgstr "Validációs hiba"
 msgid "Validation Strings"
 msgstr "Validációs szövegek"
 
-#: includes/modules/pricing/class-vat.php:102 
+#: includes/modules/pricing/class-vat.php:102
 #: includes/modules/pricing/settings/views/view-payment-settings-taxes.php:227
 msgid "VAT"
 msgstr "VAT (Forgalmi adó)"
@@ -5107,15 +4938,15 @@ msgstr "VAT százalék"
 
 #. Author of the plugin
 msgid "Veribo, Roland Murg"
-msgstr ""
+msgstr "Veribo, Roland Murg"
 
 #: includes/base/admin/booking/functions-add-booking.php:240
 msgid "View Booking"
-msgstr ""
+msgstr "Foglalás megtekintése"
 
 #: includes/base/admin/calendar/class-calendar-editor-outputter.php:326
 msgid "View Details"
-msgstr ""
+msgstr "Részletek megtekintése"
 
 #: includes/base/admin/booking/views/view-modal-email-logs.php:35
 msgid "View email body"
@@ -5123,7 +4954,7 @@ msgstr "Email tartalmának megtekintése"
 
 #: includes/base/admin/calendar/class-list-table-legend-items.php:79
 msgid "Visible"
-msgstr ""
+msgstr "Látható"
 
 #: includes/base/admin/form/functions.php:661
 msgid ""
@@ -5137,7 +4968,7 @@ msgstr ""
 
 #: includes/modules/update-checker/functions.php:119
 msgid "Website successfully deregistered."
-msgstr ""
+msgstr "A weboldal sikeresen törölve."
 
 #: includes/modules/update-checker/functions.php:107
 #, php-format
@@ -5146,19 +4977,16 @@ msgid ""
 "please check %syour account page on our website%s."
 msgstr ""
 
-#: includes/base/functions.php:76 includes/base/class-widget-calendar.php:219 
-#: includes/base/class-widget-calendar.php:431 
-#: includes/base/class-widget-calendar.php:447 
-#: includes/modules/elementor/widgets/single-calendar.php:276 
-#: includes/modules/elementor/widgets/single-calendar.php:472 
-#: includes/modules/elementor/widgets/single-calendar.php:491 
+#: includes/base/functions.php:76 includes/base/class-widget-calendar.php:219
+#: includes/base/class-widget-calendar.php:431
+#: includes/base/class-widget-calendar.php:447
+#: includes/modules/elementor/widgets/single-calendar.php:276
+#: includes/modules/elementor/widgets/single-calendar.php:472
+#: includes/modules/elementor/widgets/single-calendar.php:491
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:161
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:373
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:396
-#:  
-#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:78 
+#: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:78
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:89
 msgid "Wednesday"
 msgstr "Szerda"
@@ -5167,21 +4995,20 @@ msgstr "Szerda"
 msgid "Week Days"
 msgstr "Hétköznapok"
 
-#: includes/modules/elementor/widgets/single-calendar.php:271 
+#: includes/modules/elementor/widgets/single-calendar.php:271
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:156
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:178
 msgid "Week Start Day"
 msgstr "A hét első napja"
 
 #: includes/base/class-widget-calendar.php:214
 msgid "Week starts on"
-msgstr ""
+msgstr "A hét kezdődik"
 
-#: includes/modules/upgrader/functions.php:57 
+#: includes/modules/upgrader/functions.php:57
 #: includes/modules/upgrader/functions.php:58
 msgid "Welcome"
-msgstr ""
+msgstr "Üdvözlet"
 
 #: includes/modules/upgrader/views/view-upgrader.php:18
 msgid "Welcome to WP Booking System v.5"
@@ -5197,7 +5024,7 @@ msgid ""
 "always enabled by default. "
 msgstr ""
 "Kézi foglalás létrehozásakor az Érkezéskor történő fizetés és a Banki "
-"átutalás alapértelmezés szerint mindig engedélyezve van."
+"átutalás alapértelmezés szerint mindig engedélyezve van. "
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:79
 msgid ""
@@ -5207,7 +5034,7 @@ msgstr ""
 
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:65
 msgid "When to send"
-msgstr ""
+msgstr "Amikor küldi"
 
 #: includes/modules/pricing/functions-part-payments.php:132
 msgid "Which Applicability part payment option should be selected by default."
@@ -5219,23 +5046,23 @@ msgstr "Minden foglalási és fizetési adatot töröl"
 
 #: includes/modules/tools/views/view-tools.php:55
 msgid "Wipe Booking Data"
-msgstr ""
+msgstr "Foglalási adatok törlése"
 
 #. Name of the plugin
-#: index.php:171 includes/modules/elementor/functions.php:14 
+#: index.php:171 includes/modules/elementor/functions.php:14
 #: includes/modules/facetwp/functions-integration-facet-wp.php:19
 msgid "WP Booking System"
-msgstr ""
+msgstr "WP Booking System"
 
 #: includes/modules/elementor/widgets/overview-calendar.php:41
 msgid "WP Booking System - Overview Calendar"
-msgstr ""
+msgstr "WP Booking System - Naptár áttekintés"
 
 #: includes/modules/elementor/widgets/single-calendar.php:41
 msgid "WP Booking System - Single Calendar"
-msgstr ""
+msgstr "WP Booking System - Egyetlen naptár"
 
-#: includes/base/admin/booking/views/view-modal-email-customer.php:92 
+#: includes/base/admin/booking/views/view-modal-email-customer.php:92
 #: includes/base/admin/booking/views/view-modal-manage-booking.php:141
 msgid "WP Booking System -> Settings -> Email"
 msgstr "WP Booking System -> Beállítások -> Email"
@@ -5248,99 +5075,71 @@ msgstr ""
 msgid "year, month, day, legend, description, tooltip"
 msgstr ""
 
-#: includes/base/class-widget-overview-calendar.php:159 
-#: includes/base/class-widget-overview-calendar.php:226 
-#: includes/base/class-widget-overview-calendar.php:237 
-#: includes/base/class-widget-calendar.php:176 
-#: includes/base/class-widget-calendar.php:186 
-#: includes/base/class-widget-calendar.php:207 
-#: includes/base/class-widget-calendar.php:308 
-#: includes/base/class-widget-calendar.php:319 
-#: includes/base/class-widget-calendar.php:329 
-#: includes/base/class-widget-calendar.php:339 
-#: includes/base/class-widget-calendar.php:350 
-#: includes/base/class-widget-calendar.php:382 
-#: includes/base/class-widget-calendar.php:461 
-#: includes/modules/elementor/widgets/overview-calendar.php:165 
-#: includes/modules/elementor/widgets/overview-calendar.php:240 
-#: includes/modules/elementor/widgets/overview-calendar.php:253 
-#: includes/modules/elementor/widgets/single-calendar.php:177 
-#: includes/modules/elementor/widgets/single-calendar.php:190 
-#: includes/modules/elementor/widgets/single-calendar.php:261 
-#: includes/modules/elementor/widgets/single-calendar.php:307 
-#: includes/modules/elementor/widgets/single-calendar.php:321 
-#: includes/modules/elementor/widgets/single-calendar.php:333 
-#: includes/modules/elementor/widgets/single-calendar.php:346 
-#: includes/modules/elementor/widgets/single-calendar.php:410 
-#: includes/modules/elementor/widgets/single-calendar.php:507 
-#: includes/base/admin/booking/views/view-add-booking.php:64 
+#: includes/base/class-widget-overview-calendar.php:159
+#: includes/base/class-widget-overview-calendar.php:226
+#: includes/base/class-widget-overview-calendar.php:237
+#: includes/base/class-widget-calendar.php:176
+#: includes/base/class-widget-calendar.php:186
+#: includes/base/class-widget-calendar.php:207
+#: includes/base/class-widget-calendar.php:308
+#: includes/base/class-widget-calendar.php:319
+#: includes/base/class-widget-calendar.php:329
+#: includes/base/class-widget-calendar.php:339
+#: includes/base/class-widget-calendar.php:350
+#: includes/base/class-widget-calendar.php:382
+#: includes/base/class-widget-calendar.php:461
+#: includes/modules/elementor/widgets/overview-calendar.php:165
+#: includes/modules/elementor/widgets/overview-calendar.php:240
+#: includes/modules/elementor/widgets/overview-calendar.php:253
+#: includes/modules/elementor/widgets/single-calendar.php:177
+#: includes/modules/elementor/widgets/single-calendar.php:190
+#: includes/modules/elementor/widgets/single-calendar.php:261
+#: includes/modules/elementor/widgets/single-calendar.php:307
+#: includes/modules/elementor/widgets/single-calendar.php:321
+#: includes/modules/elementor/widgets/single-calendar.php:333
+#: includes/modules/elementor/widgets/single-calendar.php:346
+#: includes/modules/elementor/widgets/single-calendar.php:410
+#: includes/modules/elementor/widgets/single-calendar.php:507
+#: includes/base/admin/booking/views/view-add-booking.php:64
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:33
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:45
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:176
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:188
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:219
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:231
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:243
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:256
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:309
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:411
-#:  includes/base/admin/calendar/views/view-ical-import-export.php:97 
-#: includes/base/admin/calendar/views/view-ical-import-export.php:294 
+#: includes/base/admin/calendar/views/view-ical-import-export.php:97
+#: includes/base/admin/calendar/views/view-ical-import-export.php:294
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:54
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:138
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:150
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:118
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:126
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:166
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:190
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:199
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:223
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:233
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:241
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:250
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:267
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:328
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:59
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:106
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:116
 msgid "Yes"
 msgstr "Igen"
 
-#: includes/base/class-widget-overview-calendar.php:227 
-#: includes/base/class-widget-calendar.php:309 
-#: includes/modules/elementor/widgets/overview-calendar.php:241 
-#: includes/modules/elementor/widgets/single-calendar.php:308 
+#: includes/base/class-widget-overview-calendar.php:227
+#: includes/base/class-widget-calendar.php:309
+#: includes/modules/elementor/widgets/overview-calendar.php:241
+#: includes/modules/elementor/widgets/single-calendar.php:308
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-calendar.php:220
-#:  
 #: includes/base/admin/calendar/views/view-shortcode-generator-insert-overview-calendar.php:139
-#:  
 #: includes/modules/divi/includes/modules/SingleCalendar/SingleCalendar.php:224
-#:  
 #: includes/modules/divi/includes/modules/OverviewCalendar/OverviewCalendar.php:107
 msgid "Yes, with red indicator"
 msgstr "Igen, piros jelölővel"
@@ -5383,24 +5182,23 @@ msgid ""
 "Notifications</strong> tab when editing a <strong>Form</strong>."
 msgstr ""
 
-#: includes/base/admin/booking/views/view-modal-email-customer.php:92 
+#: includes/base/admin/booking/views/view-modal-email-customer.php:92
 #: includes/base/admin/booking/views/view-modal-manage-booking.php:141
 msgid "You can set up message templates in"
-msgstr "Üzenet sablonokat állíthat be itt:"
+msgstr "Üzenetek beállítása sablonokban"
 
 #: includes/modules/pricing/settings/views/view-payment-settings-bank-transfer.php:90
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-payment-options.php:94
 msgid ""
-"You can use the <span class=\"wpbs-small-print-tag wpbs-select-on-click\">"
-"{Amount}</span> tag to show the total amount needed to be paid by the "
-"customer, or the <span class=\"wpbs-small-print-tag wpbs-select-on-click\">"
-"{Booking ID}</span> tag to add a transaction reference number."
+"You can use the <span class=\"wpbs-small-print-tag wpbs-select-on-"
+"click\">{Amount}</span> tag to show the total amount needed to be paid by "
+"the customer, or the <span class=\"wpbs-small-print-tag wpbs-select-on-"
+"click\">{Booking ID}</span> tag to add a transaction reference number."
 msgstr ""
-"Az <span class=\"wpbs-small-print-tag wpbs-select-on-click\">{Amount} </span>"
-"címkével megjelenítheti az ügyfél által fizetendő teljes összeget, a <span "
-"class=\"wpbs-small-print-tag wpbs-select-on-click\">{Booking ID}</span>  "
-"címkével pedig tranzakciós hivatkozási számot adhat hozzá."
+"Az <span class=\"wpbs-small-print-tag wpbs-select-on-click\">{Amount} </"
+"span>címkével megjelenítheti az ügyfél által fizetendő teljes összeget, a "
+"<span class=\"wpbs-small-print-tag wpbs-select-on-click\">{Booking ID}</"
+"span>  címkével pedig tranzakciós hivatkozási számot adhat hozzá."
 
 #: includes/base/admin/settings/views/view-settings-tab-form.php:91
 msgid ""
@@ -5415,8 +5213,8 @@ msgstr ""
 #: includes/base/admin/calendar/class-calendar-editor-outputter.php:267
 msgid ""
 "You can use the description field of the date to add private information "
-"regarding your booking. This information will not be displayed anywhere else,"
-" but here."
+"regarding your booking. This information will not be displayed anywhere "
+"else, but here."
 msgstr ""
 "A dátum leírása mezőt használhatja a foglalással kapcsolatos személyes "
 "információk hozzáadására. Ezek az információk sehol máshol nem jelennek meg, "
@@ -5432,10 +5230,9 @@ msgstr ""
 "információkat, amelyeket a felhasználóknak látni szeretnének, amikor a "
 "weboldal front-end részében a naptári dátum fölé viszik az egeret."
 
-#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:44 
-#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:32 
+#: includes/base/admin/form/views/view-edit-form-tab-user-notification.php:44
+#: includes/base/admin/form/views/view-edit-form-tab-admin-notification.php:32
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:58
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:58
 msgid ""
 "You can use these dynamic tags in any of the fields. They will be replaced "
@@ -5456,7 +5253,7 @@ msgstr ""
 #: includes/base/admin/booking/class-bookings-outputter.php:320
 #, php-format
 msgid "You don't have any %s bookings."
-msgstr "%s foglalások nincsenek még :("
+msgstr "Nincsenek %s foglalások."
 
 #: includes/base/admin/calendar/views/view-ical-import-export.php:271
 msgid ""
@@ -5467,7 +5264,6 @@ msgstr ""
 "URL hozzáadásához."
 
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-success.php:22
-#:  
 #: includes/modules/pricing/form/views/view-edit-form-tab-final-payment-reminder.php:22
 msgid ""
 "You must add an Email field to the form in order to configure payment "
@@ -5486,7 +5282,7 @@ msgstr ""
 
 #: includes/modules/pricing/functions-pricing.php:846
 msgid "Your Order"
-msgstr ""
+msgstr "Rendelésed"
 
 #: includes/modules/update-checker/functions.php:151
 #, php-format
@@ -5495,6 +5291,9 @@ msgid ""
 "registered. Plugin updates are not available without a valid license key. "
 "%sPlease click here to register your website%s."
 msgstr ""
+"A WP Booking System ezen a weboldalon telepített verziója nincs "
+"regisztrálva. A plugin frissítései nem érhetők el érvényes licenckulcs "
+"nélkül. %sKérjük, kattintson ide a weboldal regisztrálásához%s."
 
 #: includes/modules/update-checker/functions.php:184
 #, php-format
@@ -5503,3 +5302,6 @@ msgid ""
 "available without a valid serial key. %sPlease click here to purchase a new "
 "license%s."
 msgstr ""
+"A WP Booking System licencekulcsa lejárt. A plugin frissítései nem érhetők "
+"el érvényes licence kulcs nélkül. %sKérjük, kattints ide egy új licenc "
+"megvásárlásához%s."
