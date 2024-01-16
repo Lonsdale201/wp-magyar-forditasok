@@ -9,6 +9,8 @@ Minden fordításnál találsz egy **cred-olvasdel.txt** fájl-t. Itt tudsz info
 
 A fordításokat több helyről is el lehet érni a jövőben. Az egyik központi elérhetősége a Github lesz.
 
+Eseti jelleggel egyes free bővítmények fordítása is felkerül, többnyire tesztelés céljából mielőtt beküldjük a hivatalos WP közösségi fordítókhoz.
+
 ### Közösségi információ
 
 Kezdeném azzal, hogy mi **nem vagyunk** a hivatalos WordPress fordító tagjai. Ez egy általam (Soczó Kristóf), indított közösségi kezdeményezés, melynek célja, hogy magyar nyelvű fordításokkal járuljunk hozzá a WordPress magyarországi közösségéhez. A közösségi fordítók ettől függetlenül kötelezettséggel rendelkeznek a saját munkájuk iránt.
