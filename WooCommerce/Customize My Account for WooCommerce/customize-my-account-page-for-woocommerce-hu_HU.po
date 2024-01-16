@@ -1,0 +1,1390 @@
+# Copyright (C) 2022 WPEverest
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Customize My Account Page For Woocommerce 0.4.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/customize-my-"
+"account-page-for-woocommerce\n"
+"POT-Creation-Date: 2022-11-10 10:28:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-08-06 16:11+0000\n"
+"Last-Translator: \n"
+"Language-Team: Magyar\n"
+"Language: hu-HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2"
+
+#: includes/AccountMenu.php:89
+msgid "Account Details"
+msgstr ""
+
+#: includes/Customizer/Config/Navigation.php:110
+msgid "Active State"
+msgstr "Aktív állapot"
+
+#: includes/Customizer/Section.php:42 
+#: includes/Customizer/Sections/Template.php:42
+msgid "Active template"
+msgstr "Aktív sablon"
+
+#: includes/WoocommerceCustomizer.php:522
+msgid "Add"
+msgstr "Hozzáadás"
+
+#: templates/admin/endpoints/endpoint.php:113 
+#: templates/admin/js/endpoint.php:101
+msgid "Add CSS Class. Use this CSS class to style the endpoint."
+msgstr ""
+"CSS osztály hozzáadása. Használja ezt a CSS osztályt a végpont stílusához."
+
+#: templates/admin/endpoints/group.php:92 templates/admin/js/group.php:84
+msgid "Add CSS Class. Use this CSS class to style the group."
+msgstr ""
+"CSS osztály hozzáadása. Használja ezt a CSS osztályt a csoport stílusához."
+
+#: templates/admin/endpoints/link.php:108 templates/admin/js/link.php:100
+msgid "Add CSS Class. Use this CSS class to style the link."
+msgstr ""
+"CSS osztály hozzáadása. Használja ezt a CSS osztályt a link stílusához."
+
+#: templates/admin/tab-content/endpoints.php:19
+msgid "Add endpoint"
+msgstr "Végpont hozzáadása"
+
+#: templates/admin/tab-content/endpoints.php:16
+msgid "Add group"
+msgstr "Csoport hozzáadása"
+
+#: templates/admin/tab-content/endpoints.php:22
+msgid "Add link"
+msgstr "Link hozzáadása"
+
+#: includes/AccountMenu.php:87
+msgid "Addresses"
+msgstr "Címek"
+
+#: templates/admin/endpoints/endpoint.php:176 
+#: templates/admin/js/endpoint.php:155
+msgid "After default content"
+msgstr "Alapértelmezett tartalom után"
+
+#: templates/admin/endpoints/link.php:141 templates/admin/js/link.php:131
+msgid "Allow link to open in a new tab."
+msgstr "Engedélyezzük a link megnyitását új ablakban."
+
+#: templates/admin/tab-content/settings.php:19 
+#: templates/admin/tab-content/settings.php:27
+msgid "Allow users to upload a custom avatar."
+msgstr ""
+"Lehetővé teszi a felhasználók számára, hogy egyéni avatart töltsenek fel."
+
+#. Description of the plugin/theme
+msgid ""
+"Allows you to register custom WooCommerce tabs on my-account page and "
+"customize the design."
+msgstr ""
+"Lehetővé teszi az egyéni WooCommerce végpontok regisztrálását a my-account "
+"oldalon és a dizájn testreszabását."
+
+#: templates/admin/dialogs/restore-defaults.php:12
+msgid "Are you sure want to restore the settings?"
+msgstr "Biztos, hogy vissza akarja állítani a beállításokat?"
+
+#: includes/WoocommerceCustomizer.php:524
+msgid "Available "
+msgstr "Elérhető"
+
+#: includes/Customizer/Config/Avatar.php:72
+msgid "Avatar"
+msgstr "Avatar"
+
+#: includes/Customizer/Config/Avatar.php:115
+msgid "Avatar center aligned"
+msgstr "Avatar középre igazítva"
+
+#: includes/Customizer/Config/Avatar.php:96
+msgid "Avatar Layout"
+msgstr "Avatar elrendezés"
+
+#: includes/Customizer/Config/Avatar.php:103
+msgid "Avatar left aligned"
+msgstr "Avatar balra igazítva"
+
+#: includes/Customizer/Config/Avatar.php:109
+msgid "Avatar right aligned"
+msgstr "Avatar jobbra igazítva"
+
+#: includes/Customizer/Config/Avatar.php:137
+msgid "Avatar Type"
+msgstr "Avatar típus"
+
+#: includes/Customizer/Config/Avatar.php:150
+msgid "Avatar type circle"
+msgstr "Avatar típus - kör alakú"
+
+#: includes/Customizer/Config/Avatar.php:144
+msgid "Avatar type square"
+msgstr "Avatar típus - négyzet alakú"
+
+#: includes/Customizer/Config/Avatar.php:121
+msgid "Avatar vertical aligned"
+msgstr "Avatar függőlegesen igazítva"
+
+#: includes/Customizer/Section.php:52 
+#: includes/Customizer/Sections/Template.php:52
+msgid "Back"
+msgstr "Vissza"
+
+#: includes/Customizer/Config/Button.php:137 
+#: includes/Customizer/Config/Button.php:265 
+#: includes/Customizer/Config/InputField.php:135 
+#: includes/Customizer/Config/InputField.php:263 
+#: includes/Customizer/Config/Navigation.php:136 
+#: includes/Customizer/Config/Navigation.php:266 
+#: includes/Customizer/Config/Navigation.php:396
+msgid "Background Color"
+msgstr "Háttérszín"
+
+#: includes/Customizer/Config/Content.php:89 
+#: includes/Customizer/Config/Wrapper.php:196
+msgid "Background color"
+msgstr "Háttérszín"
+
+#: templates/admin/endpoints/endpoint.php:175 
+#: templates/admin/js/endpoint.php:154
+msgid "Before default content"
+msgstr "Alapértelmezett tartalom előtt"
+
+#: includes/Customizer/Config/Color.php:113
+msgid "Body Color"
+msgstr ""
+
+#: includes/Customizer/Config/Button.php:150 
+#: includes/Customizer/Config/Button.php:278 
+#: includes/Customizer/Config/InputField.php:148 
+#: includes/Customizer/Config/InputField.php:276 
+#: includes/Customizer/Config/Navigation.php:149 
+#: includes/Customizer/Config/Navigation.php:279 
+#: includes/Customizer/Config/Navigation.php:409
+msgid "Border"
+msgstr "Szegély"
+
+#: includes/Customizer/Config/Button.php:210 
+#: includes/Customizer/Config/Button.php:338 
+#: includes/Customizer/Config/InputField.php:208 
+#: includes/Customizer/Config/InputField.php:336 
+#: includes/Customizer/Config/Navigation.php:209 
+#: includes/Customizer/Config/Navigation.php:339 
+#: includes/Customizer/Config/Navigation.php:469
+msgid "Border Color"
+msgstr "Szegély szín"
+
+#: includes/Customizer/Config/Button.php:211 
+#: includes/Customizer/Config/Button.php:339 
+#: includes/Customizer/Config/InputField.php:209
+msgid "Border color description"
+msgstr ""
+
+#: includes/Customizer/Config/Button.php:181 
+#: includes/Customizer/Config/Button.php:309 
+#: includes/Customizer/Config/InputField.php:179 
+#: includes/Customizer/Config/InputField.php:307 
+#: includes/Customizer/Config/Navigation.php:180 
+#: includes/Customizer/Config/Navigation.php:310 
+#: includes/Customizer/Config/Navigation.php:440
+msgid "Border Width"
+msgstr "Szegély szélesség"
+
+#: includes/Customizer/Config/Button.php:310
+msgid "Border width description"
+msgstr ""
+
+#: includes/Customizer/Controls/Dimension.php:249
+msgid "Bottom"
+msgstr "Lent"
+
+#: includes/Customizer/Config/Button.php:72
+msgid "Buttons"
+msgstr "Gombok"
+
+#: includes/Customizer/Config/Button.php:73
+msgid "Buttons description"
+msgstr ""
+
+#: includes/WoocommerceCustomizer.php:519
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: includes/Customizer/Section.php:45 
+#: includes/Customizer/Sections/Template.php:45
+msgid "Change template"
+msgstr ""
+
+#: includes/Customizer/Config/Wrapper.php:98
+msgid "Choose Account Tab style "
+msgstr "Válassza ki a Fiók lap stílusát"
+
+#: templates/admin/endpoints/endpoint.php:96 templates/admin/js/endpoint.php:85
+msgid "Choose an icon for the endpoint."
+msgstr "Válasszon egy ikont a végponthoz."
+
+#: templates/admin/endpoints/link.php:91 templates/admin/js/link.php:84
+msgid "Choose an icon for the link."
+msgstr "Válasszon egy ikont a linkhez."
+
+#: includes/Customizer/Config/Avatar.php:97
+msgid "Choose Avatar layout"
+msgstr "Válasszunk Avatar elrendezést"
+
+#: includes/Customizer/Config/Avatar.php:138
+msgid "Choose Avatar type"
+msgstr "Avatar típus kiválasztás"
+
+#: includes/Customizer/Config/InputField.php:277
+msgid "Choose background border"
+msgstr "Háttér szegély kiválasztása"
+
+#: includes/Customizer/Config/Button.php:151
+msgid "Choose background border style"
+msgstr "Háttér szegély típus kiválasztása"
+
+#: includes/Customizer/Config/Button.php:138 
+#: includes/Customizer/Config/Button.php:266 
+#: includes/Customizer/Config/InputField.php:136 
+#: includes/Customizer/Config/InputField.php:264
+msgid "Choose background color"
+msgstr "Háttérszín kiválasztása"
+
+#: includes/Customizer/Config/InputField.php:337
+msgid "Choose border color"
+msgstr "Szegély szín kiválasztása"
+
+#: includes/Customizer/Config/Button.php:279 
+#: includes/Customizer/Config/InputField.php:149
+msgid "Choose border style"
+msgstr "Szegély stílus kiválasztása"
+
+#: includes/Customizer/Config/Content.php:90
+msgid "Choose Content Background color"
+msgstr "Tartalom Háttérszín kiválasztása"
+
+#: includes/Customizer/Config/Button.php:382
+msgid "Choose font size"
+msgstr "Betűméret kiválasztása"
+
+#: templates/admin/endpoints/group.php:75 templates/admin/js/group.php:68
+msgid "Choose icon for the group."
+msgstr "Csoport ikon  kiválasztása"
+
+#: includes/Customizer/Config/Button.php:402
+msgid "Choose line height"
+msgstr "Sor magasság kiválasztása"
+
+#: includes/Customizer/Config/Wrapper.php:121
+msgid "Choose Sidebar style"
+msgstr "Válassza ki a Sidebar stílusát"
+
+#: includes/Customizer/Config/Navigation.php:137
+msgid "Choose tab active background color"
+msgstr "Tab aktív állapot háttérszín kiválasztása"
+
+#: includes/Customizer/Config/Navigation.php:210
+msgid "Choose tab active border color"
+msgstr "Tab aktív állapot szegély szín kiválasztása"
+
+#: includes/Customizer/Config/Navigation.php:124
+msgid "Choose tab active text color"
+msgstr "Tab aktív állapot szöveg szín kiválasztása"
+
+#: includes/Customizer/Config/Navigation.php:397
+msgid "Choose tab background color"
+msgstr "Tab háttérszín kiválasztása"
+
+#: includes/Customizer/Config/Navigation.php:470
+msgid "Choose tab border color"
+msgstr "Tab háttérszín kiválasztása"
+
+#: includes/Customizer/Config/Navigation.php:267
+msgid "Choose tab hover background color"
+msgstr "Tab egér ráhúzás háttérszín kiválasztása"
+
+#: includes/Customizer/Config/Navigation.php:340
+msgid "Choose tab hover border color"
+msgstr "Tab egér ráhúzás szegély szín kiválasztása"
+
+#: includes/Customizer/Config/Navigation.php:254
+msgid "Choose tab hover text color"
+msgstr "Tab egér ráhúzás szöveg szín kiválasztása"
+
+#: includes/Customizer/Config/Navigation.php:384
+msgid "Choose Tab text color"
+msgstr "Tab szöveg szín kiválasztása"
+
+#: includes/Customizer/Config/Button.php:125 
+#: includes/Customizer/Config/Button.php:253 
+#: includes/Customizer/Config/InputField.php:123 
+#: includes/Customizer/Config/InputField.php:251
+msgid "Choose text color"
+msgstr "Szöveg szín kiválasztása"
+
+#: templates/admin/endpoints/endpoint.php:169 
+#: templates/admin/js/endpoint.php:148
+msgid "Choose the location where custom content should appear."
+msgstr "Válassza ki, hogy a saját tartalom hol jelenjen meg."
+
+#: includes/Customizer/Config/Wrapper.php:197
+msgid "Choose Wrapper Background color"
+msgstr "Konténer háttérszín kiválasztása"
+
+#: templates/admin/endpoints/endpoint.php:112 
+#: templates/admin/endpoints/group.php:91 
+#: templates/admin/endpoints/link.php:107 templates/admin/js/endpoint.php:100 
+#: templates/admin/js/group.php:83 templates/admin/js/link.php:99
+msgid "Class"
+msgstr "CSS Osztály"
+
+#: includes/Customizer/Customizer.php:201
+msgid "Classic Layout"
+msgstr "Klasszikus elrendezés"
+
+#: includes/Functions/CoreFunctions.php:1150 
+#: includes/Functions/CoreFunctions.php:1151
+msgid "Click to edit this element."
+msgstr "Kattints ide az elem szerkesztéséhez"
+
+#: templates/admin/tab-content/settings.php:63
+msgid "Collapsed"
+msgstr "Összecsukott"
+
+#: includes/Customizer/Config/Color.php:73
+msgid "Color"
+msgstr "Szín"
+
+#: includes/Customizer/Config/Color.php:74
+msgid "Color description"
+msgstr ""
+
+#: includes/Customizer/Config/Content.php:67
+msgid "Content"
+msgstr "Tartalom"
+
+#: includes/Customizer/Config/Content.php:68
+msgid "Content styles."
+msgstr "Tartalom stílusai"
+
+#: includes/WoocommerceCustomizer.php:532
+msgid "Could Not Save Changes."
+msgstr "Nem sikerült elmenteni a változtatásokat."
+
+#: templates/admin/tab-content/debug.php:53 
+#: templates/admin/tab-content/debug.php:76
+msgid "CSS"
+msgstr "CSS"
+
+#: templates/admin/tab-content/settings.php:17
+msgid "Custom Avatar"
+msgstr "Saját Avatar"
+
+#: templates/admin/endpoints/endpoint.php:145 
+#: templates/admin/js/endpoint.php:132
+msgid "Custom Content"
+msgstr "Saját tartalom"
+
+#: templates/admin/endpoints/endpoint.php:168 
+#: templates/admin/js/endpoint.php:147
+msgid "Custom Content Position"
+msgstr "Saját tartalom pozició"
+
+#: includes/Settings.php:132
+msgid "Customization reset successfully."
+msgstr "A testreszabás sikeresen visszaállítva."
+
+#: includes/Settings.php:440
+msgid "Customize My Account"
+msgstr "Customize My Account"
+
+#: includes/Settings.php:475
+msgid "Customize My Account Page"
+msgstr "Customize My Account Page"
+
+#: includes/Settings.php:439 includes/Settings.php:449 
+#: includes/Settings.php:458 includes/Settings.php:467
+msgid "Customize My Account Page For WooCommerce"
+msgstr "Customize My Account Page For WooCommerce"
+
+#. Plugin Name of the plugin/theme
+msgid "Customize My Account Page For Woocommerce"
+msgstr "Customize My Account Page For Woocommerce"
+
+#: includes/Customizer/Config/Avatar.php:73
+msgid "Customize the Avatar style and layout."
+msgstr "Az avatar stílusának és elrendezésének testreszabása."
+
+#: includes/Customizer/Config/Wrapper.php:178
+msgid "Customize the font size."
+msgstr "Betűméret testreszabása.."
+
+#: includes/Customizer/Config/Wrapper.php:73
+msgid "Customize the wrapper layout and design."
+msgstr "A konténer elrendezésének és kialakításának testreszabása."
+
+#: includes/Settings.php:58 includes/Settings.php:468
+msgid "Customizer"
+msgstr "Testreszabás"
+
+#: includes/AccountMenu.php:84
+msgid "Dashboard"
+msgstr "Vezérlőpult"
+
+#: includes/Customizer/Config/Button.php:158 
+#: includes/Customizer/Config/Button.php:286 
+#: includes/Customizer/Config/InputField.php:156 
+#: includes/Customizer/Config/InputField.php:284 
+#: includes/Customizer/Config/Navigation.php:157 
+#: includes/Customizer/Config/Navigation.php:287 
+#: includes/Customizer/Config/Navigation.php:417
+msgid "Dashed"
+msgstr "Szaggatott"
+
+#: includes/Functions/Formatting.php:689
+msgid "Day(s)"
+msgstr "Nap(ok)"
+
+#: includes/Settings.php:59 includes/Settings.php:476
+msgid "Debug"
+msgstr "Hibakereső"
+
+#: includes/Settings.php:786
+msgid "Debug settings reset successfully."
+msgstr "A hibakeresési beállítások sikeresen visszaállítva."
+
+#: includes/Settings.php:814
+msgid "Debug settings saved successfully"
+msgstr "A hibakeresési beállítások sikeresen mentve"
+
+#: templates/admin/tab-content/settings.php:119
+msgid "Default Endpoint"
+msgstr "Alapértelmezett végpont"
+
+#: includes/Customizer/Config/Template.php:71 
+#: includes/Customizer/Customizer.php:200
+msgid "Default Template"
+msgstr "Alapértelmezett sablon"
+
+#: includes/WoocommerceCustomizer.php:520
+msgid "Delete"
+msgstr "Törlés"
+
+#: templates/admin/dialogs/restore-defaults.php:28
+msgid "Design Customization"
+msgstr ""
+
+#: includes/WoocommerceCustomizer.php:527
+msgid "Design Customization "
+msgstr ""
+
+#: includes/Customizer/Controls/Dimension.php:226
+msgid "Desktop"
+msgstr "Asztali"
+
+#: templates/admin/endpoint-tab.php:20 templates/admin/endpoint-tab.php:35
+msgid "Disabled"
+msgstr "Kikapcsolt"
+
+#: includes/Notice.php:81
+msgid "Dismiss"
+msgstr ""
+
+#: templates/admin/tab-content/endpoints.php:60
+msgid "Do you want to delete?"
+msgstr "Törölni szeretné?"
+
+#: includes/Customizer/Config/Button.php:157 
+#: includes/Customizer/Config/Button.php:285 
+#: includes/Customizer/Config/InputField.php:155 
+#: includes/Customizer/Config/InputField.php:283 
+#: includes/Customizer/Config/Navigation.php:156 
+#: includes/Customizer/Config/Navigation.php:286 
+#: includes/Customizer/Config/Navigation.php:416
+msgid "Dotted"
+msgstr "Pontozott"
+
+#: includes/Customizer/Config/Button.php:159 
+#: includes/Customizer/Config/Button.php:287 
+#: includes/Customizer/Config/InputField.php:157 
+#: includes/Customizer/Config/InputField.php:285 
+#: includes/Customizer/Config/Navigation.php:158 
+#: includes/Customizer/Config/Navigation.php:288 
+#: includes/Customizer/Config/Navigation.php:418
+msgid "Double"
+msgstr "Dupla"
+
+#: includes/AccountMenu.php:86
+msgid "Downloads"
+msgstr "Letöltése"
+
+#: templates/admin/tab-content/debug.php:47
+msgid "Dropzone"
+msgstr ""
+
+#: includes/WoocommerceCustomizer.php:515 
+#: templates/admin/endpoints/endpoint.php:35 
+#: templates/admin/endpoints/group.php:33 
+#: templates/admin/endpoints/link.php:33 templates/admin/js/endpoint.php:32 
+#: templates/admin/js/group.php:31 templates/admin/js/link.php:31
+msgid "Enable"
+msgstr "Engedélyezés"
+
+#. translators: %s: Endpoint type.
+#: templates/admin/endpoints/endpoint.php:48 
+#: templates/admin/endpoints/group.php:46 templates/admin/endpoints/link.php:46
+msgid "Enable %s"
+msgstr "%s engedélyezése"
+
+#: templates/admin/tab-content/debug.php:18
+msgid "Enable Debug"
+msgstr "Debug bekapcsolása"
+
+#: templates/admin/tab-content/debug.php:29
+msgid "Enable debug mode."
+msgstr "Hibakereső engedélyezése"
+
+#: templates/admin/tab-content/settings.php:39 
+#: templates/admin/tab-content/settings.php:47
+msgid "Enable/Disable endpoint icon."
+msgstr "Végpont ikon engedélyezése/letiltása."
+
+#: templates/admin/endpoints/endpoint.php:36 templates/admin/js/endpoint.php:33
+msgid "Enable/Disable endpoint."
+msgstr "Végpont engedélyezése/letiltása."
+
+#: templates/admin/tab-content/settings.php:85
+msgid "Enable/Disable group accordion icon."
+msgstr ""
+"Engedélyezzük vagy kikapcsoljuk a csoportok számára az ikont. (toggle ikon)"
+
+#: templates/admin/tab-content/settings.php:77
+msgid "Enable/Disable group accordion indicator."
+msgstr "Engedélyezés/tiltás csoport \"harmonika\" ikon"
+
+#: templates/admin/endpoints/group.php:34 templates/admin/js/group.php:32
+msgid "Enable/Disable group."
+msgstr "Csoport engedélyezése/letiltása."
+
+#: templates/admin/endpoints/link.php:34 templates/admin/js/link.php:32
+msgid "Enable/Disable link."
+msgstr "Link engedélyezése/letiltása."
+
+#: templates/admin/tab-content/debug.php:20
+msgid "Enabling this option will load unminified JS scripts and CSS styles."
+msgstr ""
+"Ha engedélyezi ezt az opciót, akkor a JS szkriptek és CSS stílusok nem "
+"minimalizált formában töltődnek be."
+
+#: templates/admin/tab-content/settings.php:37
+msgid "Endpoint Icon"
+msgstr "Végpont ikon"
+
+#: templates/admin/tab-content/settings.php:95
+msgid "Endpoint Icon Position"
+msgstr "Végpont ikon pozició"
+
+#: templates/admin/tab-content/settings.php:97
+msgid "Endpoint icon position."
+msgstr "Végpont ikon pozició."
+
+#: templates/admin/endpoints/endpoint.php:61 templates/admin/js/endpoint.php:53
+msgid "Endpoint label."
+msgstr "Végpont cím."
+
+#: templates/admin/endpoints/endpoint.php:78 templates/admin/js/endpoint.php:69
+msgid "Endpoint slug."
+msgstr "Végpont keresőbarát név"
+
+#: templates/admin/tab-content/settings.php:121
+msgid "Endpoint that will appear as default when user visits account page."
+msgstr ""
+"Végpont, amely alapértelmezettként jelenik meg, amikor a felhasználó a "
+"fiókoldalra látogat."
+
+#: templates/admin/endpoints/endpoint.php:129 
+#: templates/admin/js/endpoint.php:117
+msgid ""
+"Endpoint will be visible to selected User Roles only. By default, endpoints "
+"will be visible to all users."
+msgstr ""
+"A végpont csak a kiválasztott szerepkörök számára lesz elérhető. "
+"Alapértelmezetten a végpontokat minden felhasználó látja."
+
+#: includes/Settings.php:56 includes/Settings.php:450
+msgid "Endpoints"
+msgstr "Végpontok"
+
+#: includes/Settings.php:418
+msgid "Endpoints saved successfully"
+msgstr "Végpontok sikeresen mentve"
+
+#: includes/Customizer/Config/Wrapper.php:162
+msgctxt "enhanced select"
+msgid "Select Font Family&hellip;"
+msgstr "Betűtípus kiválasztása&hellip;"
+
+#: templates/admin/endpoints/endpoint.php:146 
+#: templates/admin/js/endpoint.php:133
+msgid "Enter custom content for endpoint."
+msgstr "Saját tartalom hozzáadás a végponthoz."
+
+#: templates/admin/tab-content/settings.php:62
+msgid "Expanded"
+msgstr "Nyitott"
+
+#: includes/Functions/CoreFunctions.php:377
+msgid "Failed to write file to disk."
+msgstr ""
+
+#: includes/Ajax.php:137
+msgid "File deleted successfully"
+msgstr "Fájl sikeresen törölve"
+
+#: includes/Ajax.php:144
+msgid "File is required"
+msgstr "Fájl szükséges"
+
+#: includes/Functions/CoreFunctions.php:378
+msgid "File upload stopped by extension."
+msgstr ""
+
+#: includes/Customizer/Config/InputField.php:110
+msgid "Focus State"
+msgstr "Fókusz állapot (focus state)"
+
+#: includes/Customizer/Config/Wrapper.php:155
+msgid "Font Family"
+msgstr "Betűtípus"
+
+#: includes/Customizer/Config/Button.php:381 
+#: includes/Customizer/Config/Wrapper.php:177
+msgid "Font Size"
+msgstr "Betűméret"
+
+#: templates/admin/tab-content/debug.php:38
+msgid "Frontend Libraries"
+msgstr ""
+
+#: includes/Customizer/Config/Button.php:368 
+#: includes/Customizer/Config/Button.php:431 
+#: includes/Customizer/Config/InputField.php:366 
+#: includes/Customizer/Config/Navigation.php:499
+msgid "General"
+msgstr "Általános"
+
+#: includes/Customizer/Config/Button.php:160 
+#: includes/Customizer/Config/Button.php:288 
+#: includes/Customizer/Config/InputField.php:158 
+#: includes/Customizer/Config/InputField.php:286 
+#: includes/Customizer/Config/Navigation.php:159 
+#: includes/Customizer/Config/Navigation.php:289 
+#: includes/Customizer/Config/Navigation.php:419
+msgid "Groove"
+msgstr "Barázdás"
+
+#: templates/admin/tab-content/settings.php:57
+msgid "Group Accordion Default State"
+msgstr "Csoport \"harmónika\" (accordion) alapértelmezett állapota"
+
+#: templates/admin/tab-content/settings.php:75
+msgid "Group Accordion Indicator"
+msgstr "Csoport \"harmonika\" (accordion) ikon"
+
+#: templates/admin/endpoints/group.php:59 templates/admin/js/group.php:52
+msgid "Group label."
+msgstr ""
+
+#: templates/admin/endpoints/group.php:108 templates/admin/js/group.php:100
+msgid ""
+"Group will be visible to selected User Roles only. By default, groups will "
+"be visible to all users."
+msgstr ""
+"A csoport csak a kiválasztott szerepkörök számára lesz elérhető. "
+"Alapértelmezetten a csoportot minden felhasználó látja."
+
+#: includes/Customizer/Config/Color.php:96
+msgid "Heading Color"
+msgstr "Címsor szín"
+
+#: includes/Customizer/Section.php:61 
+#: includes/Customizer/Sections/Template.php:61
+msgid "Help"
+msgstr "Segítség"
+
+#: includes/Customizer/Config/Button.php:164 
+#: includes/Customizer/Config/Button.php:292 
+#: includes/Customizer/Config/InputField.php:162 
+#: includes/Customizer/Config/InputField.php:290 
+#: includes/Customizer/Config/Navigation.php:163 
+#: includes/Customizer/Config/Navigation.php:293 
+#: includes/Customizer/Config/Navigation.php:423
+msgid "hidden"
+msgstr "rejtett"
+
+#: includes/Customizer/Config/Button.php:111 
+#: includes/Customizer/Config/Navigation.php:240
+msgid "Hover State"
+msgstr "Egér ráhúzás állapot"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://woocommerce.com/products/customize-my-account-page-for-woocommerce/"
+msgstr ""
+"https://woocommerce.com/products/customize-my-account-page-for-woocommerce/"
+
+#. Author URI of the plugin/theme
+msgid "https://wpeverest.com"
+msgstr "https://wpeverest.com"
+
+#: templates/admin/endpoints/endpoint.php:95 
+#: templates/admin/endpoints/group.php:74 
+#: templates/admin/endpoints/link.php:90 templates/admin/js/endpoint.php:84 
+#: templates/admin/js/group.php:67 templates/admin/js/link.php:83
+msgid "Icon"
+msgstr "Ikon"
+
+#: includes/Customizer/Config/Button.php:165 
+#: includes/Customizer/Config/Button.php:293 
+#: includes/Customizer/Config/InputField.php:163 
+#: includes/Customizer/Config/InputField.php:291 
+#: includes/Customizer/Config/Navigation.php:164 
+#: includes/Customizer/Config/Navigation.php:294 
+#: includes/Customizer/Config/Navigation.php:424
+msgid "Inherit"
+msgstr "Örökölt"
+
+#: includes/Customizer/Config/InputField.php:72
+msgid "Input Field"
+msgstr "Beviteli mező"
+
+#: includes/Customizer/Config/InputField.php:73
+msgid "Input field styles"
+msgstr "Beviteli mező stílusai"
+
+#: includes/Customizer/Config/Button.php:162 
+#: includes/Customizer/Config/Button.php:290 
+#: includes/Customizer/Config/InputField.php:160 
+#: includes/Customizer/Config/InputField.php:288 
+#: includes/Customizer/Config/Navigation.php:161 
+#: includes/Customizer/Config/Navigation.php:291 
+#: includes/Customizer/Config/Navigation.php:421
+msgid "Inset"
+msgstr ""
+
+#: includes/Customizer/Customizer.php:387
+msgid "Invalid filesystem credentials"
+msgstr ""
+
+#: includes/Ajax.php:210
+msgid "Invalid image mime type."
+msgstr "Érvénytelen a kép mime típusa."
+
+#: includes/Ajax.php:120
+msgid "Invalid nonce"
+msgstr ""
+
+#: includes/Settings.php:269 includes/Settings.php:776
+msgid "Invalid nonce."
+msgstr ""
+
+#: includes/WoocommerceCustomizer.php:530
+msgid "Invalid slug. "
+msgstr "Érvénytelen keresőbarát név (slug)."
+
+#: templates/admin/tab-content/endpoints.php:66
+msgid "It will be permanently deleted and cannot be recovered. Are you sure?"
+msgstr "Ez véglegesen törlődik, és nem állítható vissza. Biztos vagy benne?"
+
+#: templates/admin/tab-content/debug.php:70
+msgid "jQuery Scroll Tabs"
+msgstr "jQuery Scroll Tabs"
+
+#: templates/admin/tab-content/debug.php:60 
+#: templates/admin/tab-content/debug.php:83
+msgid "JS"
+msgstr "JS"
+
+#: templates/admin/endpoints/endpoint.php:60 
+#: templates/admin/endpoints/group.php:58 
+#: templates/admin/endpoints/link.php:74 templates/admin/js/endpoint.php:52 
+#: templates/admin/js/group.php:51 templates/admin/js/link.php:67
+msgid "Label"
+msgstr "Címke"
+
+#: includes/WoocommerceCustomizer.php:531
+msgid "Label cannot be empty."
+msgstr "A cím nem lehet üres."
+
+#: includes/Customizer/Controls/Dimension.php:250 
+#: templates/admin/tab-content/settings.php:105
+msgid "Left"
+msgstr "Balra"
+
+#: includes/Customizer/Config/Button.php:401
+msgid "Line Height"
+msgstr "Sor magasság"
+
+#: includes/Customizer/Config/Color.php:126
+msgid "Link Color"
+msgstr "Link szín"
+
+#: includes/Customizer/Config/Color.php:139
+msgid "Link Hover Color"
+msgstr "Link egér ráhúzás szín"
+
+#: templates/admin/endpoints/link.php:75 templates/admin/js/link.php:68
+msgid "Link label."
+msgstr "Link címke."
+
+#: templates/admin/endpoints/link.php:59 templates/admin/js/link.php:52
+msgid "Link URL."
+msgstr "Add meg az URL címet ehhez a linkhez."
+
+#: templates/admin/endpoints/link.php:124 templates/admin/js/link.php:115
+msgid ""
+"Link will be visible to selected User Roles only. By default, links will be "
+"visible to all users."
+msgstr ""
+"A link csak a kiválasztott szerepkörök számára lesz elérhető. "
+"Alapértelmezetten a linket minden felhasználó látja / eléri."
+
+#: includes/AccountMenu.php:90 templates/frontend/user-avatar.php:42
+msgid "Logout"
+msgstr "Kijelentkezés"
+
+#: includes/Customizer/Config/Template.php:72
+msgid ""
+"Looking for a template? You can browse our templates, import and preview "
+"templates, then activate them right here."
+msgstr ""
+"Sablont keres? Böngésszen sablonjaink között, importáljon és tekintse meg a "
+"sablonokat, majd aktiválja őket itt."
+
+#: templates/admin/tab-content/endpoints.php:13
+msgid "Manage Endpoints"
+msgstr "Végpontok menedzselése"
+
+#: includes/Customizer/Config/Button.php:477 
+#: includes/Customizer/Config/Content.php:111 
+#: includes/Customizer/Config/Wrapper.php:247
+msgid "Margin"
+msgstr "Margó"
+
+#: includes/AccountMenu.php:98
+msgid "Memberships"
+msgstr ""
+
+#: includes/Functions/CoreFunctions.php:376
+msgid "Missing a temporary folder."
+msgstr ""
+
+#: includes/Customizer/Controls/Dimension.php:234
+msgid "Mobile"
+msgstr "Mobil"
+
+#: includes/Functions/Formatting.php:691
+msgid "Month(s)"
+msgstr ""
+
+#: includes/Customizer/Customizer.php:141
+msgid "My Account Page"
+msgstr ""
+
+#: templates/admin/endpoint-dialog.php:14
+msgid "Name"
+msgstr "Név (nem url)"
+
+#: includes/Customizer/Config/Navigation.php:72
+msgid "Navigation"
+msgstr "Navigáció"
+
+#: includes/Customizer/Config/Navigation.php:73
+msgid "Navigation menu styles"
+msgstr "Navigációs menü stílusai"
+
+#: includes/Customizer/Config/Wrapper.php:97
+msgid "Navigation Style"
+msgstr "Navigáció stílusa"
+
+#: includes/Customizer/Config/Navigation.php:519
+msgid "Navigation wrapper margin"
+msgstr "Navigációs konténer margó"
+
+#: includes/Customizer/Config/Navigation.php:554
+msgid "Navigation wrapper padding."
+msgstr "Navigációs konténer belső margó."
+
+#: includes/Functions/CoreFunctions.php:375
+msgid "No file was uploaded."
+msgstr "Nem töltöttek fel fájlt."
+
+#: includes/Ajax.php:112
+msgid "Nonce is required"
+msgstr ""
+
+#: includes/Settings.php:258 includes/Settings.php:765
+msgid "Nonce is required."
+msgstr ""
+
+#: includes/Customizer/Config/Button.php:155 
+#: includes/Customizer/Config/Button.php:283 
+#: includes/Customizer/Config/InputField.php:153 
+#: includes/Customizer/Config/InputField.php:281 
+#: includes/Customizer/Config/Navigation.php:154 
+#: includes/Customizer/Config/Navigation.php:284 
+#: includes/Customizer/Config/Navigation.php:414
+msgid "None"
+msgstr "Egyik sem"
+
+#: includes/Customizer/Config/Button.php:240 
+#: includes/Customizer/Config/InputField.php:238 
+#: includes/Customizer/Config/Navigation.php:370
+msgid "Normal State"
+msgstr "Alap állapot"
+
+#: includes/WoocommerceCustomizer.php:523
+msgid "Not available "
+msgstr "Nem elérhető"
+
+#: includes/WoocommerceCustomizer.php:534
+msgid "ok"
+msgstr ""
+
+#: templates/admin/endpoints/link.php:140 templates/admin/js/link.php:130
+msgid "Open link in a new tab?"
+msgstr "A link új ablakban nyíljon meg?"
+
+#: includes/AccountMenu.php:85
+msgid "Orders"
+msgstr "Rendelések"
+
+#: includes/Customizer/Config/Button.php:163 
+#: includes/Customizer/Config/Button.php:291 
+#: includes/Customizer/Config/InputField.php:161 
+#: includes/Customizer/Config/InputField.php:289 
+#: includes/Customizer/Config/Navigation.php:162 
+#: includes/Customizer/Config/Navigation.php:292 
+#: includes/Customizer/Config/Navigation.php:422
+msgid "Outset"
+msgstr ""
+
+#: includes/Customizer/Config/Avatar.php:170 
+#: includes/Customizer/Config/Button.php:448 
+#: includes/Customizer/Config/Content.php:140 
+#: includes/Customizer/Config/InputField.php:383 
+#: includes/Customizer/Config/Navigation.php:588 
+#: includes/Customizer/Config/Wrapper.php:218
+msgid "Padding"
+msgstr "Belső margó"
+
+#: includes/AccountMenu.php:88
+msgid "Payment Methods"
+msgstr "Fizetési módok"
+
+#: includes/WoocommerceCustomizer.php:533
+msgid "Please resolve the following errors and try again."
+msgstr "Kérjük, oldja meg a következő hibákat, és próbálja meg újra."
+
+#: includes/WoocommerceCustomizer.php:516 
+#: templates/admin/endpoints/endpoint.php:21 
+#: templates/admin/endpoints/group.php:19 templates/admin/endpoints/link.php:19
+msgid "Remove"
+msgstr "Törlés"
+
+#: includes/WoocommerceCustomizer.php:529
+msgid "Remove all the design customization."
+msgstr "Távolítsa el az összes dizájn testreszabást."
+
+#: includes/Customizer/Customizer.php:145 
+#: includes/WoocommerceCustomizer.php:521
+msgid "Reset"
+msgstr "Visszaállítás"
+
+#: templates/admin/customization.php:49
+msgid "Restore Defaults"
+msgstr "Alapbeállítások Visszaállítása"
+
+#: includes/WoocommerceCustomizer.php:528
+msgid ""
+"Restore the general settings and remove the added endpoints, group and links."
+msgstr ""
+"Állítsa vissza az általános beállításokat, és távolítsa el a hozzáadott "
+"végpontokat, csoportokat és hivatkozásokat."
+
+#: includes/Customizer/Config/Button.php:161 
+#: includes/Customizer/Config/Button.php:289 
+#: includes/Customizer/Config/InputField.php:159 
+#: includes/Customizer/Config/InputField.php:287 
+#: includes/Customizer/Config/Navigation.php:160 
+#: includes/Customizer/Config/Navigation.php:290 
+#: includes/Customizer/Config/Navigation.php:420
+msgid "Ridge"
+msgstr ""
+
+#: includes/Customizer/Controls/Dimension.php:248 
+#: templates/admin/tab-content/settings.php:109
+msgid "Right"
+msgstr "Jobbra"
+
+#: includes/Customizer/Customizer.php:454
+msgid "Save"
+msgstr "Mentés"
+
+#: templates/admin/customization.php:43
+msgid "Save Changes"
+msgstr "Módosítások Mentése"
+
+#: includes/Customizer/Customizer.php:457
+msgid "Saved"
+msgstr "Mentett"
+
+#: includes/Customizer/Customizer.php:438
+msgid "ScssPhp: Unable to compile content"
+msgstr ""
+
+#: includes/Customizer/Config/Wrapper.php:156
+msgid "Select a desire Google font."
+msgstr "Válassza ki a kívánt Google betűtípust."
+
+#: includes/Customizer/Config/Navigation.php:150
+msgid "Select active background border style"
+msgstr "Aktív állapot háttér szegély stílus beállítása"
+
+#: includes/WoocommerceCustomizer.php:517
+msgid "Select an icon"
+msgstr "Válasszon egy ikont"
+
+#: includes/Customizer/Config/Color.php:114
+msgid "Select Body color"
+msgstr ""
+
+#: includes/Customizer/Config/Color.php:97
+msgid "Select Heading color"
+msgstr "Címsor szín kiválasztása"
+
+#: includes/Customizer/Config/Navigation.php:280
+msgid "Select hover background border style"
+msgstr "Egér ráhúzás háttér szegély stílus kiválasztása"
+
+#: includes/Customizer/Config/Color.php:127
+msgid "Select Link color"
+msgstr "Link szín kiválasztása"
+
+#: includes/Customizer/Config/Color.php:140
+msgid "Select Link hover color"
+msgstr "Link egér ráhúzás szín kiválasztása"
+
+#: includes/Customizer/Config/Navigation.php:410
+msgid "Select tab background border"
+msgstr "Tab háttér szegély kiválasztása"
+
+#: includes/WoocommerceCustomizer.php:518
+msgid "Select user roles"
+msgstr "szerepkör kiválasztása"
+
+#: includes/Customizer/Config/Avatar.php:171
+msgid "Set Avatar Padding"
+msgstr "Avatar belső margó beállítása"
+
+#: includes/Customizer/Config/Button.php:182 
+#: includes/Customizer/Config/InputField.php:180 
+#: includes/Customizer/Config/InputField.php:308
+msgid "Set border width"
+msgstr "Szegély szélesség beállítása"
+
+#: includes/Customizer/Config/Content.php:112
+msgid "Set Content Margin"
+msgstr "Tartalom margó beállítása"
+
+#: includes/Customizer/Config/Content.php:141
+msgid "Set Content Padding"
+msgstr "Tartalom belső margó beállítása"
+
+#: templates/admin/tab-content/settings.php:66
+msgid "Set default state of group accordion."
+msgstr ""
+"A csoportos harmonika \"accordion\" alapértelmezett állapotának beállítása."
+
+#: includes/Customizer/Config/Button.php:478
+msgid "Set Margin"
+msgstr "Margó beálítása"
+
+#: includes/Customizer/Config/Navigation.php:589
+msgid "Set navigation item padding."
+msgstr "Navigációs elem belső margó beállítása."
+
+#: includes/Customizer/Config/Button.php:449
+msgid "Set Padding"
+msgstr "Belső margó beállítása"
+
+#: includes/Customizer/Config/InputField.php:384
+msgid "Set padding"
+msgstr "Belső margó beállítása"
+
+#: includes/Customizer/Config/Navigation.php:181
+msgid "Set tab active border width"
+msgstr "Tab aktív állapot szegély szélesség beálítása"
+
+#: includes/Customizer/Config/Navigation.php:441
+msgid "Set tab border width"
+msgstr "Tab szegély szélesség beálítása"
+
+#: includes/Customizer/Config/Navigation.php:311
+msgid "Set tab hover border width"
+msgstr "Tab egér ráhúzás szegély szélesség beálítása"
+
+#: includes/Customizer/Config/Wrapper.php:248
+msgid "Set Wrapper Margin"
+msgstr "Konténer margó beállítása"
+
+#: includes/Customizer/Config/Wrapper.php:219
+msgid "Set Wrapper Padding"
+msgstr "Konténer belső margó beállítása"
+
+#: includes/Settings.php:57 includes/Settings.php:459 
+#: includes/WoocommerceCustomizer.php:258 
+#: templates/admin/dialogs/restore-defaults.php:22
+msgid "Settings"
+msgstr "Beállítások"
+
+#: includes/WoocommerceCustomizer.php:526
+msgid "Settings "
+msgstr "Beállítások"
+
+#: includes/Settings.php:210
+msgid "Settings reset successfully."
+msgstr "A beállítások visszaállítása sikeres volt."
+
+#: includes/Settings.php:231
+msgid "Settings saved successfully"
+msgstr "A beállítások sikeresen mentve"
+
+#: includes/Customizer/Config/Wrapper.php:104
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: includes/Customizer/Config/Wrapper.php:127
+msgid "Sidebar left"
+msgstr "Sidebar balra"
+
+#: includes/Customizer/Config/Wrapper.php:120
+msgid "Sidebar Position"
+msgstr "Sidebar Pozició"
+
+#: includes/Customizer/Config/Wrapper.php:133
+msgid "Sidebar right"
+msgstr "Sidebar jobbra"
+
+#: templates/admin/endpoints/endpoint.php:77
+msgid "Slug"
+msgstr "Keresőbarát név (slug)"
+
+#: templates/admin/js/endpoint.php:68
+msgid "slug"
+msgstr "keresőbarát név "
+
+#: includes/WoocommerceCustomizer.php:535
+msgid ""
+"Slug can only contains alphabets,numbers, underscore(_) and dash(-) "
+"characters."
+msgstr ""
+"A keresőbarát név (slug) csak betűket, számokat, aláhúzást (_) és kötőjelet "
+"(-) tartalmazhat."
+
+#: includes/WoocommerceCustomizer.php:525
+msgid "Slug cannot be empty "
+msgstr "A keresőbarát név nem lehet üres"
+
+#: includes/WoocommerceCustomizer.php:537
+msgid "Slug must be 3 characters in length."
+msgstr "A keresőbarát név minimum 3 karakter hosszúságónak kell lennie"
+
+#: includes/WoocommerceCustomizer.php:536
+msgid "Slug must begin and end with alphabets and numbers."
+msgstr "A keresőbarát név betűkkel és számokkal kezdődik és végződik."
+
+#: includes/Customizer/Config/Button.php:156 
+#: includes/Customizer/Config/Button.php:284 
+#: includes/Customizer/Config/InputField.php:154 
+#: includes/Customizer/Config/InputField.php:282 
+#: includes/Customizer/Config/Navigation.php:155 
+#: includes/Customizer/Config/Navigation.php:285 
+#: includes/Customizer/Config/Navigation.php:415
+msgid "Solid"
+msgstr "Sima"
+
+#: includes/Ajax.php:191
+msgid "Something went wrong, try again"
+msgstr "Valami rosszul sült el, próbálja újra"
+
+#: includes/AccountMenu.php:103
+msgid "Subscriptions"
+msgstr "Előfizetések"
+
+#: includes/Customizer/Config/Wrapper.php:107
+msgid "Tab"
+msgstr "Tab"
+
+#: includes/Customizer/Controls/Dimension.php:230
+msgid "Tablet"
+msgstr "Table"
+
+#: includes/AccountMenu.php:108
+msgid "Team"
+msgstr "Csapat"
+
+#: includes/Customizer/Section.php:45 
+#: includes/Customizer/Sections/Template.php:45
+msgctxt "template"
+msgid "Change"
+msgstr ""
+
+#: includes/Customizer/Section.php:58 
+#: includes/Customizer/Sections/Template.php:58
+msgid "Templates"
+msgstr "Sablonok"
+
+#: includes/Customizer/Config/Button.php:124 
+#: includes/Customizer/Config/Button.php:252 
+#: includes/Customizer/Config/InputField.php:122 
+#: includes/Customizer/Config/InputField.php:250 
+#: includes/Customizer/Config/Navigation.php:123 
+#: includes/Customizer/Config/Navigation.php:253 
+#: includes/Customizer/Config/Navigation.php:383
+msgid "Text Color"
+msgstr "Szöveg szín"
+
+#: includes/Functions/CoreFunctions.php:373
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form."
+msgstr ""
+"A feltöltött fájl meghaladja a HTML űrlapon meghaátorozott MAX_FILE_SIZE "
+"méretet."
+
+#. translators: The upload_max_filesize directive in php.ini
+#: includes/Functions/CoreFunctions.php:370
+msgid ""
+"The uploaded file exceeds the upload_max_filesize (%s) directive in php.ini."
+msgstr ""
+"A feltöltött fájl meghaladja az upload_max_filesize (%s) értéket a php.ini "
+"állományban."
+
+#: includes/Functions/CoreFunctions.php:374
+msgid "The uploaded file was only partially uploaded."
+msgstr "A feltöltött fájl csak részben lett feltöltve."
+
+#: includes/Customizer/Controls/Dimension.php:247
+msgid "Top"
+msgstr "Fent"
+
+#: includes/Ajax.php:238
+msgid "Uploaded successfully"
+msgstr "Feltöltés sikeres volt"
+
+#: templates/admin/endpoints/link.php:58 templates/admin/js/link.php:51
+msgid "URL"
+msgstr "URL"
+
+#: includes/Ajax.php:105
+msgid "User is not logged in"
+msgstr "A felhasználó nincs bejelentkezve"
+
+#: templates/admin/endpoints/endpoint.php:128 
+#: templates/admin/endpoints/group.php:107 
+#: templates/admin/endpoints/link.php:123 templates/admin/js/endpoint.php:116
+msgid "User Roles"
+msgstr "Felhasználói szerepkör "
+
+#: templates/admin/js/group.php:99
+msgid "User roles"
+msgstr "Felhasználói szerepkör"
+
+#: templates/admin/js/link.php:114
+msgid "user roles"
+msgstr "felhasználói szerepkör"
+
+#: includes/Customizer/Customizer.php:147
+msgid "Warning! this will remove all my-account page customizations."
+msgstr "Figyelem! ez eltávolítja az összes my-account oldal testreszabását."
+
+#: includes/Functions/Formatting.php:690
+msgid "Week(s)"
+msgstr ""
+
+#: includes/Customizer/Config/Template.php:73
+msgid ""
+"While previewing a new template, you can continue to tailor things like form "
+"styles and custom css, and explore template-specific options."
+msgstr ""
+"Egy új sablon előnézetének megtekintése közben továbbra is testreszabhat "
+"olyan dolgokat, mint az űrlapstílusok, egyéni css, és megismerheti a sablon-"
+"specifikus lehetőségeket."
+
+#: includes/Customizer/Customizer.php:142
+msgid ""
+"WooCommerce Customizer &ndash; Allows you to preview changes and customize "
+"MyAccount page."
+msgstr ""
+"WooCommerce Customizer &ndash; Lehetővé teszi a változások megtekintését és "
+"a MyAccount oldal testreszabását."
+
+#: includes/WoocommerceCustomizer.php:641
+msgid ""
+"WooCommerce is required for this plugin to work. Please, activate "
+"WooCommerce first."
+msgstr ""
+"A WooCommerce szükséges a plugin működéséhez. Kérjük, először aktiválja a "
+"WooCommerce-t."
+
+#. Author of the plugin/theme
+msgid "WPEverest"
+msgstr ""
+
+#: includes/Customizer/Config/Wrapper.php:72
+msgid "Wrapper"
+msgstr "Konténer"
+
+#: includes/Customizer/Config/Navigation.php:518
+msgid "Wrapper Margin"
+msgstr "Konténer margó"
+
+#: includes/Customizer/Config/Navigation.php:553
+msgid "Wrapper Padding"
+msgstr "Konténer belső margó"
+
+#: includes/Functions/Formatting.php:692
+msgid "Year(s)"
+msgstr ""
+
+#: includes/Customizer/Section.php:56 
+#: includes/Customizer/Sections/Template.php:56
+msgid "You are browsing"
+msgstr ""
+
+#: templates/admin/tab-content/debug.php:39
+msgid ""
+"You can enable/disable javascript libraries which are loaded in WooCommerce "
+"MyAccount Page to resolve library conflict with other plugins."
+msgstr ""
+"A WooCommerce MyAccount oldalon betöltött javascript könyvtárakat "
+"engedélyezheti/tilthatja, hogy megszüntesse más bővítményekkel való "
+"konfliktust."
