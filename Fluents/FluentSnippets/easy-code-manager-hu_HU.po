@@ -1,0 +1,863 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fluent Snippets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-05 14:28+0000\n"
+"PO-Revision-Date: 2024-01-16 15:19+0000\n"
+"Last-Translator: \n"
+"Language-Team: Magyar\n"
+"Language: hu-HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: easy-code-manager"
+
+#: app/Http/Controllers/SnippetsController.php:290 
+#: app/Http/Controllers/SnippetsController.php:291
+#, php-format
+msgid "%s is required"
+msgstr "%s kötelező"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:265
+msgid "404 page"
+msgstr "404 oldal"
+
+#: trans.php:99 app/Services/Trans.php:104
+msgid "Activate"
+msgstr "Aktiválás"
+
+#: trans.php:84 app/Services/Trans.php:89
+msgid "Add"
+msgstr "Hozzáadása"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:169
+msgid "Add CSS on all pages (frontend)."
+msgstr "CSS hozzáadása az összes oldalon (frontend)."
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:199
+msgid "Admin Area Footer"
+msgstr "Admin footer"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:195
+msgid "Admin Area Header"
+msgstr "Admin fejléc"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:122
+msgid "Admin Only"
+msgstr "Csak admin"
+
+#: trans.php:39 app/Services/Trans.php:44
+msgid "Admin only"
+msgstr "Csak admin"
+
+#: trans.php:111 app/Services/Trans.php:116
+msgid "Advanced Conditional Logic"
+msgstr "Feltételes logika"
+
+#: trans.php:78 app/Services/Trans.php:83
+msgid "after"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:157
+msgid "After Content"
+msgstr "Tartalom után"
+
+#: trans.php:45 app/Services/Trans.php:50
+msgid "After post content"
+msgstr ""
+
+#: trans.php:16 app/Services/Trans.php:21
+msgid "All Snippets"
+msgstr "Összes Snippets"
+
+#: trans.php:86 app/Services/Trans.php:91
+msgid "And"
+msgstr "És"
+
+#: trans.php:21 app/Services/Trans.php:26
+msgid "Apply"
+msgstr "Szűrés"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:173
+msgid "Apply this snippet CSS to backend (/wp-admin/)."
+msgstr "Alkalmazza a CSS-t a backendre (/wp-admin/). "
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:177
+msgid "Apply this snippet CSS to both backend and frontend."
+msgstr "Alkalmazza a CSS-t a mind a backend, mind a frontendre."
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:262
+msgid "Archive"
+msgstr "Archívum"
+
+#: trans.php:35 app/Services/Trans.php:40
+msgid "Are you sure to delete this?"
+msgstr "Biztos benne, hogy törölni szeretné?"
+
+#: trans.php:19 app/Services/Trans.php:24
+msgid "Ascending"
+msgstr "Növekvő"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:266
+msgid "Author page"
+msgstr "Szerző oldal"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:172
+msgid "Backend"
+msgstr "Backend"
+
+#: trans.php:47 app/Services/Trans.php:52
+msgid "Backend footer"
+msgstr "Backend lábléc"
+
+#: trans.php:46 app/Services/Trans.php:51
+msgid "Backend Head"
+msgstr "Backend fejléc"
+
+#: trans.php:77 app/Services/Trans.php:82
+msgid "before"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:153
+msgid "Before Content"
+msgstr "Tartalom előtt"
+
+#: trans.php:80 app/Services/Trans.php:85
+msgid "before days"
+msgstr ""
+
+#: trans.php:44 app/Services/Trans.php:49
+msgid "Before post content"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:176
+msgid "Both Backend and Frontend"
+msgstr "Backend és Frontend"
+
+#. %s: PHP identifier name
+#: app/Services/PhpValidator.php:229
+#, php-format
+msgid "Cannot redeclare %s."
+msgstr ""
+
+#. %s: PHP class name
+#: app/Services/PhpValidator.php:221
+#, php-format
+msgid "Cannot redeclare class %s."
+msgstr ""
+
+#. %s: PHP function name
+#: app/Services/PhpValidator.php:217
+#, php-format
+msgid "Cannot redeclare function %s."
+msgstr ""
+
+#. %s: PHP interface name
+#: app/Services/PhpValidator.php:225
+#, php-format
+msgid "Cannot redeclare interface %s."
+msgstr ""
+
+#: trans.php:89 app/Services/Trans.php:94
+msgid "Code"
+msgstr "Kód"
+
+#: trans.php:13 app/Services/Trans.php:18
+msgid "Code Snippets"
+msgstr "Kód Snippet-ek"
+
+#: trans.php:56 app/Services/Trans.php:61
+msgid "Condition Value"
+msgstr "Feltétel érték"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:372
+msgid "Contact Lists"
+msgstr "Listák"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:363
+msgid "Contact Tags"
+msgstr "Címkék"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:132
+msgid "Content"
+msgstr "Tartalom"
+
+#: trans.php:109 app/Services/Trans.php:114
+msgid "Create New"
+msgstr "Új létrehozás"
+
+#: trans.php:93 app/Services/Trans.php:98
+msgid "Create new group"
+msgstr "Új csoport létrehozás"
+
+#: trans.php:108 app/Services/Trans.php:113
+msgid "Create new tag"
+msgstr "Új címke létrehozás"
+
+#: trans.php:110 app/Services/Trans.php:115
+msgid "Create Snippet"
+msgstr "Snippet létrehozása"
+
+#: trans.php:15 app/Services/Trans.php:20
+msgid "Create Your First Snippet"
+msgstr "Hozza létre az első Snippet-et"
+
+#: trans.php:37 app/Services/Trans.php:42
+msgid "Created At"
+msgstr "Létrehozva"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:308
+msgid "Date"
+msgstr "Dátum"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:313
+msgid "Date Range"
+msgstr "Dátumtartomány"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:328
+msgid "Day of the week"
+msgstr "A hét napja"
+
+#: trans.php:58 app/Services/Trans.php:63
+msgid "Days"
+msgstr "Napok"
+
+#: trans.php:98 app/Services/Trans.php:103
+msgid "Deactivate"
+msgstr "Kikapcsolás"
+
+#: trans.php:28 app/Services/Trans.php:33
+msgid "delete"
+msgstr "törlés"
+
+#: trans.php:20 app/Services/Trans.php:25
+msgid "Descending"
+msgstr "Csökkenő"
+
+#: trans.php:29 app/Services/Trans.php:34
+msgid "Description"
+msgstr "Leírás"
+
+#: trans.php:88 app/Services/Trans.php:93
+msgid "Disable Safe Mode"
+msgstr "Biztonsági üzemmód kikapcsolás"
+
+#: trans.php:11 app/Services/Trans.php:16
+msgid "Disable Standalone Mode"
+msgstr "Standalone mód kikapcsolása"
+
+#: trans.php:62 app/Services/Trans.php:67
+msgid "does not equal"
+msgstr "nem megegyező"
+
+#: trans.php:71 app/Services/Trans.php:76
+msgid "Does not include (in any)"
+msgstr "nem tartalmazza (bármelyik)"
+
+#: trans.php:60 app/Services/Trans.php:65
+msgid "does not includes"
+msgstr "nem tartalmazza"
+
+#: trans.php:27 app/Services/Trans.php:32
+msgid "edit"
+msgstr "szerkesztés"
+
+#: trans.php:69 app/Services/Trans.php:74
+msgid "Empty"
+msgstr "Üres"
+
+#: trans.php:112 app/Services/Trans.php:117
+msgid "Enable Conditional Logic"
+msgstr "Feltételes logika engedélyezése"
+
+#: trans.php:8 app/Services/Trans.php:13
+msgid "Enable Safe Mode Programmatically:"
+msgstr "A Biztonsági üzemmód programszerű engedélyezése:"
+
+#: trans.php:12 app/Services/Trans.php:17
+msgid "Enable Standalone Mode"
+msgstr "Standalone Mód engedélyezése"
+
+#: trans.php:10 app/Services/Trans.php:15
+msgid "Enabled"
+msgstr "Engedélyezve"
+
+#: trans.php:64 app/Services/Trans.php:69
+msgid "ends with"
+msgstr ""
+
+#: trans.php:61 app/Services/Trans.php:66
+msgid "equal"
+msgstr "egyenlő"
+
+#: trans.php:26 app/Services/Trans.php:31
+msgid "ERROR"
+msgstr "ERROR"
+
+#: trans.php:102 app/Services/Trans.php:107
+msgid "Error Message:"
+msgstr "Hibaüzenet:"
+
+#: trans.php:30 app/Services/Trans.php:35
+msgid "ERROR:"
+msgstr "ERROR:"
+
+#: trans.php:38 app/Services/Trans.php:43
+msgid "Everywhere"
+msgstr "Mindenhol"
+
+#: trans.php:54 app/Services/Trans.php:59
+msgid "Failed to copy shortcode"
+msgstr "Nem sikerült a shortcode másolása"
+
+#. Name of the plugin
+#. Author of the plugin
+#: app/Hooks/Handlers/AdminMenuHandler.php:24
+msgid "Fluent Snippets"
+msgstr "Fluent Snippets"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:349
+msgid "FluentCRM"
+msgstr "FluentCRM"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:25
+msgid "FluentSnippets"
+msgstr "FluentSnippets"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:336
+msgid "Friday"
+msgstr "Péntek"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:168
+msgid "Frontend"
+msgstr "Frontend"
+
+#: trans.php:43 app/Services/Trans.php:48
+msgid "Frontend body open"
+msgstr ""
+
+#: trans.php:42 app/Services/Trans.php:47
+msgid "Frontend footer"
+msgstr "Frontend (lábléc)"
+
+#: trans.php:41 app/Services/Trans.php:46
+msgid "Frontend head"
+msgstr "Frontend (fejléc)"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:126
+msgid "Frontend Only"
+msgstr "Csak frontend"
+
+#: trans.php:40 app/Services/Trans.php:45
+msgid "Frontend only"
+msgstr "Csak frontend"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:113
+msgid "Functions"
+msgstr "Funkció"
+
+#: trans.php:6 app/Services/Trans.php:11
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#: trans.php:65 app/Services/Trans.php:70
+msgid "Greater Than"
+msgstr "Nagyobb mint"
+
+#: trans.php:17 app/Services/Trans.php:22
+msgid "Grouped"
+msgstr "Csoportos "
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:261
+msgid "Homepage"
+msgstr "Kezdőlap"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://fluentsnippets.com"
+msgstr "https://fluentsnippets.com"
+
+#: trans.php:79 app/Services/Trans.php:84
+msgid "in the date"
+msgstr ""
+
+#: trans.php:59 app/Services/Trans.php:64
+msgid "includes"
+msgstr "tartalmazza"
+
+#: trans.php:72 app/Services/Trans.php:77
+msgid "includes all of"
+msgstr "tartalmazza az összes"
+
+#: trans.php:67 app/Services/Trans.php:72
+msgid "includes in"
+msgstr "tartalmazza"
+
+#: trans.php:73 app/Services/Trans.php:78
+msgid "includes none of (match all)"
+msgstr "nem tartalmazza (összesre értendő)"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:146
+msgid "Insert snippet after the opening body tag of your website (frontend)."
+msgstr ""
+"Szúrja be a snippet-et a weboldalának nyitó body címkéje után. (frontend) "
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:154
+msgid "Insert snippet at the beginning of single post/page content."
+msgstr ""
+"Szúrja be a Snippet-et az egyes posztok/oldalak tartalmának elejére. "
+"(content before)"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:158
+msgid "Insert snippet at the end of single post/page content."
+msgstr ""
+"Szúrja be a Snippet-et az egyes posztok/oldalak tartalmának végére. (content "
+"after)"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:150
+msgid ""
+"Insert snippet before the closing body tag of your website on all pages "
+"(frontend)."
+msgstr ""
+"Szúrja be a Snippet-et a weboldalának záró body címkéje előtt minden oldalon "
+"(frontend). "
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:142
+msgid "Insert snippet between the head tags of your website (frontend)."
+msgstr ""
+"Szúrja be a snippet-et a weboldal fejléc címkéi közé.  (header - frontend)"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:353
+msgid "Is a CRM Contact?"
+msgstr "Egy CRM partner?"
+
+#: trans.php:66 app/Services/Trans.php:71
+msgid "Less Than"
+msgstr "Kevesebb mint"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:95
+msgid "Loading Snippets.."
+msgstr "Snippetek betöltése.."
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:231
+msgid "Logged-in"
+msgstr "Bejelentkezve"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:332
+msgid "Monday"
+msgstr "Hétfő"
+
+#: trans.php:36 app/Services/Trans.php:41
+msgid "Name"
+msgstr "Név"
+
+#: trans.php:14 app/Services/Trans.php:19
+msgid "New Snippet"
+msgstr "Új Snippet"
+
+#: trans.php:23 app/Services/Trans.php:28
+msgid "No Snippets Found based on your filter"
+msgstr "Nem találhatóak Snippetek a szűrési paraméterek alapján"
+
+#: trans.php:70 app/Services/Trans.php:75
+msgid "Not Empty"
+msgstr "Nem üres "
+
+#: trans.php:74 app/Services/Trans.php:79
+msgid "not equal"
+msgstr "nem egyenlő"
+
+#: trans.php:68 app/Services/Trans.php:73
+msgid "not includes in"
+msgstr "nem tartalmazza"
+
+#: trans.php:76 app/Services/Trans.php:81
+msgid "not within"
+msgstr "intervallumon kívül"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:138
+msgid "Only display when inserted into a post or page using shortcode"
+msgstr ""
+"Csak akkor jelenik meg, ha shortcode használatával beillesztik egy posztba "
+"vagy oldalba. "
+
+#: trans.php:82 app/Services/Trans.php:87
+msgid "OR"
+msgstr "VAGY"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:251
+msgid "Page"
+msgstr "Oldal"
+
+#: app/Services/PhpValidator.php:270
+msgid "Parse error: syntax error, unexpected end of snippet"
+msgstr ""
+
+#: app/Services/PhpValidator.php:203
+msgid "Parse error: syntax error, unexpected end of snippet."
+msgstr ""
+
+#: trans.php:95 app/Services/Trans.php:100
+msgid "PAUSED"
+msgstr ""
+
+#: trans.php:24 app/Services/Trans.php:29
+msgid "Paused"
+msgstr ""
+
+#: trans.php:85 app/Services/Trans.php:90
+msgid "Please enter a keyword"
+msgstr "Kérjük, adjon meg egy kulcsszót"
+
+#: trans.php:104 app/Services/Trans.php:109
+msgid "Please enter some code to save"
+msgstr "A kód mező üres, nem lehet menteni"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:270
+msgid "Post Type"
+msgstr "Poszt típus"
+
+#: trans.php:34 app/Services/Trans.php:39
+msgid "Priority"
+msgstr "Prioritás"
+
+#: trans.php:83 app/Services/Trans.php:88
+msgid "Provide Name"
+msgstr ""
+
+#: app/Hooks/Handlers/CodeHandler.php:115
+msgid "Return Data is not valid. Return data need to be string or number"
+msgstr ""
+"Az adatok nem érvényesek. A visszatérési adatoknak stringnek vagy számnak "
+"kell lenniük"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:118
+msgid "Run Everywhere"
+msgstr "Futtatás mindenhol"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:192
+msgid ""
+"Run Javascript before the closing body tag of your website on all pages "
+"(frontend)."
+msgstr ""
+"Futtassa a Javascriptet a weboldal záró body címkéje előtt minden oldalon "
+"(frontend). "
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:188
+msgid ""
+"Run Javascript between the head tags of your website on all pages (frontend)."
+msgstr ""
+"Futtassa a Javascriptet a weboldal fejléc címkéi között minden oldalon "
+"(frontend). "
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:200
+msgid "Run Javascript in admin area (/wp-admin/) before the closing body tag."
+msgstr ""
+"Futtassa a Javascriptet az admin területen (/wp-admin/) a záró body címke "
+"előtt. "
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:196
+msgid "Run Javascript in admin area (/wp-admin/)."
+msgstr "Javascript futtatása az admin területen (/wp-admin/). "
+
+#: trans.php:7 app/Services/Trans.php:12
+msgid "Safe Mode"
+msgstr "Biztonsági üzemmód"
+
+#: app/Http/Controllers/SettingsController.php:108
+msgid "Safe mode has been disabled"
+msgstr "Biztonsági üzemmód kikapcsolva"
+
+#: trans.php:87 app/Services/Trans.php:92
+msgid "Safe Mode is Enabled"
+msgstr "Biztonsági üzemmód engedélyezve"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:337
+msgid "Saturday"
+msgstr "Szombat"
+
+#: trans.php:5 app/Services/Trans.php:10
+msgid "Save Settings"
+msgstr "Beállítások mentés"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:182
+msgid "Scripts"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:264
+msgid "Search page"
+msgstr "Keresési oldal"
+
+#: trans.php:55 app/Services/Trans.php:60
+msgid "Select Operator"
+msgstr ""
+
+#: trans.php:57 app/Services/Trans.php:62
+msgid "Select Option"
+msgstr "Opció kiválasztása"
+
+#: trans.php:94 app/Services/Trans.php:99
+msgid "Select Snippet Group"
+msgstr "Csoport kiválasztás"
+
+#: trans.php:49 app/Services/Trans.php:54
+msgid "Select Snippet Run Location"
+msgstr "Snippet futtatás helyének kiválasztása "
+
+#: trans.php:107 app/Services/Trans.php:112
+msgid "Select Snippet Tags"
+msgstr "Címke kiválasztás"
+
+#: trans.php:50 app/Services/Trans.php:55
+msgid "selected"
+msgstr "kiválasztva"
+
+#: trans.php:4 app/Services/Trans.php:9
+msgid "Settings"
+msgstr "Beállítások"
+
+#: app/Http/Controllers/SettingsController.php:86
+msgid "Settings has been successfully updated"
+msgstr "Beállítások sikeresen frissítve"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:137
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: trans.php:53 app/Services/Trans.php:58
+msgid "Shortcode copied to clipboard"
+msgstr ""
+
+#: app/Hooks/Handlers/CodeHandler.php:126
+msgid "Shortcode could not be rendered"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:263 
+#: app/Hooks/Handlers/AdminMenuHandler.php:297
+msgid "Single Post/Page/CPT"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:145
+msgid "Site Wide Body Open"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:149 
+#: app/Hooks/Handlers/AdminMenuHandler.php:191
+msgid "Site Wide Footer"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:141 
+#: app/Hooks/Handlers/AdminMenuHandler.php:187
+msgid "Site Wide Header"
+msgstr ""
+
+#: app/Hooks/Handlers/CodeHandler.php:98
+msgid "Snippet condition is not valid"
+msgstr ""
+
+#: app/Http/Controllers/SnippetsController.php:141
+msgid "Snippet created successfully"
+msgstr "Snippet sikeresen létrehozva"
+
+#: trans.php:96 app/Services/Trans.php:101
+msgid "Snippet details"
+msgstr "Snippet részletek"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:119
+msgid "Snippet gets executed everywhere (both frontend and admin area)"
+msgstr "A snippet mindenhol lefut (mind a frontend, mind az admin területen)"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:123
+msgid "Snippet gets executed only in admin area (/wp-admin/)"
+msgstr "A snippet csak az admin területen fut le (/wp-admin!)"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:127
+msgid "Snippet gets executed only in frontend area"
+msgstr "A snippet csak a frontend oldalon fut le"
+
+#: trans.php:92 app/Services/Trans.php:97
+msgid "Snippet Group"
+msgstr "Snippet csoport"
+
+#: app/Hooks/Handlers/CodeHandler.php:74
+msgid "Snippet has an error"
+msgstr ""
+
+#: app/Http/Controllers/SnippetsController.php:280
+msgid "Snippet has been deleted successfully"
+msgstr "A Snippet sikeresen törölve"
+
+#: trans.php:106 app/Services/Trans.php:111
+msgid "Snippet has been updated successfully"
+msgstr "Snippet sikeresen frissült"
+
+#: trans.php:90 app/Services/Trans.php:95
+msgid "Snippet Name"
+msgstr "Snippet név"
+
+#: app/Hooks/Handlers/CodeHandler.php:88
+msgid "Snippet run at is not shortcode"
+msgstr ""
+
+#: app/Hooks/Handlers/CodeHandler.php:92
+msgid "Snippet status is not published"
+msgstr "Snippet állapota nem publikus"
+
+#: app/Hooks/Handlers/CodeHandler.php:84
+msgid "Snippet type is not PHP Content"
+msgstr ""
+
+#: app/Hooks/Handlers/CodeHandler.php:69
+msgid "Snippets are disabled"
+msgstr ""
+
+#: trans.php:100 app/Services/Trans.php:105
+msgid "Sorry Snippet could not be loaded"
+msgstr "Sajnáljuk a Snippet nem tudott betöltődni "
+
+#: trans.php:22 app/Services/Trans.php:27
+msgid "Sort"
+msgstr "Rendezés"
+
+#: trans.php:9 app/Services/Trans.php:14
+msgid "Standalone Mode (Must use mode)"
+msgstr "Standalone mód (Önálló mód) "
+
+#: app/Http/Controllers/SettingsController.php:122
+msgid "Standalone mode has been activated"
+msgstr "Standalone mód aktiválva lett"
+
+#: app/Http/Controllers/SettingsController.php:124
+msgid "Standalone mode has been deactivated"
+msgstr "Standalone mód kikapcsolva"
+
+#: trans.php:63 app/Services/Trans.php:68
+msgid "starts with"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:163
+msgid "Styles"
+msgstr "Stílusok"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:338
+msgid "Sunday"
+msgstr "Vasárnap"
+
+#. Description of the plugin
+msgid ""
+"Super Fast File Based Native Code Snippets (header / footer codes) Manager "
+"for WordPress"
+msgstr ""
+"Szupergyors fájl alapú natív kód Snippet-ek (fejléc / lábléc kódok) "
+"menedzser a WordPress számára"
+
+#: trans.php:18 app/Services/Trans.php:23
+msgid "Table"
+msgstr "Táblázat"
+
+#: trans.php:32 app/Services/Trans.php:37
+msgid "Tags"
+msgstr "Címkék"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:277
+msgid "Taxonomy Page"
+msgstr "Taxonómia oldal"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:284
+msgid "Taxonomy Term Page"
+msgstr "Taxonómia kifejezés oldal (term)"
+
+#: trans.php:105 app/Services/Trans.php:110
+msgid "The code should not start with <?php"
+msgstr ""
+
+#: trans.php:101 app/Services/Trans.php:106
+msgid ""
+"The snippet encountered an fatal error and It has been deactivated "
+"automatically. Please review your code, fix the issues and reactive."
+msgstr ""
+"A snippet egy súlyos hibát észlelt, és automatikusan deaktiválódott. Kérjük, "
+"ellenőrizze át a kódot, javítsa ki a problémákat és aktiválja újra."
+
+#: app/Hooks/Handlers/CodeHandler.php:128
+msgid "This message is only visible to site admin role"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:335
+msgid "Thursday"
+msgstr "Csütörtök"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:321
+msgid "Time Range"
+msgstr "időintervallum"
+
+#: trans.php:25 app/Services/Trans.php:30
+msgid "Title"
+msgstr ""
+
+#: trans.php:103 app/Services/Trans.php:108
+msgid "Try Reactivate"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:333
+msgid "Tuesday"
+msgstr "Kedd"
+
+#: trans.php:31 app/Services/Trans.php:36
+msgid "Type"
+msgstr "Típus"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:255
+msgid "Type of page"
+msgstr "Oldaltípus"
+
+#: trans.php:97 app/Services/Trans.php:102
+msgid "Update Snippet"
+msgstr "Snippet frissítés"
+
+#: trans.php:33 app/Services/Trans.php:38
+msgid "Updated At"
+msgstr "Frissítve"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:292
+msgid "URL"
+msgstr "URL"
+
+#: trans.php:52 app/Services/Trans.php:57
+msgid "Use Shortcode to display the return or print content of this snippet:"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:227
+msgid "User"
+msgstr "Felhasználó"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:241
+msgid "User Role"
+msgstr "Felhasználói szerepkör"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:334
+msgid "Wednesday"
+msgstr "Szerda"
+
+#: trans.php:48 app/Services/Trans.php:53
+msgid "Where to Run?"
+msgstr "Futtatás módja?"
+
+#: trans.php:75 app/Services/Trans.php:80
+msgid "within"
+msgstr "intervallumon belül"
+
+#: trans.php:81 app/Services/Trans.php:86
+msgid "within days"
+msgstr "napokon belül"
+
+#: trans.php:51 app/Services/Trans.php:56
+msgid "You can view the shortcode after save this snippet"
+msgstr "Megtekintheti a shortcode-ot, miután elmentette a Snippet-et"
+
+#: trans.php:91 app/Services/Trans.php:96
+msgid "Your Snippet Name"
+msgstr "Add meg a Snippet nevét"

@@ -1,0 +1,20 @@
+FluentSnippets
+82% feletti fordítások
+
+
+Figyelem: Ez a bővítmény ingyenes, azonban szeretnénk előtte tesztelni
+
+Megjegyzés: Számos stringet még nem lehet lefordítani. A kimaradó karakterekkel még nem találkoztam, ezért nincsenek még lefordítva.
+
+Link:
+
+https://wordpress.org/plugins/easy-code-manager/
+
+Verzió: 10.32
+Utoljára módosítva: 2024.01.16
+
+Fordította: Soczó Kristóf
+
+Elérhetőség
+Discord: lonsdale201
+Email: kristof@hellowp.io, lonsdale201@hotmail.com
