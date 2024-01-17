@@ -5,7 +5,13 @@ WordPress bővítmények - magyar közösségi fordítások
 
 * [Bevezető](#bevezető)
 * [Közösségi információ](#közösségi-információ)
-
+* [Hogyan lehet csatlakozni a közösséghez](#hogyan-lehet-csatlakozni-a-közösséghez)
+* [Szabályok a fordítók számára](#szabályok-a-fordítók-számára)
+* [cred-olvasdel.txt fájl kitöltése](#cred-olvasdel.txt-fájl-kitöltése)
+* [Szabály a felhasználók számára](#szabály-a-felhasználók-számára)
+* [Hogyan tudom a Githubról letölteni a fordításokat?](#hogyan-tudom-a-githubról-letölteni-a-fordításokat)
+* [Hogyan tudok fordítást "telepíteni"?](#hogyan-tudok-fordítást-telepíteni)
+* [Hogyan tudok fordítást feltölteni / beküldeni?](#hogyan-tudok-fordítást-feltölteni--beküldeni)
 
 
 ### Bevezető
@@ -51,7 +57,7 @@ Nincsenek előfeltételek, és nem szükséges az angol nyelvvizsga sem. Mindenk
 - Csatlakozást követően figyeld aktívan ennek a repónak az **Issue** szekcióját, hogy minél hamarabb értesülj az esetleges hibákról.
 - Ne használd a cred-olvasdel.txt arra, hogy egyéb szolgáltatásaidat promózd. Csak a szükséges adatokat add meg, és ha indokolt kapcsolódó kiegészítést hozzá.
 
-### Hogyan töltsd ki fordítóként a cred-olvasdel.txt fájlt
+### cred-olvasdel.txt fájl kitöltése
 
 Kövesd a meglévő **cred-olvasdel** fájlokat referenciaként. Ebbe a txtben kell tárolnod néhány kapcsolódó információt a fordításról. A bővítmény neve, verziószáma (amihez készítetted a fordítást) bővítmény link, utolsó mdosítás dátuma, továbbá elérhetőség / a neved. Ezen felül további egyéb extra információt is megadhatsz ha szükségesnek érzed.
 
