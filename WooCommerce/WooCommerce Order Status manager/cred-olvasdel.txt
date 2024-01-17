@@ -1,0 +1,17 @@
+WooCommerce Order Status manager
+
+Közel 100%-os fordítás
+Az elmaradt stringekkel nem találkoztam.
+
+Link: https://woo.com/products/woocommerce-order-status-manager/
+
+Utoljára módosítva: 2024.01.17.
+Verzió: 1.15.2
+
+
+
+Fordította: Soczó Kristóf
+
+Elérhetőség
+Discord: lonsdale201
+Email: kristof@hellowp.io, lonsdale201@hotmail.com
