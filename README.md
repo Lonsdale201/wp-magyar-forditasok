@@ -1,6 +1,12 @@
 # WordPress bővítmény fordítások
 WordPress bővítmények - magyar közösségi fordítások
 
+## Tartalomjegyzék
+
+* [Bevezető](#bevezeto)
+* [Közösségi információ](#kozossegi-informacio)
+
+
 
 ### Bevezető
 
@@ -18,10 +24,10 @@ Kezdeném azzal, hogy mi **nem vagyunk** a hivatalos WordPress fordító tagjai.
 
 ### Hogyan lehet csatlakozni a közösséghez?
 
-Ez egy nyitott "projekt", azaz szabadon lehet hozzá csatlakozni, mint fordító. A fordítónak kötelezettsége van saját munkája iránt, valamint szabályok melyeket bekell tartani.
-Nincsenek előfeltételek, és nem szükséges az angol nyelvvizsga sem. Mindenkit szivesen látunk, aki veszi a fáradstágot, és beszáll a fordításokba. 
+Ez egy nyitott "projekt", azaz szabadon lehet hozzá csatlakozni, mint fordító. A fordítónak kötelezettsége van saját munkája iránt, valamint szabályok melyeket be kell tartani.
+Nincsenek előfeltételek, és nem szükséges az angol nyelvvizsga sem. Mindenkit szivesen látunk, aki veszi a fáradságot, és beszáll a fordításokba. 
 
-> Fontos! Azon bővítmények, amik megtalálhatóak a WordPress hivatalos bővítmény tárában, ide nem kerülnek fel. Ha ingyenes plugin-t fordítasz azt tedd a hivatalos úton / módon!
+> Fontos! Azon bővítmények, amik megtalálhatóak a WordPress hivatalos bővítmény tárában, ide nem kerülnek fel.(csak eseti jelleggel) Ha ingyenes plugin-t fordítasz azt tedd a hivatalos úton / módon!
 
 
 ### Szabályok a fordítók számára
@@ -29,9 +35,10 @@ Nincsenek előfeltételek, és nem szükséges az angol nyelvvizsga sem. Mindenk
 - Kerüld a Google Fordítót. Szabadon lehet használni segédeszközöket, de ilyenkor válasszunk okosan. Használj DeepL-t vagy akár maga a ChatGPT.
 - Ne fordíts úgy, hogy nem ismered a bővítményt. Aranyszabály!
 - Ne támaszkodj az AI-ra, vagy komplett DeepL fordításra 100%-ban. Ez alatt azt értem, hogy ne add be a rendszernek a teljes anyagot fordításra, mert tízszer annyi idő lesz kijavítani, mint manuálisan megcsinálni.
-- Kövesd a **hivatalos fordítók** általi WordPress magyar megnevezéseket / szabványokat. Ha a Trash Lomtár, akkor nem fordítjuk kukának.
+- A fordítás legyen konzisztens.
+- Kövesd a **hivatalos fordítók** általi WordPress / WooCommerce magyar megnevezéseket / szabványokat. Ha a Trash Lomtár, akkor nem fordítjuk kukának.
 - Kövess populárisabb bővítményekben megtalálható magyar fordításokat alapoknak. Például az **Elementor** stilisztikai fordításai már köztudatban vannak, és elfogadottak, ezért jobb ezen sémákat követni.
-- Egyeztess más fordítókkal, vagy ellenőrizd át a munkájukat ha olyan bővítmény magyarosítását végzed ahol több plugin ütközés is megtalálható. Ha nem vagy magadban biztos egyeztess velünk!
+- Egyeztess más fordítókkal, vagy ellenőrizd át a munkájukat ha olyan bővítmény magyarítását végzed ahol több plugin ütközés is megtalálható. Ha nem vagy magadban biztos egyeztess velünk!
 - Döntsd el, hogy magázol vagy tegezel. Ha magázva kezded a fordítást tartsd magad ahhoz.
 - Felelősséggel kell lenned a fordításod iránt. Csak úgy tölthetsz fel fordítást, ha csatolsz mellé **cred-olvasdel.txt** ahol megadod az alapvető információkat, mind magadról mind a bővítményről.
 - 50% alatti fordítást nem töltünk fel, csak abban az esetben ha komplexebb a fordítás és kísérleti jellegű kiadást kívánsz kiadni. Ezt fel kell tüntetni a **cred-olvasdel.txt** fájlban.
@@ -55,6 +62,11 @@ Kövesd a meglévő **cred-olvasdel** fájlokat referenciaként. Ebbe a txtben k
 - Ne zaklasd a fordítót. Tartsd tiszteletben a **cred-olvasdel.txt-ben** leírtakat.
 - Ha hibát találtál a legjobb ha itt Githubon az ISSUE részlegen jelented.
 
+## Hogyan tudom a Githubról letölteni a fordításokat?
+
+A legegyszerűbb mód, ha az összeset letöltöd a képen látható módon.
+![image](https://github.com/Lonsdale201/wp-magyar-forditasok/assets/23199033/0d19f864-ae02-46bb-bacc-552408ea1b3c)
+
 
 
 ## Hogyan tudok fordítást "telepíteni"?
@@ -70,7 +82,7 @@ Loco Translate bővítmény esetében mennyj a Loco Translate / Plugins menüpon
 
 ## Hogyan tudok fordítást feltölteni / beküldeni?
 
-Ha jártas vagy a Github használatában, akkor forkold a repómat magadhoz, majd pullold a feltöltésedet. 24 órán belül elfogadásra kerül. / feltétel saját github fiók
+Ha jártas vagy a Github használatában, akkor forkold a repómat magadhoz, majd pushold a feltöltésedet. 24 órán belül elfogadásra kerül. / feltétel saját github fiók
 Ha a Github világa ismeretlen számodra, akkor a fordításodat elküldheted nekem Emailben, vagy Discordon. Az elérhetősegeket lentebb fogod látni.
 A repómhoz kollaborációs lehetőség is van, de ehhez javasolt némi github ismeret a részedről. (nem akadály, ha nincs, de szeretnél csatlakozni, segítek) / feltétel saját github fiók
 
