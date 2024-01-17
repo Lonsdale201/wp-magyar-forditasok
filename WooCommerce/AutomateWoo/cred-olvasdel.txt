@@ -1,12 +1,12 @@
 AutomateWoo
-30% körüli fordítási állapot (Kísérleti fázis)
+33%+ fordítási állapot (Kísérleti fázis)
 
 Link: https://automatewoo.com/
 
 Fordította: Soczó Kristóf
 
-Utoljára módosítva: 2023.08.06.
-AutomateWoo verzió: 6.0
+Utoljára módosítva: 2024.01.17.
+AutomateWoo verzió: 6.0.11
 
 Elérhetőség
 Email: kristof@hellowp.io, lonsdale201@hotmail.com
