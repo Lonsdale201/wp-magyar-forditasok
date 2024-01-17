@@ -3,8 +3,8 @@ WordPress bővítmények - magyar közösségi fordítások
 
 ## Tartalomjegyzék
 
-* [Bevezető](#bevezeto)
-* [Közösségi információ](#kozossegi-informacio)
+* [Bevezető](#bevezető)
+* [Közösségi információ](#közösségi-információ)
 
 
 
