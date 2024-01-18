@@ -1,14 +1,14 @@
-WooCommerce Product Add-ons
+Woo Product Add-ons
 90% feletti fordítási állapot
 
-Link: https://woocommerce.com/products/product-add-ons/
+Link: https://woo.com/products/product-add-ons/
 
 Fordította: Soczó Kristóf
 
-Utoljára módosítva: 2023. 01. 16.
-WooCommerce Product Add-ons verzió: 5.0.3
+Utoljára módosítva: 2024. 01. 18.
+WooCommerce Product Add-ons verzió: 6.5.2
 
 
 Elérhetőség
 Email: kristof@hellowp.io, lonsdale201@hotmail.com
-Discord: lonsdale201
+Discord: lonsdale
