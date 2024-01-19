@@ -4,7 +4,7 @@ WooCommerce Name Your price
 
 Link: https://woo.com/products/name-your-price/
 
-Utoljára módosítva: 2024.01.16.
+Utoljára módosítva: 2024.01.19.
 Verzió: 3.5.9
 
 Bugos az ár Input a magyar szám formátummal? https://github.com/Lonsdale201/Name-your-Price-Hotfix
