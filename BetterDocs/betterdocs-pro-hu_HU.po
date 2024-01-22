@@ -6,24 +6,24 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BetterDocs Pro 2.5.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/betterdocs-pro\n"
+"POT-Creation-Date: 2023-07-26T05:31:40+00:00\n"
+"PO-Revision-Date: 2024-01-22 18:51+0100\n"
 "Last-Translator: Radics József Géza\n"
 "Language-Team: Magyar\n"
+"Language: hu_HU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2023-07-26T05:31:40+00:00\n"
-"PO-Revision-Date: 2023-08-23 09:47+0000\n"
-"X-Generator: Loco https://localise.biz/\n"
-"X-Domain: betterdocs-pro\n"
-"Language: hu_HU\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Loco-Version: 2.6.4; wp-6.3"
+"X-Generator: Poedit 3.4.2\n"
+"X-Domain: betterdocs-pro\n"
+"X-Loco-Version: 2.6.4; wp-6.3\n"
 
 #: views/admin/notices/compatibility.php:5
 msgid ""
-"<strong>BetterDocs Pro 2.5</strong> requires <strong>BetterDocs Free 2."
-"5+</strong> plugin to be installed. Please <strong><em>Update</em></strong> "
-"the BetterDocs Free plugin for a smooth experience."
+"<strong>BetterDocs Pro 2.5</strong> requires <strong>BetterDocs Free 2.5+</"
+"strong> plugin to be installed. Please <strong><em>Update</em></strong> the "
+"BetterDocs Free plugin for a smooth experience."
 msgstr ""
 
 #: views/admin/notices/activate.php:5
@@ -86,11 +86,11 @@ msgstr ""
 
 #: includes/Core/Settings.php:678
 msgid "Accent Color"
-msgstr ""
+msgstr "Kiemelés színe"
 
 #: includes/Plugin.php:172
 msgid "Activate Now"
-msgstr ""
+msgstr "Aktiváld most"
 
 #: includes/Editors/Elementor/Widget/TabViewList.php:383
 msgid "Active"
@@ -236,14 +236,14 @@ msgstr "Szerző"
 
 #: includes/Admin/Customizer/Sections/MultipleKB.php:175
 msgid "auto"
-msgstr ""
+msgstr "Auto"
 
 #: includes/Admin/Customizer/Sections/LiveSearch.php:365
 #: includes/Admin/Customizer/Sections/Sidebar.php:47
 #: includes/Editors/Elementor.php:141
 #: includes/Editors/Elementor/Widget/TabViewList.php:427
 msgid "Background Color"
-msgstr ""
+msgstr "Háttérszín"
 
 #: includes/Admin/Customizer/Sections/LiveSearch.php:385
 #: includes/Editors/Elementor.php:152
@@ -253,7 +253,7 @@ msgstr ""
 
 #: includes/Admin/Customizer/Sections/MultipleKB.php:138
 msgid "Background Property"
-msgstr ""
+msgstr "Háttér tulajdonságai"
 
 #: includes/Editors/Elementor/Widget/MultipleKB.php:24
 msgid "BetterDocs Multiple KB"
@@ -265,7 +265,7 @@ msgstr ""
 
 #. Plugin Name of the plugin
 msgid "BetterDocs Pro"
-msgstr ""
+msgstr "BetterDocs Pro"
 
 #: includes/Editors/Elementor/Widget/TabViewList.php:24
 msgid "BetterDocs Tab View List"
@@ -458,7 +458,7 @@ msgstr ""
 #: assets/admin/js/analytics.js:1827 assets/admin/js/analytics.js:3124
 #: assets/admin/js/analytics.js:3270
 msgid "Category"
-msgstr ""
+msgstr "Kategória"
 
 #: includes/Editors/Elementor/Widget/TabViewList.php:419
 msgid "Category Box"
@@ -541,7 +541,7 @@ msgstr ""
 
 #: includes/Editors/Elementor/Widget/PopularView.php:165
 msgid "Center"
-msgstr ""
+msgstr "Középre"
 
 #: includes/Admin/Customizer/Sections/MultipleKB.php:289
 msgid "center bottom"
@@ -575,11 +575,11 @@ msgstr ""
 #: includes/Editors/Elementor/Widget/PopularView.php:289
 #: includes/Editors/Elementor/Widget/TabViewList.php:889
 msgid "Color"
-msgstr "Szan"
+msgstr "Szín"
 
 #: includes/Core/Settings.php:672
 msgid "Color Settings"
-msgstr ""
+msgstr "Szín beállítások"
 
 #: includes/Admin/Customizer/Sections/MultipleKB.php:1027
 msgid "Column Background Color"
@@ -907,7 +907,7 @@ msgstr "Keresés gomb engedélyezése"
 #: assets/admin/js/analytics.js:3102 assets/admin/js/analytics.js:3246
 #: assets/admin/js/analytics.js:3467
 msgid "Error! "
-msgstr "Hiba!"
+msgstr "Hiba! "
 
 #: includes/Admin/Customizer/Sections/ArchivePage.php:1556
 msgid "Excerpt Font Color"
@@ -1017,7 +1017,7 @@ msgstr ""
 #: includes/Editors/Elementor/Widget/TabViewList.php:370
 #: includes/Editors/Elementor/Widget/TabViewList.php:398
 msgid "Font Color"
-msgstr ""
+msgstr "Betűszín"
 
 #: includes/Admin/Customizer/Sections/LiveSearch.php:252
 msgid "Font Letter Spacing"
@@ -1027,7 +1027,7 @@ msgstr ""
 #: includes/Admin/Customizer/Sections/LiveSearch.php:98
 #: includes/Admin/Customizer/Sections/LiveSearch.php:225
 msgid "Font Size"
-msgstr ""
+msgstr "Betűméret"
 
 #: includes/Admin/Customizer/Sections/LiveSearch.php:158
 #: includes/Admin/Customizer/Sections/LiveSearch.php:312
@@ -1039,7 +1039,7 @@ msgstr ""
 #: includes/Admin/Customizer/Sections/LiveSearch.php:124
 #: includes/Admin/Customizer/Sections/LiveSearch.php:278
 msgid "Font Weight"
-msgstr ""
+msgstr "Betűvastagság"
 
 #: includes/Admin/Customizer/Defaults.php:564
 msgid "Frequently Asked Questions"
@@ -1090,7 +1090,7 @@ msgstr ""
 #: includes/Editors/Elementor/Widget/PopularView.php:119
 #: includes/Editors/Elementor/Widget/TabViewList.php:93
 msgid "H3"
-msgstr ""
+msgstr "H3"
 
 #: includes/Core/Settings.php:919
 msgid "H3 Font Size"
@@ -1099,7 +1099,7 @@ msgstr ""
 #: includes/Editors/Elementor/Widget/PopularView.php:120
 #: includes/Editors/Elementor/Widget/TabViewList.php:94
 msgid "H4"
-msgstr ""
+msgstr "H4"
 
 #: includes/Core/Settings.php:926
 msgid "H4 Font Size"
@@ -1108,7 +1108,7 @@ msgstr ""
 #: includes/Editors/Elementor/Widget/PopularView.php:121
 #: includes/Editors/Elementor/Widget/TabViewList.php:95
 msgid "H5"
-msgstr ""
+msgstr "H5"
 
 #: includes/Core/Settings.php:933
 msgid "H5 Font Size"
@@ -1117,7 +1117,7 @@ msgstr ""
 #: includes/Editors/Elementor/Widget/PopularView.php:122
 #: includes/Editors/Elementor/Widget/TabViewList.php:96
 msgid "H6"
-msgstr ""
+msgstr "H6"
 
 #: includes/Core/Settings.php:940
 msgid "H6 Font Size"
@@ -1126,12 +1126,12 @@ msgstr ""
 #: assets/admin/js/analytics.js:1 assets/admin/js/analytics.js:2173
 #: assets/admin/js/analytics.js:2281
 msgid "Happy"
-msgstr ""
+msgstr "Boldog"
 
 #: assets/admin/js/analytics.js:1 assets/admin/js/analytics.js:2528
 #: assets/admin/js/analytics.js:2674
 msgid "Happy: "
-msgstr ""
+msgstr "Boldog: "
 
 #: includes/Core/Settings.php:699
 msgid "Heading Color"
@@ -1161,7 +1161,7 @@ msgstr ""
 #: includes/Editors/Elementor/Widget/TabViewList.php:119
 #: includes/Editors/Elementor/Widget/TabViewList.php:131
 msgid "Hide"
-msgstr ""
+msgstr "Elrejtés"
 
 #: includes/Editors/Elementor/Widget/TabViewList.php:309
 #: includes/Editors/Elementor/Widget/TabViewList.php:570
@@ -1177,35 +1177,35 @@ msgstr ""
 
 #: includes/Core/InstantAnswer.php:519
 msgid "How can we help?"
-msgstr ""
+msgstr "Miben segíthetünk?"
 
 #: includes/Core/InstantAnswer.php:511 includes/Core/Settings.php:125
 #: includes/Core/Settings.php:576
 msgid "How did you feel?"
-msgstr ""
+msgstr "Hogy érezted magad?"
 
 #. Author URI of the plugin
 msgid "https://wpdeveloper.com"
-msgstr ""
+msgstr "https://wpdeveloper.com"
 
 #. Plugin URI of the plugin
 msgid "https:/betterdocs.co"
-msgstr ""
+msgstr "https:/betterdocs.co"
 
 #: includes/Admin/Customizer/Sections/MultipleKB.php:1507
 #: includes/Editors/Elementor/Widget/PopularView.php:323
 #: includes/Editors/Elementor/Widget/TabViewList.php:936
 msgid "Icon"
-msgstr ""
+msgstr "Ikon"
 
 #: includes/Editors/Elementor/Widget/TabViewList.php:855
 msgid "Icon Border"
-msgstr ""
+msgstr "Ikon keret"
 
 #: includes/Editors/Elementor/Widget/PopularView.php:332
 #: includes/Editors/Elementor/Widget/TabViewList.php:945
 msgid "Icon Color"
-msgstr ""
+msgstr "Ikon szín"
 
 #: includes/Editors/Elementor/Widget/TabViewList.php:956
 msgid "Icon Hover Color"
@@ -1214,7 +1214,7 @@ msgstr ""
 #: includes/Admin/Customizer/Sections/MultipleKB.php:1172
 #: includes/Editors/Elementor/Widget/PopularView.php:344
 msgid "Icon Size"
-msgstr ""
+msgstr "Ikonméret"
 
 #: includes/Editors/Elementor/Widget/PopularView.php:366
 msgid "Icon Spacing"
@@ -1246,12 +1246,12 @@ msgstr ""
 
 #: includes/Plugin.php:172
 msgid "Install Now"
-msgstr ""
+msgstr "Telepítés most"
 
 #: includes/Core/InstantAnswer.php:472 includes/Core/Settings.php:118
 #: includes/Core/Settings.php:523
 msgid "Instant Answer"
-msgstr ""
+msgstr "Azonnali válasz"
 
 #: includes/Core/Settings.php:480
 msgid "Instant Answer Close Icon"
@@ -1544,11 +1544,11 @@ msgstr ""
 
 #: includes/Core/Settings.php:987
 msgid "License"
-msgstr ""
+msgstr "Licensz"
 
 #: includes/Admin/Customizer/Sections/DocsPage.php:2001
 msgid "Line Height"
-msgstr ""
+msgstr "Sormagasság"
 
 #: includes/Editors/Elementor/Widget/TabViewList.php:923
 msgid "List Area Padding"
@@ -2033,7 +2033,7 @@ msgstr "Előző"
 
 #: assets/admin/js/analytics.js:1 assets/admin/js/analytics.js:279
 msgid "Pro Version: "
-msgstr "Pro verzió:"
+msgstr "Pro verzió: "
 
 #: includes/Editors/Elementor/Widget/PopularView.php:47
 msgid "Query"
@@ -2231,11 +2231,11 @@ msgstr ""
 
 #: includes/Editors/Elementor.php:114
 msgid "Search Button"
-msgstr ""
+msgstr "Keresés gomb"
 
 #: includes/Admin/Customizer/Sections/LiveSearch.php:204
 msgid "Search Button Settings"
-msgstr ""
+msgstr "Keresés gomb beállításai"
 
 #: includes/Core/MultipleKB.php:431
 msgid "Search Knowledge Base"
@@ -2256,7 +2256,7 @@ msgstr "Keresés..."
 
 #: assets/admin/js/analytics.js:1 assets/admin/js/analytics.js:1357
 msgid "Searches"
-msgstr ""
+msgstr "Keresés"
 
 #: includes/Admin/Customizer/Sections/FaqBuilder.php:176
 msgid "Section Title Color"
@@ -2297,7 +2297,7 @@ msgstr "Kiválaszt"
 
 #: includes/Core/Settings.php:339
 msgid "Select Docs"
-msgstr ""
+msgstr "Docs kiválasztása"
 
 #: includes/Core/Settings.php:349
 msgid "Select Docs Categories"
@@ -2317,12 +2317,12 @@ msgstr "Elküld"
 
 #: includes/Core/InstantAnswer.php:521
 msgid "Sending"
-msgstr ""
+msgstr "Küldés"
 
 #: includes/Editors/Elementor/Widget/TabViewList.php:279
 #: includes/Editors/Elementor/Widget/TabViewList.php:354
 msgid "Shadow"
-msgstr ""
+msgstr "Árnyék"
 
 #: includes/Editors/Elementor/Widget/TabViewList.php:106
 #: includes/Editors/Elementor/Widget/TabViewList.php:118
@@ -2336,7 +2336,7 @@ msgstr "Összes megjelenítése"
 
 #: includes/Editors/Elementor/Widget/TabViewList.php:116
 msgid "Show Icon"
-msgstr ""
+msgstr "Ikon megjelenítése"
 
 #: includes/Core/Settings.php:380
 msgid "Show on Archive Templates"
@@ -2356,7 +2356,7 @@ msgstr ""
 
 #: includes/Editors/Elementor/Widget/TabViewList.php:128
 msgid "Show Title"
-msgstr ""
+msgstr "Cím megjelenítése"
 
 #: includes/Admin/Customizer/Sections/Sidebar.php:23
 msgid "Sidebar Bohemian Layout"
@@ -2383,7 +2383,7 @@ msgstr "Méret"
 #: assets/admin/js/analytics.js:2035 assets/admin/js/analytics.js:3126
 #: assets/admin/js/analytics.js:3490
 msgid "Slug"
-msgstr "Alias"
+msgstr "Slug"
 
 #: assets/admin/js/analytics.js:1 assets/admin/js/analytics.js:449
 #: assets/admin/js/analytics.js:588 assets/admin/js/analytics.js:719
@@ -2393,16 +2393,16 @@ msgstr "Alias"
 #: assets/admin/js/analytics.js:3041 assets/admin/js/analytics.js:3184
 #: assets/admin/js/analytics.js:3415 assets/admin/js/analytics.js:3548
 msgid "Sorry, No Data Found."
-msgstr ""
+msgstr "Sajnálom, nem találtunk adatot."
 
 #: includes/Editors/Elementor/Widget/PopularView.php:54
 msgid "Sort Articles"
-msgstr ""
+msgstr "Cikkek rendezése"
 
 #: includes/Editors/Elementor/Widget/PopularView.php:311
 #: includes/Editors/Elementor/Widget/TabViewList.php:985
 msgid "Spacing"
-msgstr ""
+msgstr "Térköz"
 
 #: includes/Admin/Customizer/Sections/MultipleKB.php:1001
 msgid "Spacing Between Columns"
@@ -2439,15 +2439,15 @@ msgstr "Tárgy"
 
 #: includes/Core/Settings.php:450
 msgid "Success Message Text"
-msgstr ""
+msgstr "Sikerüzenet szövege"
 
 #: includes/Core/Settings.php:443
 msgid "Success Message Title"
-msgstr ""
+msgstr "Sikerüzenet címe"
 
 #: includes/Core/Admin.php:128
 msgid "Switch to BetterDocs UI"
-msgstr ""
+msgstr "Váltás BetterDocs UI-ra"
 
 #: includes/Admin/Customizer/Sections/MultipleKB.php:505
 msgid "Tab List Background Color"
@@ -2493,7 +2493,7 @@ msgstr ""
 #: includes/Editors/Elementor/Widget/TabViewList.php:661
 #: includes/Editors/Elementor/Widget/TabViewList.php:743
 msgid "Text Color"
-msgstr ""
+msgstr "Szövegszín"
 
 #: includes/Core/Settings.php:109 includes/Core/Settings.php:445
 msgid "Thanks"
@@ -2544,7 +2544,7 @@ msgstr ""
 #: assets/admin/js/analytics.js:1 assets/admin/js/analytics.js:1825
 #: assets/admin/js/analytics.js:3268
 msgid "Title"
-msgstr "Cam"
+msgstr "Cím"
 
 #: includes/Admin/Customizer/Sections/Sidebar.php:466
 msgid "Title Background Color"
@@ -2711,12 +2711,12 @@ msgstr ""
 #: assets/admin/js/analytics.js:1 assets/admin/js/analytics.js:1234
 #: assets/admin/js/analytics.js:2795
 msgid "Total Views"
-msgstr ""
+msgstr "Összes megtekintés"
 
 #: includes/Editors/Elementor/Widget/PopularView.php:130
 #: includes/Editors/Elementor/Widget/PopularView.php:280
 msgid "Typography"
-msgstr ""
+msgstr "Tipográfia"
 
 #: assets/admin/js/analytics.js:1 assets/admin/js/analytics.js:2229
 #: assets/admin/js/analytics.js:2295
@@ -2740,12 +2740,12 @@ msgstr "Tudásbázis frissítése"
 
 #: assets/admin/js/analytics.js:1 assets/admin/js/analytics.js:275
 msgid "Version: "
-msgstr "Verzió:"
+msgstr "Verzió: "
 
 #: assets/admin/js/analytics.js:1 assets/admin/js/analytics.js:1878
 #: assets/admin/js/analytics.js:3327
 msgid "View Analytics"
-msgstr ""
+msgstr "Analitika megtekintése"
 
 #: assets/admin/js/analytics.js:1 assets/admin/js/analytics.js:1865
 msgid "View Doc"
@@ -2758,7 +2758,7 @@ msgstr ""
 #: assets/admin/js/analytics.js:2873 assets/admin/js/analytics.js:3129
 #: assets/admin/js/analytics.js:3278 assets/admin/js/analytics.js:3493
 msgid "Views"
-msgstr ""
+msgstr "Megtekintés"
 
 #: includes/Core/InstantAnswer.php:486 includes/Core/Settings.php:133
 #: includes/Core/Settings.php:644
@@ -2777,7 +2777,7 @@ msgstr ""
 
 #. Author of the plugin
 msgid "WPDeveloper"
-msgstr ""
+msgstr "WPDeveloper"
 
 #: includes/Core/Settings.php:91
 msgid "Your Documentation Performance of %s Website"
@@ -2793,8 +2793,8 @@ msgstr "Z-index"
 
 #: assets/admin/js/analytics.js:1 assets/admin/js/analytics.js:270
 msgid "| Analytics"
-msgstr ""
+msgstr "| Analytics"
 
 #: views/admin/notices/enable-kb.php:6
 msgid "‘Multiple Knowledge Base’"
-msgstr "\"Tudásbázis kategóriák\""
+msgstr "‘Többszörös Tudásbázis’"
