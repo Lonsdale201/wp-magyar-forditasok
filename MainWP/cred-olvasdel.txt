@@ -1,17 +1,15 @@
-BetterDocs & PRO
-25% feletti fordítások
-20% feletti fordítások PRO
+MainWP Dashboard
+92% feletti fordítások
 
 Jelezzétek az Issue szekcióban a felrefordításokat, vagy javaslatokat.
 
 Link
-https://betterdocs.co
+https://mainwp.com/
 
-Utoljára módosítva: 
+Utoljára módosítva:
 2024.01.22.
 
-BetterDocs verzió: 3.3.3
-BetterDocs PRO verzió: 3.0.3
+MainWP Dashboard verzió: 4.6
 
 Fordította: Radics József Géza
 

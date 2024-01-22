@@ -1,15 +1,17 @@
-Bricks Builder
-100%-os fordítás
+BetterDocs & PRO
+25% feletti fordítások
+20% feletti fordítások PRO
 
 Jelezzétek az Issue szekcióban a felrefordításokat, vagy javaslatokat.
 
 Link
-https://bricksbuilder.io/
+https://betterdocs.co
 
-Utoljára módosítva: 
+Utoljára módosítva:
 2024.01.22.
 
-Bricks Builder verzió: 1.9.5
+BetterDocs verzió: 3.3.3
+BetterDocs PRO verzió: 3.0.3
 
 Fordította: Radics József Géza
 
