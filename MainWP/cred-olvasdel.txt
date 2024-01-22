@@ -1,5 +1,5 @@
 MainWP Dashboard 
-89% feletti fordítások
+92% feletti fordítások
 
 Jelezzétek az Issue szekcióban a felrefordításokat, vagy javaslatokat.
 
@@ -7,7 +7,7 @@ Link
 https://mainwp.com/
 
 Utoljára módosítva: 
-2024.01.14.
+2024.01.22.
 
 MainWP Dashboard verzió: 4.6
 
@@ -16,4 +16,4 @@ Fordította: Radics József Géza
 Elérhetőség
 
 Discord:
-Email:
+Email: radicsjg@gmail.com

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: MainWP Dashboard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-18 14:55+0000\n"
-"PO-Revision-Date: 2024-01-14 19:14+0100\n"
+"PO-Revision-Date: 2024-01-22 18:27+0100\n"
 "Last-Translator: \n"
 "Language-Team: Magyar\n"
 "Language: hu_HU\n"
@@ -1105,7 +1105,7 @@ msgstr "Automatikusan észleli a maximális fájlleírókat a gyermekoldalakon"
 
 #: class/class-mainwp-manage-sites-view.php:924
 msgid "Auto update core"
-msgstr "WordPress magjának automatikus frissítése"
+msgstr "WordPress core automatikus frissítése"
 
 #: pages/page-mainwp-settings.php:576
 msgid "Automatic daily sync time"
@@ -1472,7 +1472,7 @@ msgstr ""
 #: pages/page-mainwp-security-issues.php:280
 msgid "Checks if SSL protocol is in place. You have to change this yourself."
 msgstr ""
-"Ellenőrzi, hogy az SSL protokoll működik-e. Ezt magának kell megváltoztatnia."
+"Ellenőrzi, hogy az SSL protokoll működik-e. Ezt magadnak kell megváltoztatnia."
 
 #: pages/page-mainwp-security-issues.php:295
 msgid ""
@@ -3355,24 +3355,20 @@ msgid "Enable Demo Mode With Guided Tours"
 msgstr "Demo mód engedélyezése vezetett túrákkal"
 
 #: pages/page-mainwp-user.php:1779
-#, fuzzy
 msgid "Enable if the import file contains a header."
-msgstr "Engedélyezi, ha az importált fájl tartalmaz fejlécet."
+msgstr "Engedélyezze, ha az importált fájl fejlécet tartalmaz."
 
 #: class/class-mainwp-manage-sites-view.php:925
-#, fuzzy
 msgid "Enable if you want MainWP to automatically update WP Core on this website."
 msgstr ""
 "Engedélyezze, ha azt szeretné, hogy a MainWP automatikusan frissítse a WP Core-"
 "t ezen a weboldalon."
 
 #: class/class-mainwp-manage-sites-view.php:919
-#, fuzzy
 msgid "Enable if you want Suspend this website."
 msgstr "Engedélyezze, ha szeretné felfüggeszteni ezt a weboldalt."
 
 #: pages/page-mainwp-settings.php:1252
-#, fuzzy
 msgid ""
 "Enable if you want to force your MainWP Dashboard to use IPv4 while tryig to "
 "connect child sites."
@@ -3381,14 +3377,12 @@ msgstr ""
 "amikor gyermekoldalakhoz próbál csatlakozni."
 
 #: class/class-mainwp-manage-sites-view.php:938
-#, fuzzy
 msgid "Enable if you want to ignore plugin updates on this website."
 msgstr ""
 "Engedélyezze, ha figyelmen kívül akarja hagyni a plugin frissítéseit ezen a "
 "weboldalon."
 
 #: class/class-mainwp-manage-sites-view.php:944
-#, fuzzy
 msgid "Enable if you want to ignore theme updates on this website."
 msgstr ""
 "Engedélyezze, ha figyelmen kívül akarja hagyni a téma frissítéseit ezen a "
@@ -3406,32 +3400,28 @@ msgstr "Engedélyezd, ha kezelni szeretnéd a fordítási frissítéseket"
 
 #: class/class-mainwp-manage-sites-view.php:967
 #: class/class-mainwp-manage-sites-view.php:1001
-#, fuzzy
 msgid "Enable if you want to monitoring this website."
 msgstr "Engedélyezze, ha szeretné figyelemmel kísérni ezt a weboldalt."
 
 #: pages/page-mainwp-settings.php:728
-#, fuzzy
 msgid ""
 "Enable if you want your MainWP Dashboard to check child site header response "
 "after updates."
 msgstr ""
 "Engedélyezze, ha azt szeretné, hogy a MainWP Dashboard frissítések után "
-"ellenőrizze a gyermek webhely fejlécének válaszát."
+"ellenőrizze a gyermek weboldal fejlécének válaszát."
 
 #: modules/logs/classes/class-log-settings.php:106
 msgid "Enable insights logging"
 msgstr "Insights naplózás engedélyezése"
 
 #: pages/page-mainwp-manage-backups.php:1045
-#, fuzzy
 msgid "Enable legacy backup feature"
 msgstr "A régi biztonsági mentés funkció engedélyezése"
 
 #: pages/page-mainwp-settings.php:1333
-#, fuzzy
 msgid "Enable MainWP guided tours"
-msgstr "MainWP vezetett túrák engedélyezése"
+msgstr "MainWP túrák engedélyezése"
 
 #: pages/page-mainwp-settings.php:665
 msgid ""
@@ -3470,7 +3460,6 @@ msgid "Enable Site Health monitoring"
 msgstr "A weboldal állapot figyelés engedélyezése"
 
 #: pages/page-mainwp-rest-api-page.php:631
-#, fuzzy
 msgid ""
 "Enable the MainWP REST API functionality and generate API credentials.  Check "
 "this %1$shelp document%2$s to see all available endpoints."
@@ -3593,9 +3582,8 @@ msgid "Error message:"
 msgstr "Hibaüzenet:"
 
 #: class/class-mainwp-system-view.php:166
-#, fuzzy
 msgid "Error on your child WordPress"
-msgstr "Hiba a gyermek WordPress"
+msgstr "Hiba a gyermek WordPress weboldalon"
 
 #: pages/page-mainwp-manage-sites-handler.php:56
 msgid "ERROR Site is already connected to your MainWP Dashboard."
@@ -3662,14 +3650,13 @@ msgstr ""
 
 #: pages/page-mainwp-setup-wizard.php:776
 #: class/class-mainwp-monitoring-view.php:32
-#, fuzzy
 msgid ""
 "Excessive checking can cause server resource issues.  For frequent checks or "
 "lots of sites, we recommend the %1$sMainWP Advanced Uptime Monitoring%2$s "
 "extension."
 msgstr ""
 "A túlzott ellenőrzés szervererőforrás-problémákat okozhat.  Gyakori "
-"ellenőrzések vagy sok webhely esetén a %1$sMainWP Advanced Uptime "
+"ellenőrzések vagy sok weboldal esetén a %1$sMainWP Advanced Uptime "
 "Monitoring%2$s bővítményt ajánljuk."
 
 #: pages/page-mainwp-manage-backups.php:1141
@@ -3686,9 +3673,8 @@ msgid "Execution time"
 msgstr "Végrehajtási idő"
 
 #: class/class-mainwp-client-handler.php:564
-#, fuzzy
 msgid "Existed contact emails.%sPlease try again."
-msgstr "Létező kapcsolati e-mailek.%sKérjük, próbálkozzon újra."
+msgstr "Létező kapcsolat e-mail cím.%sKérjük, próbálkozzon újra."
 
 #: pages/page-mainwp-setup-wizard.php:321
 msgid "Explore MainWP's capabilities using our pre-loaded demo content."
@@ -3702,9 +3688,8 @@ msgstr "Gyerek weboldalak exportálása"
 
 #: pages/page-mainwp-manage-screenshots.php:477
 #: pages/page-mainwp-manage-sites.php:466 pages/page-mainwp-settings.php:1374
-#, fuzzy
 msgid "Export child sites to CSV file"
-msgstr "Gyermekoldalak exportálása CSV fájlba"
+msgstr "Gyermek weboldalak exportálása CSV fájlba"
 
 #: class/class-mainwp-api-manager.php:436
 msgid "Extension activated. "
@@ -3813,9 +3798,8 @@ msgid "Field Description"
 msgstr "Mező Leírás"
 
 #: pages/page-mainwp-client.php:1805
-#, fuzzy
 msgid "Field has been saved without changes."
-msgstr "A mező módosítás nélkül mentésre került."
+msgstr "A mező mentésre került módosítás nélkül."
 
 #: pages/page-mainwp-client.php:1026 pages/page-mainwp-client.php:1098
 msgid "Field Name"
@@ -3823,12 +3807,10 @@ msgstr "Mező neve"
 
 #: pages/page-mainwp-server-information.php:1554
 #: pages/page-mainwp-server-information.php:1814
-#, fuzzy
 msgid "File content could not be displayed."
 msgstr "A fájl tartalma nem jeleníthető meg."
 
 #: pages/page-mainwp-user.php:2138
-#, fuzzy
 msgid ""
 "File could not be uploaded. Please try again. If process keeps failing, please "
 "review MainWP Knowledgebase, and if you still have issues, please let us know "
@@ -3839,7 +3821,6 @@ msgstr ""
 "mindig problémái vannak, kérjük, ossza meg velünk a MainWP Közösségben."
 
 #: pages/page-mainwp-user.php:2135
-#, fuzzy
 msgid ""
 "File could not be uploaded. Temporary file cold not be created. Please make "
 "sure that the tmpfile() PHP function is enabled on your server."
@@ -3973,7 +3954,6 @@ msgid "For additional help, please review this %1$shelp document%2$s."
 msgstr "További segítségért tekintse meg ezt a %1$ssúgó dokumentumot%2$s."
 
 #: pages/page-mainwp-manage-groups.php:310
-#, fuzzy
 msgid "for more information check the %1$sKnowledge Base %2$s."
 msgstr "további információkért tekintse meg a %1$sTudásbázis %2$s."
 
@@ -3987,10 +3967,9 @@ msgstr "IPv4 kényszerítése (opcionális)"
 
 #: pages/page-mainwp-settings.php:1356
 msgid "Force your MainWP Dashbaord to set new pair of OpenSSL Keys"
-msgstr ""
+msgstr "Kényszerítse a MainWP Dashbaordot, hogy új OpenSSL kulcspárt állítson be"
 
 #: pages/page-mainwp-settings.php:1344
-#, fuzzy
 msgid "Force your MainWP Dashboard to establish a new connection"
 msgstr "Kényszerítse a MainWP Dashboardot, hogy új kapcsolatot hozzon létre"
 
@@ -4004,7 +3983,7 @@ msgstr ""
 
 #: class/class-mainwp-connect-helper.php:61
 msgid "Force your MainWP Dashboard to set a new pair of OpenSSL Keys"
-msgstr ""
+msgstr "Kényszerítse a MainWP Dashboardot egy új OpenSSL kulcspár beállítására"
 
 #: pages/page-mainwp-settings.php:1351
 #, fuzzy
@@ -4081,9 +4060,8 @@ msgid "Get Firefox Extension"
 msgstr "Firefox kiegészítő beszerzése"
 
 #: class/class-mainwp-ui.php:1276 class/class-mainwp-ui.php:1297
-#, fuzzy
 msgid "Get fresh data from your child sites."
-msgstr "Szerezzen friss adatokat gyermeke webhelyeiről."
+msgstr "Szerezzen friss adatokat gyermek weboldalakról."
 
 #: class/class-mainwp-extensions-view.php:323
 msgid "Get Pro"
@@ -4102,7 +4080,6 @@ msgid "Global setting"
 msgstr "Globális beállítás"
 
 #: class/class-mainwp-extensions-view.php:296
-#, fuzzy
 msgid ""
 "Go back to the MainWP > Extensions page and use the Install Extensions button"
 msgstr ""
@@ -4116,9 +4093,8 @@ msgid "Go to Site"
 msgstr "Ugrás az oldalra"
 
 #: pages/page-mainwp-manage-sites.php:608 pages/page-mainwp-setup-wizard.php:539
-#, fuzzy
 msgid "Go to the %1$sWP > Plugins%2$s page"
-msgstr "Menjen a %1$sWP > Plugins%2$s oldalra"
+msgstr "Menjen a %1$sWP > Bővítmények%2$s oldalra"
 
 #: widgets/widget-mainwp-connection-status.php:255
 #: widgets/widget-mainwp-connection-status.php:271
@@ -4198,32 +4174,27 @@ msgid ""
 msgstr ""
 
 #: class/class-mainwp-ui.php:810
-#, fuzzy
 msgid "Help Documentation"
 msgstr "Súgó dokumentáció"
 
 #: pages/page-mainwp-settings.php:1302
-#, fuzzy
 msgid "Here you can select a theme for your MainWP Dashboard."
 msgstr "Itt választhat témát a MainWP Dashboardhoz."
 
 #: pages/page-mainwp-server-information.php:1767
-#, fuzzy
 msgid "Hereford"
 msgstr "Hereford"
 
 #: pages/page-mainwp-server-information.php:1768
-#, fuzzy
 msgid "Herefordshire"
 msgstr "Herefordshire"
 
 #: class/class-mainwp-ui.php:1950
-#, fuzzy
 msgid ""
 "Hi MainWP Manager, there is not anything to see here before connecting your "
 "first site."
 msgstr ""
-"Szia MainWP Manager, itt nincs semmi látnivaló az első webhely csatlakoztatása "
+"Szia MainWP Manager, itt nincs semmi látnivaló az első weboldal csatlakoztatása "
 "előtt."
 
 #: templates/emails/mainwp-site-health-monitoring-email.php:66
@@ -4269,17 +4240,14 @@ msgid "Hide Shortcuts"
 msgstr "Billenytűparancsok elrejtése"
 
 #: widgets/widget-mainwp-connection-status.php:186
-#, fuzzy
 msgid "Hide the child sites list"
-msgstr "A gyermekoldalak listájának elrejtése"
+msgstr "A gyermek weboldalak listájának elrejtése"
 
 #: class/class-mainwp-ui.php:2063
-#, fuzzy
 msgid "Hide the Update Everything button"
-msgstr "A Mindent frissíteni gomb elrejtése"
+msgstr "A Minden frissítése gomb elrejtése"
 
 #: pages/page-mainwp-setup-wizard.php:361
-#, fuzzy
 msgid "Highly recommended if new to MainWP!"
 msgstr "Nagyon ajánlott, ha új a MainWP!"
 
@@ -4379,7 +4347,6 @@ msgid "If enabled, delete contact image."
 msgstr "Ha engedélyezve van, törli a kapcsolat képét."
 
 #: class/class-mainwp-ui.php:1808
-#, fuzzy
 msgid "If enabled, delete image."
 msgstr "Ha engedélyezve van, törli a képet."
 
@@ -4393,13 +4360,12 @@ msgstr ""
 "áttekintése widgetben."
 
 #: pages/page-mainwp-rest-api-page.php:652 pages/page-mainwp-rest-api-page.php:781
-#, fuzzy
 msgid "If enabled, the REST API will be activated."
 msgstr "Ha engedélyezve van, a REST API aktiválódik."
 
 #: modules/logs/classes/class-log-settings.php:114
 msgid "If enabled, your MainWP Dashboard will auto purge logs."
-msgstr ""
+msgstr "Ha engedélyezve van, a MainWP Dashboard automatikusan törli a naplókat."
 
 #: pages/page-mainwp-manage-sites.php:461 pages/page-mainwp-settings.php:1196
 msgid "If enabled, your MainWP Dashboard will cache updates for faster loading."
@@ -4419,12 +4385,12 @@ msgstr ""
 msgid ""
 "If enabled, your MainWP Dashboard will download and show child sites favicons."
 msgstr ""
-"Ha engedélyezve van, a MainWP Vezérlőpult le fogja letölteni és megmutatja "
+"Ha engedélyezve van, a MainWP Dashboard le fogja letölteni és megmutatja "
 "gyermek oldalak faviconját."
 
 #: modules/logs/classes/class-log-settings.php:107
 msgid "If enabled, your MainWP Dashboard will enable logging."
-msgstr ""
+msgstr "Ha engedélyezve van, a MainWP Dashboard engedélyezi a naplózást."
 
 #: pages/page-mainwp-settings.php:1208
 #, fuzzy
@@ -4511,12 +4477,6 @@ msgid ""
 msgstr ""
 
 #: pages/page-mainwp-setup-wizard.php:346
-#, fuzzy
-#| msgid ""
-#| "If you don't want to go through the setup wizard, you can skip and proceed "
-#| "to your MainWP Dashboard by clicking the \"Not right now\" button. If you "
-#| "change your mind, you can come back later by starting the Setup Wizard from "
-#| "the MainWP > Settings > MainWP Tools page! "
 msgid ""
 "If you don't want to go through the setup wizard, you can skip and proceed to "
 "your MainWP Dashboard by clicking the \"Not right now\" button. If you change "
@@ -4526,7 +4486,7 @@ msgstr ""
 "Ha nem akarja végigmenni a beállítási varázslót, akkor a \"Nem most\" gombra "
 "kattintva átugorhatja, és továbbléphet a MainWP Dashboardra. Ha meggondolja "
 "magát, később is visszatérhet, ha a MainWP > Beállítások > MainWP Eszközök "
-"oldalról indítja el a Beállítási varázslót! "
+"oldalról indítja el a Beállítási varázslót!"
 
 #: pages/page-mainwp-install-bulk.php:87
 msgid "If you have"
@@ -4722,14 +4682,12 @@ msgid "Ignored"
 msgstr "Figyelmen kívül hagyva"
 
 #: class/class-mainwp-menu.php:950 class/class-mainwp-menu.php:960
-#, fuzzy
 msgid "Ignored Abandoned"
-msgstr "Figyelmen kívül hagyva Elhagyva"
+msgstr "Figyelmen kívül hagyva"
 
 #: pages/page-mainwp-settings.php:733
-#, fuzzy
 msgid "Ignored HTTP response statuses"
-msgstr "Figyelmen kívül hagyott HTTP-válaszállapotok"
+msgstr "Figyelmen kívül hagyott HTTP válaszállapotok"
 
 #: class/class-mainwp-menu.php:949 class/class-mainwp-menu.php:959
 #: class/class-mainwp-wp-cli-handle.php:1522
@@ -4760,14 +4718,12 @@ msgid "Immediately"
 msgstr "Azonnal"
 
 #: pages/page-mainwp-settings.php:1379
-#, fuzzy
 msgid "Import Child Sites"
-msgstr "Gyermek webhelyek importálása"
+msgstr "Gyermek weboldalk importálása"
 
 #: pages/page-mainwp-settings.php:1378
-#, fuzzy
 msgid "Import child sites"
-msgstr "Gyermekoldalak importálása"
+msgstr "Gyermek weboldalak importálása"
 
 #: pages/page-mainwp-settings.php:1414
 msgid "Import Demo Content"
@@ -4819,7 +4775,6 @@ msgid "Importing new users and add them to your sites."
 msgstr "Új felhasználók importálása és hozzáadása a seboldalakhoz."
 
 #: pages/page-mainwp-user.php:2090
-#, fuzzy
 msgid "Importing Users"
 msgstr "Felhasználók importálása"
 
@@ -4828,14 +4783,13 @@ msgid "in a .zip format, you may install it by uploading it here."
 msgstr ".zip formátumban, akkor telepítsd azt feltöltéssel itt."
 
 #: pages/page-mainwp-manage-groups.php:308
-#, fuzzy
 msgid ""
 "In case you are managing a large number of WordPress sites, it could be useful "
 "for you to mark them with different tags . Later, you will be able to make Site "
 "Selection by a tag that will speed up your work and makes it much easier."
 msgstr ""
 "Abban az esetben, ha nagyszámú WordPress oldalt kezel, hasznos lehet, ha "
-"különböző címkékkel jelöli őket. Később képes lesz arra, hogy a webhely "
+"különböző címkékkel jelöli őket. Később képes lesz arra, hogy a weboldal "
 "kiválasztását egy címkével végezze el, ami felgyorsítja a munkáját, és sokkal "
 "könnyebbé teszi azt."
 
@@ -4933,9 +4887,8 @@ msgid "Install a new Plugin to your child sites"
 msgstr "Új bővítmény telepítése a gyermekoldalakra"
 
 #: class/class-mainwp-ui.php:1327
-#, fuzzy
 msgid "Install a new Theme to your child sites"
-msgstr "Telepítsen új témát a gyermekoldalakra"
+msgstr "Új téma telepítése a gyermekoldalakra"
 
 #: class/class-mainwp-extensions-view.php:605
 msgid "Install and Activate Extensions"
@@ -5231,9 +5184,8 @@ msgstr "Ugrás a webhely egészség állapotára"
 #: class/class-mainwp-monitoring-sites-list-table.php:1076
 #: class/class-mainwp-monitoring-sites-list-table.php:1249
 #: widgets/widget-mainwp-client-overview-sites.php:614
-#, fuzzy
 msgid "Jump to the site WP Admin"
-msgstr "Ugrás az oldalra WP Admin"
+msgstr "Ugrás az oldalra WP Admin oldalra"
 
 #: pages/page-mainwp-manage-groups.php:252
 msgid "Jump to the site WP Admin . "
@@ -5249,7 +5201,6 @@ msgstr "Kulcs"
 
 #: pages/page-mainwp-manage-backups.php:913
 #: class/class-mainwp-manage-sites-backup-view.php:233
-#, fuzzy
 msgid "Known backup locations"
 msgstr "Ismert biztonsági mentési helyek"
 
@@ -5439,7 +5390,7 @@ msgstr "A licenckulcs nem található."
 
 #: class/class-mainwp-extensions-view.php:494
 msgid "License not activated"
-msgstr ""
+msgstr "Licenc nincs aktiválva"
 
 #: pages/page-mainwp-page.php:813 pages/page-mainwp-post.php:239
 #: pages/page-mainwp-post.php:932
@@ -5790,18 +5741,16 @@ msgstr ""
 
 #: pages/page-mainwp-rest-api-page.php:187 pages/page-mainwp-rest-api-page.php:347
 #: class/class-mainwp-menu.php:999
-#, fuzzy
 msgid "Manage API Keys"
 msgstr "API kulcsok kezelése"
 
 #: class/class-mainwp-manage-sites-update-view.php:96
-#, fuzzy
 msgid ""
 "Manage available updates for the child site. From here, you can update update "
 "%1$splugins%2$s, %3$sthemes%4$s, and %5$sWordPress core%6$s."
 msgstr ""
-"A gyermek webhely elérhető frissítéseinek kezelése. Innen frissítheti a "
-"%1$spluginek%2$s, %3$stémák%4$s és %5$sWordPress mag%6$s frissítését."
+"A gyermek weboldal elérhető frissítéseinek kezelése. Innen frissítheted a "
+"%1$spluginek%2$s, %3$stémák%4$s és %5$sWordPress core%6$s frissítését."
 
 #: pages/page-mainwp-manage-backups.php:174
 #: pages/page-mainwp-manage-backups.php:224
@@ -5953,7 +5902,6 @@ msgid "Maximum file descriptors fallback value"
 msgstr "Maximális fájlleíró visszaesési érték"
 
 #: pages/page-mainwp-server-information-handler.php:857
-#, fuzzy
 msgid "Maximum number of comments"
 msgstr "A megjegyzések maximális száma"
 
@@ -7061,7 +7009,7 @@ msgstr "Kérjük, töltsön fel témákat a telepítéshez."
 #: pages/page-mainwp-client.php:829
 msgid "Please use the search options to find wanted clients."
 msgstr ""
-"Kérjük, használja a keresési lehetőségeket a keresett ügyfelek megtalálásához."
+"Kérjük, használd a keresési feltételket a keresett ügyfelek megtalálásához."
 
 #: pages/page-mainwp-user.php:899
 msgid "Please use the search options to find wanted users."
@@ -7148,7 +7096,6 @@ msgid "Plugin advanced automatic updates"
 msgstr "Plugin fejlett automatikus frissítések"
 
 #: pages/page-mainwp-server-information-handler.php:852
-#, fuzzy
 msgid "Plugin advanced automatic updates enabled"
 msgstr "A bővítmény fejlett automatikus frissítései engedélyezve"
 
@@ -7157,14 +7104,13 @@ msgid "Plugin could not be deleted."
 msgstr "A plugint nem lehetett törölni."
 
 #: pages/page-mainwp-install-bulk.php:658
-#, fuzzy
 msgid ""
 "Plugin file not found. Make sure security plugins or server-side security rules "
 "are not blocking requests from your child sites."
 msgstr ""
-"A plugin fájl nem található. Győződjön meg róla, hogy a biztonsági bővítmények "
-"vagy a kiszolgálóoldali biztonsági szabályok nem blokkolják a gyermekoldalak "
-"kéréseit."
+"A plugin fájl nem található. Győződj meg róla, hogy a biztonsági bővítmények "
+"vagy a kiszolgáló oldali biztonsági szabályok nem blokkolják a gyermek "
+"weboldalak kéréseit."
 
 #: widgets/widget-mainwp-widget-plugins.php:303
 msgid "Plugin has been activated!"
@@ -7172,7 +7118,7 @@ msgstr "A plugin aktiválva!"
 
 #: widgets/widget-mainwp-widget-plugins.php:313
 msgid "Plugin has been deactivated!"
-msgstr "A plugin deaktiválva"
+msgstr "A plugin deaktiválva!"
 
 #: widgets/widget-mainwp-widget-plugins.php:323
 msgid "Plugin has been permanently deleted!"
@@ -7990,7 +7936,6 @@ msgid "Select columns that you want to hide."
 msgstr "Jelölje ki az elrejteni kívánt oszlopokat."
 
 #: pages/page-mainwp-settings.php:626
-#, fuzzy
 msgid "Select if you want to show sidebar with option on left or right."
 msgstr ""
 "Válassza ki, hogy az oldalsávot jobb vagy bal oldali opcióval szeretné-e "
@@ -9186,7 +9131,6 @@ msgstr "Harmadik féltől származó bővítmények és integrációk"
 
 #: pages/page-mainwp-manage-backups.php:948
 #: class/class-mainwp-manage-sites-backup-view.php:268
-#, fuzzy
 msgid ""
 "This adds folders that are not part of the WordPress core (wp-admin, wp-content "
 "and wp-include) to the exclude list. Non-WordPress folders can contain a large "
@@ -9194,7 +9138,7 @@ msgid ""
 "individually and not with this backup."
 msgstr ""
 "Ez hozzáadja a kizáró listához azokat a mappákat, amelyek nem részei a "
-"WordPress magjának (wp-admin, wp-content és wp-include). A nem WordPress mappák "
+"WordPress core-nak (wp-admin, wp-content és wp-include). A nem WordPress mappák "
 "nagy mennyiségű adatot tartalmazhatnak, vagy aldomain vagy kiegészítő domain "
 "lehet, amelyekről külön-külön kell biztonsági mentést készíteni, nem pedig "
 "ezzel a biztonsági mentéssel."
@@ -9442,7 +9386,7 @@ msgstr "TLS v1.x"
 
 #: class/class-mainwp-system-view.php:346
 msgid "tmpfile() function is currently disabled on your server."
-msgstr "A tmpfile() függvény jelenleg le van tiltva a szerveren."
+msgstr "tmpfile() függvény jelenleg le van tiltva a szerveren."
 
 #: pages/page-mainwp-extensions.php:617 pages/page-mainwp-extensions.php:623
 msgid ""
@@ -11062,12 +11006,11 @@ msgstr ""
 "őket. "
 
 #: pages/page-mainwp-extensions.php:621
-#, fuzzy
 msgid ""
 "You have access to the MainWP Pro plan, which gives you access to all MainWP-"
 "created Extensions, but you DO NOT need to install all of them."
 msgstr ""
-"Hozzáférésed van a MainWP Pro tervhez, amely hozzáférést biztosít az összes "
+"Hozzáférésed van a MainWP Pro csomaghoz, amely hozzáférést biztosít az összes "
 "MainWP által létrehozott bővítményhez, de NEM kell mindet telepítened."
 
 #: pages/page-mainwp-setup-wizard.php:492
@@ -11079,7 +11022,6 @@ msgid "You have successfully created your first Client."
 msgstr "Sikeresen létrehozta az első ügyfelet."
 
 #: pages/page-mainwp-security-issues.php:236
-#, fuzzy
 msgid ""
 "You have to change this yourself. If this user was used as your MainWP Secure "
 "Link Admin, you will need to change your Administrator Username in the MainWP "
@@ -11196,22 +11138,17 @@ msgstr ""
 "újra tagságát."
 
 #: class/class-mainwp-system-view.php:411
-#, fuzzy
-#| msgid ""
-#| "Your server is currently running PHP version %1$s. In the next few months "
-#| "your MainWP Dashboard will require PHP 5.6 as a minimum. Please upgrade your "
-#| "server to at least 5.6 but we recommend PHP 7 or newer. You can find a "
-#| "template email to send your host %2$shere%3$s."
 msgid ""
 "Your server is currently running PHP version %1$s. In the next few months your "
 "MainWP Dashboard will require PHP 7.4 as a minimum. Please upgrade your server "
 "to at least 7.4 but we recommend PHP 8 or newer. You can find a template email "
 "to send your host %2$shere%3$s."
 msgstr ""
-"A kiszolgálón jelenleg a PHP %1$s verzió fut. A következő néhány hónapban a "
-"MainWP irányítópulthoz legalább a PHP 5.6-ra lesz szükség. Kérjük, frissítse a "
-"szervert legalább 5,6, de azt javasoljuk, PHP 7 vagy újabb használatát. A "
-"hosztingnak küldhető sablon e-mailt találhatsz %2$sitt %3$s."
+"A kiszolgálón jelenleg a PHP %1$s verziója fut. A következő néhány hónapban a "
+"MainWP Dashboard legalább a PHP 7.4-es verziószámot fogja igényelni. Kérjük, "
+"frissítsd a szerverét legalább 7.4-es verziószámra, de javasoljuk a PHP 8-as "
+"vagy újabb verzióját. Itt%3$s találsz egy sablon e-mailt, amelyet elküldhet a "
+"tárhely szolgáltatódnak %2$s."
 
 #: pages/page-mainwp-manage-backups.php:888
 #: class/class-mainwp-client-list-table.php:148
