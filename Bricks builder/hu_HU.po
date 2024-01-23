@@ -698,7 +698,7 @@ msgstr "Aktív"
 #: ../includes/interactions.php:149,
 #: ../includes/admin/admin-screen-settings.php:553
 msgid "Add"
-msgstr "Új"
+msgstr "Hozzáadás"
 
 #: ../dist/includes/builder.php:664, ../includes/builder.php:851
 msgid "added"
@@ -706,15 +706,15 @@ msgstr "hozzáadva"
 
 #: ../dist/includes/builder.php:665, ../includes/builder.php:852
 msgid "Add class"
-msgstr "Új class"
+msgstr "Class hozzáadása"
 
 #: ../dist/includes/builder.php:666, ../includes/builder.php:853
 msgid "Add images"
-msgstr "Új kép"
+msgstr "Képek hozzáadása"
 
 #: ../dist/includes/builder.php:667, ../includes/builder.php:854
 msgid "Add Item"
-msgstr "Új elem"
+msgstr "Elem hozzáadása"
 
 #: ../dist/includes/builder.php:668
 msgid "Advanced"
@@ -838,7 +838,7 @@ msgstr "Növekvő"
 #: ../includes/theme-styles/controls/element-image.php:96,
 #: ../includes/theme-styles/controls/element-image.php:99
 msgid "Attachment"
-msgstr "Melléklet"
+msgstr "Csatolmány"
 
 #: ../dist/includes/builder.php:683, ../includes/builder.php:880
 msgid "Autosave by"
@@ -1830,7 +1830,7 @@ msgstr "Megerősítés"
 
 #: ../dist/includes/builder.php:758, ../includes/builder.php:985
 msgid "Contact us"
-msgstr "Lépj kapcsolatba velünk"
+msgstr "Lépj velünk kapcsolatba"
 
 #: ../dist/includes/builder.php:759, ../dist/includes/setup.php:729,
 #: ../dist/includes/elements/image.php:85, ../includes/builder.php:986,
@@ -2319,7 +2319,7 @@ msgstr "Elem"
 
 #: ../dist/includes/builder.php:827, ../includes/builder.php:1063
 msgid "Elements"
-msgstr "Új elem hozzáadása"
+msgstr "Elemek"
 
 #: ../dist/includes/builder.php:828, ../includes/builder.php:1064
 msgid "Element classes"
@@ -2790,7 +2790,7 @@ msgstr "Ugrás"
 #: ../includes/theme-styles/controls/element-image-gallery.php:8,
 #: ../includes/theme-styles/controls/element-image-gallery.php:12
 msgid "Grid"
-msgstr "Rács"
+msgstr "Grid"
 
 #: ../dist/includes/builder.php:924, ../dist/includes/elements/base.php:294,
 #: ../dist/includes/elements/base.php:2192,
@@ -3420,7 +3420,7 @@ msgstr "Linkelve"
 #: ../includes/elements/form.php:1002, ../includes/elements/form.php:1089,
 #: ../includes/elements/list.php:12, ../includes/elements/posts.php:90
 msgid "List"
-msgstr "Árlista"
+msgstr "Lista"
 
 #: ../dist/includes/builder.php:999, ../includes/builder.php:1270
 msgid "Loading templates"
@@ -3686,7 +3686,7 @@ msgstr "Menü rendezés"
 #: ../includes/elements/posts.php:93,
 #: ../includes/theme-styles/controls/element-image-gallery.php:10
 msgid "Metro"
-msgstr "Metró"
+msgstr "Csempe"
 
 #: ../dist/includes/builder.php:1028, ../includes/builder.php:1303,
 #: ../includes/elements/nav-nested.php:913,
@@ -3937,7 +3937,7 @@ msgstr "Nincs"
 
 #: ../dist/includes/builder.php:1065, ../includes/builder.php:1342
 msgid "No-repeat"
-msgstr "Nem ismétlődik"
+msgstr "Nem ismétlődő"
 
 #: ../dist/includes/builder.php:1066, ../includes/builder.php:1343
 msgid "Nothing found. Please try again with a different keyword!"
@@ -4554,7 +4554,7 @@ msgstr "Nyers"
 
 #: ../dist/includes/builder.php:1155, ../includes/builder.php:1453
 msgid "Redo"
-msgstr "Újra"
+msgstr "Visszalépés"
 
 #: ../dist/includes/builder.php:1156,
 #: ../dist/includes/elements/post-sharing.php:96,
@@ -4783,7 +4783,7 @@ msgstr "Kód futattása"
 
 #: ../dist/includes/builder.php:1190, ../includes/builder.php:1491
 msgid "Saturation"
-msgstr "Telítettség"
+msgstr "Szaturáció"
 
 #: ../dist/includes/builder.php:1191, ../includes/builder.php:1492
 msgid "Save"
@@ -5810,7 +5810,7 @@ msgstr "Tipográfia"
 
 #: ../dist/includes/builder.php:1314, ../includes/builder.php:1624
 msgid "Translate X"
-msgstr "Forgatás X"
+msgstr "Elmozdulás X"
 
 #: ../dist/includes/builder.php:1315, ../includes/builder.php:1625
 msgid "Translate Y"
@@ -6337,7 +6337,7 @@ msgstr ""
 
 #: ../dist/includes/converter.php:102, ../includes/converter.php:95
 msgid "Global settings"
-msgstr "Általános beállítások"
+msgstr "Globális beállítások"
 
 #: ../dist/includes/converter.php:112, ../includes/converter.php:105
 msgid "Global classes"
@@ -6645,11 +6645,11 @@ msgstr "Beszélgetés"
 #: ../dist/includes/helpers.php:353, ../dist/includes/elements/audio.php:14,
 #: ../includes/helpers.php:374, ../includes/elements/audio.php:14
 msgid "Audio"
-msgstr "Hang"
+msgstr "Audió"
 
 #: ../dist/includes/helpers.php:351, ../includes/helpers.php:372
 msgid "Statuses"
-msgstr "Állapot"
+msgstr "Állapotok"
 
 #: ../dist/includes/helpers.php:349, ../dist/includes/theme-styles.php:73,
 #: ../dist/includes/elements/post-sharing.php:84, ../includes/helpers.php:370,
@@ -6993,7 +6993,7 @@ msgstr "Sötét"
 #: ../includes/setup.php:811, ../includes/elements/alert.php:31,
 #: ../includes/theme-styles/controls/element-alert.php:189
 msgid "Muted"
-msgstr "Némítva"
+msgstr "Fakó"
 
 #: ../dist/includes/setup.php:752, ../dist/includes/elements/alert.php:28,
 #: ../dist/includes/integrations/form/init.php:138,
@@ -7381,7 +7381,7 @@ msgstr "Ikon doboz"
 
 #: ../dist/includes/theme-styles.php:141
 msgid "Image gallery"
-msgstr "Kép galéria"
+msgstr "Képgaléria"
 
 #: ../dist/includes/theme-styles.php:149,
 #: ../dist/includes/elements/nav-menu.php:13,
@@ -7465,7 +7465,7 @@ msgstr "Fülek"
 #: ../dist/includes/elements/team-members.php:18,
 #: ../includes/elements/team-members.php:18
 msgid "Team members"
-msgstr "Csapat tagok"
+msgstr "Csapattagok"
 
 #: ../dist/includes/woocommerce.php:100, ../includes/woocommerce.php:702
 msgid "Sale"
@@ -9349,11 +9349,11 @@ msgstr "Cseppek"
 
 #: ../dist/includes/elements/base.php:734, ../includes/elements/base.php:1034
 msgid "Grid (Round)"
-msgstr "Rács (kerek)"
+msgstr "Grid (kerek)"
 
 #: ../dist/includes/elements/base.php:735, ../includes/elements/base.php:1035
 msgid "Grid (Square)"
-msgstr "Rács (négyzet)"
+msgstr "Grid (négyzet)"
 
 #: ../dist/includes/elements/base.php:736,
 #: ../dist/includes/elements/pie-chart.php:61,
@@ -11153,7 +11153,7 @@ msgstr "Meta"
 
 #: ../dist/includes/elements/list.php:56, ../includes/elements/list.php:61
 msgid "List items"
-msgstr "Tételek listázása"
+msgstr "Lista elemek"
 
 #: ../dist/includes/elements/list.php:66, ../includes/elements/list.php:77
 msgid "Link title"
@@ -11165,7 +11165,7 @@ msgstr "Címke kiemelése"
 
 #: ../dist/includes/elements/list.php:94, ../includes/elements/list.php:105
 msgid "List item #1"
-msgstr "Listaelem #1"
+msgstr "Lista elem #1"
 
 #: ../dist/includes/elements/list.php:95, ../includes/elements/list.php:106
 msgid "$10.00"
@@ -11173,7 +11173,7 @@ msgstr "$10.00"
 
 #: ../dist/includes/elements/list.php:98, ../includes/elements/list.php:109
 msgid "List item #2"
-msgstr "Listaelem #2"
+msgstr "Lista elem #2"
 
 #: ../dist/includes/elements/list.php:99, ../includes/elements/list.php:110
 msgid "$25.00"
@@ -11618,7 +11618,7 @@ msgstr "Végméret"
 #: ../includes/elements/pagination.php:189,
 #: ../includes/woocommerce/elements/woocommerce-products-pagination.php:48
 msgid "How many numbers on either the start and the end list edges."
-msgstr "Hány szám van a kezdő- és a véglistán."
+msgstr "Hány szám van a lista elején és a végén."
 
 #: ../dist/includes/elements/pagination.php:194,
 #: ../dist/includes/woocommerce/elements/woocommerce-products-pagination.php:53,
