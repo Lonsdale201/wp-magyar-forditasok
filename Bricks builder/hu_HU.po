@@ -353,7 +353,7 @@ msgstr "Termék archívum"
 #: ../includes/admin.php:712, ../includes/woocommerce.php:1470,
 #: ../includes/admin/admin-screen-settings.php:1516
 msgid "Single product"
-msgstr "Egyetlen termék"
+msgstr "Termék oldal"
 
 #: ../dist/includes/admin.php:549, ../dist/includes/woocommerce.php:577,
 #: ../includes/admin.php:716, ../includes/woocommerce.php:1473
@@ -18019,7 +18019,7 @@ msgstr "WooCommerce sablon homok"
 
 #: ../includes/woocommerce/elements/woocommerce-template-hook.php:25
 msgid "Single product template"
-msgstr "Egyetlen termék sablon"
+msgstr "Termék részletes sablon"
 
 #: ../includes/woocommerce/elements/woocommerce-template-hook.php:26
 msgid "Shop template"
