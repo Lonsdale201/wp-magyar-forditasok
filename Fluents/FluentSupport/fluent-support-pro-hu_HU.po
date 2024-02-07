@@ -3,21 +3,21 @@ msgstr ""
 "Project-Id-Version: Fluent Support Pro\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-14 12:06+0000\n"
-"PO-Revision-Date: 2023-12-04 15:54+0000\n"
+"PO-Revision-Date: 2024-01-26 12:37+0100\n"
 "Last-Translator: Radics József Géza\n"
 "Language-Team: Magyar\n"
 "Language: hu_HU\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Loco https://localise.biz/\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.4.2\n"
 "X-Loco-Version: 2.6.6; wp-6.3.1\n"
-"X-Domain: fluent-support-pro"
+"X-Domain: fluent-support-pro\n"
 
 #: app/Services/Integrations/RCPro.php:145
 msgid "Activated:"
-msgstr ""
+msgstr "Aktiválva:"
 
 #: app/Services/AutoCloseService.php:188
 msgid "Add Custom Response when closing the ticket"
@@ -50,7 +50,7 @@ msgstr ""
 
 #: app/Http/Controllers/TicketFormController.php:163
 msgid "Content help message"
-msgstr ""
+msgstr "Tartalom súgóüzenet"
 
 #: app/Services/Integrations/LearnDash.php:154
 #: app/Services/Integrations/LifterLMS.php:148
@@ -140,15 +140,15 @@ msgstr ""
 
 #: fluent-support-pro.php:55
 msgid "Every Quarter Till Hour"
-msgstr ""
+msgstr "Minden negyedórában"
 
 #: fluent-support-pro.php:51
 msgid "Every Two Hours"
-msgstr ""
+msgstr "Kétóránként"
 
 #. Name of the plugin
 msgid "Fluent Support Pro"
-msgstr ""
+msgstr "Fluent Support Pro"
 
 #: app/Http/Controllers/TicketFormController.php:162
 msgid "Form content heading"
@@ -157,7 +157,7 @@ msgstr "Űrlap tartalom címe"
 #. URI of the plugin
 #. Author URI of the plugin
 msgid "https://fluentsupport.com"
-msgstr ""
+msgstr "https://fluentsupport.com"
 
 #: app/Services/AutoCloseService.php:150
 msgid "Inactive days for tickets that you want to close automatically"
@@ -166,7 +166,7 @@ msgstr ""
 #: app/Services/Integrations/LearnDash.php:23
 #: app/Services/Integrations/LearnDash.php:163
 msgid "LearnDash Courses"
-msgstr ""
+msgstr "LearnDash tanfolyamok"
 
 #: app/Services/Integrations/LearnDash.php:21
 msgid "LearnDash Courses will be shown at the ticket form"
@@ -174,7 +174,7 @@ msgstr ""
 
 #: app/Services/Integrations/LearnDash.php:31
 msgid "LearnDash User Courses"
-msgstr ""
+msgstr "LearnDash felhasználói kurzusok"
 
 #: app/Services/Integrations/LearnDash.php:29
 msgid "LearnDash User Courses will be shown at the ticket form"
@@ -204,11 +204,11 @@ msgstr "Szint:"
 
 #: app/Services/Integrations/LifterLMS.php:158
 msgid "Lifter LMS Courses"
-msgstr ""
+msgstr "Lifter LMS tanfolyamok"
 
 #: app/Services/Integrations/LifterLMS.php:44
 msgid "LifterLMS Courses"
-msgstr ""
+msgstr "LifterLMS tanfolyamok"
 
 #: app/Services/Integrations/LifterLMS.php:42
 msgid "LifterLMS Courses will be shown at the ticket form"
@@ -251,14 +251,14 @@ msgstr ""
 #: app/Services/Integrations/WooCommerce.php:113
 #, php-format
 msgid "Order #%d"
-msgstr ""
+msgstr "Rendelés #%d"
 
 #: app/Services/Integrations/Edd.php:82 app/Services/Integrations/Edd.php:249
 #: app/Services/Integrations/WooCommerce.php:57
 #: app/Services/Integrations/WooCommerce.php:442
 #, php-format
 msgid "Order #%d - %s"
-msgstr ""
+msgstr "Rendelés #%d - %s"
 
 #: app/Services/Integrations/PMPro.php:147
 msgid "Paid Membership Pro"
@@ -294,7 +294,7 @@ msgstr "Priorítás"
 
 #: app/Http/Controllers/TicketFormController.php:165
 msgid "Priority heading"
-msgstr ""
+msgstr "Prioritási címsor"
 
 #: app/Http/Controllers/TicketFormController.php:164
 msgid "Product/Service heading"
@@ -302,11 +302,11 @@ msgstr ""
 
 #: app/Services/Integrations/Edd.php:180
 msgid "Purchase Date: "
-msgstr "Vásárlás ideje:"
+msgstr "Vásárlás ideje: "
 
 #: app/Services/ProHelper.php:36
 msgid "Related Product/Service"
-msgstr ""
+msgstr "Kapcsolódó termék/szolgáltatás"
 
 #: app/Http/Controllers/AutoCloseController.php:52
 msgid "Response body is required"
@@ -343,7 +343,7 @@ msgstr ""
 #: app/Http/Controllers/TicketFormController.php:49
 #: app/Http/Controllers/AutoCloseController.php:60
 msgid "Settings has been updated"
-msgstr ""
+msgstr "A beállítások frissültek"
 
 #: app/Services/Integrations/RCPro.php:143
 #: app/Services/Integrations/LearnDash.php:155
@@ -367,7 +367,7 @@ msgstr ""
 
 #: app/Services/Integrations/WooCommerce.php:151
 msgid "Support"
-msgstr ""
+msgstr "Támogatás"
 
 #: app/Services/PluginManager/LicenseManager.php:78
 #, php-format
@@ -398,7 +398,7 @@ msgstr ""
 #: app/Services/Integrations/TutorLMS.php:23
 #: app/Services/Integrations/TutorLMS.php:154
 msgid "Tutor LMS Courses"
-msgstr ""
+msgstr "Tutor LMS tanfolyamok"
 
 #: app/Services/Integrations/TutorLMS.php:21
 msgid "Tutor LMS Courses will be shown at the ticket form"
@@ -414,7 +414,7 @@ msgstr ""
 
 #: app/Http/Controllers/IncomingWebhookController.php:82
 msgid "Webhook updated successfully"
-msgstr ""
+msgstr "Webhook sikeresen frissült"
 
 #: app/Services/Integrations/WishListMember.php:145
 msgid "WishList Member"
@@ -467,7 +467,7 @@ msgstr ""
 
 #. Author of the plugin
 msgid "WPManageNinja LLC"
-msgstr ""
+msgstr "WPManageNinja LLC"
 
 #: app/Http/Controllers/LicenseController.php:58
 msgid "Your license key has been successfully deactivated"

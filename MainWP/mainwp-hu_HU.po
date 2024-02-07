@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: MainWP Dashboard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-18 14:55+0000\n"
-"PO-Revision-Date: 2024-01-22 18:27+0100\n"
+"PO-Revision-Date: 2024-02-07 21:01+0100\n"
 "Last-Translator: \n"
 "Language-Team: Magyar\n"
 "Language: hu_HU\n"
@@ -2965,7 +2965,6 @@ msgid "Do you want to create a client for your first child site?"
 msgstr "Szeretnél ügyfelet létrehozni az első alárendelt webhelyedhez?"
 
 #: pages/page-mainwp-setup-wizard.php:357
-#, fuzzy
 msgid "Do you want to enable MainWP Guided Tours?"
 msgstr "Engedélyezni szeretné a MainWP Guided Tours szolgáltatást?"
 
@@ -3011,7 +3010,6 @@ msgid "Download MainWP Child Privacy Policy"
 msgstr "MainWP Child adatvédelmi szabályzat letöltése"
 
 #: pages/page-mainwp-server-information.php:1775
-#, fuzzy
 msgid "Download MainWP Dashboard Privacy Policy"
 msgstr "MainWP Dashboard Adatvédelmi szabályzat letöltése"
 
@@ -3301,9 +3299,8 @@ msgid "Email Settings"
 msgstr "E-mail beállítások"
 
 #: class/class-mainwp-manage-sites-view.php:1421
-#, fuzzy
 msgid "Email settings saved successfully."
-msgstr "Az e-mail beállítások sikeresen elmentésre kerültek."
+msgstr "Az e-mail beállítások sikeresen módosítva."
 
 #: class/class-mainwp-notification-settings.php:374
 msgid "Email template copied successfully."
@@ -3318,7 +3315,6 @@ msgid "Empty fields will not be passed to child sites."
 msgstr "Az üres mezők nem kerülnek átadásra a gyerekwebhelyekre."
 
 #: class/class-mainwp-post-extension-handler.php:367
-#, fuzzy
 msgid "Empty or Invalid request data, please try again."
 msgstr "Üres vagy érvénytelen kérési adatok, kérjük, próbálja meg újra."
 
@@ -4631,7 +4627,6 @@ msgid "Ignore"
 msgstr "Kihagy"
 
 #: class/class-mainwp-manage-sites-view.php:931
-#, fuzzy
 msgid "Ignore core updates"
 msgstr "Az alapvető frissítések figyelmen kívül hagyása"
 
@@ -4854,9 +4849,8 @@ msgid "Info"
 msgstr "Információ"
 
 #: pages/page-mainwp-settings.php:1310
-#, fuzzy
 msgid "Info messages have been restored successfully!"
-msgstr "Az infóüzenetek sikeresen helyreálltak!"
+msgstr "Az infó üzenetek sikeresen helyreállítva!"
 
 #: class/class-mainwp-post-base-handler.php:103
 #, fuzzy
@@ -5059,6 +5053,7 @@ msgstr "Érvénytelen URL."
 #: modules/logs/classes/class-log-filter-input.php:75
 msgid "Invalid use, type must be one of INPUT_* family."
 msgstr ""
+"Érvénytelen használat, a típusnak az INPUT_* család egyik tagjának kell lennie."
 
 #: pages/page-mainwp-server-information.php:1761
 msgid "Ireland"
@@ -5490,7 +5485,6 @@ msgid "MainWP &rsaquo; Setup Wizard"
 msgstr "MainWP ' Beállítási varázsló"
 
 #: class/class-mainwp-api-manager.php:462
-#, fuzzy
 msgid "MainWP API key are required in order to grab extensions API keys."
 msgstr "A MainWP API-kulcs szükséges a bővítmények API-kulcsainak megszerzéséhez."
 
@@ -5636,7 +5630,6 @@ msgstr ""
 "a tárhelyszolgáltatóhoz."
 
 #: pages/page-mainwp-server-information-handler.php:884
-#, fuzzy
 msgid "MainWP Legacy Backups"
 msgstr "MainWP Legacy biztonsági mentések"
 
@@ -6285,22 +6278,18 @@ msgid "No ignored %1 conflicts"
 msgstr "Nincs kihagyható %1 ütközés"
 
 #: class/class-mainwp-system-view.php:76
-#, fuzzy
 msgid "No ignored %1s"
 msgstr "Nincs figyelmen kívül hagyva %1s"
 
 #: class/class-mainwp-system-view.php:210
-#, fuzzy
 msgid "No ignored abandoned plugins"
 msgstr "Nincs figyelmen kívül hagyott elhagyott plugin"
 
 #: class/class-mainwp-system-view.php:78
-#, fuzzy
 msgid "No ignored plugins"
 msgstr "Nincs figyelmen kívül hagyott bővítmény"
 
 #: class/class-mainwp-system-view.php:79
-#, fuzzy
 msgid "No ignored themes"
 msgstr "Nincs figyelmen kívül hagyott téma"
 
@@ -6317,7 +6306,6 @@ msgid "No issues detected"
 msgstr "Nem észlelhető problémák"
 
 #: class/class-mainwp-system-view.php:121
-#, fuzzy
 msgid ""
 "No MainWP Child plugin detected, first install and activate the plugin and add "
 "your site to MainWP afterwards. Click <a href=\"%1\" target=\"_blank\">here</a> "
@@ -6440,7 +6428,6 @@ msgstr "Nem találhatóak weboldalak."
 
 #: pages/page-mainwp-client-overview.php:422 class/class-mainwp-ui.php:2002
 #: widgets/widget-mainwp-site-actions.php:98
-#, fuzzy
 msgid "Non-MainWP Changes"
 msgstr "Nem MainWP változások"
 
@@ -6458,14 +6445,12 @@ msgid "North Point Business Park"
 msgstr "North Point Business Park"
 
 #: pages/page-mainwp-server-information.php:1757
-#, fuzzy
 msgid "North Point House"
 msgstr "North Point House"
 
 #: pages/page-mainwp-server-information-handler.php:704
-#, fuzzy
 msgid "Not expected HTTP response body: %s"
-msgstr "Nem várt HTTP-válasz test: %s"
+msgstr "Nem várt HTTP-válasz: %s"
 
 #: pages/page-mainwp-extensions-handler.php:1149
 msgid "Not found the clone website"
@@ -6672,7 +6657,6 @@ msgstr "Operációs rendszer"
 #: pages/page-mainwp-manage-sites.php:460
 #: pages/page-mainwp-server-information-handler.php:850
 #: pages/page-mainwp-settings.php:1195
-#, fuzzy
 msgid "Optimize for shared hosting or big networks"
 msgstr "Optimalizálás megosztott tárhelyre vagy nagy hálózatokra"
 
@@ -8156,7 +8140,6 @@ msgstr ""
 "elhagyottnak minősüljön."
 
 #: pages/page-mainwp-settings.php:1107
-#, fuzzy
 msgid ""
 "Set how many requests are performed at once and delay between requests in order "
 "to optimize your MainWP Dashboard performance.  Both Cross IP and IP Settings "
@@ -10305,7 +10288,6 @@ msgid "Use global setting"
 msgstr "Globális beállítás használata"
 
 #: pages/page-mainwp-settings.php:1296
-#, fuzzy
 msgid ""
 "Use MainWP tools to adjust your MainWP Dashboard to your needs and perform "
 "specific actions when needed.  For additional help, review this %1$shelp "
@@ -11054,7 +11036,6 @@ msgstr ""
 
 #: pages/page-mainwp-server-information.php:452
 #: pages/page-mainwp-server-information.php:929
-#, fuzzy
 msgid ""
 "Your host needs to update OpenSSL to at least version 1.1.0 which is already "
 "over 4 years old and contains patches for over 60 vulnerabilities.%1$sThese "
