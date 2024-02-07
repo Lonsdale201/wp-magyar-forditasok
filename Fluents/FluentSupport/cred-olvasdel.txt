@@ -1,5 +1,5 @@
 Fluent Support
-80% feletti fordítások
+82% feletti fordítások
 
 Jelezzétek az Issue szekcióban a felrefordításokat, vagy javaslatokat.
 
