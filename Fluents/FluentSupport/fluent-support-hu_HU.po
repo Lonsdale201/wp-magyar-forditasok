@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Fluent Support\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-23 11:50+0000\n"
-"PO-Revision-Date: 2024-02-07 21:24+0100\n"
+"PO-Revision-Date: 2024-02-07 21:46+0100\n"
 "Last-Translator: Radics József Géza\n"
 "Language-Team: Radics József Géza - www.slyweb.hu\n"
 "Language: hu_HU\n"
@@ -1262,7 +1262,7 @@ msgstr ""
 
 #: app/Services/TransStrings.php:546
 msgid "Don't have a license key?"
-msgstr ""
+msgstr "Nincs licenckulcsa?"
 
 #: app/Models/Ticket.php:1207
 msgid "Draft has been added"
@@ -1639,7 +1639,7 @@ msgstr "Megkapja az engedélyt"
 
 #: app/Services/TransStrings.php:501
 msgid "Get Overall reports of all the support agents and their performance"
-msgstr ""
+msgstr "Általános jelentés az összes munkatársról és teljesítményükről"
 
 #: app/Services/TransStrings.php:472
 msgid "Get Piping Email Details"
@@ -1714,6 +1714,9 @@ msgid ""
 "If you don't select any agents then all the agents report will be displayed "
 "here otherwise it will show only selected agents report."
 msgstr ""
+"Ha nem választ ki egyetlen munkatársat sem, akkor az összes munkatárs "
+"jelentése megjelenik itt, különben csak a kiválasztott munkatársak jelentése "
+"jelenik meg."
 
 #: app/Services/TransStrings.php:489
 msgid "If you don't select any column, by default system will take all."
@@ -1726,18 +1729,25 @@ msgid ""
 "If you enable this setting, then if an agent close a ticket accidentally "
 "then the written response will be saved as draft."
 msgstr ""
+"Ha engedélyezed ezt a beállítást, akkor ha a munkatárs véletlenül bezár egy "
+"jegyet, akkor az írásos válasz vázlatként kerül elmentésre."
 
 #: app/Services/EmailNotification/Settings.php:192
 msgid ""
 "If you enable this setting, users will have the option to provide feedback "
 "on an agent's response."
 msgstr ""
+"Ha engedélyezed ezt a beállítást, az ügyfeleknek lehetőségük lesz "
+"visszajelzést adni a munkatársak válaszáról."
 
 #: app/Services/EmailNotification/Settings.php:137
 msgid ""
 "If you enable this then only logged in user can reply the tickets. "
 "Otherwise, url will be signed and intended user can reply without logging in"
 msgstr ""
+"Ha ezt engedélyezed, akkor csak a bejelentkezett felhasználók válaszolhatnak "
+"a kérésekre. Ellenkező esetben az url alá lesz írva, és a felhasználó "
+"bejelentkezés nélkül is válaszolhat"
 
 #: app/Services/EmailNotification/Settings.php:162
 msgid ""
@@ -1752,6 +1762,8 @@ msgid ""
 "If you enable this, logged in user can see the ticket summary from top nav "
 "bar."
 msgstr ""
+"Ha engedélyezi ezt, a bejelentkezett felhasználó láthatja a jegyek "
+"összefoglalóját a felső navigációs sávban."
 
 #: app/Services/TransStrings.php:672
 msgid "If you need help or support with Google Drive integration"
@@ -1772,10 +1784,12 @@ msgid ""
 "If you want to connect with your own email parser please use this following "
 "URL to send payload data"
 msgstr ""
+"Ha a saját e-mail címével szeretne csatlakozni, kérjük, használd a következő "
+"URL-t a hasznos adatok küldéséhez"
 
 #: app/Services/TransStrings.php:170
 msgid "If you want to migrate tickets from other ticketing system like"
-msgstr ""
+msgstr "Ha más rendszerből szeretnél kéréseket átvinni, mint például a"
 
 #: app/Services/TransStrings.php:651
 msgid "Import"
@@ -1787,7 +1801,7 @@ msgstr "Importálás más támogatási Pluginokból"
 
 #: app/Services/TransStrings.php:629
 msgid "Import Tickets"
-msgstr "Kérés import"
+msgstr "Kérések importálása"
 
 #: app/Services/TransStrings.php:632
 msgid "Import Tickets from Help Scout"
@@ -1795,7 +1809,7 @@ msgstr "Jegyek importálása a Help Scoutból"
 
 #: app/Services/TransStrings.php:209
 msgid "in one click."
-msgstr "egy kattintással."
+msgstr "-ből egy kattintással."
 
 #: app/Services/TransStrings.php:42
 msgid "in the selected page"
@@ -1806,6 +1820,8 @@ msgid ""
 "in your HelpScout Redirection URL. This is required as you have to authorize "
 "your app before start importing."
 msgstr ""
+"a HelpScout átirányítási URL-címében. Erre azért van szükség, mert az "
+"importálás megkezdése előtt engedélyezned kell az alkalmazást."
 
 #: app/Services/TransStrings.php:423
 msgid "Inbox"
@@ -1842,7 +1858,7 @@ msgstr "Bejövő Webhook"
 
 #: app/Services/TransStrings.php:532
 msgid "Incoming Webhook URL"
-msgstr ""
+msgstr "Bejövő Webhook URL"
 
 #: app/Services/TransStrings.php:152
 msgid "Individual Performance"
@@ -1854,7 +1870,7 @@ msgstr "Telepítse és aktiválja a FluentCRM-et (ingyenes)"
 
 #: app/Http/Controllers/SettingsController.php:254
 msgid "Installation has been completed"
-msgstr ""
+msgstr "A telepítés befejeződött"
 
 #: app/Services/TransStrings.php:529
 msgid ""
@@ -2125,7 +2141,7 @@ msgstr ""
 
 #: app/Services/EmailNotification/Settings.php:149
 msgid "Max File Size (in MegaByte)"
-msgstr ""
+msgstr "Maximális fájlméret (MB-ban)"
 
 #: app/Services/TransStrings.php:32
 msgid "max wait time"
@@ -2165,11 +2181,11 @@ msgstr "Kérések összevonása"
 
 #: app/Services/EmailNotification/Settings.php:129
 msgid "Message for non logged in users"
-msgstr ""
+msgstr "Üzenet a nem bejelentkezett felhasználóknak"
 
 #: app/Services/TransStrings.php:201
 msgid "Migrate tickets from"
-msgstr ""
+msgstr "Kérések migrálása a"
 
 #: app/Services/TransStrings.php:65
 msgid "morning"
@@ -2435,11 +2451,11 @@ msgstr ""
 
 #: app/Services/Tickets/CustomFieldsService.php:35
 msgid "Please let us know more details about this issue"
-msgstr ""
+msgstr "Kérjük, tájékoztasson minket a kérdés további részleteiről"
 
 #: app/Services/Tickets/CustomFieldsService.php:26
 msgid "Please let us know your invoice number"
-msgstr ""
+msgstr "Kérjük, adja meg számlaszámot"
 
 #: app/Services/TransStrings.php:25
 msgid "Please make sure your website can send emails from this email address"
@@ -2462,6 +2478,7 @@ msgid ""
 "Please Provide a license key of FluentSupport - Customer Support Plugin for "
 "WordPress"
 msgstr ""
+"Kérjük, adjd meg a FluentSupport - Customer Support Plugin licenckulcsát"
 
 #: app/Services/TransStrings.php:366
 #: app/Hooks/Handlers/CustomerPortalHandler.php:154
@@ -2498,6 +2515,9 @@ msgid ""
 "Please provide the page id where you want to show the tickets for your "
 "customers. Use shortcode <code>[fluent_support_portal]</code> in that page"
 msgstr ""
+"Kérjük, add meg az oldal azonosítóját, ahol a kéréseket szeretnéd "
+"megjeleníteni ügyfeleid számára. Használd a <code>[fluent_support_portal]</"
+"code> rövidkódot az adott oldalon"
 
 #: app/Services/TransStrings.php:671
 msgid "Please read the documentation first to get ClientID and Client Secret"
@@ -2513,7 +2533,7 @@ msgstr "Kérjük, válasszon egy postafiókot"
 
 #: app/Http/Controllers/SettingsController.php:100
 msgid "Please select a page or enable create page"
-msgstr ""
+msgstr "Kérjük, válassz ki egy oldalt vagy engedélyezd az oldal létrehozását"
 
 #: app/Services/TransStrings.php:137
 msgid "Please select the business in where you want to move the tickets"
@@ -2527,7 +2547,7 @@ msgstr ""
 
 #: app/Services/TransStrings.php:43
 msgid "Please setup your support portal first"
-msgstr ""
+msgstr "Kérjük, először állítsd be a támogatási portált"
 
 #: app/Services/EmailNotification/Settings.php:121
 msgid "Portal Page"
