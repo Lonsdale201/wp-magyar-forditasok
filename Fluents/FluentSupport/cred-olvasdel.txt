@@ -1,18 +1,18 @@
-MainWP Dashboard
-93% feletti fordítások
+Fluent Support
+80% feletti fordítások
 
 Jelezzétek az Issue szekcióban a felrefordításokat, vagy javaslatokat.
 
-Link
-https://mainwp.com/
+Linkek:
+https://fluentsupport.com/
 
-Utoljára módosítva:
+Utoljára módosítva: 
 2024.02.07.
 
-MainWP Dashboard verzió: 4.6.0.1
+Fluent Support verzió: 1.7.72
 
 Fordította: Radics József Géza
 
 Elérhetőség
-Discord:
+Discord: 
 Email: radicsjg@gmail.com
