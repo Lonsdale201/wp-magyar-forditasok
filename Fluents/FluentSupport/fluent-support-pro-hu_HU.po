@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Fluent Support Pro\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-14 12:06+0000\n"
-"PO-Revision-Date: 2024-01-26 12:37+0100\n"
+"PO-Revision-Date: 2024-02-09 18:35+0100\n"
 "Last-Translator: Radics József Géza\n"
 "Language-Team: Magyar\n"
 "Language: hu_HU\n"
@@ -42,7 +42,7 @@ msgstr ""
 
 #: app/Services/AutoCloseService.php:162
 msgid "Close only if tickets are in the following tags"
-msgstr ""
+msgstr "Csak akkor zárja le, ha a kérésnél a következő címkék szerepelnek"
 
 #: app/Services/AutoCloseService.php:176
 msgid "Close tickets silently (no email or events will be fired)"
@@ -66,7 +66,7 @@ msgstr ""
 
 #: app/Services/ProHelper.php:40
 msgid "Create a New Ticket"
-msgstr ""
+msgstr "Új kérés létrehozása"
 
 #: app/Services/ProHelper.php:38
 msgid "Create Ticket"
@@ -74,19 +74,19 @@ msgstr "Új ticket"
 
 #: app/Http/Controllers/TicketFormController.php:166
 msgid "Create ticket button text"
-msgstr ""
+msgstr "Új kérés gomb szövege"
 
 #: app/Http/Controllers/TicketFormController.php:167
 msgid "Create ticket page heading"
-msgstr ""
+msgstr "Új kérés oldal címsora"
 
 #: app/Http/Controllers/CustomFieldsController.php:91
 msgid "Custom Data has been updated"
-msgstr ""
+msgstr "Az egyéni adatok módosultak"
 
 #: app/Http/Controllers/CustomFieldsController.php:72
 msgid "Custom fields are successfully saved"
-msgstr ""
+msgstr "Az egyéni mezők sikeresen mentésre kerültek"
 
 #: app/Services/AutoCloseService.php:194
 msgid ""
@@ -161,7 +161,7 @@ msgstr "https://fluentsupport.com"
 
 #: app/Services/AutoCloseService.php:150
 msgid "Inactive days for tickets that you want to close automatically"
-msgstr ""
+msgstr "Automatikus lezárás a kérés inaktív napját követően"
 
 #: app/Services/Integrations/LearnDash.php:23
 #: app/Services/Integrations/LearnDash.php:163
@@ -224,7 +224,7 @@ msgstr ""
 
 #: app/Http/Controllers/IncomingWebhookController.php:102
 msgid "Mailbox updated successfully"
-msgstr ""
+msgstr "A postafiók sikeresen módosítva"
 
 #: app/Services/Integrations/BuddyBoss.php:153
 msgid "Member From:"
@@ -244,7 +244,7 @@ msgstr "Név:"
 
 #: app/Http/Controllers/IncomingWebhookController.php:108
 msgid "No incoming webhook found"
-msgstr ""
+msgstr "Nem található bejövő webhookot"
 
 #: app/Services/Integrations/Edd.php:106 app/Services/Integrations/Edd.php:116
 #: app/Services/Integrations/WooCommerce.php:102
@@ -282,11 +282,12 @@ msgstr ""
 
 #: app/Services/ProHelper.php:35
 msgid "Please provide details about your problem"
-msgstr ""
+msgstr "Kérjük, adja meg kérésének részleteit"
 
 #: app/Http/Controllers/AutoCloseController.php:39
 msgid "Please use different tags in include and exclude tags field"
 msgstr ""
+"Kérjük, használjon különböző címkéket a include és exclude címkék mezőben"
 
 #: app/Services/ProHelper.php:37
 msgid "Priority"
@@ -298,7 +299,7 @@ msgstr "Prioritási címsor"
 
 #: app/Http/Controllers/TicketFormController.php:164
 msgid "Product/Service heading"
-msgstr ""
+msgstr "Termék/szolgáltatás cím"
 
 #: app/Services/Integrations/Edd.php:180
 msgid "Purchase Date: "
@@ -310,11 +311,11 @@ msgstr "Kapcsolódó termék/szolgáltatás"
 
 #: app/Http/Controllers/AutoCloseController.php:52
 msgid "Response body is required"
-msgstr ""
+msgstr "A válasz tartalma kötelező"
 
 #: app/Services/Integrations/RCPro.php:155
 msgid "Restrict Content Pro"
-msgstr ""
+msgstr "Restrict Content Pro"
 
 #: app/Services/Integrations/RCPro.php:24
 msgid "Restrict Content Pro Levels"
@@ -335,10 +336,12 @@ msgstr ""
 #: app/Services/AutoCloseService.php:203
 msgid "Select default agent if the ticket has not assigned to any agent"
 msgstr ""
+"Válaszd ki az alapértelmezett munkatársat, ha a kérést nem rendelték hozzá "
+"más munkatárshoz"
 
 #: app/Http/Controllers/WorkflowsController.php:208
 msgid "Selected workflow has been deleted"
-msgstr ""
+msgstr "A kiválasztott munkafolyamat törlésre került"
 
 #: app/Http/Controllers/TicketFormController.php:49
 #: app/Http/Controllers/AutoCloseController.php:60
@@ -359,11 +362,11 @@ msgstr "Tárgy"
 
 #: app/Http/Controllers/TicketFormController.php:161
 msgid "Subject heading"
-msgstr ""
+msgstr "Tárgy címe"
 
 #: app/Services/ProHelper.php:39
 msgid "Submit a Support Ticket"
-msgstr ""
+msgstr "Kérés küldése"
 
 #: app/Services/Integrations/WooCommerce.php:151
 msgid "Support"
@@ -372,16 +375,16 @@ msgstr "Támogatás"
 #: app/Services/PluginManager/LicenseManager.php:78
 #, php-format
 msgid "The %s license needs to be activated. %sActivate Now%s"
-msgstr ""
+msgstr "A %s licencet aktiválni szükséges. %sAktiválás most%s"
 
 #: app/Services/ProTicketService.php:19
 #, php-format
 msgid "Ticket #%s has been merged with this ticket at %s"
-msgstr ""
+msgstr "A #%s kérés összevonásra került ezzel a kéréssel %s"
 
 #: app/Http/Controllers/TicketFormController.php:168
 msgid "Ticket Create Call to Action"
-msgstr ""
+msgstr "Kérés létrehozása gomb"
 
 #: app/Services/ProHelper.php:34
 msgid "Ticket Details"
@@ -389,11 +392,11 @@ msgstr "Ticket adatai"
 
 #: app/Services/AutoCloseService.php:103
 msgid "Ticket has been closed automatically by the system due to inactivity"
-msgstr ""
+msgstr "A kérést a rendszer automatikusan lezárta inaktivitás miatt"
 
 #: app/Services/ProTicketService.php:41
 msgid "Tickets has been merged"
-msgstr ""
+msgstr "A kérések összevonásra kerültek"
 
 #: app/Services/Integrations/TutorLMS.php:23
 #: app/Services/Integrations/TutorLMS.php:154
@@ -455,15 +458,15 @@ msgstr ""
 #: app/Services/Integrations/WooCommerce.php:286
 #: app/Services/Integrations/WooCommerce.php:375
 msgid "WooCommerce Purchases"
-msgstr ""
+msgstr "WooCommerce vásárlások"
 
 #: app/Http/Controllers/WorkflowsController.php:114
 msgid "Workflow has been updated"
-msgstr ""
+msgstr "A munkafolyamatot frissítették"
 
 #: app/Http/Controllers/WorkflowsController.php:102
 msgid "Workflow title needs to be unique"
-msgstr ""
+msgstr "A munkafolyamat címének egyedinek kell lennie"
 
 #. Author of the plugin
 msgid "WPManageNinja LLC"
@@ -471,8 +474,8 @@ msgstr "WPManageNinja LLC"
 
 #: app/Http/Controllers/LicenseController.php:58
 msgid "Your license key has been successfully deactivated"
-msgstr ""
+msgstr "A licenckulcsot sikeresen deaktiváltuk"
 
 #: app/Http/Controllers/LicenseController.php:41
 msgid "Your license key has been successfully updated"
-msgstr ""
+msgstr "A licenckulcsot sikeresen frissítettük"
