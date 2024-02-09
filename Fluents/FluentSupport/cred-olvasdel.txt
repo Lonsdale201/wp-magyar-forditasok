@@ -1,5 +1,5 @@
 Fluent Support
-82% feletti fordítások
+100%-os fordítások
 
 Jelezzétek az Issue szekcióban a felrefordításokat, vagy javaslatokat.
 
@@ -7,7 +7,7 @@ Linkek:
 https://fluentsupport.com/
 
 Utoljára módosítva: 
-2024.02.07.
+2024.02.09.
 
 Fluent Support verzió: 1.7.72
 
