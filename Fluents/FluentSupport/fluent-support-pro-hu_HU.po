@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Fluent Support Pro\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-14 12:06+0000\n"
-"PO-Revision-Date: 2024-02-09 18:35+0100\n"
+"PO-Revision-Date: 2024-02-09 18:40+0100\n"
 "Last-Translator: Radics József Géza\n"
 "Language-Team: Magyar\n"
 "Language: hu_HU\n"
@@ -21,7 +21,7 @@ msgstr "Aktiválva:"
 
 #: app/Services/AutoCloseService.php:188
 msgid "Add Custom Response when closing the ticket"
-msgstr "Egyéni válasz hozzáadása a ticket lezárásakor"
+msgstr "Egyéni válasz hozzáadása a kérés lezárásakor"
 
 #: app/Services/Integrations/BuddyBoss.php:23
 #: app/Services/Integrations/BuddyBoss.php:162
@@ -47,6 +47,7 @@ msgstr "Csak akkor zárja le, ha a kérésnél a következő címkék szerepelne
 #: app/Services/AutoCloseService.php:176
 msgid "Close tickets silently (no email or events will be fired)"
 msgstr ""
+"Zárja le a kéréseket némán (nem fog e-mailt vagy eseményeket indítani)"
 
 #: app/Http/Controllers/TicketFormController.php:163
 msgid "Content help message"
@@ -55,14 +56,16 @@ msgstr "Tartalom súgóüzenet"
 #: app/Services/Integrations/LearnDash.php:154
 #: app/Services/Integrations/LifterLMS.php:148
 #: app/Services/Integrations/TutorLMS.php:144
+#, fuzzy
 msgid "Course Name:"
-msgstr ""
+msgstr "Program neve:"
 
 #: app/Services/Integrations/LearnDash.php:152
 #: app/Services/Integrations/LifterLMS.php:146
 #: app/Services/Integrations/TutorLMS.php:142
+#, fuzzy
 msgid "Course Name: "
-msgstr ""
+msgstr "Tanfolyam neve: "
 
 #: app/Services/ProHelper.php:40
 msgid "Create a New Ticket"
@@ -93,26 +96,28 @@ msgid ""
 "Custom Response Text that will be sent to customer when closing the ticket "
 "automatically"
 msgstr ""
+"Egyéni válasz szövege, amelyet a kérés automatikus lezárásakor az ügyfélnek "
+"küld a rendszer"
 
 #. Description of the plugin
 msgid "Customer Support and Ticketing System for WordPress"
-msgstr ""
+msgstr "Ügyfélszolgálat és Ticket rendszer  a WordPress számára"
 
 #: app/Http/Controllers/AutoCloseController.php:46
 msgid "Default fallback agent is required"
-msgstr ""
+msgstr "Alapértelmezett tartalék munkatársra van szükség"
 
 #: app/Services/AutoCloseService.php:158
 msgid "Do not close if customer is waiting for response"
-msgstr ""
+msgstr "Ne zárja le, ha az ügyfél válaszra vár"
 
 #: app/Services/AutoCloseService.php:168
 msgid "Do Not close if tickets are in the following tags"
-msgstr ""
+msgstr "Ne zárja le, ha a kérések a következő címkékben szerepelnek"
 
 #: app/Services/AutoCloseService.php:182
 msgid "Don't close bookmarked tickets"
-msgstr ""
+msgstr "Ne zárja le a könyvjelzővel ellátott kéréseket"
 
 #: app/Services/Integrations/Edd.php:61
 msgid "EDD Orders"
@@ -232,11 +237,11 @@ msgstr ""
 
 #: app/Services/Integrations/PMPro.php:137
 msgid "Membership End:"
-msgstr ""
+msgstr "Tagság vége:"
 
 #: app/Services/Integrations/PMPro.php:135
 msgid "Membership Start:"
-msgstr ""
+msgstr "Tagság kezdete:"
 
 #: app/Services/Integrations/BuddyBoss.php:152
 msgid "Name:"
@@ -262,15 +267,15 @@ msgstr "Rendelés #%d - %s"
 
 #: app/Services/Integrations/PMPro.php:147
 msgid "Paid Membership Pro"
-msgstr ""
+msgstr "Fizetett tagság Pro"
 
 #: app/Services/Integrations/PMPro.php:23
 msgid "Paid Membership Pro Levels"
-msgstr ""
+msgstr "Fizetett tagság Pro szintek"
 
 #: app/Services/Integrations/PMPro.php:31
 msgid "Paid Membership Pro User Levels"
-msgstr ""
+msgstr "Fizetős tagság Pro felhasználói szintek"
 
 #: app/Services/Integrations/PMPro.php:21
 msgid "Paid Membership Pro's levels will be shown at the ticket form"
