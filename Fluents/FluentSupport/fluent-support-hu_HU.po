@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Fluent Support\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-23 11:50+0000\n"
-"PO-Revision-Date: 2024-02-07 21:46+0100\n"
+"PO-Revision-Date: 2024-02-09 18:23+0100\n"
 "Last-Translator: Radics József Géza\n"
 "Language-Team: Radics József Géza - www.slyweb.hu\n"
 "Language: hu_HU\n"
@@ -63,7 +63,7 @@ msgstr ". Kérjük, másolja ki ezt a kódot, és illessze be a"
 msgid ""
 ". You can set your actions and run the workflow actions from ticket page."
 msgstr ""
-". Beállíthatja a műveleteket és futtathatja a munkafolyamat műveleteit a "
+". Beállíthatod a műveleteket és futtathatod a munkafolyamat műveleteit a "
 "kérés oldalról."
 
 #: app/Services/Integrations/FluentForm/FeedIntegration.php:165
@@ -71,7 +71,7 @@ msgid ""
 "<h4>Please provide the ticket provider info. If user is logged in then it "
 "will use that info. For Public users you can set your customer info</h4>"
 msgstr ""
-"<h4>Kérjük, adja meg a kérés  adatait. Ha a felhasználó be van jelentkezve, "
+"<h4>Kérjük, adja meg a kérése adatait. Ha a felhasználó be van jelentkezve, "
 "akkor ezt az információt fogja használni. Nyilvános felhasználók esetében "
 "beállíthatja az ügyféladatokat</h4>"
 
@@ -97,7 +97,7 @@ msgstr ""
 msgid ""
 "<p>Someone has requested a new password for the following account on "
 "WordPress:</p>"
-msgstr "<p>Valaki új jelszót kért a WordPress következő fiókjához:</p>"
+msgstr "<p>Valaki új jelszót kért a következő fiókjához:</p>"
 
 #: app/Http/Controllers/AuthController.php:435
 #, php-format
@@ -175,11 +175,11 @@ msgstr "Tevékenységek"
 
 #: app/Services/TransStrings.php:464
 msgid "Activity Log Settings"
-msgstr "Aktivitás Log Beállítások"
+msgstr "Tevékenység napló beállítások"
 
 #: app/Services/TransStrings.php:463
 msgid "Activity Logs are currently disabled"
-msgstr "A tevékenységi naplók jelenleg le vannak tiltva"
+msgstr "A tevékenység naplók jelenleg le vannak tiltva"
 
 #: app/Models/Traits/ActivityTrait.php:66
 msgid "Activity settings has been updated"
@@ -200,7 +200,7 @@ msgstr "Új munkafolyamat hozzáadása"
 #: app/Services/Integrations/FluentCrm/CreateTicketAction.php:51
 #: app/Services/Integrations/FluentCrm/CreateTicketAction.php:75
 msgid "Add a support ticket for contact"
-msgstr ""
+msgstr "Kérés hozzáadása a kapcsolattartóhoz"
 
 #: app/Services/TransStrings.php:458
 msgid "Add Another Action"
@@ -212,7 +212,7 @@ msgstr "Könyvjelző hozzáadása"
 
 #: app/Services/TransStrings.php:132
 msgid "Add Business Inbox"
-msgstr "Postafiókhozzáadása"
+msgstr "Postafiók hozzáadása"
 
 #: app/Services/TransStrings.php:393
 msgid ""
@@ -383,11 +383,11 @@ msgstr "Munkatárs teljes neve"
 
 #: app/Services/TransStrings.php:250
 msgid "Agent Job Title( ex: Developer, Support Staff )"
-msgstr ""
+msgstr "Munkatárs munkaköre( pl.: Fejlesztő, támogató személyzet )"
 
 #: app/Services/TransStrings.php:115 app/Services/Helper.php:630
 msgid "Agent Last Name"
-msgstr "Munkatárs kereszt neve"
+msgstr "Munkatárs keresztneve"
 
 #: app/Services/TransStrings.php:664
 msgid "Agent Performance (Today)"
@@ -419,6 +419,9 @@ msgid ""
 "All JS Helpdesk tickets and associated data has been deleted. You may now "
 "deactivate JS Helpdesk Plugin and start using Fluent Support"
 msgstr ""
+"Az összes JS Helpdesk és a kapcsolódó adatok törlésre kerültek. Most már "
+"kikapcsolhatja a JS Helpdesk Plugint és elkezdheted használni a Fluent "
+"Supportot"
 
 #: app/Services/TransStrings.php:146
 msgid "All or Custom"
@@ -433,6 +436,9 @@ msgid ""
 "All Support Candy Tickets and associated data has been deleted. You may now "
 "deactivate Support Candy Plugin and start using Fluent Support"
 msgstr ""
+"Az összes Support Candy kérés és a kapcsolódó adatok törlésre kerültek. Most "
+"már kikapcsolhatja a Support Candy Plugint és elkezdheted használni a Fluent "
+"Supportot"
 
 #: app/Services/TransStrings.php:280
 msgid "All Support Staff"
@@ -508,7 +514,7 @@ msgstr "App ID"
 
 #: app/Services/TransStrings.php:84
 msgid "App Secret"
-msgstr ""
+msgstr "App titkos kulcs"
 
 #: app/Services/TransStrings.php:619
 msgid "Apply / Remove Lists on FluentCRM Profile"
@@ -516,7 +522,7 @@ msgstr "Listák elfogadása / eltávolítása a FluentCRM profilból"
 
 #: app/Services/TransStrings.php:431
 msgid "Apply / Remove Tags on FluentCRM Profile"
-msgstr ""
+msgstr "Címkék alkalmazása / eltávolítása a FluentCRM profilon"
 
 #: app/Modules/PermissionManager.php:220
 msgid "Approve Draft Reply"
@@ -528,6 +534,10 @@ msgid ""
 "            happening to your tickets and conversations, It will run the "
 "defined actions automatically."
 msgstr ""
+"mindig be vannak kapcsolva, és a kiválasztott kérés eseményeken futnak. Az "
+"alapján, hogy ami a\n"
+"            a kérésekkel és a beszélgetésekkel történik, automatikusan "
+"lefuttatja a meghatározott műveleteket."
 
 #: app/Services/TransStrings.php:30
 msgid "are waiting for reply with"
@@ -535,11 +545,11 @@ msgstr ", amire várják a választ"
 
 #: app/Services/TransStrings.php:327
 msgid "Are you sure to close the selected Tickets?"
-msgstr ""
+msgstr "Biztos, hogy lezárod a kiválasztott kéréseket?"
 
 #: app/Services/TransStrings.php:325
 msgid "Are you sure to delete the selected Tickets?"
-msgstr ""
+msgstr "Biztos, hogy törölni szeretnéd a kiválasztott kéréseket?"
 
 #: app/Services/TransStrings.php:568
 msgid "Are you sure to delete this Action?"
@@ -550,6 +560,8 @@ msgid ""
 "Are you sure to delete this customer? It will delete all associated data "
 "with this customer"
 msgstr ""
+"Biztos, hogy törölni szeretnéd ezt az ügyfelet? A rendszer törölni fogja az "
+"ügyfélhez kapcsolódó összes adatot"
 
 #: app/Services/TransStrings.php:522
 msgid "Are you sure to delete this field?"
@@ -577,13 +589,15 @@ msgstr "Biztos, hogy törlöd?"
 
 #: app/Services/TransStrings.php:443
 msgid "Are you sure to delete this? All associate data will be deleted"
-msgstr ""
+msgstr "Biztos, hogy törölni akarod ezt? Minden társított adat törlésre kerül"
 
 #: app/Services/TransStrings.php:533
 msgid ""
 "Are you sure to regenerate the webhook url? If you regenerate the url you "
 "have to change all your used webhook"
 msgstr ""
+"Biztos, hogy újra kell generálni a webhook url-t? Ha újrateremti az url-t, "
+"akkor az összes használt webhookot meg kell változtatnod"
 
 #: app/Services/TransStrings.php:615
 msgid "Are you sure to remove this bookmark?"
@@ -595,7 +609,7 @@ msgstr "Biztos, hogy be akarod állítani ezt a postafiókot a webhookhoz?"
 
 #: app/Services/TransStrings.php:653
 msgid "Are you sure you want to set this as default?"
-msgstr "Biztos, hogy ezt szeretné alapértelmezettként beállítani?"
+msgstr "Biztos, hogy ezt szeretnéd alapértelmezettként beállítani?"
 
 #: app/Services/TransStrings.php:563
 msgid "Are you sure, you want to close selected tickets?"
@@ -619,7 +633,7 @@ msgstr "Munkatárs hozzárendelése"
 
 #: app/Modules/PermissionManager.php:215
 msgid "Assign Agents"
-msgstr "Munkatárs hozzárendelése"
+msgstr "Munkatársak hozzárendelése"
 
 #: app/Services/TransStrings.php:333
 msgid "Assigned Agent "
@@ -651,6 +665,7 @@ msgstr ""
 #: app/Services/TransStrings.php:436
 msgid "Automate your tickets by applying manual or automated tasks"
 msgstr ""
+"Automatizálja a kérések kézi vagy automatizált feladatok alkalmazásával"
 
 #: app/Services/TransStrings.php:456
 msgid "Automatic"
@@ -690,7 +705,7 @@ msgstr "Csodálatos Támogatás"
 
 #: app/Services/TransStrings.php:21
 msgid "Awesome! Your support portal is ready to go!"
-msgstr ""
+msgstr "Félelmetes! A támogatási portál készen áll az indulásra!"
 
 #: app/Services/TransStrings.php:465
 msgid "Basic Info"
@@ -904,6 +919,9 @@ msgid ""
 "customers send an email or reply from email it will be synced with your "
 "support portal"
 msgstr ""
+"Csatlakoztasd az e-mail címed a Fluent Support e-mail elemzőjéhez, így "
+"amikor ügyfeleid e-mailt küldenek vagy e-mailből válaszolnak, az "
+"szinkronizálódik a támogatási portállal"
 
 #: app/Services/TransStrings.php:516
 msgid "Contains"
@@ -927,23 +945,23 @@ msgstr "Kéréseim"
 
 #: app/Hooks/Handlers/PrivacyHandler.php:161
 msgid "Conversation Attachments"
-msgstr ""
+msgstr "Beszélgetés mellékletek"
 
 #: app/Hooks/Handlers/PrivacyHandler.php:157
 msgid "Conversation Content"
-msgstr ""
+msgstr "Beszélgetés tartalma"
 
 #: app/Hooks/Handlers/PrivacyHandler.php:165
 msgid "Conversation Created At"
-msgstr ""
+msgstr "Beszélgetés létrehozva"
 
 #: app/Hooks/Handlers/PrivacyHandler.php:149
 msgid "Conversation ID"
-msgstr ""
+msgstr "Beszélgetés ID"
 
 #: app/Services/TransStrings.php:309
 msgid "Could not find a contact? Create a new one."
-msgstr ""
+msgstr "Nem találtad a kapcsolatot? Hozz létre egy újat."
 
 #: app/Hooks/Handlers/AdminBarHandler.php:91
 msgid "Count"
@@ -1003,7 +1021,7 @@ msgstr "Új válasz"
 
 #: app/Services/TransStrings.php:234
 msgid "Create New Supported Product"
-msgstr ""
+msgstr "Új támogatott termék létrehozása"
 
 #: app/Services/TransStrings.php:261
 msgid "Create New Ticket Tag"
@@ -1066,19 +1084,19 @@ msgstr "Jelenlegi összegzés"
 
 #: app/Services/TransStrings.php:491
 msgid "Currently no migration is available for this site"
-msgstr ""
+msgstr "Jelenleg nem áll rendelkezésre migráció ehhez a webhelyhez"
 
 #: app/Services/TransStrings.php:307
 msgid "Currently Viewing"
-msgstr ""
+msgstr "Jelenlegi megtekintés"
 
 #: app/Services/TransStrings.php:206
 msgid "Custom Field Admin Label"
-msgstr ""
+msgstr "Egyéni mező admin címke"
 
 #: app/Services/TransStrings.php:205
 msgid "Custom Field Public Label"
-msgstr ""
+msgstr "Egyéni mező nyilvános címke"
 
 #: app/Services/TransStrings.php:203
 msgid "Custom Field Slug"
@@ -1161,7 +1179,7 @@ msgstr "Az Ügyfélportál csak az Ügyfelek számára érhető el"
 
 #: app/Models/Customer.php:51
 msgid "Customer Title"
-msgstr ""
+msgstr "Ügyfél cím"
 
 #: app/Services/TransStrings.php:467 app/Hooks/Handlers/Menu.php:141
 msgid "Customers"
@@ -1248,7 +1266,7 @@ msgstr "Piszkozat sikeresen törölve"
 
 #: app/Services/Helper.php:643
 msgid "Dislikes"
-msgstr ""
+msgstr "Idegenkedik"
 
 #: app/Services/TransStrings.php:207
 msgid "Do you want to delete all imported tickets and its data?"
@@ -1259,6 +1277,9 @@ msgid ""
 "doesn't do anything until you tell it to. When you apply a manual\n"
 "            workflow from a ticket, Fluent Support performs all the actions."
 msgstr ""
+"nem csinál semmit, amíg nem szólsz neki. Amikor manuálisan alkalmazza\n"
+"            munkafolyamatot egy kérésből, a Fluent Support elvégzi az összes "
+"műveletet."
 
 #: app/Services/TransStrings.php:546
 msgid "Don't have a license key?"
@@ -1266,7 +1287,7 @@ msgstr "Nincs licenckulcsa?"
 
 #: app/Models/Ticket.php:1207
 msgid "Draft has been added"
-msgstr ""
+msgstr "A piszkozat hozzáadásra került"
 
 #: app/Models/Ticket.php:1219
 msgid "Draft has been updated"
@@ -1278,7 +1299,7 @@ msgstr "Válasz piszkozat"
 
 #: app/Models/Conversation.php:313
 msgid "Draft response has been successfully approved."
-msgstr ""
+msgstr "A válasz piszkozat jóváhagyásra került."
 
 #: app/Services/TransStrings.php:566
 msgid "Edit"
@@ -1399,7 +1420,7 @@ msgstr "Egyenlő"
 
 #: app/Services/TransStrings.php:63
 msgid "evening"
-msgstr "este"
+msgstr "Estét"
 
 #: app/Services/TransStrings.php:388
 msgid "Ex: +123456789"
@@ -1419,11 +1440,11 @@ msgstr "Munkatárs összefoglalójának exportálása"
 
 #: app/Services/TransStrings.php:257
 msgid "Fallback Agent ID"
-msgstr ""
+msgstr "Tartalék munkatárs ID"
 
 #: app/Services/TransStrings.php:134
 msgid "Fallback Business"
-msgstr ""
+msgstr "Tartalék Cég"
 
 #: app/Services/Tickets/CustomFieldsService.php:18
 msgid "Feature Request"
@@ -1534,31 +1555,31 @@ msgstr "Fluent Support"
 
 #: app/Hooks/Handlers/PrivacyHandler.php:145
 msgid "Fluent Support Conversations"
-msgstr ""
+msgstr "Fluent Support beszélgetések"
 
 #: app/Hooks/Handlers/PrivacyHandler.php:26
 msgid "Fluent Support Conversations Exporter"
-msgstr ""
+msgstr "Fluent Support beszélgetések exportálása"
 
 #: app/Services/Integrations/FluentForm/FeedIntegration.php:262
 msgid "Fluent Support Custom Field"
-msgstr ""
+msgstr "Fluent Support egyedi mező"
 
 #: app/Hooks/Handlers/PrivacyHandler.php:200
 msgid "Fluent Support Customer"
-msgstr ""
+msgstr "Fluent Support ügyfél"
 
 #: app/Hooks/Handlers/PrivacyHandler.php:31
 msgid "Fluent Support Customer Exporter"
-msgstr ""
+msgstr "Fluent Support ügyfél exportálás"
 
 #: app/Services/Integrations/FluentForm/FeedIntegration.php:197
 msgid "Fluent Support Field"
-msgstr ""
+msgstr "Fluent Support mező"
 
 #: app/Hooks/Handlers/PrivacyHandler.php:41
 msgid "Fluent Support Personal Data Eraser"
-msgstr ""
+msgstr "Fluent Support személyes adatok törlése"
 
 #: app/Hooks/Handlers/AdminBarHandler.php:76
 msgid "Fluent Support Stats"
@@ -1602,6 +1623,9 @@ msgid ""
 "For the confirmation email from your email service provider, please check "
 "the latest ticket. A new ticket should be created with confirmation code."
 msgstr ""
+"Az e-mail szolgáltatójától kapott visszaigazoló e-mailért kérjük, "
+"ellenőrizze a legutóbbi kérést. Új kérést kell létrehozni a visszaigazoló "
+"kóddal."
 
 #: app/Hooks/Handlers/AuthHandler.php:85
 msgid "Forgot your password?"
@@ -1626,12 +1650,16 @@ msgid ""
 "Get activity notification to Slack Channel and keep your support team super "
 "engaged"
 msgstr ""
+"Kapj aktivitási értesítést a Slack-csatornára, és tartsd a támogatói "
+"csapatod szuper elkötelezettnek"
 
 #: app/Hooks/Handlers/Menu.php:302
 msgid ""
 "Get activity notification to Telegram Messenger and reply directly from "
 "Telegram inbox"
 msgstr ""
+"Tevékenységi értesítést kaphatsz a Telegram Messengerre és válaszolhatsz "
+"közvetlenül a Telegram fiókból"
 
 #: app/Services/TransStrings.php:99
 msgid "Get Authorized"
@@ -1643,11 +1671,11 @@ msgstr "Általános jelentés az összes munkatársról és teljesítményükrő
 
 #: app/Services/TransStrings.php:472
 msgid "Get Piping Email Details"
-msgstr ""
+msgstr "E-mail Piping részletek"
 
 #: app/Services/TransStrings.php:222
 msgid "Global Email Settings"
-msgstr "Globális Email beállítások"
+msgstr "Globális e-mail beállítások"
 
 #: app/Services/TransStrings.php:38 app/Hooks/Handlers/Menu.php:185
 msgid "Global Settings"
@@ -1768,12 +1796,16 @@ msgstr ""
 #: app/Services/TransStrings.php:672
 msgid "If you need help or support with Google Drive integration"
 msgstr ""
+"Ha segítségre vagy támogatásra van szükséged a Google Drive integrációjával "
+"kapcsolatban"
 
 #: app/Services/TransStrings.php:432
 msgid ""
 "If you select <b>Blocked</b> status then this customer can not submit a "
 "ticket or any response"
 msgstr ""
+"Ha <b>a Letiltott</b> állapotot választod, akkor ez az ügyfél nem küldhet be "
+"kérést vagy választ"
 
 #: app/Hooks/Handlers/CustomerPortalHandler.php:127
 msgid "If you still have related issues. Please reopen this ticket and reply"
@@ -1844,9 +1876,8 @@ msgid "Include"
 msgstr "Tartalmazza"
 
 #: app/Services/TransStrings.php:623
-#, fuzzy
 msgid "Include Agents in Summary"
-msgstr "Ügynökök bevonása az összefoglalóba"
+msgstr "Munkatársak bevonása az összefoglalóba"
 
 #: app/Services/TransStrings.php:608
 msgid "Includes In"
@@ -1882,7 +1913,7 @@ msgstr ""
 
 #: app/Services/Tickets/CustomFieldsService.php:19
 msgid "Integration Issues"
-msgstr ""
+msgstr "Integrációs problémák"
 
 #: app/Services/TransStrings.php:229
 msgid "Integration Settings"
@@ -1895,7 +1926,7 @@ msgstr "Interakciók"
 
 #: app/Http/Controllers/CustomerPortalController.php:81
 msgid "Invalid form data submitted"
-msgstr ""
+msgstr "Érvénytelen űrlapadatokat küldtek el"
 
 #: app/Services/TransStrings.php:254
 msgid "Invalid ID"
@@ -1925,6 +1956,11 @@ msgid ""
 "learner and affiliate management, and monitor user activities and many more "
 "in one place; without ever having to leave your WordPress dashboard!"
 msgstr ""
+"egy saját üzemeltetésű e-mail marketing automatizálási bővítmény. Kezelheted "
+"potenciális ügyfeleket és ügyfeleit, e-mail kampányait, automatizált e-"
+"mailek sorrendjét, tanulók és társult vállalkozások kezelését, valamint "
+"nyomon követheti a felhasználói tevékenységeket és még sok mást egy helyen; "
+"anélkül, hogy el kellene hagynia a WordPress irányítópultját!"
 
 #: app/Services/TransStrings.php:575
 msgid "Is after"
@@ -1932,11 +1968,11 @@ msgstr "Utánna"
 
 #: app/Services/TransStrings.php:574
 msgid "Is before"
-msgstr "előtte"
+msgstr "Előtte"
 
 #: app/Services/TransStrings.php:576
 msgid "Is between"
-msgstr ""
+msgstr "Között van"
 
 #: app/Services/TransStrings.php:265
 msgid ""
@@ -1957,7 +1993,7 @@ msgstr "JSON"
 
 #: app/Services/TransStrings.php:401
 msgid "Label"
-msgstr ""
+msgstr "Címke"
 
 #: app/Services/TransStrings.php:176
 msgid "Last 1 Year"
@@ -2041,23 +2077,23 @@ msgstr "Kijelentkezés"
 
 #: app/Hooks/Handlers/CustomerPortalHandler.php:148
 msgid "Looking for similar articles..."
-msgstr ""
+msgstr "Hasonló cikkek megtekintése..."
 
 #: app/Hooks/Handlers/CustomerPortalHandler.php:140
 msgid "Looks like you did not open any support tickets yet"
-msgstr ""
+msgstr "Úgy tűnik, még nem nyitottál kéréseket"
 
 #: app/Services/TransStrings.php:18
 msgid "Looks like you have caught up everything for now."
-msgstr ""
+msgstr "Úgy tűnik, hogy egyelőre mindent bepótoltál."
 
 #: app/Services/TransStrings.php:538
 msgid "Looks like your license has been expired"
-msgstr ""
+msgstr "Úgy tűnik, hogy az engedélye lejárt"
 
 #: app/Http/Controllers/MailBoxController.php:54
 msgid "Mailbox has been created successfully"
-msgstr ""
+msgstr "A postafiók létrehozása sikeresen megtörtént"
 
 #: app/Http/Controllers/MailBoxController.php:78
 msgid "Mailbox has been saved"
@@ -2066,6 +2102,8 @@ msgstr "A postafiók mentésre került"
 #: app/Services/Integrations/FluentForm/FeedIntegration.php:159
 msgid "Make sure form field values match with Fluent Support priorities"
 msgstr ""
+"Győződjön meg róla, hogy az űrlapmezők értékei megegyeznek a Fluent Support "
+"prioritásaival"
 
 #: app/Services/TransStrings.php:76
 msgid "Manage"
@@ -2077,11 +2115,11 @@ msgstr "Másik kérések kezelése"
 
 #: app/Modules/PermissionManager.php:234
 msgid "Manage Overall Settings"
-msgstr ""
+msgstr "Általános beállítások kezelése"
 
 #: app/Modules/PermissionManager.php:212
 msgid "Manage Own Tickets"
-msgstr ""
+msgstr "Saját kérések kezelése"
 
 #: app/Modules/PermissionManager.php:228
 msgid "Manage Saved Replies"
@@ -2089,7 +2127,7 @@ msgstr "Egyéni válaszok kezelése"
 
 #: app/Services/TransStrings.php:37
 msgid "Manage Support Staff"
-msgstr ""
+msgstr "Támogató személyzetet kezelése"
 
 #: app/Modules/PermissionManager.php:213
 msgid "Manage Unassigned Tickets"
@@ -2097,7 +2135,7 @@ msgstr "Munkatárshoz nem rendelt kérések kezelése"
 
 #: app/Modules/PermissionManager.php:226
 msgid "Manage Workflows"
-msgstr ""
+msgstr "Munkafolyamatok kezelése"
 
 #: app/Services/TransStrings.php:322
 msgid "Manager"
@@ -2121,11 +2159,11 @@ msgstr "Kézi munkafolyamat"
 
 #: app/Services/TransStrings.php:591
 msgid "manual workflow"
-msgstr ""
+msgstr "kézi munkafolyamat"
 
 #: app/Services/TransStrings.php:129
 msgid "Mapped Email"
-msgstr ""
+msgstr "Feltérképezett e-mail"
 
 #: app/Services/TransStrings.php:520
 msgid "Match all conditions"
@@ -2133,11 +2171,11 @@ msgstr "Minden feltételnek megfelel"
 
 #: app/Services/TransStrings.php:521
 msgid "Match any conditions"
-msgstr ""
+msgstr "Bármilyen feltételnek megfelel"
 
 #: app/Services/TransStrings.php:510
 msgid "Match Value"
-msgstr ""
+msgstr "Match érték"
 
 #: app/Services/EmailNotification/Settings.php:149
 msgid "Max File Size (in MegaByte)"
@@ -2236,7 +2274,7 @@ msgstr "Nem"
 
 #: app/Services/TransStrings.php:613
 msgid "No activities found at this moment"
-msgstr ""
+msgstr "Jelenleg nem találtunk tevékenységet"
 
 #: app/Services/TransStrings.php:427
 msgid "No additional data found"
@@ -2244,7 +2282,7 @@ msgstr "Nem található további adat"
 
 #: app/Services/TransStrings.php:271
 msgid "No available tags found"
-msgstr ""
+msgstr "Nem találtunk elérhető címkéket"
 
 #: app/Services/TransStrings.php:396
 msgid "No Custom Fields Found"
@@ -2268,11 +2306,11 @@ msgstr "Nem tartalmazza"
 
 #: app/Services/TransStrings.php:513
 msgid "Not Equal"
-msgstr ""
+msgstr "Nem egyenlő"
 
 #: app/Services/TransStrings.php:609
 msgid "Not Includes In"
-msgstr ""
+msgstr "Nem tartalmazza a"
 
 #: app/Hooks/Handlers/AuthHandler.php:77
 msgid "Not registered?"
@@ -2333,7 +2371,7 @@ msgstr "Operátor"
 
 #: app/Services/TransStrings.php:360
 msgid "Option Value"
-msgstr ""
+msgstr "Opciós érték"
 
 #: app/Services/TransStrings.php:579
 msgid "OR"
@@ -2345,11 +2383,11 @@ msgstr "vagy"
 
 #: app/Services/TransStrings.php:54
 msgid "Order"
-msgstr ""
+msgstr "Rendezés"
 
 #: app/Services/TransStrings.php:462
 msgid "Overall Activities"
-msgstr ""
+msgstr "Általános tevékenységek"
 
 #: app/Services/TransStrings.php:81 app/Hooks/Handlers/AuthHandler.php:369
 #: app/Hooks/Handlers/AuthHandler.php:371
@@ -2435,6 +2473,8 @@ msgid ""
 "Please forward your emails from \"Support Inbox Email\" so it can auto-sync "
 "the tickets"
 msgstr ""
+"Kérjük, továbbítsa e-mailjeit a \"Support Inbox Email\" szolgáltatásból, "
+"hogy az automatikusan szinkronizálhassa a kérést"
 
 #: app/Services/TransStrings.php:289
 msgid "Please input"
@@ -2447,7 +2487,7 @@ msgstr ""
 
 #: app/Services/Tickets/CustomFieldsService.php:13
 msgid "Please let us know about this support type"
-msgstr ""
+msgstr "Kérjük, tájékoztasson minket erről a kérés típusról"
 
 #: app/Services/Tickets/CustomFieldsService.php:35
 msgid "Please let us know more details about this issue"
@@ -2468,10 +2508,12 @@ msgid ""
 "Please Map Your Customer Data for this form. If your customer already logged "
 "in you can leave this"
 msgstr ""
+"Kérjük, térképezze fel ügyféladatait ehhez az űrlaphoz. Ha ügyfele már "
+"bejelentkezett, elhagyhatja ezt"
 
 #: app/Services/Integrations/FluentForm/FeedIntegration.php:260
 msgid "Please Map Your Ticket Custom Field Data for this form."
-msgstr ""
+msgstr "Kérjük, térképezze fel kérése egyéni mezőadatait ehhez az űrlaphoz."
 
 #: app/Services/TransStrings.php:545
 msgid ""
@@ -2483,15 +2525,15 @@ msgstr ""
 #: app/Services/TransStrings.php:366
 #: app/Hooks/Handlers/CustomerPortalHandler.php:154
 msgid "Please provide details about your problem"
-msgstr ""
+msgstr "Kérjük, adja meg kérésének részleteit"
 
 #: app/Services/TransStrings.php:255
 msgid "Please Provide Fallback Agent ID"
-msgstr ""
+msgstr "Kérjük, adja meg a tartalék munkatárs azonosítóját"
 
 #: app/Services/TransStrings.php:139
 msgid "Please provide fallback box"
-msgstr ""
+msgstr "Kérjük, adja meg a tartalék boxot"
 
 #: app/Services/EmailNotification/Settings.php:130
 msgid ""
@@ -2501,6 +2543,12 @@ msgid ""
 "<code>[fluent_support_signup]</code> and for both form please use "
 "<code>[fluent_support_auth]</code>"
 msgstr ""
+"Kérjük, küldjön üzenetet a be nem jelentkezett felhasználóknak. A "
+"bejelentkezési rövid kódot is elhelyezheti. Használja a "
+"<code>[fluent_support_login]</code> rövid kódot a beépített bejelentkezési "
+"űrlap megjelenítéséhez. A felhasználói regisztrációhoz használja ezt a rövid "
+"kódot <code>[fluent_support_signup]</code> , és mindkét űrlaphoz használja "
+"<code>[fluent_support_auth]</code>"
 
 #: app/Services/TransStrings.php:143
 msgid ""
@@ -2522,6 +2570,8 @@ msgstr ""
 #: app/Services/TransStrings.php:671
 msgid "Please read the documentation first to get ClientID and Client Secret"
 msgstr ""
+"Kérjük, először olvasd el a dokumentációt, hogy megkapd az ügyféll ID-t és "
+"az titkos kulcsot"
 
 #: app/Services/TransStrings.php:308
 msgid "Please Select a contact"
@@ -2538,12 +2588,15 @@ msgstr "Kérjük, válassz ki egy oldalt vagy engedélyezd az oldal létrehozás
 #: app/Services/TransStrings.php:137
 msgid "Please select the business in where you want to move the tickets"
 msgstr ""
+"Kérjük, válassza ki azt a vállalkozást, ahová át szeretné helyezni a jegyeket"
 
 #: app/Services/TransStrings.php:136
 msgid ""
 "Please select the fallback business in where the existing tickets will be "
 "transferred"
 msgstr ""
+"Kérjük, válassza ki azt a másik vállalkozást, amelybe a meglévő kéréseket "
+"áthelyezi"
 
 #: app/Services/TransStrings.php:43
 msgid "Please setup your support portal first"
@@ -2763,7 +2816,7 @@ msgstr "Jelszó visszaállítása"
 
 #: app/Services/TransStrings.php:128
 msgid "Reset To Default Gravatar"
-msgstr ""
+msgstr "Alapértelmezett Gravatar visszaállítása"
 
 #: app/Http/Controllers/AuthController.php:415
 #, php-format
@@ -2789,11 +2842,11 @@ msgstr "A válasz sikeresen elküldve"
 
 #: app/Models/Conversation.php:180
 msgid "Response has been added to the selected tickets"
-msgstr ""
+msgstr "A válasz hozzáadva a kiválasztott kérésekhez"
 
 #: app/Http/Controllers/ChatMessageParserController.php:30
 msgid "Response has been successfully recorded"
-msgstr ""
+msgstr "A válasz sikeresen rögzítésre került"
 
 #: app/Services/TransStrings.php:117
 msgid "Response Title"
@@ -2819,7 +2872,7 @@ msgstr "Munkafolyamatok futtatása"
 
 #: app/Services/TransStrings.php:554
 msgid "Running the"
-msgstr ""
+msgstr "Futás a"
 
 #: app/Services/TransStrings.php:264
 msgid "Save"
@@ -2905,19 +2958,19 @@ msgstr "Összes kiválasztása"
 #: app/Services/TransStrings.php:353
 #: app/Services/Integrations/FluentForm/FeedIntegration.php:108
 msgid "Select Business"
-msgstr ""
+msgstr "Üzlet kiválasztása"
 
 #: app/Services/TransStrings.php:216
 msgid "Select Business Inbox"
-msgstr ""
+msgstr "Válaszd ki a postafiókot"
 
 #: app/Services/TransStrings.php:630
 msgid "Select columns that you want to export"
-msgstr ""
+msgstr "Válaszd ki az exportálni kívánt oszlopokat"
 
 #: app/Services/TransStrings.php:595
 msgid "Select Contact Property"
-msgstr ""
+msgstr "Kapcsolat tulajdonság kiválasztása"
 
 #: app/Services/TransStrings.php:352
 msgid "Select Customer"
@@ -2933,7 +2986,7 @@ msgstr "Válasszon mezőtípust"
 
 #: app/Services/TransStrings.php:596
 msgid "Select Form Property"
-msgstr ""
+msgstr "Formanyomtatvány tulajdonság kiválasztása"
 
 #: app/Services/TransStrings.php:569
 msgid "Select Integration Event"
@@ -2941,11 +2994,11 @@ msgstr "Integrációs esemény kiválasztása"
 
 #: app/Services/TransStrings.php:293
 msgid "Select Operator"
-msgstr ""
+msgstr "Select Operator"
 
 #: app/Services/TransStrings.php:295
 msgid "Select Option"
-msgstr ""
+msgstr "Beállítás választás"
 
 #: app/Services/EmailNotification/Settings.php:123
 msgid "Select Portal Page"
@@ -2967,21 +3020,24 @@ msgstr "Kapcsolódó szolgáltatás kiválasztása"
 
 #: app/Services/Integrations/FluentForm/FeedIntegration.php:118
 msgid "Select Support Product"
-msgstr ""
+msgstr "Válasszon egy Támogatási terméket"
 
 #: app/Services/Integrations/FluentForm/FeedIntegration.php:109
 msgid "Select the Business you would like to add your Support Ticket to."
-msgstr ""
+msgstr "Válassza ki azt a vállalkozást, amelyhez hozzá szeretné adni a kérést."
 
 #: app/Http/Controllers/SettingsController.php:195
 msgid ""
 "Select the default status for new contacts. If you select pending and it's a "
 "new contact then a double optin email will be sent"
 msgstr ""
+"Válassza ki az új névjegyek alapértelmezett állapotát. Ha a függőben lévő "
+"lehetőséget választja, és ez egy új kapcsolat, akkor a rendszer dupla optin "
+"e-mailt küld"
 
 #: app/Services/TransStrings.php:413
 msgid "Select ticket that you want to move"
-msgstr ""
+msgstr "Válaszd ki az áthelyezni kívánt jegyet"
 
 #: app/Services/TransStrings.php:594
 msgid "Select Value"
@@ -2993,19 +3049,19 @@ msgstr "Válassza ki a kérés típusát"
 
 #: app/Services/MailerInbox/MailBoxService.php:79
 msgid "Selected Business has been deleted"
-msgstr ""
+msgstr "A kiválasztott vállalkozás törölve lett"
 
 #: app/Services/MailerInbox/MailBoxService.php:150
 msgid "Selected Business has been set as default"
-msgstr ""
+msgstr "A kiválasztott vállalkozás alapértelmezettként lett beállítva"
 
 #: app/Services/TransStrings.php:635
 msgid "Selected Contact Details"
-msgstr ""
+msgstr "Kiválasztott kapcsolattartói adatok"
 
 #: app/Models/Conversation.php:354
 msgid "Selected draft response has been approved and updated"
-msgstr ""
+msgstr "A kiválasztott válasz piszkozatot jóváhagytuk és frissítettük"
 
 #: app/Models/Conversation.php:258
 msgid "Selected response has been deleted"
@@ -3017,7 +3073,7 @@ msgstr "A kiválasztott kérés módosítva"
 
 #: app/Models/Ticket.php:1505
 msgid "Selected tags has been added to tickets"
-msgstr ""
+msgstr "A kiválasztott címkék hozzá lettek adva a jegyekhez"
 
 #: app/Services/TransStrings.php:602
 msgid "Send Attachments(Not Recommended)"
@@ -3028,6 +3084,8 @@ msgid ""
 "Send Telegram notifications to Group, Channel or individual person inbox and "
 "reply from Telegram inbox"
 msgstr ""
+"Küldjön Telegram értesítéseket a csoportos, csatorna vagy egyéni személyek "
+"fiókjába, és válaszoljon a Telegram postafiókjából"
 
 #: app/Hooks/Handlers/Menu.php:308
 msgid "Send ticket activity notifications to slack"
@@ -3056,11 +3114,11 @@ msgstr "Beállítások"
 
 #: app/Services/TransStrings.php:230
 msgid "Settings could not be found"
-msgstr ""
+msgstr "A beállítások nem találhatók"
 
 #: app/Services/TransStrings.php:496
 msgid "Settings could not be loaded"
-msgstr ""
+msgstr "A beállításokat nem sikerült betölteni"
 
 #: app/Http/Controllers/SlackController.php:40
 #: app/Http/Controllers/IntegrationController.php:35
@@ -3076,7 +3134,7 @@ msgstr "A beállítások frissültek"
 
 #: app/Services/TransStrings.php:36
 msgid "Setup Associate Product/Services for Tickets"
-msgstr ""
+msgstr "Társított termék/szolgáltatás beállítása kérésekhez"
 
 #: app/Services/TransStrings.php:59
 msgid "Shipping details"
@@ -3140,7 +3198,7 @@ msgstr ""
 #: app/Services/Tickets/Importer/JSHelpdeskTickets.php:28
 #: app/Services/Tickets/Importer/AwesomeSupportTickets.php:44
 msgid "Sorry, no tickets available for import."
-msgstr ""
+msgstr "Sajnáljuk, nem található importálható kérés."
 
 #: app/Services/TransStrings.php:614
 msgid "Sorry, this customer has one ticket only"
@@ -3151,6 +3209,8 @@ msgid ""
 "Sorry, Your secure sign is invalid, Please reload the previous page and get "
 "new signed url"
 msgstr ""
+"Sajnáljuk, az Ön biztonság aláírása érvénytelen. Frissítse az előző oldalt, "
+"és kérjen új aláírt URL-t"
 
 #: app/Modules/PermissionManager.php:218 app/Services/TransStrings.php:618
 msgid "Split Ticket"
@@ -3220,7 +3280,7 @@ msgstr "Támogatási csatorna"
 
 #: app/Services/Integrations/FluentForm/FeedIntegration.php:173
 msgid "Support Customer Field"
-msgstr ""
+msgstr "Kérés egyedi mező"
 
 #: app/Services/TransStrings.php:410
 msgid "Support From Email"
@@ -3232,7 +3292,7 @@ msgstr "Ügyfélportál"
 
 #: app/Services/TransStrings.php:44
 msgid "Support Portal Page (For Customers)"
-msgstr ""
+msgstr "Támogatási portál oldal (ügyfelek számára)"
 
 #: app/Services/TransStrings.php:239
 #: app/Hooks/Handlers/CustomerPortalHandler.php:165
@@ -3241,27 +3301,30 @@ msgstr "Munkatársak"
 
 #: app/Http/Controllers/AgentController.php:195
 msgid "Support Staff avatar reset to gravatar default"
-msgstr ""
+msgstr "Munkatárs avatar visszaállt a gravatar alapértelmezettre"
 
 #: app/Http/Controllers/AgentController.php:49
 msgid "Support Staff has been added"
-msgstr ""
+msgstr "A munkatárs hozzáadásra került"
 
 #: app/Http/Controllers/AgentController.php:110
 msgid "Support Staff has been deleted"
-msgstr ""
+msgstr "A munkatárs törlölve"
 
 #: app/Http/Controllers/AgentController.php:84
 msgid "Support Staff has been updated"
-msgstr ""
+msgstr "A munkatárs adatai frissültek"
 
 #: app/Services/Integrations/FluentForm/FeedIntegration.php:363
 msgid "Support ticket creation failed, because customer email is blocked"
 msgstr ""
+"A kérés létrehozása nem sikerült, mert az ügyfél e-mail címe le van tiltva"
 
 #: app/Services/Integrations/FluentForm/FeedIntegration.php:345
 msgid "Support ticket creation failed, because no valid customer email found"
 msgstr ""
+"A kérés létrehozása nem sikerült, mert nem található érvényes ügyfél e-mail-"
+"cím"
 
 #: app/Services/TransStrings.php:421
 msgid "Support Tickets"
@@ -3283,11 +3346,11 @@ msgstr "Címke leírása"
 
 #: app/Http/Controllers/TicketController.php:395
 msgid "Tag has been added to this ticket"
-msgstr ""
+msgstr "A címke hozzá lett adva ehhez a jegyhez"
 
 #: app/Http/Controllers/TicketController.php:412
 msgid "Tag has been removed from this ticket"
-msgstr ""
+msgstr "A címke eltávolítva erről a kérésről"
 
 #: app/Services/TransStrings.php:262
 msgid "Tag Title"
@@ -3315,13 +3378,16 @@ msgstr "Sablonok"
 
 #: app/Services/TransStrings.php:473
 msgid "terms and conditions"
-msgstr "Általános Szerződési Feltételek"
+msgstr "általános Szerződési Feltételek"
 
 #: app/Services/TransStrings.php:583
 msgid ""
 "Thank you again for configuring your own Support System in WordPress. You "
 "may install companion Form Plugin to create tickets from contact forms."
 msgstr ""
+"Még egyszer köszönjük, hogy konfiguráltad saját támogatási rendszered. "
+"Telepíthetsz egy kísérő űrlap beépülő modult, amellyel kéréseket hozhatsz "
+"létre kapcsolat felvételi űrlapokból."
 
 #: app/Http/Controllers/UploaderController.php:68
 #, php-format
@@ -3329,6 +3395,8 @@ msgid ""
 "The file cannot be more than %.01fMB. Please upload somewhere like Dropbox/"
 "Google Drive and paste the link in the response"
 msgstr ""
+"A fájl nem lehet nagyobb %.01f MB-nál. Kérjük, töltse fel valahova, például "
+"a Weetransfer/Google Drive-ra, és illessze be a linket a válaszba"
 
 #: app/Services/TransStrings.php:481
 msgid "the status will be active"
@@ -3336,29 +3404,33 @@ msgstr "a státusz aktív lesz"
 
 #. Description of the plugin
 msgid "The Ultimate Support Plugin For Your WordPress."
-msgstr ""
+msgstr "Az Ultimate Support Plugin a WordPresshez."
 
 #: app/Services/EmailNotification/Settings.php:259
 msgid ""
 "This email will be sent to Assigned Agent or Admin when a customer reply to "
 "a ticket"
 msgstr ""
+"Ezt az e-mailt elküldjük a kijelölt munkatársnak vagy adminisztrátornak, "
+"amikor az ügyfél válaszol egy kérésre"
 
 #: app/Services/EmailNotification/Settings.php:267
 msgid "This email will be sent to newly assigned agent"
-msgstr ""
+msgstr "Ezt az e-mailt elküldjük az újonnan kijelölt munkatársnak"
 
 #: app/Services/EmailNotification/Settings.php:227
 msgid "This email will be sent when a customer submit a support ticket"
-msgstr ""
+msgstr "Ezt az e-mailt akkor küldjük el, amikor az ügyfél kérést küld be"
 
 #: app/Services/EmailNotification/Settings.php:243
 msgid "This email will be sent when an agent close a ticket"
-msgstr ""
+msgstr "Ezt az e-mailt akkor küldjük el, amikor egy munkatárs lezár egy kérést"
 
 #: app/Services/EmailNotification/Settings.php:275
 msgid "This email will be sent when an agent create a ticket for a customer"
 msgstr ""
+"Ezt az e-mailt akkor küldjük el, amikor a munkatárs kérést hoz létre egy "
+"ügyfél számára"
 
 #: app/Services/EmailNotification/Settings.php:235
 msgid "This email will be sent when an agent reply to a ticket"
@@ -3369,7 +3441,7 @@ msgstr ""
 msgid ""
 "This email will be sent when the business when a new ticket has been "
 "submitted"
-msgstr ""
+msgstr "Ezt az e-mailt akkor küldjük el, amikor a vállalkozás új kérést küld"
 
 #: app/Services/TransStrings.php:590
 msgid "This is a"
@@ -3385,11 +3457,11 @@ msgstr ""
 
 #: app/Services/TransStrings.php:506
 msgid "This is an agent only field"
-msgstr ""
+msgstr "Ez csak munkatárs mező"
 
 #: app/Services/TransStrings.php:210
 msgid "This migrator will migrate total"
-msgstr ""
+msgstr "Ez a migrátor összesen migrál"
 
 #: app/Services/TransStrings.php:337
 #: app/Hooks/Handlers/CustomerPortalHandler.php:128
@@ -3434,7 +3506,7 @@ msgstr "A kérést munkatársunk lezárta"
 
 #: app/Services/EmailNotification/Settings.php:242
 msgid "Ticket Closed by Agent (To Customer)"
-msgstr ""
+msgstr "Munkatárs által a kérés lezárása (ügyfélnek)"
 
 #: app/Services/TransStrings.php:110 app/Hooks/Handlers/PrivacyHandler.php:79
 #: app/Services/Integrations/FluentForm/FeedIntegration.php:142
@@ -3444,27 +3516,27 @@ msgstr "Kérés tartalma"
 
 #: app/Services/EmailNotification/Settings.php:250
 msgid "Ticket Created (To Admin)"
-msgstr ""
+msgstr "Kérés létrehozva (az adminisztrátornak)"
 
 #: app/Services/EmailNotification/Settings.php:226
 msgid "Ticket Created (To Customer)"
-msgstr ""
+msgstr "Kérés létrehozva (ügyfélnek)"
 
 #: app/Hooks/Handlers/PrivacyHandler.php:103
 msgid "Ticket Created At"
-msgstr ""
+msgstr "Létrehozva:"
 
 #: app/Services/TransStrings.php:324
 msgid "Ticket created at"
-msgstr ""
+msgstr "Létrehozva:"
 
 #: app/Services/TransStrings.php:429
 msgid "Ticket created at "
-msgstr ""
+msgstr "A jegyet a következő címen hozták létre "
 
 #: app/Services/EmailNotification/Settings.php:274
 msgid "Ticket Created by Agent (To Customer)"
-msgstr ""
+msgstr "Kérés létrehozása munkatárs által (ügyfélnek)"
 
 #: app/Services/Integrations/FluentForm/FeedIntegration.php:259
 msgid "Ticket Custom Fields"
@@ -3496,6 +3568,8 @@ msgid ""
 "Ticket Form Customization including Knowledge base integration is available "
 "on Pro Version"
 msgstr ""
+"A kérés űrlap testreszabása, beleértve a tudásbázis integrációt is, elérhető "
+"a Pro verzióban"
 
 #: app/Services/TransStrings.php:550
 msgid "Ticket Form Settings"
@@ -3556,7 +3630,7 @@ msgstr "Kérés nyilvános URL"
 
 #: app/Services/TransStrings.php:150
 msgid "Ticket Received Welcome Email"
-msgstr ""
+msgstr "A jegy üdvözlő emailt kapott"
 
 #: app/Services/TransStrings.php:14
 msgid "Ticket Statistics"
@@ -3568,7 +3642,7 @@ msgstr "Ticket állapot"
 
 #: app/Services/TransStrings.php:223
 msgid "Ticket Submitted"
-msgstr ""
+msgstr "Kérés beküldve"
 
 #: app/Hooks/Handlers/AdminBarHandler.php:43
 msgid "Ticket Summary"
@@ -3587,7 +3661,7 @@ msgstr "Kérés címe"
 
 #: app/Services/Integrations/FluentCrm/CreateTicketAction.php:79
 msgid "Ticket Title (you can use any smart code)"
-msgstr ""
+msgstr "Kérés címe (bármilyen intelligens kódot használhat)"
 
 #: app/Services/TransStrings.php:286
 msgid "Ticket Type"
@@ -3656,6 +3730,9 @@ msgid ""
 "To create tickets using webhooks please copy this webhook URL and paste to "
 "the site from where you want to create ticket in this site."
 msgstr ""
+"Jegyek webhook használatával történő létrehozásához másold ki ezt a webhook "
+"URL-t, és illeszd be arra a weboldalra, ahonnan kérést szeretnél létrehozni "
+"ezen az oldalon."
 
 #: app/Services/TransStrings.php:478
 msgid "to this following address"
@@ -3711,19 +3788,19 @@ msgstr "írja be és nyomja meg az Entert"
 
 #: app/Services/TransStrings.php:518
 msgid "Type Compare Value"
-msgstr ""
+msgstr "Írja be az Érték összehasonlításhoz"
 
 #: app/Services/TransStrings.php:281
 msgid "Un-Assigned"
-msgstr ""
+msgstr "Nem hozzárendelt"
 
 #: app/Services/Tickets/TicketStats.php:37
 msgid "Un-Assigned Tickets"
-msgstr ""
+msgstr "Hozzá nem rendelt kérések"
 
 #: app/Http/Controllers/SettingsController.php:271
 msgid "Unable to delete reCAPTCHA settings, try again"
-msgstr ""
+msgstr "Nem sikerült törölni a reCAPTCHA beállításokat, próbálja újra"
 
 #: app/Services/TransStrings.php:422
 msgid "Unassigned"
@@ -3735,7 +3812,7 @@ msgstr "Nem hozzád rendelt kérések"
 
 #: app/Services/TransStrings.php:488
 msgid "Uncheck all"
-msgstr ""
+msgstr "Minden választás törlése"
 
 #: app/Services/TransStrings.php:378
 #: app/Hooks/Handlers/CustomerPortalHandler.php:162
@@ -3905,7 +3982,7 @@ msgstr "Szeretné deaktiválni ezt a licenszt?"
 
 #: app/Services/TransStrings.php:306
 msgid "Want to move all or custom selected"
-msgstr ""
+msgstr "Az összeset vagy az egyéni kiválasztottakat szeretnéd áthelyezni"
 
 #: app/Services/TransStrings.php:145
 msgid "web"
@@ -4024,42 +4101,45 @@ msgstr ""
 #: app/Hooks/Handlers/AuthHandler.php:34 app/Hooks/Handlers/AuthHandler.php:113
 #: app/Hooks/Handlers/AuthHandler.php:172
 msgid "You are already logged in."
-msgstr ""
+msgstr "Már bejelentkeztél."
 
 #: app/Hooks/Handlers/AuthHandler.php:219
 #, php-format
 msgid "You are already logged in. <a href=\"%s\">Go to support portal</a>"
 msgstr ""
+"Ön már be van jelentkezve. <a href=\"%s\">Menjen a támogatási portálra</a>"
 
 #: app/Services/Tickets/TicketService.php:240
 msgid "You are not allowed to delete this ticket"
-msgstr ""
+msgstr "Ezt a jegyet nem törölheti"
 
 #: app/Http/Controllers/AuthController.php:126
 msgid "You are not allowed to login using this form"
-msgstr ""
+msgstr "Ezen az űrlapon nem tud bejelentkezni"
 
 #: app/Http/Controllers/AuthController.php:332
 msgid "You are not allowed to reset password using this form"
-msgstr ""
+msgstr "Ezen az űrlapon nem állíthatja vissza a jelszót"
 
 #: app/Http/Controllers/AuthController.php:25
 msgid "You are not allowed to signup using this form"
-msgstr ""
+msgstr "Nem regisztrálhat ezen az űrlapon"
 
 #: app/Services/TransStrings.php:503
 msgid "You can not change the slug once save a custom field"
-msgstr ""
+msgstr "Az egyéni mező mentése után nem lehet megváltoztatni a slugot"
 
 #: app/Services/TransStrings.php:351
 msgid "You can not edit responses when it is in close state"
-msgstr ""
+msgstr "Nem szerkesztheti a válaszokat, ha lezárt állapotban van"
 
 #: app/Services/TransStrings.php:87
 msgid ""
 "You can not edit subject for this email. This subject pattern is required "
 "for email reply parsing"
 msgstr ""
+"Ennek az e-mailnek a tárgya nem szerkeszthető. Ez a tárgyminta szükséges az "
+"e-mail válaszok elemzéséhez"
 
 #: app/Services/TransStrings.php:339
 msgid "You created a draft"
@@ -4067,24 +4147,24 @@ msgstr "Létrehoztál egy piszkozatot"
 
 #: app/Http/Policies/PortalPolicy.php:37
 msgid "You do not have permission"
-msgstr ""
+msgstr "Önnek nincs jogosultsága"
 
 #: app/Models/Ticket.php:1370
 msgid "You do not have permission to assign agent"
-msgstr ""
+msgstr "Nincs jogosultságod munkatárs hozzárendelésére"
 
 #: app/Http/Controllers/UploaderController.php:106
 #: app/Http/Controllers/UploaderController.php:114
 msgid "You do not have permission to upload a file"
-msgstr ""
+msgstr "Nincs jogosultságod fájl feltöltésére"
 
 #: app/Hooks/Handlers/CustomerPortalHandler.php:26
 msgid "You don't have permission to access customer support portal"
-msgstr ""
+msgstr "Nincs jogosultsága az ügyfélszolgálati portálhoz való hozzáféréshez"
 
 #: app/Http/Controllers/CustomerPortalController.php:292
 msgid "You have been logged out"
-msgstr ""
+msgstr "Ön kijelentkezett"
 
 #: app/Services/TransStrings.php:471
 msgid "You're Almost Done"
@@ -4095,6 +4175,8 @@ msgid ""
 "Your Admin Email Address and Support From Email should not be same. Please "
 "use a different email address."
 msgstr ""
+"Az Admin e-mail címe és a Támogatás e-mail címe nem lehet azonos. Kérjük, "
+"használj másik e-mail címet."
 
 #: app/Services/TransStrings.php:12
 msgid "Your Bookmarked Tickets"
@@ -4102,7 +4184,7 @@ msgstr "A te könyvjelzőzött kéréseid"
 
 #: app/Services/TransStrings.php:20
 msgid "Your Business Details"
-msgstr ""
+msgstr "Vállalkozásának adatai"
 
 #: app/Hooks/Handlers/AuthHandler.php:364
 #: app/Hooks/Handlers/AuthHandler.php:451
@@ -4111,11 +4193,11 @@ msgstr "Az Ön e-mail címe"
 
 #: app/Services/TransStrings.php:500
 msgid "your email piping settings first"
-msgstr ""
+msgstr "először az e-mail Piping beállításait"
 
 #: app/Services/Integrations/FluentForm/FeedIntegration.php:102
 msgid "Your Feed Name"
-msgstr ""
+msgstr "A hírcsatornád neve"
 
 #: app/Services/TransStrings.php:89
 msgid "Your Help Scout authorization code is:"
@@ -4139,7 +4221,7 @@ msgstr "Az Ön álcázott e-mail címe"
 
 #: app/Services/TransStrings.php:476
 msgid "Your masked mailbox email has been issued"
-msgstr ""
+msgstr "A maszkolt postafiók e-mailje ki lett adva"
 
 #: app/Services/TransStrings.php:178
 msgid "Your Overall Stats"
