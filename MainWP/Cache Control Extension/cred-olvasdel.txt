@@ -1,14 +1,13 @@
 MainWP Cache Control Extension
-33% feletti fordítások
+100% fordítás
 
 Jelezzétek az Issue szekcióban a felrefordításokat, vagy javaslatokat.
 
 Link
-
 https://mainwp.com/
 
 Utoljára módosítva: 
- 2023.11.07.
+ 2024.02.12.
 
 Cache Control verzió: 4.0.3
 
