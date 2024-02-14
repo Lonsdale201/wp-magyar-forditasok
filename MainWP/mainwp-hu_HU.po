@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: MainWP Dashboard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-18 14:55+0000\n"
-"PO-Revision-Date: 2024-02-07 21:01+0100\n"
+"PO-Revision-Date: 2024-02-12 21:37+0100\n"
 "Last-Translator: \n"
 "Language-Team: Magyar\n"
 "Language: hu_HU\n"
@@ -2364,11 +2364,12 @@ msgstr "Napi"
 
 #: class/class-mainwp-notification-settings.php:391
 msgid "Daily Digest Email"
-msgstr "Napi összegző e-mail"
+msgstr "Napi összegzés e-mail"
 
 #: class/class-mainwp-notification-settings.php:346
 msgid "Daily notification about available updates and disconnected sites."
-msgstr "Napi értesítés az elérhető frissítésekről és a leválasztott webhelyekről."
+msgstr ""
+"Napi értesítés az elérhető frissítésekről és a leválasztott weboldalakról."
 
 #: pages/page-mainwp-settings.php:595
 msgid "Daily update frequency"
@@ -2411,7 +2412,7 @@ msgstr "Műszerfal Insights beállítások"
 
 #: modules/logs/classes/class-log-settings.php:124
 msgid "Dashboard Insights Tools"
-msgstr "Dashboard Insights Eszközök"
+msgstr "Műszerfal Insights Eszközök"
 
 #: class/class-mainwp-system-view.php:855
 msgid "Data Synchronization"
@@ -2892,7 +2893,6 @@ msgid "Displays the client phone"
 msgstr "Megjeleníti az ügyfél telefontszámát"
 
 #: class/class-mainwp-client-handler.php:104
-#, fuzzy
 msgid "Displays the client state"
 msgstr "Megjeleníti az ügyfél állapotát"
 
@@ -3312,7 +3312,7 @@ msgstr "Az e-mail sablon sikeresen frissült."
 
 #: pages/page-mainwp-user.php:683 pages/page-mainwp-client.php:435
 msgid "Empty fields will not be passed to child sites."
-msgstr "Az üres mezők nem kerülnek átadásra a gyerekwebhelyekre."
+msgstr "Az üres mezők nem kerülnek átadásra a gyerek weboldalakra."
 
 #: class/class-mainwp-post-extension-handler.php:367
 msgid "Empty or Invalid request data, please try again."
@@ -5866,7 +5866,7 @@ msgstr "Sablonok kezelése"
 #: pages/page-mainwp-user.php:146 pages/page-mainwp-user.php:252
 #: pages/page-mainwp-user.php:312 class/class-mainwp-menu.php:966
 msgid "Manage Users"
-msgstr "Felhasználók Kezelése"
+msgstr "Felhasználók kezelése"
 
 #: pages/page-mainwp-user.php:377
 msgid "manage users"
@@ -7346,7 +7346,7 @@ msgstr "Várólistára"
 
 #: class/class-mainwp-ui.php:709
 msgid "Quick Site Shortcuts"
-msgstr "Gyors webhely rövidítések"
+msgstr "Gyors weboldal linkek"
 
 #: class/class-mainwp-ui.php:1382
 msgid "Quick sites shortcuts"
@@ -7479,7 +7479,7 @@ msgid ""
 "fails please %1click here%2."
 msgstr ""
 "Az oldal frissítése a 3. lépéshez \"API kulcsok megszerzése\" 5 másodperc "
-"múlva... ha a frissítés nem sikerül, kérjük, %1ckattintson ide%2."
+"múlva... ha a frissítés nem sikerül, kérjük, %1ckattints ide%2."
 
 #: class/class-mainwp-wp-cli-handle.php:1045
 msgid "Registered version information removed from URLs:"
@@ -8407,8 +8407,8 @@ msgstr ""
 #: pages/page-mainwp-user.php:1350
 msgid "Site ID or user ID not found. Please reload the page and try again."
 msgstr ""
-"A webhely azonosítója vagy felhasználói azonosítója nem található. Kérjük, "
-"töltse újra az oldalt, és próbálja meg újra."
+"A weboldal azonosítója vagy felhasználói azonosítója nem található. Kérjük, "
+"tölts újra az oldalt, és próbáld meg újra."
 
 #: widgets/widget-mainwp-site-info.php:115
 msgid "Site Info"
@@ -8700,7 +8700,7 @@ msgstr "Kapcsoló a túrák engedélyezéséhez vagy letiltásához."
 
 #: class/class-mainwp-ui.php:1308
 msgid "Sync Dashboard with Sites"
-msgstr "Műszerfal szinkronizálása webhelyekkel"
+msgstr "Weboldalak szinkronizálása"
 
 #: class/class-mainwp-manage-sites-list-table.php:387
 #: class/class-mainwp-manage-sites-list-table.php:1614
@@ -8753,8 +8753,8 @@ msgid ""
 "Sync to get the latest information about plugin and theme changes made directly "
 "on the child site."
 msgstr ""
-"Szinkronizálás, hogy a legfrissebb információkat kapja a közvetlenül a "
-"gyermekoldalon végrehajtott plugin- és téma-változtatásokról."
+"Szinkronizálás, hogy a legfrissebb információkat kapja a közvetlenül a gyermek "
+"weboldalon végrehajtott plugin- és téma-változtatásokról."
 
 #: class/class-mainwp-system-view.php:72
 msgid "SYNCING"
@@ -8957,7 +8957,7 @@ msgstr "Az ügyfelek weboldalainak legfrissebb oldalai"
 
 #: widgets/widget-mainwp-recent-pages.php:190
 msgid "The most recent pages from your websites"
-msgstr "A legfrissebb oldalak a webhelyekről"
+msgstr "Utoljára frissített oldalak"
 
 #: widgets/widget-mainwp-recent-posts.php:192
 msgid "The most recent posts from the Client websites"
@@ -8965,7 +8965,7 @@ msgstr "Az Ügyfél weboldalak legfrissebb bejegyzései"
 
 #: widgets/widget-mainwp-recent-posts.php:194
 msgid "The most recent posts from your websites"
-msgstr "A legfrissebb bejegyzések a weboldalakról"
+msgstr "Utoljára frissített Bejegyzések"
 
 #: pages/page-mainwp-manage-backups.php:1061
 #, fuzzy
