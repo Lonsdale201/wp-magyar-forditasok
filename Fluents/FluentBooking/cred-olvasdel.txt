@@ -1,5 +1,5 @@
 FluentBooking
-56% feletti fordítások
+58% feletti fordítások
 
 Teszt állapotban van. Jelezzétek az Issue szekcióban a felrefordításokat, vagy javaslatokat.
 
