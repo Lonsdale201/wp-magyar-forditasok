@@ -1,12 +1,12 @@
 WpBookIngSystem Pro
-A fő fájl 80%-os fordítási állapotban.
+A fő fájl 75%-os fordítási állapotban.
 
 Link: https://www.wpbookingsystem.com/
 
 Fordította: Soczó Kristóf, Radics József Géza
 
-Utoljára módosítva: 2024.01.15.
-WpBookIngSystem Pro verzió: 5.8.11
+Utoljára módosítva: 2024.07.05.
+WpBookIngSystem Pro verzió: 5.8.20
 
 
 Elérhetőség
