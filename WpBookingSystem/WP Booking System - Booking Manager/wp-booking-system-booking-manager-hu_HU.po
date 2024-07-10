@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Booking System - Booking Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-31 11:26+0000\n"
+"PO-Revision-Date: 2024-07-10 08:35+0000\n"
+"Last-Translator: \n"
+"Language-Team: Magyar\n"
+"Language: hu-HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.10; wp-6.5.5\n"
+"X-Domain: wp-booking-system-booking-manager"
+
+#: index.php:131
+msgid "\">update</a> to the latest version."
+msgstr ""
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:196
+#: includes/base/admin/bookings/class-list-table-bookings.php:435
+msgid "Accepted"
+msgstr "Elfogadva"
+
+#: includes/base/admin/bookings/class-calendar-view-bookings.php:324
+msgid "add booking"
+msgstr "foglalás hozzáadása"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:192
+msgid "All"
+msgstr "Összes"
+
+#: includes/base/admin/form/functions.php:14
+msgid "Booking Manager Field Mapping"
+msgstr "Foglalás kezelő beállítások"
+
+#: includes/base/admin/bookings/functions.php:55
+#: includes/base/admin/bookings/functions.php:56
+msgid "Bookings"
+msgstr "Foglalások"
+
+#: includes/base/admin/bookings/views/view-bookings.php:13
+msgid "Bookings Manager"
+msgstr "Foglalás kezelő"
+
+#: includes/base/admin/form/views/view-edit-form-tab-bookings-manager.php:18
+msgid "Bookings Manager Field Mappings"
+msgstr ""
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:101
+msgid "Calendar"
+msgstr "Naptár"
+
+#: includes/base/admin/bookings/views/view-bookings.php:20
+#: includes/base/admin/bookings/views/view-bookings.php:21
+msgid "Calendar view"
+msgstr "Naptár nézet"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:263
+msgid "Clear Filters"
+msgstr "Szűrések törlése"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:105
+msgid "Date Created"
+msgstr "Létrehozva"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:406
+#: includes/base/admin/bookings/class-list-table-bookings.php:412
+#: includes/base/admin/bookings/class-list-table-bookings.php:414
+msgid "day"
+msgstr "nap"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:406
+#: includes/base/admin/bookings/class-list-table-bookings.php:414
+msgid "days"
+msgstr "nap"
+
+#. Description of the plugin
+msgid ""
+"Display all your bookings from all the calendars in a dashboard style layout."
+msgstr ""
+"Az összes naptár összes foglalásának megjelenítése egy irányítópult stílusú "
+"elrendezésben."
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:103
+msgid "End Date"
+msgstr "Távozási dátum"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:261
+msgid "End date"
+msgstr "Távozási dátum"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:272
+msgid "Export Selection as CSV"
+msgstr "Kijelölt elemek exportálása CSV-be"
+
+#: includes/base/admin/form/views/view-edit-form-tab-bookings-manager.php:25
+msgid "Fields"
+msgstr "Mezők"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:262
+msgid "Filter"
+msgstr "Szűrés"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:266
+msgid "Hide past bookings"
+msgstr "Múltbeli foglalások elrejtése"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpbookingsystem.com/"
+msgstr "WP Booking System - Booking Manager"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:100
+msgid "ID"
+msgstr "ID"
+
+#: includes/base/admin/bookings/views/view-bookings.php:17
+#: includes/base/admin/bookings/views/view-bookings.php:18
+msgid "List view"
+msgstr "Lista nézet"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:408
+#: includes/base/admin/bookings/class-list-table-bookings.php:416
+msgid "night"
+msgstr "éjszaka"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:408
+#: includes/base/admin/bookings/class-list-table-bookings.php:416
+msgid "nights"
+msgstr "éjszaka"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:450
+msgid "No bookings found."
+msgstr "Nem található foglalás"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:113
+msgid "Payment Status"
+msgstr "Fizetési státusz"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:194
+#: includes/base/admin/bookings/class-list-table-bookings.php:432
+msgid "Pending"
+msgstr "Elfogadásra vár"
+
+#: includes/base/admin/bookings/views/view-bookings.php:39
+msgid "Search Bookings"
+msgstr "Foglalás keresése"
+
+#: includes/base/admin/form/views/view-edit-form-tab-bookings-manager.php:26
+msgid ""
+"Select which fields will appear in the Bookings List page for bookings made "
+"with this form."
+msgstr ""
+"Válassza ki, hogy mely mezők jelenjenek meg a foglalások listája oldalon az "
+"ezzel az űrlappal végzett foglalásoknál."
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:102
+msgid "Start Date"
+msgstr "Érkezési dátum"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:260
+msgid "Start date"
+msgstr "Érkezési dátum"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:106
+msgid "Status"
+msgstr "Státusz"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:104
+msgid "Stay Length"
+msgstr "Tartózkodás"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:198
+#: includes/base/admin/bookings/class-list-table-bookings.php:438
+msgid "Trash"
+msgstr "Törölve"
+
+#. Author of the plugin
+msgid "Veribo, Roland Murg"
+msgstr "Veribo, Roland Murg"
+
+#: includes/base/admin/bookings/views/view-bookings.php:16
+msgid "View"
+msgstr "Megtekintés"
+
+#: includes/base/admin/bookings/class-list-table-bookings.php:354
+msgid "View Booking"
+msgstr "Megtekintés"
+
+#. Name of the plugin
+msgid "WP Booking System - Booking Manager"
+msgstr "WP Booking System - Booking Manager"
